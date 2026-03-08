@@ -1,0 +1,7 @@
+{
+    "name": "Do_Action_Helper",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/t0mtee/MMRecompDoActionHelper/",
+    "description": "A library mod that helps mod developers create and manage Do Action conditions",
+    "dependencies": [ "ProxyMM-Notifications-0.0.1" ]
+}

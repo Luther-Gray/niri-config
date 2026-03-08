@@ -1,0 +1,9 @@
+2024/07/15-20:14:21.595 125f Reusing MANIFEST /home/luther/.config/Blockbench/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/07/15-20:14:21.595 125f Recovering log #3
+2024/07/15-20:14:21.599 125f Reusing old log /home/luther/.config/Blockbench/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2024/07/15-20:30:21.002 125f Level-0 table #5: started
+2024/07/15-20:30:21.019 125f Level-0 table #5: 1856438 bytes OK
+2024/07/15-20:30:21.021 125f Delete type=0 #3
+2024/07/15-20:48:51.002 125f Level-0 table #7: started
+2024/07/15-20:48:51.017 125f Level-0 table #7: 1836338 bytes OK
+2024/07/15-20:48:51.019 125f Delete type=0 #4

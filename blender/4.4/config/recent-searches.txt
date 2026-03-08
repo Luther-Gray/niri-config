@@ -1,0 +1,6 @@
+  PlayerBoxingIdle
+Rotation
+  PlayerGrab1
+  PlayerBoxingPunch1
+  PlayerIdle.001
+  PlayerIdle

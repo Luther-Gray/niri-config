@@ -1,0 +1,19 @@
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: Transport endpoint is not connected
+Amethyst Mod Manager installer
+==============================
+Checking for latest version...
+Latest version: 0.7.7
+
+Downloading AppImage...
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0  1 73.16M   1  1.02M   0      0  1.00M      0   01:13   00:01   01:12  1.00M  7 73.16M   7  5.60M   0      0  2.76M      0   00:26   00:02   00:24  2.76M 13 73.16M  13 10.09M   0      0  3.33M      0   00:21   00:03   00:18  3.33M 18 73.16M  18 13.83M   0      0  3.43M      0   00:21   00:04   00:17  3.43M 26 73.16M  26 19.17M   0      0  3.81M      0   00:19   00:05   00:14  3.81M 32 73.16M  32 23.53M   0      0  3.90M      0   00:18   00:06   00:12  4.50M 37 73.16M  37 27.37M   0      0  3.89M      0   00:18   00:07   00:11  4.35M 43 73.16M  43 31.99M   0      0  3.98M      0   00:18   00:08   00:10  4.38M 49 73.16M  49 36.50M   0      0  4.04M      0   00:18   00:09   00:09  4.53M 51 73.16M  51 38.00M   0      0  3.79M      0   00:19   00:10   00:09  3.76M 52 73.16M  52 38.71M   0      0  3.51M      0   00:20   00:11   00:09  3.03M 54 73.16M  54 40.20M   0      0  3.34M      0   00:21   00:12   00:09  2.56M 57 73.16M  57 42.24M   0      0  3.24M      0   00:22   00:13   00:09  2.05M 61 73.16M  61 45.08M   0      0  3.21M      0   00:22   00:14   00:08  1.71M 66 73.16M  66 48.66M   0      0  3.23M      0   00:22   00:15   00:07  2.13M 72 73.16M  72 53.10M   0      0  3.31M      0   00:22   00:16   00:06  2.87M 78 73.16M  78 57.08M   0      0  3.35M      0   00:21   00:17   00:04  3.37M 84 73.16M  84 61.79M   0      0  3.42M      0   00:21   00:18   00:03  3.91M 90 73.16M  90 65.99M   0      0  3.46M      0   00:21   00:19   00:02  4.18M 92 73.16M  92 67.66M   0      0  3.37M      0   00:21   00:20   00:01  3.80M 96 73.16M  96 70.47M   0      0  3.35M      0   00:21   00:21          3.47M100 73.16M 100 73.16M   0      0  3.33M      0   00:21   00:21          3.47M100 73.16M 100 73.16M   0      0  3.33M      0   00:21   00:21          3.47M100 73.16M 100 73.16M   0      0  3.33M      0   00:21   00:21          3.47M
+AppImage installed to /home/luther/Applications/AmethystModManager-x86_64.AppImage (executable).
+Downloading icon...
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100  1.01M 100  1.01M   0      0  2.63M      0                              0100  1.01M 100  1.01M   0      0  2.63M      0                              0100  1.01M 100  1.01M   0      0  2.63M      0                              0
+Icon installed to /home/luther/.local/share/icons/title-bar.png.
+Desktop entry created at /home/luther/.local/share/applications/amethyst-mod-manager.desktop.
+
+Installation complete. You can launch Amethyst Mod Manager from your application menu.

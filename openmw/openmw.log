@@ -1,0 +1,247 @@
+[20:13:05.058 *] Crash handler installed
+[20:13:05.123 *] Loading config file: /etc/openmw/openmw.cfg
+[20:13:05.127 *] Loading config file: /home/luther/.config/openmw/openmw.cfg
+[20:13:05.129 *] Logs dir: /home/luther/.config/openmw/
+[20:13:05.129 *] User data dir: /home/luther/.local/share/openmw/
+[20:13:05.129 *] Screenshots dir: /home/luther/.local/share/openmw/screenshots
+[20:13:05.130 I] OpenMW version 0.49.0
+[20:13:05.130 I] Revision: 1dac165356
+[20:13:05.131 I] Loading settings file: /etc/openmw/defaults.bin
+[20:13:05.134 I] Loading settings file: /home/luther/.config/openmw/settings.cfg
+[20:13:05.134 I] Using default (English) font encoding.
+[20:13:05.134 W] No such dir: /home/luther/.local/share/openmw/data
+[20:13:05.137 I] OSG version: 3.6.5
+[20:13:05.137 I] SDL version: 2.30.9
+[20:13:05.137 I] Loading shader settings file: /home/luther/.config/openmw/shaders.yaml
+[20:13:05.339 I] OpenGL Vendor: NVIDIA Corporation
+[20:13:05.359 I] OpenGL Renderer: NVIDIA GeForce GTX 970/PCIe/SSE2
+[20:13:05.359 I] OpenGL Version: 4.6.0 NVIDIA 565.57.01
+[20:13:05.360 I] Using reverse-z depth buffer
+[20:13:05.362 I] Adding BSA archive /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files/Morrowind.bsa
+[20:13:05.367 I] Adding BSA archive /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files/Tribunal.bsa
+[20:13:05.368 I] Adding BSA archive /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files/Bloodmoon.bsa
+[20:13:05.369 I] Adding data directory /usr/share/games/openmw/resources/vfs
+[20:13:05.374 I] Adding data directory /usr/share/games/openmw/resources/vfs-mw
+[20:13:05.375 I] Adding data directory /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files
+[20:13:05.423 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Animation/ReAnimation v2 Rogue
+[20:13:05.424 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/ncgdmw-lua/00 Core
+[20:13:05.425 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/ncgdmw-lua/01 NCGD - Normal
+[20:13:05.425 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/ncgdmw-lua/02 OpenMW DevBuild
+[20:13:05.425 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Resources/Tamriel Data (Vanilla)
+[20:13:05.500 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Resources/OAAB_Data
+[20:13:05.514 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Resources/OAAB_Data/00 Core
+[20:13:05.526 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Resources/OAAB_Data/06 Animated Containers
+[20:13:05.526 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/New Lands/Tamriel Rebuilt/00 Core
+[20:13:05.526 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/New Lands/Tamriel Rebuilt/01 Faction Integration
+[20:13:05.526 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Audio/TR_Music
+[20:13:05.552 I] Preferred locales: gmst en
+[20:13:05.552 I] Initializing LuaUtil::LuaState with profiler
+[20:13:05.557 I] Lua version: Lua 5.1.4 (LuaJIT 2.1.1731601260)
+[20:13:05.557 I] Loading keybindings file: /home/luther/.config/openmw/input_v3.xml
+[20:13:05.560 I] Loading font file magic_cards_regular.fnt
+[20:13:05.566 I] Loading font file daedric_font.fnt
+[20:13:05.569 I] Loading font file DejaVuLGCSansMono.omwfont
+[20:13:05.605 I] Detected game controller: Microsoft Xbox One
+[20:13:05.606 I] Initializing OpenAL...
+[20:13:05.610 I] Opened "Built-in Audio Analog Stereo"
+[20:13:05.610 I]   ALC Version: 1.1
+[20:13:05.610 I]   ALC Extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_debug ALC_EXT_DEDICATED ALC_EXT_direct_context ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_device_clock ALC_SOFT_HRTF ALC_SOFT_loopback ALC_SOFT_loopback_bformat ALC_SOFT_output_limiter ALC_SOFT_output_mode ALC_SOFT_pause_device ALC_SOFT_reopen_device ALC_SOFT_system_events
+[20:13:05.619 I]   Vendor: OpenAL Community
+[20:13:05.619 I]   Renderer: OpenAL Soft
+[20:13:05.619 I]   Version: 1.1 ALSOFT 1.24.1
+[20:13:05.619 I]   Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_debug AL_EXT_direct_context AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STATIC_BUFFER AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_bformat_ex AL_SOFTX_bformat_hoa AL_SOFT_block_alignment AL_SOFT_buffer_length_query AL_SOFT_callback_buffer AL_SOFTX_convolution_effect AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFT_direct_channels_remix AL_SOFT_effect_target AL_SOFT_events AL_SOFT_gain_clamp_ex AL_SOFTX_hold_on_disconnect AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFTX_source_panning AL_SOFT_source_resampler AL_SOFT_source_spatialize AL_SOFT_source_start_delay AL_SOFT_UHJ AL_SOFT_UHJ_ex
+[20:13:05.619 I] HRTF disabled
+[20:13:05.619 V] Using idle priority for thread=125389043140288
+[20:13:05.620 I] Allocated 256 sound sources
+[20:13:05.620 I] Low-pass filter supported
+[20:13:05.620 I] EAX Reverb supported
+[20:13:05.620 I] Enumerated output devices:
+[20:13:05.620 I]   Built-in Audio Analog Stereo  GM204 High Definition Audio Controller Digital Stereo (HDMI)
+[20:13:05.630 I] Enumerated HRTF names:
+[20:13:05.630 I]   Default HRTF  Built-In HRTF
+[20:13:05.641 I] Loading content file builtin.omwscripts
+[20:13:05.642 I] Loading content file Morrowind.esm
+[20:13:05.894 I] Loading content file Tribunal.esm
+[20:13:05.920 I] Loading content file Bloodmoon.esm
+[20:13:05.957 I] Loading content file ReAnimation_v2.omwscripts
+[20:13:05.957 I] Loading content file ncgdmw.omwscripts
+[20:13:05.957 I] Loading content file ncgdmw.omwaddon
+[20:13:05.957 I] Loading content file ncgdmw-dev.omwscripts
+[20:13:05.957 I] Loading content file Tamriel_Data.esm
+[20:13:06.058 I] Loading content file OAAB_Data.esm
+[20:13:06.071 I] Loading content file TR_Mainland.esm
+[20:13:06.331 I] Found malformed SCVR rule in INFO "1311652602960839718926"
+[20:13:06.331 I] Found malformed SCVR rule in INFO "1311652602960839718926"
+[20:13:06.331 I] Found malformed SCVR rule in INFO "1111652602940839718926"
+[20:13:06.331 I] Found malformed SCVR rule in INFO "1111652602940839718926"
+[20:13:06.432 I] Loading content file TR_Factions.esp
+[20:13:06.535 V] Enchantment "test magic axe": dropping unexpected skill argument of sEffectFortifyMagickaMultiplier effect
+[20:13:07.966 I] Using 1 async physics threads
+[20:13:07.966 I] Using /home/luther/.local/share/openmw/navmesh.db to store navigation mesh cache
+[20:13:07.968 V] Using idle priority for thread=125388940379840
+[20:13:07.968 V] Disabling Multiview (disabled by config)
+[20:13:07.968 I] Using rendering with shaders by default, requested by:
+[20:13:07.968 I]  - sky blending
+[20:13:07.968 I]  - soft particles
+[20:13:07.968 I]  - shadows
+[20:13:07.968 I]  - lighting method
+[20:13:07.968 I]  - reverse-Z depth buffer
+[20:13:07.968 I] Reserving texture units for shadow maps: 29..31
+[20:13:07.972 I] Reserving texture unit for opaque depth texture: 28
+[20:13:07.987 I] Reserving texture unit for sky RTT: 27
+[20:13:07.990 V] Language file "l10n/Interface/gmst.yaml" is enabled
+[20:13:07.991 V] Language file "l10n/Interface/en.yaml" is enabled
+[20:13:08.066 V] Language file "l10n/OMWEngine/gmst.yaml" is enabled
+[20:13:08.068 V] Language file "l10n/OMWEngine/en.yaml" is enabled
+[20:13:08.116 V] Language file "l10n/OMWShaders/en.yaml" is enabled
+[20:13:08.121 I] Loading Lua storage "/home/luther/.config/openmw/global_storage.bin" (3 bytes)
+[20:13:08.123 I] Loading Lua storage "/home/luther/.config/openmw/player_storage.bin" (817 bytes)
+[20:13:08.162 V] Lua scripts configuration (31 scripts):
+[20:13:08.162 V] #0 MENU PLAYER : scripts/omw/mwui/init.lua
+[20:13:08.162 V] #1 MENU : scripts/omw/settings/menu.lua
+[20:13:08.162 V] #2 PLAYER : scripts/omw/settings/player.lua
+[20:13:08.162 V] #3 GLOBAL : scripts/omw/settings/global.lua
+[20:13:08.162 V] #4 GLOBAL : scripts/omw/activationhandlers.lua
+[20:13:08.162 V] #5 GLOBAL : scripts/omw/cellhandlers.lua
+[20:13:08.162 V] #6 GLOBAL : scripts/omw/usehandlers.lua
+[20:13:08.162 V] #7 GLOBAL : scripts/omw/worldeventhandlers.lua
+[20:13:08.162 V] #8 GLOBAL : scripts/omw/crimes.lua
+[20:13:08.162 V] #9 PLAYER CREATURE NPC : scripts/omw/mechanics/animationcontroller.lua
+[20:13:08.162 V] #10 PLAYER : scripts/omw/skillhandlers.lua
+[20:13:08.162 V] #11 PLAYER : scripts/omw/mechanics/playercontroller.lua
+[20:13:08.162 V] #12 MENU : scripts/omw/camera/settings.lua
+[20:13:08.162 V] #13 MENU : scripts/omw/input/settings.lua
+[20:13:08.162 V] #14 PLAYER : scripts/omw/input/playercontrols.lua
+[20:13:08.162 V] #15 PLAYER : scripts/omw/camera/camera.lua
+[20:13:08.162 V] #16 PLAYER : scripts/omw/input/actionbindings.lua
+[20:13:08.162 V] #17 PLAYER : scripts/omw/input/smoothmovement.lua
+[20:13:08.162 V] #18 PLAYER : scripts/omw/input/gamepadcontrols.lua
+[20:13:08.162 V] #19 NPC CREATURE : scripts/omw/ai.lua
+[20:13:08.162 V] #20 PLAYER : scripts/omw/ui.lua
+[20:13:08.162 V] #21 MENU : scripts/omw/console/menu.lua
+[20:13:08.162 V] #22 PLAYER : scripts/omw/console/player.lua
+[20:13:08.162 V] #23 GLOBAL : scripts/omw/console/global.lua
+[20:13:08.162 V] #24 CUSTOM : scripts/omw/console/local.lua
+[20:13:08.162 V] #25 PLAYER : scripts/omw/music/music.lua
+[20:13:08.162 V] #26 MENU : scripts/omw/music/settings.lua
+[20:13:08.162 V] #27 NPC CREATURE : scripts/omw/music/actor.lua
+[20:13:08.162 V] #28 PLAYER : scripts/maxyari/reanimation_v2/reanimation_v2.lua
+[20:13:08.162 V] #29 PLAYER : scripts/ncgdmw/player.lua
+[20:13:08.162 V] #30 MENU : scripts/ncgdmw/menu.lua
+[20:13:08.168 V] Language file "l10n/OMWCamera/en.yaml" is enabled
+[20:13:08.171 V] Language file "l10n/OMWControls/en.yaml" is enabled
+[20:13:08.171 V] Language file "l10n/interface/gmst.yaml" is enabled
+[20:13:08.171 V] Language file "l10n/interface/en.yaml" is enabled
+[20:13:08.173 V] Language file "l10n/Calendar/gmst.yaml" is enabled
+[20:13:08.176 V] Language file "l10n/Calendar/en.yaml" is enabled
+[20:13:08.176 V] Language file "l10n/OMWMusic/en.yaml" is enabled
+[20:13:08.182 I] Playing "music/special/morrowind title.mp3"
+[20:13:12.334 I] Starting a new game
+[20:13:12.360 W] Warning: addAnimSource: can't find bone 'bip01 upperarm.l.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:13:12.360 W] Warning: addAnimSource: can't find bone 'bip01 wrist ik l' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:13:12.360 W] Warning: addAnimSource: can't find bone 'bone' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:13:12.360 W] Warning: addAnimSource: can't find bone 'bone.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:13:13.091 V] Language file "l10n/NCGDMW/en.yaml" is enabled
+[20:13:13.094 I] Changing to interior
+[20:13:13.094 I] Loading cell Imperial Prison Ship
+[20:13:15.402 I] Playing "music/explore/mx_explore_6.mp3"
+[20:13:15.407 V] Controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+[20:13:26.956 I] AiTravel: 90, -90, -88
+[20:13:44.900 I] AiEscort: 195, 100, 170, 12
+[20:14:50.138 I] AiTravel: 185, 174, 170
+[20:15:08.181 I] Unloading cell Imperial Prison Ship
+[20:15:08.183 I] Loading cell Seyda Neen (-2, -9)
+[20:15:08.234 I] Loading cell Bitter Coast Region (-2, -8)
+[20:15:08.239 I] Loading cell Bitter Coast Region (-1, -9)
+[20:15:08.241 I] Loading cell Bitter Coast Region (-3, -9)
+[20:15:08.276 I] Loading cell Seyda Neen (-2, -10)
+[20:15:08.276 I] Warning: lookoutScript[local variables] line 41, column 37 (=): invalid operator =, treating it as ==
+[20:15:08.287 I] Loading cell Ascadian Isles Region (-1, -8)
+[20:15:08.290 I] Loading cell Bitter Coast Region (-3, -8)
+[20:15:08.298 I] Loading cell Bitter Coast Region (-1, -10)
+[20:15:08.300 I] Loading cell Bitter Coast Region (-3, -10)
+[20:15:08.309 I] AiTravel: -8914, -73093, 126
+[20:15:08.309 I] Warning: lookoutScript line 41, column 37 (=): invalid operator =, treating it as ==
+[20:15:08.309 I] Warning: fallingScript line 46, column 6 (endif): endif without matching if/elseif
+[20:15:08.320 V] Added meshes/r/xsiltstrider.nif ed23704c039db6dfa126ca89d89e2f3a collision shape to navmeshdb with id 1361
+[20:15:08.548 V] Added meshes/l/light_logpile10.nif 0bda3e5689b9f6970048f3d93a10c942 collision shape to navmeshdb with id 1362
+[20:15:08.553 V] Added meshes/l/light_fire.nif c25a053450c2e28cea96d22011b138cc collision shape to navmeshdb with id 1363
+[20:15:48.720 W] Warning: addAnimSource: can't find bone 'bip01 upperarm.l.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:15:48.720 W] Warning: addAnimSource: can't find bone 'bip01 wrist ik l' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:15:48.720 W] Warning: addAnimSource: can't find bone 'bone' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:15:48.720 W] Warning: addAnimSource: can't find bone 'bone.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:15:55.696 I] AiTravel: -9944, -72481, 126
+[20:16:04.221 I] Changing to interior
+[20:16:04.221 I] Unloading cell Ascadian Isles Region (-1, -8)
+[20:16:04.222 I] Unloading cell Bitter Coast Region (-1, -9)
+[20:16:04.224 I] Unloading cell Bitter Coast Region (-1, -10)
+[20:16:04.225 I] Unloading cell Bitter Coast Region (-2, -8)
+[20:16:04.227 I] Unloading cell Seyda Neen (-2, -9)
+[20:16:04.229 I] Unloading cell Seyda Neen (-2, -10)
+[20:16:04.230 I] Unloading cell Bitter Coast Region (-3, -8)
+[20:16:04.231 I] Unloading cell Bitter Coast Region (-3, -9)
+[20:16:04.231 I] Unloading cell Bitter Coast Region (-3, -10)
+[20:16:04.233 I] Loading cell Seyda Neen, Census and Excise Office
+[20:16:04.272 V] Added meshes/i/in_c_plain_room_side.nif 237ab4b4833d40d906c7d31c2f812a87 collision shape to navmeshdb with id 1364
+[20:16:04.274 V] Added meshes/i/in_c_plain_room_corner.nif fb4daeaf790c5b67c698904e41699b63 collision shape to navmeshdb with id 1365
+[20:16:04.275 V] Added meshes/f/furn_com_shelf_01.nif 16dc9118b7a2299969fa16d9a6e34f7b collision shape to navmeshdb with id 1366
+[20:16:04.277 V] Added meshes/f/furn_com_bench_02.nif 28fe2ae270147965d840d44b227f9517 collision shape to navmeshdb with id 1367
+[20:16:04.278 V] Added meshes/i/in_c_plain_room_entry.nif 0b9ac29d4392515b1f4dcb41cf62597a collision shape to navmeshdb with id 1368
+[20:16:04.280 V] Added meshes/i/in_c_djamb_plain_square.nif 320bc6ce808433df098dd073e69786dc collision shape to navmeshdb with id 1369
+[20:16:04.282 V] Added meshes/i/in_nord_fireplace_01.nif 2d449ff009f1adaacc40f1a18700c30b collision shape to navmeshdb with id 1370
+[20:16:04.284 V] Added meshes/l/light_fire_nosmoke.nif 19d54962d14d98490552cc82f232c837 collision shape to navmeshdb with id 1371
+[20:16:04.286 V] Added meshes/i/in_c_plain_hall_small.nif 601c86f76145ea58a9866f9d7a68fb17 collision shape to navmeshdb with id 1372
+[20:16:04.288 V] Added meshes/i/in_c_pillar_wood.nif ecaf243f0b75cc1776f68430ccfe0651 collision shape to navmeshdb with id 1373
+[20:16:04.289 V] Added meshes/f/furn_com_table_05.nif eb337f997252926300e01597b98b0663 collision shape to navmeshdb with id 1374
+[20:16:04.291 V] Added meshes/i/in_c_plain_3way.nif 64d710817097ef5eb426fd30ea76a53d collision shape to navmeshdb with id 1375
+[20:16:04.292 V] Added meshes/f/furn_com_table_01.nif 5c8619f4c49d36fe08430658dc43ac75 collision shape to navmeshdb with id 1376
+[20:16:04.294 V] Added meshes/f/furn_com_chair_01.nif 4b141a8dbf6d938b81885768b5beeaec collision shape to navmeshdb with id 1377
+[20:16:04.295 V] Added meshes/f/furn_com_bookshelf_01.nif 3baea05d3996693f809191d7e210326e collision shape to navmeshdb with id 1378
+[20:16:04.297 V] Added meshes/f/furn_com_chair_03.nif 6120924cc6b65045339fc5188390c10a collision shape to navmeshdb with id 1379
+[20:16:04.298 V] Added meshes/f/furn_com_table_04.nif 446ab8b3c6d83e5546d13c3abcd13a48 collision shape to navmeshdb with id 1380
+[20:16:04.300 V] Added meshes/l/light_com_lamp_01.nif 4b3eef00bf810e653cdabc55926aa4c2 collision shape to navmeshdb with id 1381
+[20:16:04.301 V] Added meshes/d/in_c_door_wood_square.nif c9b253392f6721ad99d80b4172cf1158 collision shape to navmeshdb with id 1382
+[20:16:04.307 V] Added meshes/i/in_c_doorframe_01.nif 4363e62f0603c1b8fd2158cd6bde5b38 collision shape to navmeshdb with id 1383
+[20:16:04.309 V] Added meshes/i/in_c_wall_plain.nif f29343bfeb1c5ae3bd3ed5e40c61d6c7 collision shape to navmeshdb with id 1384
+[20:16:04.311 V] Added meshes/i/in_c_plain_corner.nif 49d057f9d3fd2193d4cccb1368a8cd45 collision shape to navmeshdb with id 1385
+[20:16:04.313 V] Added meshes/i/in_c_plain_stair_short.nif 404264e2ff588f8b46c83c4a5d0716df collision shape to navmeshdb with id 1386
+[20:16:04.315 V] Added meshes/i/in_c_stone_3way.nif eabcc04b2579ec5d026cfe14e637bc1e collision shape to navmeshdb with id 1387
+[20:16:04.317 V] Added meshes/i/in_c_stone_endcap.nif 90cc48028f091717c2a176be1deef2d0 collision shape to navmeshdb with id 1388
+[20:16:04.319 V] Added meshes/d/in_c_door_arched.nif 61c71bcdee4508308f8743ede0cebdfd collision shape to navmeshdb with id 1389
+[20:16:04.320 V] Added meshes/i/in_c_djamb_stone_arched.nif a3cf35adb4dcffb60d7c59b9b4a64b99 collision shape to navmeshdb with id 1390
+[20:16:28.514 I] Playing "music/explore/morrowind title.mp3"
+[20:16:50.863 W] Warning: addAnimSource: can't find bone 'bip01 upperarm.l.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:16:50.863 W] Warning: addAnimSource: can't find bone 'bip01 wrist ik l' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:16:50.863 W] Warning: addAnimSource: can't find bone 'bone' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:16:50.863 W] Warning: addAnimSource: can't find bone 'bone.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:17:59.745 W] Warning: addAnimSource: can't find bone 'bip01 upperarm.l.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:17:59.745 W] Warning: addAnimSource: can't find bone 'bip01 wrist ik l' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:17:59.745 W] Warning: addAnimSource: can't find bone 'bone' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:17:59.745 W] Warning: addAnimSource: can't find bone 'bone.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:18:15.775 W] Warning: addAnimSource: can't find bone 'bip01 upperarm.l.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:18:15.775 W] Warning: addAnimSource: can't find bone 'bip01 wrist ik l' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:18:15.775 W] Warning: addAnimSource: can't find bone 'bone' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:18:15.775 W] Warning: addAnimSource: can't find bone 'bone.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:18:22.763 I] Playing "music/explore/mx_explore_1.mp3"
+[20:18:39.395 I] Unloading cell Seyda Neen, Census and Excise Office
+[20:18:39.397 I] Loading cell Seyda Neen (-2, -9)
+[20:18:39.405 I] Loading cell Bitter Coast Region (-2, -8)
+[20:18:39.408 I] Loading cell Bitter Coast Region (-1, -9)
+[20:18:39.410 I] Loading cell Bitter Coast Region (-3, -9)
+[20:18:39.415 I] Loading cell Seyda Neen (-2, -10)
+[20:18:39.417 I] Loading cell Ascadian Isles Region (-1, -8)
+[20:18:39.419 I] Loading cell Bitter Coast Region (-3, -8)
+[20:18:39.422 I] Loading cell Bitter Coast Region (-1, -10)
+[20:18:39.424 I] Loading cell Bitter Coast Region (-3, -10)
+[20:19:51.616 W] Warning: addAnimSource: can't find bone 'bip01 upperarm.l.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:19:51.616 W] Warning: addAnimSource: can't find bone 'bip01 wrist ik l' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:19:51.616 W] Warning: addAnimSource: can't find bone 'bone' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:19:51.616 W] Warning: addAnimSource: can't find bone 'bone.001' in meshes/xbase_anim.1st.nif (referenced by animations/xbase_anim.1st/_xreanimationv1.kf)
+[20:20:13.410 V] Created new setting section: Sound
+[20:20:13.410 V] Added new setting: [Sound] master volume = 0.122712
+[20:20:13.410 I] Updating settings file: /home/luther/.config/openmw/settings.cfg
+[20:20:13.410 I] Saving shader settings file: /home/luther/.config/openmw/shaders.yaml
+[20:20:13.410 I] Saving Lua storage "/home/luther/.config/openmw/global_storage.bin" (3 bytes)
+[20:20:13.411 I] Saving Lua storage "/home/luther/.config/openmw/player_storage.bin" (3204 bytes)
+[20:20:13.411 I] Quitting peacefully.
+[20:20:13.703 I] Saved input bindings: /home/luther/.config/openmw/input_v3.xml

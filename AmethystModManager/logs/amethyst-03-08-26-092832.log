@@ -1,0 +1,47 @@
+[2026-03-08 09:28:33]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-08 09:28:33]  Mod Manager ready. 0/26 games configured.
+[2026-03-08 09:28:33]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-08 09:28:33]  NXM protocol handler registered.
+[2026-03-08 09:28:33]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-08 09:30:10]  Game path set: /home/luther/.local/share/Steam/steamapps/common/Skyrim Special Edition
+[2026-03-08 09:30:10]  Filemap updated: 0 file(s).
+[2026-03-08 09:31:07]  Nexus: Received link from browser.
+[2026-03-08 09:31:07]  Nexus: No API key configured — cannot download.
+[2026-03-08 09:31:07]  Open the Nexus button in the toolbar to set your API key.
+[2026-03-08 09:31:07]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/30379/files/462377?key=hgvOSzUQ2ekZKt7SntQJxw&expires=1773149463&user_id=71483453
+[2026-03-08 09:31:43]  Keyring unavailable for Nexus API key: No recommended backend was available. Install a recommended 3rd party backend package; or, install the keyrings.alt package if you want to use the non-recommended backends. See https://pypi.org/project/keyring for details.
+To fix, run in a terminal:
+  sudo pacman -S gnome-keyring libsecret
+  systemctl --user enable gnome-keyring-daemon
+  systemctl --user start gnome-keyring-daemon
+[2026-03-08 09:31:47]  Keyring unavailable when clearing Nexus API key: No recommended backend was available. Install a recommended 3rd party backend package; or, install the keyrings.alt package if you want to use the non-recommended backends. See https://pypi.org/project/keyring for details.
+[2026-03-08 09:31:55]  Nexus API GET /users/validate → 200
+[2026-03-08 09:31:55]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-08 09:31:56]  Keyring unavailable for saving Nexus API key: No recommended backend was available. Install a recommended 3rd party backend package; or, install the keyrings.alt package if you want to use the non-recommended backends. See https://pypi.org/project/keyring for details.
+To fix, run in a terminal:
+  sudo pacman -S gnome-keyring libsecret
+  systemctl --user enable gnome-keyring-daemon
+  systemctl --user start gnome-keyring-daemon
+[2026-03-08 09:32:27]  Keyring unavailable for saving Nexus API key: No recommended backend was available. Install a recommended 3rd party backend package; or, install the keyrings.alt package if you want to use the non-recommended backends. See https://pypi.org/project/keyring for details.
+To fix, run in a terminal:
+  sudo pacman -S gnome-keyring libsecret
+  systemctl --user enable gnome-keyring-daemon
+  systemctl --user start gnome-keyring-daemon
+[2026-03-08 09:32:59]  Keyring unavailable for saving Nexus API key: No recommended backend was available. Install a recommended 3rd party backend package; or, install the keyrings.alt package if you want to use the non-recommended backends. See https://pypi.org/project/keyring for details.
+To fix, run in a terminal:
+  sudo pacman -S gnome-keyring libsecret
+  systemctl --user enable gnome-keyring-daemon
+  systemctl --user start gnome-keyring-daemon
+[2026-03-08 09:33:08]  Nexus API GET /users/validate → 200
+[2026-03-08 09:33:08]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-08 09:33:08]  Keyring unavailable for saving Nexus API key: No recommended backend was available. Install a recommended 3rd party backend package; or, install the keyrings.alt package if you want to use the non-recommended backends. See https://pypi.org/project/keyring for details.
+To fix, run in a terminal:
+  sudo pacman -S gnome-keyring libsecret
+  systemctl --user enable gnome-keyring-daemon
+  systemctl --user start gnome-keyring-daemon
+[2026-03-08 09:33:12]  Keyring unavailable for Nexus API key: No recommended backend was available. Install a recommended 3rd party backend package; or, install the keyrings.alt package if you want to use the non-recommended backends. See https://pypi.org/project/keyring for details.
+To fix, run in a terminal:
+  sudo pacman -S gnome-keyring libsecret
+  systemctl --user enable gnome-keyring-daemon
+  systemctl --user start gnome-keyring-daemon
+[2026-03-08 09:33:12]  Nexus API key updated.

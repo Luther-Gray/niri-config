@@ -1,0 +1,56 @@
+[22:23:15.512 *] Crash handler installed
+[22:23:15.584 *] Loading config file: /etc/openmw/openmw.cfg
+[22:23:15.585 *] Loading config file: /home/luther/.config/openmw/openmw.cfg
+[22:23:15.586 *] Logs dir: /home/luther/.config/openmw/
+[22:23:15.586 *] User data dir: /home/luther/.local/share/openmw/
+[22:23:15.586 *] Screenshots dir: /home/luther/.local/share/openmw/screenshots
+[22:23:15.586 *] Loading settings file: /etc/openmw/defaults-cs.bin
+[22:23:35.441 I] Adding BSA archive /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files/Morrowind.bsa
+[22:23:35.448 I] Adding BSA archive /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files/Tribunal.bsa
+[22:23:35.455 I] Adding BSA archive /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files/Bloodmoon.bsa
+[22:23:35.461 I] Adding data directory /usr/share/games/openmw/resources/vfs
+[22:23:35.462 I] Adding data directory /usr/share/games/openmw/resources/vfs-mw
+[22:23:35.462 I] Adding data directory /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files
+[22:23:35.516 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Animation/ReAnimation v2 Rogue
+[22:23:35.518 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/ncgdmw-lua/00 Core
+[22:23:35.520 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/ncgdmw-lua/01 NCGD - Normal
+[22:23:35.521 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/ncgdmw-lua/02 OpenMW DevBuild
+[22:23:35.521 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Resources/OAAB_Data
+[22:23:35.584 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Resources/OAAB_Data/00 Core
+[22:23:35.594 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Resources/OAAB_Data/06 Animated Containers
+[22:23:35.595 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Resources/Tamriel Data (Vanilla)/00 Data Files
+[22:23:36.070 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Resources/Tamriel Data (Vanilla)/01 Data Files - Normal Maps
+[22:23:36.073 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/New Lands/Tamriel Rebuilt/00 Core
+[22:23:36.083 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/New Lands/Tamriel Rebuilt/01 Faction Integration
+[22:23:36.083 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Audio/TR_Music
+[22:23:36.084 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/Lua Physics
+[22:23:36.090 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/Devilish Needs
+[22:23:36.102 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Animation/Hit Reactions
+[22:23:36.107 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Items/Expanded Loot - Food and Dishes
+[22:23:36.118 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Meshes/Better Bodies/Better Bodies 3.2 (Better Beasts)/01 Nude
+[22:23:36.120 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/UI/QuickLoot
+[22:23:36.122 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/UI/Interface Reimagined
+[22:23:36.122 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Animation/OpenMW Dynamic Actors
+[22:23:36.132 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/FX/OpenMW Dynamic Ambient Visual Effects
+[22:23:36.135 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/FreshLoot/00 Core
+[22:23:36.141 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/FX/OpenMW Impact Effects
+[22:23:36.156 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Quests/Tribunal Main Quest Reforged
+[22:23:36.162 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/Moon and Star Overhaul
+[22:23:36.162 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/Shezarrine Race Overhaul
+[22:23:36.162 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Meshes/Graphic Herbalism/00 Core + Vanilla Meshes
+[22:23:36.168 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/Bardcraft
+[22:23:36.180 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Gameplay/Maxar's Charge Time Weapon Buff
+[22:23:36.181 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Audio/Voices of Vvardenfell/00 - Core
+[22:23:37.201 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Audio/AF Fresh Voices
+[22:23:37.274 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Audio/Tamriel Rebuilt Voices
+[22:23:38.540 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Quests/Main Quest Revised
+[22:23:38.540 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/UI/Hit and Miss Indicators
+[22:23:38.541 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Modder Resources/OpenMW Lua Helper Utility
+[22:23:38.545 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Quests/AFFresh
+[22:23:38.545 I] Adding data directory /home/luther/Documents/Profession/Modding/OpenMW/Audio/OpenMW Voices of Vvardenfell Patch
+[22:23:38.550 I] Adding data directory /home/luther/.local/share/openmw/data
+[22:23:38.758 I] Loading content file /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files/Morrowind.esm
+[22:23:40.176 I] Loading content file /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files/Tribunal.esm
+[22:23:40.289 I] Loading content file /home/luther/.local/share/Steam/steamapps/common/Morrowind/Data Files/Bloodmoon.esm
+[22:23:40.431 I] Loading content file /home/luther/.local/share/openmw/projects/Testing.omwaddon.project
+[22:23:40.500 V] Loaded content files in 1.74195s

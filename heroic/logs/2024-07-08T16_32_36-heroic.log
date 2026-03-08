@@ -1,0 +1,94 @@
+(16:32:36) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(16:32:36) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(16:32:36) INFO:    [Connection]:       Connectivity: check-online
+(16:32:36) INFO:    [Connection]:       Pinging external endpoints
+(16:32:36) INFO:    [Gog]:              Checking for existing gog manifests
+(16:32:36) INFO:    [Nile]:             Refreshing library...
+(16:32:36) INFO:    [Nile]:             Refreshing Amazon Games...
+(16:32:36) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/luther/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+(16:32:36) INFO:    [Nile]:             Game list updated, got 147 games
+(16:32:36) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "status": "new",
+    "title": "Widevine Content Decryption Module",
+    "version": "4.10.2710.0"
+  }
+}
+(16:32:36) WARNING: [Backend]:          Protocol already registered.
+(16:32:36) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/luther/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(16:32:36) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json --version
+(16:32:36) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/luther/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(16:32:36) INFO:    [Connection]:       Connectivity: online
+(16:32:36) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:36) INFO:    [Gog]:              Checking if login is valid
+(16:32:36) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:37) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(16:32:37) INFO:    [Backend]:          
+System Information:
+CPU: 8x Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+Memory: 12.48 GB (used: 4.7 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GM204 [GeForce GTX 970]
+    IDs: D=13c2 V=10de SD=3975 SV=3842
+    Driver: nvidia
+OS: Arch Linux 6.9.7-zen1-1-zen (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.14.1 Flame Emperor Sabo
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.1
+  Nile: 1.0.2 Jonathan Joestar
+
+(16:32:37) INFO:    [Nile]:             Saved user data to config file
+(16:32:37) INFO:    [Frontend]:         Refreshing undefined Library
+(16:32:37) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(16:32:37) INFO:    [Legendary]:        Refreshing library...
+(16:32:37) INFO:    [Legendary]:        Refreshing Epic Games...
+(16:32:37) INFO:    [Nile]:             Refreshing library...
+(16:32:37) INFO:    [Nile]:             Refreshing Amazon Games...
+(16:32:37) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/luther/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+(16:32:37) INFO:    [Nile]:             Game list updated, got 147 games
+(16:32:37) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:37) INFO:    [Backend]:          Frontend Ready
+(16:32:37) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/luther/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(16:32:37) INFO:    [Gog]:              Getting GOG library
+(16:32:37) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:38) INFO:    [Backend]:          Checking for current version changelog
+(16:32:38) INFO:    [Gog]:              Saved username to config file
+(16:32:38) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:39) INFO:    [Winetricks]:       Downloading Winetricks
+(16:32:39) INFO:    [Legendary]:        Game list updated, got 352 games & DLCs
+(16:32:39) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:40) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:41) INFO:    [WineDownloader]:   Updating wine versions info
+(16:32:41) INFO:    [WineDownloader]:   Fetching upstream information...
+(16:32:41) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:42) INFO:    [Backend]:          Starting the Download Queue
+(16:32:42) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:42) INFO:    [WineDownloader]:   wine versions updated
+(16:32:43) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:44) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:45) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:45) INFO:    [Backend]:          Writing config for a6EnyJhzJRPUACRRZfqwsQ
+(16:32:45) INFO:    [Backend]:          Changed config: winePrefix from /home/luther/Games/Heroic/Prefixes/default to /home/luther/Games/Heroic/Prefixes/default/Title
+(16:32:45) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(16:32:45) DEBUG:   [Backend]:          Running Wine command: runinprefix /home/luther/Torrents/The_Legend_of_Heroes_Trails_Through_Daybreak_1.3.2_(74540)_win_gog/setup_the_legend_of_heroes_trails_through_daybreak_1.3.2_(64bit)_(74540).exe
+(16:32:49) INFO:    [Gog]:              Saved games data
+(16:32:49) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(16:32:49) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+(16:32:49) INFO:    [Gog]:              Found 0 game(s) to update
+(16:32:49) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/luther/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(16:32:52) WARNING: [Legendary]:        Failed to parse games from /home/luther/.config/heroic/legendaryConfig/legendary/installed.json with: Error: ENOENT: no such file or directory, open '/home/luther/.config/heroic/legendaryConfig/legendary/installed.json'
+    at Object.readFileUtf8 (node:internal/fs/sync:25:18)
+    at Object.readFileSync (node:fs:441:19)
+    at t.readFileSync (node:electron/js2c/node_init:2:9771)
+    at Module.listUpdateableGames (/opt/Heroic/resources/app.asar/build/electron/main.159a68a5.js:114:4090)
+    at async /opt/Heroic/resources/app.asar/build/electron/main.159a68a5.js:235:3193
+    at async WebContents.<anonymous> (node:electron/js2c/browser_init:2:79404)
+(16:32:52) INFO:    [Legendary]:        Found 0 games to update
+(16:32:52) INFO:    [Nile]:             Looking for updates...
+(16:32:52) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/luther/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile list-updates --json

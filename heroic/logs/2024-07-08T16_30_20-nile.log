@@ -1,0 +1,13 @@
+[7/8/2024, 4:30:20 PM] NILE_CONFIG_PATH=/home/luther/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+[7/8/2024, 4:30:21 PM] NILE_CONFIG_PATH=/home/luther/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+INFO [AUTH_MANAGER]:	 Refreshing token
+INFO [LIBRARY]:	 Synchronizing library
+1.0.2 Jonathan Joestar
+INFO [LIBRARY]:	 Got next token in response, making next request
+[7/8/2024, 4:30:22 PM] NILE_CONFIG_PATH=/home/luther/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile library sync
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Got next token in response, making next request
+INFO [LIBRARY]:	 Successfully synced the library
+[7/8/2024, 4:30:39 PM] NILE_CONFIG_PATH=/home/luther/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile list-updates --json
+ERROR [CLI]:	 No games installed
+[]

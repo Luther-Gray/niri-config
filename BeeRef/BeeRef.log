@@ -1,0 +1,1282 @@
+2026-01-08 16:06:25,175 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150355.jpg" 2250 x 3000 to 0.5176692699138548
+2026-01-08 16:06:25,177 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150355.jpg" 2250 x 3000 to 0.0
+2026-01-08 16:06:25,177 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150355.jpg" 2250 x 3000
+2026-01-08 16:06:25,177 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150355.jpg" 2250 x 3000 to 2.022999999999888
+2026-01-08 16:06:25,177 beeref.widgets 334573 140297745504064 Progress dialog: 320
+2026-01-08 16:06:25,187 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,187 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,187 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,192 beeref.items 334573 140297499408064 Setting crop for Image "None" 736 x 659 to PyQt6.QtCore.QRectF(0.0, 0.0, 736.0, 659.0)
+2026-01-08 16:06:25,192 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,192 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150357.jpg" 736 x 659 to PyQt6.QtCore.QRectF(0.0, 0.0, 736.0, 659.0)
+2026-01-08 16:06:25,192 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,192 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150357.jpg" 736 x 659 to 2.023999999999888
+2026-01-08 16:06:25,192 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150357.jpg" 736 x 659 to 1.9311795636535964
+2026-01-08 16:06:25,192 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150357.jpg" 736 x 659 to 0.0
+2026-01-08 16:06:25,192 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150357.jpg" 736 x 659
+2026-01-08 16:06:25,193 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150357.jpg" 736 x 659 to 2.023999999999888
+2026-01-08 16:06:25,193 beeref.widgets 334573 140297745504064 Progress dialog: 321
+2026-01-08 16:06:25,203 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,203 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,203 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,207 beeref.items 334573 140297499408064 Setting crop for Image "None" 736 x 491 to PyQt6.QtCore.QRectF(0.0, 0.0, 736.0, 491.0)
+2026-01-08 16:06:25,207 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,207 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150359.jpg" 736 x 491 to PyQt6.QtCore.QRectF(0.0, 0.0, 736.0, 491.0)
+2026-01-08 16:06:25,207 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,207 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150359.jpg" 736 x 491 to 2.024999999999888
+2026-01-08 16:06:25,207 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150359.jpg" 736 x 491 to 2.2373020376472397
+2026-01-08 16:06:25,207 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150359.jpg" 736 x 491 to 0.0
+2026-01-08 16:06:25,207 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150359.jpg" 736 x 491
+2026-01-08 16:06:25,207 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150359.jpg" 736 x 491 to 2.024999999999888
+2026-01-08 16:06:25,207 beeref.widgets 334573 140297745504064 Progress dialog: 322
+2026-01-08 16:06:25,217 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,217 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,217 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,237 beeref.items 334573 140297499408064 Setting crop for Image "None" 1144 x 1999 to PyQt6.QtCore.QRectF(0.0, 0.0, 1144.0, 1999.0)
+2026-01-08 16:06:25,238 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,238 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150360.jpg" 1144 x 1999 to PyQt6.QtCore.QRectF(0.0, 0.0, 1144.0, 1999.0)
+2026-01-08 16:06:25,238 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,238 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150360.jpg" 1144 x 1999 to 2.051999999999885
+2026-01-08 16:06:25,238 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150360.jpg" 1144 x 1999 to 0.8893748867273085
+2026-01-08 16:06:25,238 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150360.jpg" 1144 x 1999 to 0.0
+2026-01-08 16:06:25,238 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150360.jpg" 1144 x 1999
+2026-01-08 16:06:25,238 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150360.jpg" 1144 x 1999 to 2.051999999999885
+2026-01-08 16:06:25,238 beeref.widgets 334573 140297745504064 Progress dialog: 323
+2026-01-08 16:06:25,248 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,248 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,248 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,257 beeref.items 334573 140297499408064 Setting crop for Image "None" 766 x 1065 to PyQt6.QtCore.QRectF(0.0, 0.0, 766.0, 1065.0)
+2026-01-08 16:06:25,257 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,257 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150363.jpg" 766 x 1065 to PyQt6.QtCore.QRectF(0.0, 0.0, 766.0, 1065.0)
+2026-01-08 16:06:25,257 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,257 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150363.jpg" 766 x 1065 to 2.026999999999888
+2026-01-08 16:06:25,257 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150363.jpg" 766 x 1065 to 1.489069892435439
+2026-01-08 16:06:25,257 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150363.jpg" 766 x 1065 to 0.0
+2026-01-08 16:06:25,257 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150363.jpg" 766 x 1065
+2026-01-08 16:06:25,257 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150363.jpg" 766 x 1065 to 2.026999999999888
+2026-01-08 16:06:25,257 beeref.widgets 334573 140297745504064 Progress dialog: 324
+2026-01-08 16:06:25,267 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,267 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,268 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,278 beeref.items 334573 140297499408064 Setting crop for Image "None" 736 x 1308 to PyQt6.QtCore.QRectF(0.0, 0.0, 736.0, 1308.0)
+2026-01-08 16:06:25,278 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,278 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150369.jpg" 736 x 1308 to PyQt6.QtCore.QRectF(0.0, 0.0, 736.0, 1308.0)
+2026-01-08 16:06:25,278 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,278 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150369.jpg" 736 x 1308 to 2.0279999999998877
+2026-01-08 16:06:25,278 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150369.jpg" 736 x 1308 to 1.3707602190408683
+2026-01-08 16:06:25,278 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150369.jpg" 736 x 1308 to 0.0
+2026-01-08 16:06:25,278 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150369.jpg" 736 x 1308
+2026-01-08 16:06:25,279 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150369.jpg" 736 x 1308 to 2.0279999999998877
+2026-01-08 16:06:25,279 beeref.widgets 334573 140297745504064 Progress dialog: 325
+2026-01-08 16:06:25,288 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,288 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,288 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,315 beeref.items 334573 140297499408064 Setting crop for Image "None" 1200 x 2356 to PyQt6.QtCore.QRectF(0.0, 0.0, 1200.0, 2356.0)
+2026-01-08 16:06:25,315 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,315 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356 to PyQt6.QtCore.QRectF(0.0, 0.0, 1200.0, 2356.0)
+2026-01-08 16:06:25,315 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,315 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356 to 2.3459999999998526
+2026-01-08 16:06:25,315 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356 to 0.7998821500895019
+2026-01-08 16:06:25,315 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356 to 0.0
+2026-01-08 16:06:25,315 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356
+2026-01-08 16:06:25,315 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356 to 2.3459999999998526
+2026-01-08 16:06:25,315 beeref.widgets 334573 140297745504064 Progress dialog: 326
+2026-01-08 16:06:25,325 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,325 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,325 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,336 beeref.items 334573 140297499408064 Setting crop for Image "None" 1280 x 965 to PyQt6.QtCore.QRectF(0.0, 0.0, 1280.0, 965.0)
+2026-01-08 16:06:25,336 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,336 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150375.jpg" 1280 x 965 to PyQt6.QtCore.QRectF(0.0, 0.0, 1280.0, 965.0)
+2026-01-08 16:06:25,336 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,337 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150375.jpg" 1280 x 965 to 2.0299999999998875
+2026-01-08 16:06:25,337 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150375.jpg" 1280 x 965 to 1.2101400377546974
+2026-01-08 16:06:25,337 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150375.jpg" 1280 x 965 to 0.0
+2026-01-08 16:06:25,337 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150375.jpg" 1280 x 965
+2026-01-08 16:06:25,337 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150375.jpg" 1280 x 965 to 2.0299999999998875
+2026-01-08 16:06:25,337 beeref.widgets 334573 140297745504064 Progress dialog: 327
+2026-01-08 16:06:25,348 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,348 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,348 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,355 beeref.items 334573 140297499408064 Setting crop for Image "None" 960 x 720 to PyQt6.QtCore.QRectF(0.0, 0.0, 960.0, 720.0)
+2026-01-08 16:06:25,355 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,355 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150376.jpg" 960 x 720 to PyQt6.QtCore.QRectF(0.0, 0.0, 960.0, 720.0)
+2026-01-08 16:06:25,355 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,355 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150376.jpg" 960 x 720 to 2.0309999999998873
+2026-01-08 16:06:25,356 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150376.jpg" 960 x 720 to 1.6177164684807956
+2026-01-08 16:06:25,356 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150376.jpg" 960 x 720 to 0.0
+2026-01-08 16:06:25,356 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150376.jpg" 960 x 720
+2026-01-08 16:06:25,356 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150376.jpg" 960 x 720 to 2.0309999999998873
+2026-01-08 16:06:25,356 beeref.widgets 334573 140297745504064 Progress dialog: 328
+2026-01-08 16:06:25,366 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,366 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,366 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,372 beeref.items 334573 140297499408064 Setting crop for Image "None" 768 x 683 to PyQt6.QtCore.QRectF(0.0, 0.0, 768.0, 683.0)
+2026-01-08 16:06:25,372 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,372 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150377.png" 768 x 683 to PyQt6.QtCore.QRectF(0.0, 0.0, 768.0, 683.0)
+2026-01-08 16:06:25,372 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,372 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150377.png" 768 x 683 to 2.0319999999998872
+2026-01-08 16:06:25,372 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150377.png" 768 x 683 to 1.8570060111003757
+2026-01-08 16:06:25,372 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150377.png" 768 x 683 to 0.0
+2026-01-08 16:06:25,373 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150377.png" 768 x 683
+2026-01-08 16:06:25,373 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150377.png" 768 x 683 to 2.0319999999998872
+2026-01-08 16:06:25,373 beeref.widgets 334573 140297745504064 Progress dialog: 329
+2026-01-08 16:06:25,382 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,382 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,382 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,401 beeref.items 334573 140297499408064 Setting crop for Image "None" 1161 x 1920 to PyQt6.QtCore.QRectF(0.0, 0.0, 1161.0, 1920.0)
+2026-01-08 16:06:25,401 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,401 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150378.jpg" 1161 x 1920 to PyQt6.QtCore.QRectF(0.0, 0.0, 1161.0, 1920.0)
+2026-01-08 16:06:25,401 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,402 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150378.jpg" 1161 x 1920 to 2.032999999999887
+2026-01-08 16:06:25,402 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150378.jpg" 1161 x 1920 to 0.9008190196530461
+2026-01-08 16:06:25,402 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150378.jpg" 1161 x 1920 to 0.0
+2026-01-08 16:06:25,402 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150378.jpg" 1161 x 1920
+2026-01-08 16:06:25,402 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150378.jpg" 1161 x 1920 to 2.032999999999887
+2026-01-08 16:06:25,402 beeref.widgets 334573 140297745504064 Progress dialog: 330
+2026-01-08 16:06:25,414 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,414 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,414 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,438 beeref.items 334573 140297499408064 Setting crop for Image "None" 1600 x 1600 to PyQt6.QtCore.QRectF(0.0, 0.0, 1600.0, 1600.0)
+2026-01-08 16:06:25,438 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,438 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150381.jpg" 1600 x 1600 to PyQt6.QtCore.QRectF(0.0, 0.0, 1600.0, 1600.0)
+2026-01-08 16:06:25,438 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,438 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150381.jpg" 1600 x 1600 to 2.033999999999887
+2026-01-08 16:06:25,438 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150381.jpg" 1600 x 1600 to 0.8405901346948905
+2026-01-08 16:06:25,438 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150381.jpg" 1600 x 1600 to 0.0
+2026-01-08 16:06:25,438 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150381.jpg" 1600 x 1600
+2026-01-08 16:06:25,439 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150381.jpg" 1600 x 1600 to 2.033999999999887
+2026-01-08 16:06:25,439 beeref.widgets 334573 140297745504064 Progress dialog: 331
+2026-01-08 16:06:25,449 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,449 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,449 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,458 beeref.items 334573 140297499408064 Setting crop for Image "None" 1200 x 675 to PyQt6.QtCore.QRectF(0.0, 0.0, 1200.0, 675.0)
+2026-01-08 16:06:25,458 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,458 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150382.png" 1200 x 675 to PyQt6.QtCore.QRectF(0.0, 0.0, 1200.0, 675.0)
+2026-01-08 16:06:25,458 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,458 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150382.png" 1200 x 675 to 2.034999999999887
+2026-01-08 16:06:25,458 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150382.png" 1200 x 675 to 1.4943824616798052
+2026-01-08 16:06:25,458 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150382.png" 1200 x 675 to 0.0
+2026-01-08 16:06:25,458 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150382.png" 1200 x 675
+2026-01-08 16:06:25,458 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150382.png" 1200 x 675 to 2.034999999999887
+2026-01-08 16:06:25,458 beeref.widgets 334573 140297745504064 Progress dialog: 332
+2026-01-08 16:06:25,469 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,469 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,469 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,477 beeref.items 334573 140297499408064 Setting crop for Image "None" 1200 x 675 to PyQt6.QtCore.QRectF(0.0, 0.0, 1200.0, 675.0)
+2026-01-08 16:06:25,477 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,477 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150384.png" 1200 x 675 to PyQt6.QtCore.QRectF(0.0, 0.0, 1200.0, 675.0)
+2026-01-08 16:06:25,477 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,477 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150384.png" 1200 x 675 to 2.035999999999887
+2026-01-08 16:06:25,477 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150384.png" 1200 x 675 to 1.4943824616798054
+2026-01-08 16:06:25,477 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150384.png" 1200 x 675 to 0.0
+2026-01-08 16:06:25,477 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150384.png" 1200 x 675
+2026-01-08 16:06:25,477 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150384.png" 1200 x 675 to 2.035999999999887
+2026-01-08 16:06:25,477 beeref.widgets 334573 140297745504064 Progress dialog: 333
+2026-01-08 16:06:25,489 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,490 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,490 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,500 beeref.items 334573 140297499408064 Setting crop for Image "None" 960 x 1200 to PyQt6.QtCore.QRectF(0.0, 0.0, 960.0, 1200.0)
+2026-01-08 16:06:25,500 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,500 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150385.jpg" 960 x 1200 to PyQt6.QtCore.QRectF(0.0, 0.0, 960.0, 1200.0)
+2026-01-08 16:06:25,500 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,500 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150385.jpg" 960 x 1200 to 2.0369999999998867
+2026-01-08 16:06:25,500 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150385.jpg" 960 x 1200 to 1.2530777882623194
+2026-01-08 16:06:25,500 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150385.jpg" 960 x 1200 to 0.0
+2026-01-08 16:06:25,500 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150385.jpg" 960 x 1200
+2026-01-08 16:06:25,500 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150385.jpg" 960 x 1200 to 2.0369999999998867
+2026-01-08 16:06:25,500 beeref.widgets 334573 140297745504064 Progress dialog: 334
+2026-01-08 16:06:25,512 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,512 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,513 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,516 beeref.items 334573 140297499408064 Setting crop for Image "None" 422 x 600 to PyQt6.QtCore.QRectF(0.0, 0.0, 422.0, 600.0)
+2026-01-08 16:06:25,516 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,516 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150397.jpg" 422 x 600 to PyQt6.QtCore.QRectF(0.0, 0.0, 422.0, 600.0)
+2026-01-08 16:06:25,516 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,516 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150397.jpg" 422 x 600 to 2.0379999999998866
+2026-01-08 16:06:25,516 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150397.jpg" 422 x 600 to 2.672836668484073
+2026-01-08 16:06:25,516 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150397.jpg" 422 x 600 to 0.0
+2026-01-08 16:06:25,516 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150397.jpg" 422 x 600
+2026-01-08 16:06:25,516 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150397.jpg" 422 x 600 to 2.0379999999998866
+2026-01-08 16:06:25,516 beeref.widgets 334573 140297745504064 Progress dialog: 335
+2026-01-08 16:06:25,527 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,527 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,527 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,535 beeref.items 334573 140297499408064 Setting crop for Image "None" 776 x 1030 to PyQt6.QtCore.QRectF(0.0, 0.0, 776.0, 1030.0)
+2026-01-08 16:06:25,535 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,535 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150403.jpg" 776 x 1030 to PyQt6.QtCore.QRectF(0.0, 0.0, 776.0, 1030.0)
+2026-01-08 16:06:25,535 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,535 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150403.jpg" 776 x 1030 to 2.0389999999998865
+2026-01-08 16:06:25,535 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150403.jpg" 776 x 1030 to 1.504370465010129
+2026-01-08 16:06:25,535 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150403.jpg" 776 x 1030 to 0.0
+2026-01-08 16:06:25,535 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150403.jpg" 776 x 1030
+2026-01-08 16:06:25,536 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150403.jpg" 776 x 1030 to 2.0389999999998865
+2026-01-08 16:06:25,536 beeref.widgets 334573 140297745504064 Progress dialog: 336
+2026-01-08 16:06:25,548 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,548 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,548 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,565 beeref.items 334573 140297499408064 Setting crop for Image "None" 1080 x 1920 to PyQt6.QtCore.QRectF(0.0, 0.0, 1080.0, 1920.0)
+2026-01-08 16:06:25,566 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,566 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150410.jpg" 1080 x 1920 to PyQt6.QtCore.QRectF(0.0, 0.0, 1080.0, 1920.0)
+2026-01-08 16:06:25,566 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,566 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150410.jpg" 1080 x 1920 to 2.0399999999998863
+2026-01-08 16:06:25,566 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150410.jpg" 1080 x 1920 to 0.9339890385498782
+2026-01-08 16:06:25,566 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150410.jpg" 1080 x 1920 to 0.0
+2026-01-08 16:06:25,566 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150410.jpg" 1080 x 1920
+2026-01-08 16:06:25,566 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150410.jpg" 1080 x 1920 to 2.0399999999998863
+2026-01-08 16:06:25,566 beeref.widgets 334573 140297745504064 Progress dialog: 337
+2026-01-08 16:06:25,576 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,576 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,577 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,602 beeref.items 334573 140297499408064 Setting crop for Image "None" 1152 x 2048 to PyQt6.QtCore.QRectF(0.0, 0.0, 1152.0, 2048.0)
+2026-01-08 16:06:25,602 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,602 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150426.jpg" 1152 x 2048 to PyQt6.QtCore.QRectF(0.0, 0.0, 1152.0, 2048.0)
+2026-01-08 16:06:25,602 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,602 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150426.jpg" 1152 x 2048 to 2.0409999999998862
+2026-01-08 16:06:25,602 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150426.jpg" 1152 x 2048 to 0.8756147236405109
+2026-01-08 16:06:25,602 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150426.jpg" 1152 x 2048 to 0.0
+2026-01-08 16:06:25,602 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150426.jpg" 1152 x 2048
+2026-01-08 16:06:25,602 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150426.jpg" 1152 x 2048 to 2.0409999999998862
+2026-01-08 16:06:25,603 beeref.widgets 334573 140297745504064 Progress dialog: 338
+2026-01-08 16:06:25,614 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,614 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,614 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,638 beeref.items 334573 140297499408064 Setting crop for Image "None" 1035 x 2020 to PyQt6.QtCore.QRectF(0.0, 0.0, 1035.0, 2020.0)
+2026-01-08 16:06:25,638 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,638 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150429.jpg" 1035 x 2020 to PyQt6.QtCore.QRectF(0.0, 0.0, 1035.0, 2020.0)
+2026-01-08 16:06:25,638 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,639 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150429.jpg" 1035 x 2020 to 2.041999999999886
+2026-01-08 16:06:25,639 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150429.jpg" 1035 x 2020 to 0.9301616113122997
+2026-01-08 16:06:25,639 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150429.jpg" 1035 x 2020 to 0.0
+2026-01-08 16:06:25,639 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150429.jpg" 1035 x 2020
+2026-01-08 16:06:25,639 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150429.jpg" 1035 x 2020 to 2.041999999999886
+2026-01-08 16:06:25,639 beeref.widgets 334573 140297745504064 Progress dialog: 339
+2026-01-08 16:06:25,651 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,651 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,652 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,669 beeref.items 334573 140297499408064 Setting crop for Image "None" 1800 x 1160 to PyQt6.QtCore.QRectF(0.0, 0.0, 1800.0, 1160.0)
+2026-01-08 16:06:25,669 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,669 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150430.jpg" 1800 x 1160 to PyQt6.QtCore.QRectF(0.0, 0.0, 1800.0, 1160.0)
+2026-01-08 16:06:25,670 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,670 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150430.jpg" 1800 x 1160 to 2.042999999999886
+2026-01-08 16:06:25,670 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150430.jpg" 1800 x 1160 to 0.9307628146140946
+2026-01-08 16:06:25,670 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150430.jpg" 1800 x 1160 to 0.0
+2026-01-08 16:06:25,670 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150430.jpg" 1800 x 1160
+2026-01-08 16:06:25,670 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150430.jpg" 1800 x 1160 to 2.042999999999886
+2026-01-08 16:06:25,670 beeref.widgets 334573 140297745504064 Progress dialog: 340
+2026-01-08 16:06:25,680 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,680 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,681 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,687 beeref.items 334573 140297499408064 Setting crop for Image "None" 1113 x 620 to PyQt6.QtCore.QRectF(0.0, 0.0, 1113.0, 620.0)
+2026-01-08 16:06:25,687 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,687 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150432.png" 1113 x 620 to PyQt6.QtCore.QRectF(0.0, 0.0, 1113.0, 620.0)
+2026-01-08 16:06:25,687 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,687 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150432.png" 1113 x 620 to 2.043999999999886
+2026-01-08 16:06:25,688 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150432.png" 1113 x 620 to 1.6190521753290044
+2026-01-08 16:06:25,688 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150432.png" 1113 x 620 to 0.0
+2026-01-08 16:06:25,688 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150432.png" 1113 x 620
+2026-01-08 16:06:25,688 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150432.png" 1113 x 620 to 2.043999999999886
+2026-01-08 16:06:25,688 beeref.widgets 334573 140297745504064 Progress dialog: 341
+2026-01-08 16:06:25,698 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,698 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,698 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,714 beeref.items 334573 140297499408064 Setting crop for Image "None" 1000 x 1457 to PyQt6.QtCore.QRectF(0.0, 0.0, 1000.0, 1457.0)
+2026-01-08 16:06:25,714 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,715 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150437.png" 1000 x 1457 to PyQt6.QtCore.QRectF(0.0, 0.0, 1000.0, 1457.0)
+2026-01-08 16:06:25,715 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,715 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150437.png" 1000 x 1457 to 2.044999999999886
+2026-01-08 16:06:25,715 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150437.png" 1000 x 1457 to 1.1142290971855409
+2026-01-08 16:06:25,715 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150437.png" 1000 x 1457 to 0.0
+2026-01-08 16:06:25,715 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150437.png" 1000 x 1457
+2026-01-08 16:06:25,715 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150437.png" 1000 x 1457 to 2.044999999999886
+2026-01-08 16:06:25,715 beeref.widgets 334573 140297745504064 Progress dialog: 342
+2026-01-08 16:06:25,727 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,727 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,727 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,741 beeref.items 334573 140297499408064 Setting crop for Image "None" 1400 x 1000 to PyQt6.QtCore.QRectF(0.0, 0.0, 1400.0, 1000.0)
+2026-01-08 16:06:25,741 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,741 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150446.jpg" 1400 x 1000 to PyQt6.QtCore.QRectF(0.0, 0.0, 1400.0, 1000.0)
+2026-01-08 16:06:25,741 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,741 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150446.jpg" 1400 x 1000 to 2.0459999999998857
+2026-01-08 16:06:25,741 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150446.jpg" 1400 x 1000 to 1.1366853261123253
+2026-01-08 16:06:25,741 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150446.jpg" 1400 x 1000 to 0.0
+2026-01-08 16:06:25,742 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150446.jpg" 1400 x 1000
+2026-01-08 16:06:25,742 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150446.jpg" 1400 x 1000 to 2.0459999999998857
+2026-01-08 16:06:25,742 beeref.widgets 334573 140297745504064 Progress dialog: 343
+2026-01-08 16:06:25,752 beeref.items 334573 140297499408064 Setting crop for Image "None" 0 x 0 to PyQt6.QtCore.QRectF()
+2026-01-08 16:06:25,752 beeref.items 334573 140297499408064 Initialized Image "None" 0 x 0
+2026-01-08 16:06:25,752 beeref.items 334573 140297499408064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,758 beeref.items 334573 140297499408064 Setting crop for Image "None" 564 x 767 to PyQt6.QtCore.QRectF(0.0, 0.0, 564.0, 767.0)
+2026-01-08 16:06:25,758 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,758 beeref.items 334573 140297745504064 Setting crop for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150449.jpg" 564 x 767 to PyQt6.QtCore.QRectF(0.0, 0.0, 564.0, 767.0)
+2026-01-08 16:06:25,758 beeref.items 334573 140297745504064 Setting grayscale for {self} to {value}
+2026-01-08 16:06:25,758 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150449.jpg" 564 x 767 to 2.0469999999998856
+2026-01-08 16:06:25,758 beeref.selection 334573 140297745504064 Setting scale for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150449.jpg" 564 x 767 to 2.0448762808182064
+2026-01-08 16:06:25,758 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150449.jpg" 564 x 767 to 0.0
+2026-01-08 16:06:25,758 beeref.scene 334573 140297745504064 Adding item Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150449.jpg" 564 x 767
+2026-01-08 16:06:25,758 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150449.jpg" 564 x 767 to 2.0469999999998856
+2026-01-08 16:06:25,758 beeref.widgets 334573 140297745504064 Progress dialog: 344
+2026-01-08 16:06:25,769 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,770 beeref.items 334573 140297745504064 Initialized Text "Daypunk/Sunpunk"
+2026-01-08 16:06:25,771 beeref.selection 334573 140297745504064 Setting z-value for Text "Daypunk/Sunpunk" to 2.406999999999846
+2026-01-08 16:06:25,771 beeref.selection 334573 140297745504064 Setting scale for Text "Daypunk/Sunpunk" to 26.400335267524063
+2026-01-08 16:06:25,771 beeref.selection 334573 140297745504064 Setting rotation for Text "Daypunk/Sunpunk" to 0.0
+2026-01-08 16:06:25,771 beeref.scene 334573 140297745504064 Adding item Text "Daypunk/Sunpunk"
+2026-01-08 16:06:25,771 beeref.selection 334573 140297745504064 Setting z-value for Text "Daypunk/Sunpunk" to 2.406999999999846
+2026-01-08 16:06:25,771 beeref.widgets 334573 140297745504064 Progress dialog: 345
+2026-01-08 16:06:25,785 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,786 beeref.items 334573 140297745504064 Initialized Text "Retro Futurism"
+2026-01-08 16:06:25,786 beeref.selection 334573 140297745504064 Setting z-value for Text "Retro Futurism" to 2.407999999999846
+2026-01-08 16:06:25,786 beeref.selection 334573 140297745504064 Setting scale for Text "Retro Futurism" to 29.26797398417944
+2026-01-08 16:06:25,786 beeref.selection 334573 140297745504064 Setting rotation for Text "Retro Futurism" to 0.0
+2026-01-08 16:06:25,786 beeref.scene 334573 140297745504064 Adding item Text "Retro Futurism"
+2026-01-08 16:06:25,786 beeref.selection 334573 140297745504064 Setting z-value for Text "Retro Futurism" to 2.407999999999846
+2026-01-08 16:06:25,786 beeref.widgets 334573 140297745504064 Progress dialog: 346
+2026-01-08 16:06:25,802 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,802 beeref.items 334573 140297745504064 Initialized Text "Cyberpunk"
+2026-01-08 16:06:25,802 beeref.selection 334573 140297745504064 Setting z-value for Text "Cyberpunk" to 2.405999999999846
+2026-01-08 16:06:25,802 beeref.selection 334573 140297745504064 Setting scale for Text "Cyberpunk" to 33.53562428451033
+2026-01-08 16:06:25,802 beeref.selection 334573 140297745504064 Setting rotation for Text "Cyberpunk" to 0.0
+2026-01-08 16:06:25,802 beeref.scene 334573 140297745504064 Adding item Text "Cyberpunk"
+2026-01-08 16:06:25,803 beeref.selection 334573 140297745504064 Setting z-value for Text "Cyberpunk" to 2.405999999999846
+2026-01-08 16:06:25,803 beeref.widgets 334573 140297745504064 Progress dialog: 347
+2026-01-08 16:06:25,813 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,813 beeref.items 334573 140297745504064 Initialized Text "Thelma Landscape"
+2026-01-08 16:06:25,813 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Landscape" to 0.7550000000000006
+2026-01-08 16:06:25,814 beeref.selection 334573 140297745504064 Setting scale for Text "Thelma Landscape" to 60.94068343885511
+2026-01-08 16:06:25,814 beeref.selection 334573 140297745504064 Setting rotation for Text "Thelma Landscape" to 0.0
+2026-01-08 16:06:25,814 beeref.scene 334573 140297745504064 Adding item Text "Thelma Landscape"
+2026-01-08 16:06:25,814 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Landscape" to 0.7550000000000006
+2026-01-08 16:06:25,814 beeref.widgets 334573 140297745504064 Progress dialog: 348
+2026-01-08 16:06:25,829 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,829 beeref.items 334573 140297745504064 Initialized Text "Monsters"
+2026-01-08 16:06:25,830 beeref.selection 334573 140297745504064 Setting z-value for Text "Monsters" to 0.7660000000000006
+2026-01-08 16:06:25,830 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 60.02135126336965
+2026-01-08 16:06:25,830 beeref.selection 334573 140297745504064 Setting rotation for Text "Monsters" to 0.0
+2026-01-08 16:06:25,830 beeref.scene 334573 140297745504064 Adding item Text "Monsters"
+2026-01-08 16:06:25,830 beeref.selection 334573 140297745504064 Setting z-value for Text "Monsters" to 0.7660000000000006
+2026-01-08 16:06:25,830 beeref.widgets 334573 140297745504064 Progress dialog: 349
+2026-01-08 16:06:25,842 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,843 beeref.items 334573 140297745504064 Initialized Text "Neo-Funk"
+2026-01-08 16:06:25,843 beeref.selection 334573 140297745504064 Setting z-value for Text "Neo-Funk" to 2.4089999999998457
+2026-01-08 16:06:25,843 beeref.selection 334573 140297745504064 Setting scale for Text "Neo-Funk" to 35.68208433494258
+2026-01-08 16:06:25,843 beeref.selection 334573 140297745504064 Setting rotation for Text "Neo-Funk" to 0.0
+2026-01-08 16:06:25,843 beeref.scene 334573 140297745504064 Adding item Text "Neo-Funk"
+2026-01-08 16:06:25,843 beeref.selection 334573 140297745504064 Setting z-value for Text "Neo-Funk" to 2.4089999999998457
+2026-01-08 16:06:25,843 beeref.widgets 334573 140297745504064 Progress dialog: 350
+2026-01-08 16:06:25,853 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,853 beeref.items 334573 140297745504064 Initialized Text "Thelma Towns/Cities"
+2026-01-08 16:06:25,853 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Towns/Cities" to 1.1539999999999837
+2026-01-08 16:06:25,853 beeref.selection 334573 140297745504064 Setting scale for Text "Thelma Towns/Cities" to 52.503630551143445
+2026-01-08 16:06:25,853 beeref.selection 334573 140297745504064 Setting rotation for Text "Thelma Towns/Cities" to 0.0
+2026-01-08 16:06:25,853 beeref.scene 334573 140297745504064 Adding item Text "Thelma Towns/Cities"
+2026-01-08 16:06:25,853 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Towns/Cities" to 1.1539999999999837
+2026-01-08 16:06:25,854 beeref.widgets 334573 140297745504064 Progress dialog: 351
+2026-01-08 16:06:25,865 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,865 beeref.items 334573 140297745504064 Initialized Text "Thelma Zero"
+2026-01-08 16:06:25,865 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Zero" to 2.4009999999998466
+2026-01-08 16:06:25,865 beeref.selection 334573 140297745504064 Setting scale for Text "Thelma Zero" to 74.81116283622941
+2026-01-08 16:06:25,866 beeref.selection 334573 140297745504064 Setting rotation for Text "Thelma Zero" to 0.0
+2026-01-08 16:06:25,866 beeref.scene 334573 140297745504064 Adding item Text "Thelma Zero"
+2026-01-08 16:06:25,866 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Zero" to 2.4009999999998466
+2026-01-08 16:06:25,866 beeref.widgets 334573 140297745504064 Progress dialog: 352
+2026-01-08 16:06:25,876 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,877 beeref.items 334573 140297745504064 Initialized Text "Thelma Zero - Robots"
+2026-01-08 16:06:25,877 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Zero - Robots" to 2.4109999999998455
+2026-01-08 16:06:25,877 beeref.selection 334573 140297745504064 Setting scale for Text "Thelma Zero - Robots" to 69.87921150495742
+2026-01-08 16:06:25,877 beeref.selection 334573 140297745504064 Setting rotation for Text "Thelma Zero - Robots" to 0.0
+2026-01-08 16:06:25,877 beeref.scene 334573 140297745504064 Adding item Text "Thelma Zero - Robots"
+2026-01-08 16:06:25,877 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Zero - Robots" to 2.4109999999998455
+2026-01-08 16:06:25,877 beeref.widgets 334573 140297745504064 Progress dialog: 353
+2026-01-08 16:06:25,888 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,889 beeref.items 334573 140297745504064 Initialized Text "Beasts"
+2026-01-08 16:06:25,889 beeref.selection 334573 140297745504064 Setting z-value for Text "Beasts" to 2.3489999999998523
+2026-01-08 16:06:25,889 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 52.95487260967699
+2026-01-08 16:06:25,889 beeref.selection 334573 140297745504064 Setting rotation for Text "Beasts" to 0.0
+2026-01-08 16:06:25,889 beeref.scene 334573 140297745504064 Adding item Text "Beasts"
+2026-01-08 16:06:25,889 beeref.selection 334573 140297745504064 Setting z-value for Text "Beasts" to 2.3489999999998523
+2026-01-08 16:06:25,889 beeref.widgets 334573 140297745504064 Progress dialog: 354
+2026-01-08 16:06:25,901 beeref.view 334573 140297745504064 On items loaded: add queued items
+2026-01-08 16:06:25,901 beeref.items 334573 140297745504064 Initialized Text "Thelma Zero Fashion"
+2026-01-08 16:06:25,901 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Zero Fashion" to 2.432999999999843
+2026-01-08 16:06:25,902 beeref.selection 334573 140297745504064 Setting scale for Text "Thelma Zero Fashion" to 56.23179039955852
+2026-01-08 16:06:25,902 beeref.selection 334573 140297745504064 Setting rotation for Text "Thelma Zero Fashion" to 0.0
+2026-01-08 16:06:25,902 beeref.scene 334573 140297745504064 Adding item Text "Thelma Zero Fashion"
+2026-01-08 16:06:25,902 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Zero Fashion" to 2.432999999999843
+2026-01-08 16:06:25,902 beeref.widgets 334573 140297745504064 Progress dialog: 355
+2026-01-08 16:06:26,625 beeref.view 334573 140297745504064 Fit view: PyQt6.QtCore.QRectF(-2477.9065670847594, -11160.145697762022, 38379.50401490867, 33121.6957363493)
+2026-01-08 16:06:26,631 beeref.widgets 334573 140297745504064 Finished progress dialog
+2026-01-08 16:06:27,753 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:06:27,753 beeref.scene 334573 140297745504064 Adding item RubberbandItem 1.0 x 1.0
+2026-01-08 16:06:27,753 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 1.0 x 1.0 to 2.433999999999843
+2026-01-08 16:06:27,866 beeref.selection 334573 140297745504064 Setting z-value for Image "https://i.pinimg.com/originals/7b/88/8a/7b888a8fbaad480df1cb193e5b37da67.gif" 2000 x 2000 to 2.434999999999843
+2026-01-08 16:06:27,867 beeref.scene 334573 140297745504064 Adding item MultiSelectItem 5360.666085922552 x 9389.84057735441
+2026-01-08 16:06:27,867 beeref.view 334573 140297745504064 Currently selected items: 8
+2026-01-08 16:06:27,900 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 5360.666085922552 x 9389.84057735441 to 2.4359999999998427
+2026-01-08 16:06:27,900 beeref.view 334573 140297745504064 Currently selected items: 8
+2026-01-08 16:06:27,942 beeref.view 334573 140297745504064 Currently selected items: 56
+2026-01-08 16:06:27,995 beeref.view 334573 140297745504064 Currently selected items: 96
+2026-01-08 16:06:28,073 beeref.view 334573 140297745504064 Currently selected items: 105
+2026-01-08 16:06:28,129 beeref.view 334573 140297745504064 Currently selected items: 111
+2026-01-08 16:06:28,213 beeref.view 334573 140297745504064 Currently selected items: 122
+2026-01-08 16:06:28,275 beeref.view 334573 140297745504064 Currently selected items: 126
+2026-01-08 16:06:28,364 beeref.view 334573 140297745504064 Currently selected items: 127
+2026-01-08 16:06:28,769 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:06:28,769 beeref.scene 334573 140297745504064 Removing item RubberbandItem 17609.98699534603 x 26690.19532071235
+2026-01-08 16:06:29,412 beeref.view 334573 140297745504064 Deleting items...
+2026-01-08 16:06:29,412 beeref.view 334573 140297745504064 Cancel sample color mode
+2026-01-08 16:06:29,412 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 21132.33624083228 x 26788.61629499851 to 2.4369999999998426
+2026-01-08 16:06:29,412 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/-(1).jpg" 1920 x 915
+2026-01-08 16:06:29,413 beeref.view 334573 140297745504064 Currently selected items: 126
+2026-01-08 16:06:29,465 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/maria-belen-nunez-concept-2.jpg" 1000 x 670
+2026-01-08 16:06:29,468 beeref.view 334573 140297745504064 Currently selected items: 125
+2026-01-08 16:06:29,511 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/dc/f6/dc/dcf6dc8817de1f76ab601e577cdb0738.jpg" 579 x 819
+2026-01-08 16:06:29,514 beeref.view 334573 140297745504064 Currently selected items: 124
+2026-01-08 16:06:29,558 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/maria-belen-nunez-photobash-concept-2-final-firma-ok.jpg" 1920 x 1080
+2026-01-08 16:06:29,560 beeref.view 334573 140297745504064 Currently selected items: 123
+2026-01-08 16:06:29,604 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/d2/b0/24/d2b02487a9d3ccae80617ae6d9c55ad3.jpg" 640 x 622
+2026-01-08 16:06:29,606 beeref.view 334573 140297745504064 Currently selected items: 122
+2026-01-08 16:06:29,649 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/50/75/5e/50755e09fa37b66864d26ebaca58d016.jpg" 528 x 680
+2026-01-08 16:06:29,650 beeref.view 334573 140297745504064 Currently selected items: 121
+2026-01-08 16:06:29,694 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/d4/bd/d9/d4bdd96921c7ccd3562cb8c54a3f9bfc.jpg" 564 x 498
+2026-01-08 16:06:29,696 beeref.view 334573 140297745504064 Currently selected items: 120
+2026-01-08 16:06:29,739 beeref.scene 334573 140297745504064 Removing item Text "Cyberpunk"
+2026-01-08 16:06:29,741 beeref.view 334573 140297745504064 Currently selected items: 119
+2026-01-08 16:06:29,788 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/3f/3b/68/3f3b680edcd829a4071ba6c01249aa27.jpg" 691 x 1157
+2026-01-08 16:06:29,790 beeref.view 334573 140297745504064 Currently selected items: 118
+2026-01-08 16:06:29,836 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/aleksey-parakhnevich-city-aboregens-f3.jpg" 1920 x 1013
+2026-01-08 16:06:29,838 beeref.view 334573 140297745504064 Currently selected items: 117
+2026-01-08 16:06:29,886 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/57/1c/e8/571ce8552f769a67a739c4364524b23d.jpg" 540 x 540
+2026-01-08 16:06:29,887 beeref.view 334573 140297745504064 Currently selected items: 116
+2026-01-08 16:06:29,929 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/4f/1b/10/4f1b10920f0448af813eee4e4bb190e2.jpg" 736 x 828
+2026-01-08 16:06:29,931 beeref.view 334573 140297745504064 Currently selected items: 115
+2026-01-08 16:06:29,974 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/af/a5/9b/afa59b174536bb507ab46db8cee2029b.jpg" 736 x 1020
+2026-01-08 16:06:29,976 beeref.view 334573 140297745504064 Currently selected items: 114
+2026-01-08 16:06:30,020 beeref.scene 334573 140297745504064 Removing item Image "https://64.media.tumblr.com/48cabc1a16f6bdf0fa9175c3b5d0aba7/8739601ebaee732c-e3/s2048x3072/1ee24b2eb6814b044d8dcf7de28f6f13fc101270.jpg" 2000 x 1562
+2026-01-08 16:06:30,023 beeref.view 334573 140297745504064 Currently selected items: 113
+2026-01-08 16:06:30,066 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/10/ac/95/10ac95b9a178f0b6ac13c7dbdad5bb46.jpg" 736 x 1187
+2026-01-08 16:06:30,069 beeref.view 334573 140297745504064 Currently selected items: 112
+2026-01-08 16:06:30,114 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/4c/aa/46/4caa46408f582b53674293ea9a1a4caa.jpg" 736 x 920
+2026-01-08 16:06:30,115 beeref.view 334573 140297745504064 Currently selected items: 111
+2026-01-08 16:06:30,158 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/5a/6b/a7/5a6ba79553e7b9e5278517d1e65700e3.jpg" 600 x 867
+2026-01-08 16:06:30,159 beeref.view 334573 140297745504064 Currently selected items: 110
+2026-01-08 16:06:30,198 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/a7/94/61/a794610542a621d96818419002d21ab9.jpg" 736 x 736
+2026-01-08 16:06:30,200 beeref.view 334573 140297745504064 Currently selected items: 109
+2026-01-08 16:06:30,239 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/9f/83/b5/9f83b5060b58d88b7a7f2087b53a68cd.jpg" 736 x 414
+2026-01-08 16:06:30,241 beeref.view 334573 140297745504064 Currently selected items: 108
+2026-01-08 16:06:30,282 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/park-jinkwan-study-z-028-b.jpg" 1920 x 933
+2026-01-08 16:06:30,283 beeref.view 334573 140297745504064 Currently selected items: 107
+2026-01-08 16:06:30,323 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/c2/65/26/c265266f239dfeb76010e3115aa8bbe4.jpg" 736 x 414
+2026-01-08 16:06:30,325 beeref.view 334573 140297745504064 Currently selected items: 106
+2026-01-08 16:06:30,366 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/fc/9e/1c/fc9e1c21902ba91fa4284128c4209974.jpg" 680 x 383
+2026-01-08 16:06:30,367 beeref.view 334573 140297745504064 Currently selected items: 105
+2026-01-08 16:06:30,406 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/9c/4f/cf/9c4fcf27b8987d9f81e887bcc9b48f3a.jpg" 736 x 414
+2026-01-08 16:06:30,408 beeref.view 334573 140297745504064 Currently selected items: 104
+2026-01-08 16:06:30,449 beeref.scene 334573 140297745504064 Removing item Image "https://www.unseen64.net/wp-content/uploads/2025/06/ME0000510448_2__w1280.jpg" 1280 x 896
+2026-01-08 16:06:30,451 beeref.view 334573 140297745504064 Currently selected items: 103
+2026-01-08 16:06:30,490 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/c0/96/a6/c096a6b66650b77004e1e39bc8ee901d.jpg" 500 x 708
+2026-01-08 16:06:30,491 beeref.view 334573 140297745504064 Currently selected items: 102
+2026-01-08 16:06:30,533 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/lukas-loffler-comp-v007.jpg" 3840 x 1609
+2026-01-08 16:06:30,534 beeref.view 334573 140297745504064 Currently selected items: 101
+2026-01-08 16:06:30,574 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/4e/ee/02/4eee02a7a2af8c46d1660510f35934e5.jpg" 736 x 1104
+2026-01-08 16:06:30,577 beeref.view 334573 140297745504064 Currently selected items: 100
+2026-01-08 16:06:30,614 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/maria-belen-nunez-echoes-of-the-forest-final-3-con-firma.jpg" 1920 x 2880
+2026-01-08 16:06:30,615 beeref.view 334573 140297745504064 Currently selected items: 99
+2026-01-08 16:06:30,653 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/michael-r-blender5-wip-44-gimp-samples-360-cirro-cumulus-001-density-0-00075-seed-41-205-scale-0-0095-coverage-0-32-film-exposure-0-42-sharp-25-25-jpg.jpg" 1920 x 818
+2026-01-08 16:06:30,654 beeref.view 334573 140297745504064 Currently selected items: 98
+2026-01-08 16:06:30,693 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/0d/32/a6/0d32a63cfe3f2e4fa937a36197dd7457.jpg" 736 x 580
+2026-01-08 16:06:30,694 beeref.view 334573 140297745504064 Currently selected items: 97
+2026-01-08 16:06:30,731 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/maria-belen-nunez-concept-1.jpg" 1000 x 670
+2026-01-08 16:06:30,732 beeref.view 334573 140297745504064 Currently selected items: 96
+2026-01-08 16:06:30,770 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/e0/0b/cf/e00bcf667d2294a8c331e3d6fc68de70.jpg" 736 x 920
+2026-01-08 16:06:30,771 beeref.view 334573 140297745504064 Currently selected items: 95
+2026-01-08 16:06:30,809 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/alex-chetverikov-pripyat.jpg" 1920 x 823
+2026-01-08 16:06:30,811 beeref.view 334573 140297745504064 Currently selected items: 94
+2026-01-08 16:06:30,851 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/1a/eb/38/1aeb38c4bd24f1f314396dfaa48cfb2b.jpg" 500 x 281
+2026-01-08 16:06:30,852 beeref.view 334573 140297745504064 Currently selected items: 93
+2026-01-08 16:06:30,891 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/fb/ff/93/fbff937f773bab3aaced46b04be9a035.jpg" 736 x 414
+2026-01-08 16:06:30,892 beeref.view 334573 140297745504064 Currently selected items: 92
+2026-01-08 16:06:30,931 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/63/de/3d/63de3d373a497cb2ad054e8045de746b.jpg" 736 x 1011
+2026-01-08 16:06:30,932 beeref.view 334573 140297745504064 Currently selected items: 91
+2026-01-08 16:06:30,970 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/25/32/03/2532030c5178c1bfb40cba859b82d1f5.jpg" 736 x 920
+2026-01-08 16:06:30,971 beeref.view 334573 140297745504064 Currently selected items: 90
+2026-01-08 16:06:31,007 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/maria-belen-nunez-concept-3.jpg" 1000 x 670
+2026-01-08 16:06:31,008 beeref.view 334573 140297745504064 Currently selected items: 89
+2026-01-08 16:06:31,045 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/bohdan-ozheredov-factory.jpg" 1920 x 1080
+2026-01-08 16:06:31,046 beeref.view 334573 140297745504064 Currently selected items: 88
+2026-01-08 16:06:31,082 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/8c/98/97/8c9897d27112c35acd0733f254273bc5.jpg" 736 x 981
+2026-01-08 16:06:31,084 beeref.view 334573 140297745504064 Currently selected items: 87
+2026-01-08 16:06:31,124 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/ramiidev-1000284582.jpg" 1920 x 2401
+2026-01-08 16:06:31,125 beeref.view 334573 140297745504064 Currently selected items: 86
+2026-01-08 16:06:31,167 beeref.scene 334573 140297745504064 Removing item Image "https://www.unseen64.net/wp-content/uploads/2025/06/ME0000509725_2__w1280.jpg" 1280 x 960
+2026-01-08 16:06:31,168 beeref.view 334573 140297745504064 Currently selected items: 85
+2026-01-08 16:06:31,202 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/19/ea/e2/19eae29dc37f9d2d5db54536415f733c.jpg" 540 x 381
+2026-01-08 16:06:31,204 beeref.view 334573 140297745504064 Currently selected items: 84
+2026-01-08 16:06:31,247 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/morozov-alexandrevich-igor-asset.jpg" 1169 x 1299
+2026-01-08 16:06:31,248 beeref.view 334573 140297745504064 Currently selected items: 83
+2026-01-08 16:06:31,287 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/d0/04/34/d0043406efbb051342e7372ac561657c.jpg" 736 x 920
+2026-01-08 16:06:31,289 beeref.view 334573 140297745504064 Currently selected items: 82
+2026-01-08 16:06:31,323 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Pictures/Screenshots/Temp/2025-09-06-140521_hyprshot.png" 427 x 516
+2026-01-08 16:06:31,324 beeref.view 334573 140297745504064 Currently selected items: 81
+2026-01-08 16:06:31,360 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/30/c3/d7/30c3d794e82ac42ddd8f77e23fd2b7ab.jpg" 736 x 736
+2026-01-08 16:06:31,361 beeref.view 334573 140297745504064 Currently selected items: 80
+2026-01-08 16:06:31,396 beeref.scene 334573 140297745504064 Removing item Image "https://www.unseen64.net/wp-content/uploads/2025/06/ME0000510430_2__w1280.jpg" 1280 x 968
+2026-01-08 16:06:31,397 beeref.view 334573 140297745504064 Currently selected items: 79
+2026-01-08 16:06:31,435 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/71/6c/73/716c73b9d560d1474c365c41274932b5.jpg" 736 x 554
+2026-01-08 16:06:31,436 beeref.view 334573 140297745504064 Currently selected items: 78
+2026-01-08 16:06:31,476 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/76/66/d4/7666d4dc5290d2999fa0c18d3818f5b5.jpg" 736 x 554
+2026-01-08 16:06:31,477 beeref.view 334573 140297745504064 Currently selected items: 77
+2026-01-08 16:06:31,513 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/e5/45/03/e54503dbd08d33fa2da6d3d96804f322.jpg" 736 x 736
+2026-01-08 16:06:31,515 beeref.view 334573 140297745504064 Currently selected items: 76
+2026-01-08 16:06:31,548 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/02/c8/b1/02c8b15a1ebdc0c6b259e6f3b34923ae.jpg" 736 x 552
+2026-01-08 16:06:31,550 beeref.view 334573 140297745504064 Currently selected items: 75
+2026-01-08 16:06:31,583 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/8a/29/4c/8a294c26d2e7f1df6a6df3956618ec55.jpg" 696 x 464
+2026-01-08 16:06:31,584 beeref.view 334573 140297745504064 Currently selected items: 74
+2026-01-08 16:06:31,620 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/46/92/e6/4692e6b827e7d4e0b46cb3a48e8eebac.jpg" 736 x 941
+2026-01-08 16:06:31,621 beeref.view 334573 140297745504064 Currently selected items: 73
+2026-01-08 16:06:31,656 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/c9/c1/5d/c9c15d9963f13e18f52efbf3db2188a1.jpg" 736 x 1051
+2026-01-08 16:06:31,658 beeref.view 334573 140297745504064 Currently selected items: 72
+2026-01-08 16:06:31,691 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/c0/0a/36/c00a363e28388765307b6ef5fefc7e63.jpg" 736 x 414
+2026-01-08 16:06:31,693 beeref.view 334573 140297745504064 Currently selected items: 71
+2026-01-08 16:06:31,725 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/af/4a/25/af4a256d126a19ac3c2dd90ef65117d1.jpg" 736 x 520
+2026-01-08 16:06:31,726 beeref.view 334573 140297745504064 Currently selected items: 70
+2026-01-08 16:06:31,761 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/3a/48/b4/3a48b4a69c7fd1d20fd65a9d74f6b454.jpg" 736 x 744
+2026-01-08 16:06:31,762 beeref.view 334573 140297745504064 Currently selected items: 69
+2026-01-08 16:06:31,795 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/johan-backman-neobuilding-v07-copy.jpg" 1920 x 2560
+2026-01-08 16:06:31,796 beeref.view 334573 140297745504064 Currently selected items: 68
+2026-01-08 16:06:31,829 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/da/6b/71/da6b710adc9da59f0e6434cd6043693e.jpg" 735 x 1040
+2026-01-08 16:06:31,831 beeref.view 334573 140297745504064 Currently selected items: 67
+2026-01-08 16:06:31,863 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/04/1a/40/041a40596b153361841849895e33ce4e.jpg" 736 x 632
+2026-01-08 16:06:31,864 beeref.view 334573 140297745504064 Currently selected items: 66
+2026-01-08 16:06:31,897 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/ulli-schulz-asset.jpg" 1920 x 3840
+2026-01-08 16:06:31,898 beeref.view 334573 140297745504064 Currently selected items: 65
+2026-01-08 16:06:31,930 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/ff/a0/ad/ffa0ad7d9f66ef6564219a882157a66b.jpg" 736 x 414
+2026-01-08 16:06:31,932 beeref.view 334573 140297745504064 Currently selected items: 64
+2026-01-08 16:06:31,962 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/originals/7b/88/8a/7b888a8fbaad480df1cb193e5b37da67.gif" 2000 x 2000
+2026-01-08 16:06:31,965 beeref.view 334573 140297745504064 Currently selected items: 63
+2026-01-08 16:06:31,995 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/li-zihao-0601.jpg" 3840 x 2251
+2026-01-08 16:06:31,997 beeref.view 334573 140297745504064 Currently selected items: 62
+2026-01-08 16:06:32,028 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/47/85/56/47855639db1e97b79b136cc4094cfbf9.jpg" 736 x 1238
+2026-01-08 16:06:32,029 beeref.view 334573 140297745504064 Currently selected items: 61
+2026-01-08 16:06:32,060 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/nick-stath-tech-room-view-01-v5a-title-block.jpg" 3840 x 1646
+2026-01-08 16:06:32,061 beeref.view 334573 140297745504064 Currently selected items: 60
+2026-01-08 16:06:32,092 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/7d/82/1f/7d821f7cb5012be64722da2286e61d34.jpg" 735 x 405
+2026-01-08 16:06:32,093 beeref.view 334573 140297745504064 Currently selected items: 59
+2026-01-08 16:06:32,124 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/c5/53/cb/c553cb3b3ca27c7995ce1902f739a05f.jpg" 736 x 414
+2026-01-08 16:06:32,126 beeref.view 334573 140297745504064 Currently selected items: 58
+2026-01-08 16:06:32,155 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/hoang-phuc-final-artwork-secondary.jpg" 1920 x 972
+2026-01-08 16:06:32,156 beeref.view 334573 140297745504064 Currently selected items: 57
+2026-01-08 16:06:32,186 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/a1/2d/b9/a12db93a024909e788e19fb6bb5edd63.jpg" 491 x 374
+2026-01-08 16:06:32,187 beeref.view 334573 140297745504064 Currently selected items: 56
+2026-01-08 16:06:32,218 beeref.scene 334573 140297745504064 Removing item Image "https://www.unseen64.net/wp-content/uploads/2025/06/ME0000509724_2__w1280.jpg" 1280 x 960
+2026-01-08 16:06:32,219 beeref.view 334573 140297745504064 Currently selected items: 55
+2026-01-08 16:06:32,249 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/48/77/e1/4877e1598a9811ba1eae81001c184b03.jpg" 640 x 528
+2026-01-08 16:06:32,250 beeref.view 334573 140297745504064 Currently selected items: 54
+2026-01-08 16:06:32,280 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/e4/a2/23/e4a2231adc9017458073f270e3b38cf0.jpg" 736 x 1308
+2026-01-08 16:06:32,281 beeref.view 334573 140297745504064 Currently selected items: 53
+2026-01-08 16:06:32,309 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/55/77/70/557770c7ae5cda57defe25fc9b5173c8.jpg" 736 x 943
+2026-01-08 16:06:32,309 beeref.view 334573 140297745504064 Currently selected items: 52
+2026-01-08 16:06:32,338 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/5d/58/e7/5d58e7b46cf9bd493eb09f761340fb17.jpg" 640 x 640
+2026-01-08 16:06:32,339 beeref.view 334573 140297745504064 Currently selected items: 51
+2026-01-08 16:06:32,367 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/yf-cg-005eiqs9gy1huujtm2z0hj32yo1aye84.jpg" 1920 x 845
+2026-01-08 16:06:32,369 beeref.view 334573 140297745504064 Currently selected items: 50
+2026-01-08 16:06:32,396 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/edouard-pitula-city-river-full.jpg" 1920 x 1080
+2026-01-08 16:06:32,398 beeref.view 334573 140297745504064 Currently selected items: 49
+2026-01-08 16:06:32,427 beeref.scene 334573 140297745504064 Removing item Text "Thelma Zero - Robots"
+2026-01-08 16:06:32,428 beeref.view 334573 140297745504064 Currently selected items: 48
+2026-01-08 16:06:32,460 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/b1/4a/ef/b14aefb621d7306a6e68daffc43fafde.jpg" 736 x 981
+2026-01-08 16:06:32,461 beeref.view 334573 140297745504064 Currently selected items: 47
+2026-01-08 16:06:32,491 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/fc/32/b1/fc32b1342e5a5dba2c7c940d25fd0039.jpg" 736 x 552
+2026-01-08 16:06:32,492 beeref.view 334573 140297745504064 Currently selected items: 46
+2026-01-08 16:06:32,519 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/93/04/25/930425a76ceba0701e34824ee3a16eb6.jpg" 735 x 490
+2026-01-08 16:06:32,520 beeref.view 334573 140297745504064 Currently selected items: 45
+2026-01-08 16:06:32,548 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/15/fe/c0/15fec0710a3e7e23a183b084bc1fe9a2.jpg" 736 x 414
+2026-01-08 16:06:32,548 beeref.view 334573 140297745504064 Currently selected items: 44
+2026-01-08 16:06:32,577 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/originals/45/8d/d4/458dd4d4b1eafbd584636f034aebcdfb.gif" 500 x 375
+2026-01-08 16:06:32,578 beeref.view 334573 140297745504064 Currently selected items: 43
+2026-01-08 16:06:32,605 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/4f/2f/b2/4f2fb2e96d595f9c96cb6920605def4d.jpg" 735 x 490
+2026-01-08 16:06:32,605 beeref.view 334573 140297745504064 Currently selected items: 42
+2026-01-08 16:06:32,632 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/ff/4b/e6/ff4be6758bcbd0c6a2df17d3efe1fd3a.jpg" 736 x 729
+2026-01-08 16:06:32,632 beeref.view 334573 140297745504064 Currently selected items: 41
+2026-01-08 16:06:32,660 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/c0/13/e1/c013e1dadd1aa3918fdef55bbdfb7c65.jpg" 736 x 758
+2026-01-08 16:06:32,661 beeref.view 334573 140297745504064 Currently selected items: 40
+2026-01-08 16:06:32,686 beeref.scene 334573 140297745504064 Removing item Image "https://www.unseen64.net/wp-content/uploads/2025/06/ME0000510427_2__w1280.jpg" 1280 x 968
+2026-01-08 16:06:32,688 beeref.view 334573 140297745504064 Currently selected items: 39
+2026-01-08 16:06:32,715 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/09/9c/c6/099cc626eecabeaba8c6c28b2c2f754f.jpg" 736 x 736
+2026-01-08 16:06:32,716 beeref.view 334573 140297745504064 Currently selected items: 38
+2026-01-08 16:06:32,743 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/ee/36/fa/ee36fa64a87118a5601134a947052f78.jpg" 736 x 856
+2026-01-08 16:06:32,743 beeref.view 334573 140297745504064 Currently selected items: 37
+2026-01-08 16:06:32,768 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/originals/a3/e1/0b/a3e10b17a4a697194b3644a69dc202fd.gif" 1100 x 602
+2026-01-08 16:06:32,769 beeref.view 334573 140297745504064 Currently selected items: 36
+2026-01-08 16:06:32,795 beeref.scene 334573 140297745504064 Removing item Text "Neo-Funk"
+2026-01-08 16:06:32,796 beeref.view 334573 140297745504064 Currently selected items: 35
+2026-01-08 16:06:32,821 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/03/95/8a/03958a2e76fdae28a5a1793223d96521.jpg" 735 x 520
+2026-01-08 16:06:32,822 beeref.view 334573 140297745504064 Currently selected items: 34
+2026-01-08 16:06:32,848 beeref.scene 334573 140297745504064 Removing item Text "Thelma Zero Fashion"
+2026-01-08 16:06:32,849 beeref.view 334573 140297745504064 Currently selected items: 33
+2026-01-08 16:06:32,873 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/60/47/9b/60479b42b6d676fa0464d30ae7cb1da1.jpg" 540 x 540
+2026-01-08 16:06:32,874 beeref.view 334573 140297745504064 Currently selected items: 32
+2026-01-08 16:06:32,898 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/4d/e1/41/4de141667615176344d381c36ca7330e.jpg" 463 x 700
+2026-01-08 16:06:32,899 beeref.view 334573 140297745504064 Currently selected items: 31
+2026-01-08 16:06:32,924 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/50/0f/90/500f909c8ac813f16b39541f38df538a.jpg" 736 x 414
+2026-01-08 16:06:32,925 beeref.view 334573 140297745504064 Currently selected items: 30
+2026-01-08 16:06:32,949 beeref.scene 334573 140297745504064 Removing item Text "Daypunk/Sunpunk"
+2026-01-08 16:06:32,950 beeref.view 334573 140297745504064 Currently selected items: 29
+2026-01-08 16:06:32,974 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/5c/71/a5/5c71a50be584b2932c1840aad2ea41d1.jpg" 735 x 412
+2026-01-08 16:06:32,975 beeref.view 334573 140297745504064 Currently selected items: 28
+2026-01-08 16:06:32,999 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/de/83/c1/de83c19d0e3e8a4fdb7c8011360a3e71.jpg" 736 x 895
+2026-01-08 16:06:33,000 beeref.view 334573 140297745504064 Currently selected items: 27
+2026-01-08 16:06:33,025 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/65/8a/76/658a76978a52cf58ab2dbd489b21dc4a.jpg" 736 x 345
+2026-01-08 16:06:33,026 beeref.view 334573 140297745504064 Currently selected items: 26
+2026-01-08 16:06:33,049 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/06/89/54/068954dd1dafe9739c3347944d0f9354.jpg" 736 x 1030
+2026-01-08 16:06:33,050 beeref.view 334573 140297745504064 Currently selected items: 25
+2026-01-08 16:06:33,073 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/originals/8f/b5/3a/8fb53ac9f44471ef6efdd610f9945c2c.gif" 500 x 500
+2026-01-08 16:06:33,074 beeref.view 334573 140297745504064 Currently selected items: 24
+2026-01-08 16:06:33,098 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/igor-mal-1.jpg" 1920 x 1080
+2026-01-08 16:06:33,099 beeref.view 334573 140297745504064 Currently selected items: 23
+2026-01-08 16:06:33,124 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/12/74/35/127435f7a64973ac2bbf555f8032d1c0.jpg" 600 x 336
+2026-01-08 16:06:33,125 beeref.view 334573 140297745504064 Currently selected items: 22
+2026-01-08 16:06:33,147 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/85/36/26/8536268c8298a8e3cfe48f7602e83b3b.jpg" 500 x 281
+2026-01-08 16:06:33,148 beeref.view 334573 140297745504064 Currently selected items: 21
+2026-01-08 16:06:33,171 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/liam-slabbert-they-re-coming-f-arrangement-4-final-render-ps.jpg" 1920 x 1080
+2026-01-08 16:06:33,172 beeref.view 334573 140297745504064 Currently selected items: 20
+2026-01-08 16:06:33,194 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/aliaksei-rybnikau-infinite-boarders-1.jpg" 1920 x 1188
+2026-01-08 16:06:33,195 beeref.view 334573 140297745504064 Currently selected items: 19
+2026-01-08 16:06:33,218 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/2e/23/66/2e23666332f48627e096a0e64a9a14d1.jpg" 736 x 736
+2026-01-08 16:06:33,219 beeref.view 334573 140297745504064 Currently selected items: 18
+2026-01-08 16:06:33,241 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/ef/a6/e8/efa6e8d566b4f0e563d0d6ac177da252.jpg" 736 x 399
+2026-01-08 16:06:33,241 beeref.view 334573 140297745504064 Currently selected items: 17
+2026-01-08 16:06:33,264 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/anastassiya-shmulevich-final-postproduct.jpg" 1920 x 2400
+2026-01-08 16:06:33,266 beeref.view 334573 140297745504064 Currently selected items: 16
+2026-01-08 16:06:33,287 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/f1/67/c0/f167c0733bdc1902398edaa8fff548ec.jpg" 600 x 800
+2026-01-08 16:06:33,287 beeref.view 334573 140297745504064 Currently selected items: 15
+2026-01-08 16:06:33,310 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/ef/e1/62/efe1623f135a032407bd8ce5523c2c13.jpg" 642 x 402
+2026-01-08 16:06:33,310 beeref.view 334573 140297745504064 Currently selected items: 14
+2026-01-08 16:06:33,333 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/36/23/df/3623df5e8999cf74f2d7201d3d835394.jpg" 700 x 394
+2026-01-08 16:06:33,333 beeref.view 334573 140297745504064 Currently selected items: 13
+2026-01-08 16:06:33,357 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/a3/d1/e3/a3d1e3e1dc776cfb8846af8a550aa1dd.jpg" 736 x 414
+2026-01-08 16:06:33,357 beeref.view 334573 140297745504064 Currently selected items: 12
+2026-01-08 16:06:33,379 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/kozlik-kristian-brutalism.jpg" 1901 x 861
+2026-01-08 16:06:33,379 beeref.view 334573 140297745504064 Currently selected items: 11
+2026-01-08 16:06:33,401 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/bb/15/b7/bb15b7e87109cbd8257b71545c6b8720.jpg" 735 x 413
+2026-01-08 16:06:33,403 beeref.view 334573 140297745504064 Currently selected items: 10
+2026-01-08 16:06:33,425 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/67/dd/c5/67ddc5f89a0758e82e8efae7b7745dae.jpg" 736 x 736
+2026-01-08 16:06:33,425 beeref.view 334573 140297745504064 Currently selected items: 9
+2026-01-08 16:06:33,446 beeref.scene 334573 140297745504064 Removing item Image "/home/luther/Downloads/kevin-yu-uplox-copy.jpg" 1920 x 766
+2026-01-08 16:06:33,447 beeref.view 334573 140297745504064 Currently selected items: 8
+2026-01-08 16:06:33,468 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/10/69/a8/1069a8aaf9cd21569527bfa7e5a406e2.jpg" 736 x 414
+2026-01-08 16:06:33,469 beeref.view 334573 140297745504064 Currently selected items: 7
+2026-01-08 16:06:33,491 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/originals/80/0c/3a/800c3ad35363e70cc8f6e64741d9e87d.gif" 560 x 360
+2026-01-08 16:06:33,492 beeref.view 334573 140297745504064 Currently selected items: 6
+2026-01-08 16:06:33,513 beeref.scene 334573 140297745504064 Removing item Text "Thelma Zero"
+2026-01-08 16:06:33,514 beeref.view 334573 140297745504064 Currently selected items: 5
+2026-01-08 16:06:33,534 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/e6/78/37/e678376c6be75859bcf2ea432f4701fb.jpg" 736 x 414
+2026-01-08 16:06:33,535 beeref.view 334573 140297745504064 Currently selected items: 4
+2026-01-08 16:06:33,555 beeref.scene 334573 140297745504064 Removing item Text "Retro Futurism"
+2026-01-08 16:06:33,556 beeref.view 334573 140297745504064 Currently selected items: 3
+2026-01-08 16:06:33,576 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/26/27/7d/26277d6c44be11201726a4d73fdcd965.jpg" 735 x 1187
+2026-01-08 16:06:33,577 beeref.view 334573 140297745504064 Currently selected items: 2
+2026-01-08 16:06:33,596 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/d3/80/09/d380095e0b6b368491461005c1d9da16.jpg" 483 x 475
+2026-01-08 16:06:33,596 beeref.scene 334573 140297745504064 Removing item MultiSelectItem 7080.208521968994 x 8745.174312344487
+2026-01-08 16:06:33,597 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:06:33,615 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:06:33,636 beeref.scene 334573 140297745504064 Removing item Image "https://i.pinimg.com/736x/80/89/1b/80891b98a1b978d7b2d052aa900b5fee.jpg" 735 x 413
+2026-01-08 16:06:33,636 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:06:34,018 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Towns/Cities" to 2.4379999999998425
+2026-01-08 16:06:34,018 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:06:34,842 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Landscape" to 2.4389999999998424
+2026-01-08 16:06:34,842 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:06:35,746 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Towns/Cities" to 2.4399999999998423
+2026-01-08 16:06:35,746 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:06:37,050 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:06:37,073 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:06:37,073 beeref.scene 334573 140297745504064 Adding item RubberbandItem 17609.98699534603 x 26690.19532071235
+2026-01-08 16:06:37,073 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 17609.98699534603 x 26690.19532071235 to 2.440999999999842
+2026-01-08 16:06:37,134 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150321.jpg" 492 x 1172 to 2.441999999999842
+2026-01-08 16:06:37,134 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:06:37,164 beeref.scene 334573 140297745504064 Adding item MultiSelectItem 2985.358176130849 x 5310.622792494376
+2026-01-08 16:06:37,164 beeref.view 334573 140297745504064 Currently selected items: 8
+2026-01-08 16:06:37,185 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 2985.358176130849 x 5310.622792494376 to 2.442999999999842
+2026-01-08 16:06:37,186 beeref.view 334573 140297745504064 Currently selected items: 8
+2026-01-08 16:06:37,217 beeref.view 334573 140297745504064 Currently selected items: 42
+2026-01-08 16:06:37,258 beeref.view 334573 140297745504064 Currently selected items: 72
+2026-01-08 16:06:37,319 beeref.view 334573 140297745504064 Currently selected items: 90
+2026-01-08 16:06:37,360 beeref.view 334573 140297745504064 Currently selected items: 91
+2026-01-08 16:06:37,420 beeref.view 334573 140297745504064 Currently selected items: 95
+2026-01-08 16:06:37,464 beeref.view 334573 140297745504064 Currently selected items: 101
+2026-01-08 16:06:37,531 beeref.view 334573 140297745504064 Currently selected items: 108
+2026-01-08 16:06:38,042 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:06:38,042 beeref.scene 334573 140297745504064 Removing item RubberbandItem 15698.364190005752 x 13639.693476562374
+2026-01-08 16:06:43,257 beeref.scene 334573 140297745504064 Removing item MultiSelectItem 15776.543523442862 x 13311.572517733848
+2026-01-08 16:06:43,257 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:06:43,282 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:06:43,282 beeref.scene 334573 140297745504064 Adding item RubberbandItem 15698.364190005752 x 13639.693476562374
+2026-01-08 16:06:43,282 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 15698.364190005752 x 13639.693476562374 to 2.443999999999842
+2026-01-08 16:06:43,342 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356 to 2.4449999999998417
+2026-01-08 16:06:43,342 beeref.scene 334573 140297745504064 Adding item MultiSelectItem 1009.879521214079 x 5148.714318054086
+2026-01-08 16:06:43,343 beeref.view 334573 140297745504064 Currently selected items: 3
+2026-01-08 16:06:43,362 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 1009.879521214079 x 5148.714318054086 to 2.4459999999998416
+2026-01-08 16:06:43,362 beeref.view 334573 140297745504064 Currently selected items: 3
+2026-01-08 16:06:43,391 beeref.view 334573 140297745504064 Currently selected items: 23
+2026-01-08 16:06:43,419 beeref.view 334573 140297745504064 Currently selected items: 38
+2026-01-08 16:06:43,460 beeref.view 334573 140297745504064 Currently selected items: 74
+2026-01-08 16:06:43,501 beeref.view 334573 140297745504064 Currently selected items: 94
+2026-01-08 16:06:43,568 beeref.view 334573 140297745504064 Currently selected items: 111
+2026-01-08 16:06:44,278 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:06:44,278 beeref.scene 334573 140297745504064 Removing item RubberbandItem 16764.461523753213 x 12132.452418505614
+2026-01-08 16:06:48,665 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/Terranean.jpg" 5000 x 5000 to 2.4469999999998415
+2026-01-08 16:06:48,666 beeref.scene 334573 140297745504064 Removing item MultiSelectItem 14277.620994093977 x 14968.522345610863
+2026-01-08 16:06:48,666 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:06:49,506 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:06:49,532 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:06:49,533 beeref.scene 334573 140297745504064 Adding item RubberbandItem 16764.461523753213 x 12132.452418505614
+2026-01-08 16:06:49,533 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 16764.461523753213 x 12132.452418505614 to 2.4479999999998414
+2026-01-08 16:06:49,563 beeref.selection 334573 140297745504064 Setting z-value for Text "Beasts" to 2.4489999999998413
+2026-01-08 16:06:49,563 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:06:49,589 beeref.scene 334573 140297745504064 Adding item MultiSelectItem 6443.330449174324 x 4403.161062310086
+2026-01-08 16:06:49,589 beeref.view 334573 140297745504064 Currently selected items: 5
+2026-01-08 16:06:49,608 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 6443.330449174324 x 4403.161062310086 to 2.449999999999841
+2026-01-08 16:06:49,609 beeref.view 334573 140297745504064 Currently selected items: 5
+2026-01-08 16:06:49,637 beeref.view 334573 140297745504064 Currently selected items: 7
+2026-01-08 16:06:49,701 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:06:49,701 beeref.scene 334573 140297745504064 Removing item RubberbandItem 8235.68285377351 x 9007.684371314775
+2026-01-08 16:06:50,838 beeref.scene 334573 140297745504064 Removing item MultiSelectItem 6443.330449174324 x 4403.161062310086
+2026-01-08 16:06:50,839 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:06:50,866 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:06:50,867 beeref.scene 334573 140297745504064 Adding item RubberbandItem 8235.68285377351 x 9007.684371314775
+2026-01-08 16:06:50,867 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 8235.68285377351 x 9007.684371314775 to 2.450999999999841
+2026-01-08 16:06:50,938 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356 to 2.451999999999841
+2026-01-08 16:06:50,938 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:06:50,963 beeref.scene 334573 140297745504064 Adding item MultiSelectItem 3371.8585801074023 x 4637.522345610863
+2026-01-08 16:06:50,964 beeref.view 334573 140297745504064 Currently selected items: 7
+2026-01-08 16:06:50,982 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 3371.8585801074023 x 4637.522345610863 to 2.452999999999841
+2026-01-08 16:06:50,983 beeref.view 334573 140297745504064 Currently selected items: 7
+2026-01-08 16:06:51,013 beeref.view 334573 140297745504064 Currently selected items: 30
+2026-01-08 16:06:51,042 beeref.view 334573 140297745504064 Currently selected items: 42
+2026-01-08 16:06:51,084 beeref.view 334573 140297745504064 Currently selected items: 56
+2026-01-08 16:06:51,117 beeref.view 334573 140297745504064 Currently selected items: 64
+2026-01-08 16:06:51,166 beeref.view 334573 140297745504064 Currently selected items: 92
+2026-01-08 16:06:51,208 beeref.view 334573 140297745504064 Currently selected items: 103
+2026-01-08 16:06:51,272 beeref.view 334573 140297745504064 Currently selected items: 111
+2026-01-08 16:06:51,514 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:06:51,514 beeref.scene 334573 140297745504064 Removing item RubberbandItem 18198.178627758425 x 17573.225018320256
+2026-01-08 16:06:51,704 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150253.jpg" 800 x 800 to 180.0
+2026-01-08 16:06:51,704 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150155.jpg" 720 x 450 to 180.0
+2026-01-08 16:06:51,704 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/0298e20800b0760c5cd2cd5f984e9072/bf88192dcc8ac5f7-de/s1280x1920/8091576b6087948a5c346267394e0943019931c3.jpg" 1280 x 1399 to 180.0
+2026-01-08 16:06:51,704 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150103.png" 640 x 490 to 180.0
+2026-01-08 16:06:51,704 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150244.jpg" 1200 x 715 to 180.0
+2026-01-08 16:06:51,705 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/benjermaine-20230220-150847.jpg" 1920 x 1274 to 180.0
+2026-01-08 16:06:51,705 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/-.jpg" 1920 x 823 to 180.0
+2026-01-08 16:06:51,705 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Ferntree_Gulley2C_Dandenong_Ranges_28Victoria29.jpg?fit=max&w=2400" 800 x 588 to 180.0
+2026-01-08 16:06:51,705 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150225.jpg" 1600 x 900 to 180.0
+2026-01-08 16:06:51,705 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Top_of_Mount_Lofty_near_Adelaide_28S.A.29.jpg?fit=max&w=2400" 800 x 588 to 180.0
+2026-01-08 16:06:51,706 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/brandon-gonzales-nausicaa-02a.jpg" 1920 x 803 to 180.0
+2026-01-08 16:06:51,706 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150171.jpg" 720 x 752 to 180.0
+2026-01-08 16:06:51,706 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150147.jpg" 736 x 552 to 180.0
+2026-01-08 16:06:51,706 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/stephan-theunissen-littledogbigadventures-m.jpg" 1280 x 1920 to 180.0
+2026-01-08 16:06:51,706 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Weatherboard_Fall_NSW.jpg?fit=max&w=2400" 800 x 588 to 180.0
+2026-01-08 16:06:51,707 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/christophe-vacher-summoningofthestones-web.jpg" 1500 x 999 to 180.0
+2026-01-08 16:06:51,707 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/-g23s57-sean-ss.jpg" 1920 x 937 to 180.0
+2026-01-08 16:06:51,707 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/zhuoxin-wang-02.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,707 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150369.jpg" 736 x 1308 to 180.0
+2026-01-08 16:06:51,708 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/eart-cg-.jpg" 1920 x 916 to 180.0
+2026-01-08 16:06:51,708 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150254.jpg" 700 x 1324 to 180.0
+2026-01-08 16:06:51,708 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/44bc4ffc0defa9b989af3effefe7d523/f1368ec4a738479b-70/s1280x1920/1150321742dea5f90defc49359e988ee57bbd368.jpg" 1280 x 994 to 180.0
+2026-01-08 16:06:51,708 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/grigo-grigorii-g-lect-11-update1.jpg" 1920 x 979 to 180.0
+2026-01-08 16:06:51,708 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150236.jpg" 800 x 367 to 180.0
+2026-01-08 16:06:51,709 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150213.jpg" 1000 x 485 to 180.0
+2026-01-08 16:06:51,709 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150150.jpg" 812 x 465 to 180.0
+2026-01-08 16:06:51,709 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/cyann-lalot-capture-d-ecran-2025-05-16-121101.jpg" 1920 x 1082 to 180.0
+2026-01-08 16:06:51,709 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/alex-font-fondo-video2.jpg" 1813 x 2500 to 180.0
+2026-01-08 16:06:51,710 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/a-sch-2025-05-31-210938516.jpg" 1920 x 937 to 180.0
+2026-01-08 16:06:51,710 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/ying-lam-enconcept02.jpg" 1920 x 1013 to 180.0
+2026-01-08 16:06:51,710 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/sh1malvl-landscape.jpg" 1920 x 1280 to 180.0
+2026-01-08 16:06:51,710 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/nazar-yakivchuk-farm-final-8b.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,710 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150160.jpg" 736 x 381 to 180.0
+2026-01-08 16:06:51,711 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174183473_ee67d2c700_z.jpg?zz=1?fit=max&w=2400" 2400 x 3268 to 180.0
+2026-01-08 16:06:51,711 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/midnight-prince-landscape-02.jpg" 1080 x 1080 to 180.0
+2026-01-08 16:06:51,711 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/anna-zhurba-1.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,711 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/nikolai-makarov-dark.jpg" 1920 x 864 to 180.0
+2026-01-08 16:06:51,711 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150257.jpg" 1920 x 2555 to 180.0
+2026-01-08 16:06:51,711 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150187.jpg" 1920 x 863 to 180.0
+2026-01-08 16:06:51,712 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150190.jpg" 736 x 414 to 180.0
+2026-01-08 16:06:51,712 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150188.jpg" 563 x 342 to 180.0
+2026-01-08 16:06:51,712 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/alioune-seck-export202304220210205100.jpg" 1920 x 1292 to 180.0
+2026-01-08 16:06:51,712 beeref.selection 334573 140297745504064 Setting rotation for MultiSelectItem 14277.62099409398 x 14968.522345610863 to 180.0
+2026-01-08 16:06:51,712 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150363.jpg" 766 x 1065 to 180.0
+2026-01-08 16:06:51,713 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150142.png" 680 x 446 to 180.0
+2026-01-08 16:06:51,713 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/nicolas-zuriaga-mattepainting-landscape-castle-chico.jpg" 1920 x 891 to 180.0
+2026-01-08 16:06:51,713 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/nicolas-zuriaga-mattepainting-landscape-castle-chico.jpg" 1920 x 891 to 180.0
+2026-01-08 16:06:51,713 beeref.selection 334573 140297745504064 Setting rotation for Image "https://www.creativeuncut.com/gallery-17/art/dq6-island-map.jpg" 1000 x 750 to 180.0
+2026-01-08 16:06:51,714 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150437.png" 1000 x 1457 to 180.0
+2026-01-08 16:06:51,714 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150249.jpg" 720 x 906 to 180.0
+2026-01-08 16:06:51,714 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/theo-steiner-porfolio5.jpg" 1920 x 1357 to 180.0
+2026-01-08 16:06:51,714 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150098.jpg" 495 x 273 to 180.0
+2026-01-08 16:06:51,714 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150145.jpg" 900 x 585 to 180.0
+2026-01-08 16:06:51,714 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/astero-20250530n.jpg" 1920 x 882 to 180.0
+2026-01-08 16:06:51,715 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150156.jpg" 800 x 411 to 180.0
+2026-01-08 16:06:51,715 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/johnny-kiz-lakeside-mountain.jpg" 1920 x 1348 to 180.0
+2026-01-08 16:06:51,715 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150158.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,715 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/lazlo-woodbine-lw-5-copy.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,715 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/442679c4a2f3798faf57b4c17933faf9/1b412ea5bc134902-1c/s1280x1920/9988a468614551326af9a431cc548cfe0db66384.jpg" 1280 x 973 to 180.0
+2026-01-08 16:06:51,715 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Fall_of_the_first_Creek_near_Glen_Osmond_S.A._by_EV_GuC3A9rard.jpg?fit=max&w=2400" 800 x 588 to 180.0
+2026-01-08 16:06:51,715 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3175022976_1f9b070410_z.jpg?zz=1?fit=max&w=2400" 2400 x 1766 to 180.0
+2026-01-08 16:06:51,716 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3175013574_0f485bdb7f_z.jpg?zz=1?fit=max&w=2400" 2400 x 1755 to 180.0
+2026-01-08 16:06:51,716 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/-g23s57-sean-ss-sss.jpg" 1920 x 935 to 180.0
+2026-01-08 16:06:51,716 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/g-liulian-fff2-ssss2.jpg" 1920 x 820 to 180.0
+2026-01-08 16:06:51,716 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/narendra-soni-17-04-sss-copy.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,716 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174194065_49513bd0fe_z.jpg?zz=1?fit=max&w=2400" 2400 x 1763 to 180.0
+2026-01-08 16:06:51,716 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150246.jpg" 4096 x 2281 to 180.0
+2026-01-08 16:06:51,716 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/jan-urschel-mc-ju-treescene-b.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,717 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/cyann-lalot-splash-screen.jpg" 1920 x 1290 to 180.0
+2026-01-08 16:06:51,717 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150200.jpg" 735 x 1196 to 180.0
+2026-01-08 16:06:51,717 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Moroka_River_Falls_28foot_of_Mount_Kent29.jpg?fit=max&w=2400" 800 x 587 to 180.0
+2026-01-08 16:06:51,717 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/jaosetsu-illustration-sample-grassland-afternoon1.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,717 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/alex-van-der-linde-256-gloomy-passage-by-alex-van-der-linde.jpg" 3840 x 2160 to 180.0
+2026-01-08 16:06:51,717 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174191573_f88fa2d43e_z.jpg?zz=1?fit=max&w=2400" 2400 x 1780 to 180.0
+2026-01-08 16:06:51,717 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150237.jpg" 928 x 1172 to 180.0
+2026-01-08 16:06:51,718 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/yuko-iwase-alkemy-yellow-websize-sign.jpg" 1060 x 1500 to 180.0
+2026-01-08 16:06:51,718 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174174579_0c6a63ca70_z.jpg?zz=1?fit=max&w=2400" 2400 x 1763 to 180.0
+2026-01-08 16:06:51,718 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3175013846_635fc4e13a_z.jpg?zz=1?fit=max&w=2400" 2400 x 3254 to 180.0
+2026-01-08 16:06:51,718 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150231.jpg" 611 x 864 to 180.0
+2026-01-08 16:06:51,718 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/p-d-keyframes2.jpg" 1531 x 802 to 180.0
+2026-01-08 16:06:51,718 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/hector-castrillon-viking-01.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,718 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Hobart_Town.jpg?fit=max&w=2400" 800 x 587 to 180.0
+2026-01-08 16:06:51,719 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/halgand-joris-final-paint-3.jpg" 1920 x 898 to 180.0
+2026-01-08 16:06:51,719 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150154.jpg" 564 x 797 to 180.0
+2026-01-08 16:06:51,719 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150179.jpg" 2048 x 1277 to 180.0
+2026-01-08 16:06:51,719 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/yuvraj-singh-chouhan-lighthouse1.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,720 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/brandon-gonzales-nausicaa-04c.jpg" 1920 x 1038 to 180.0
+2026-01-08 16:06:51,720 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/yuko-iwase-boreal-box-webglaze.jpg" 1060 x 1500 to 180.0
+2026-01-08 16:06:51,720 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/0d3af756a4659ff96abcd4b1dee21ac9/f33b3a0d5acdd590-85/s1280x1920/b35e8a015dbee2784bfa6a028b20c0cea7f396e9.jpg" 1280 x 845 to 180.0
+2026-01-08 16:06:51,720 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150243.jpg" 736 x 368 to 180.0
+2026-01-08 16:06:51,720 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/bobyalexart-leviathans-gate.jpg" 1920 x 2400 to 180.0
+2026-01-08 16:06:51,720 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150235.jpg" 2000 x 1125 to 180.0
+2026-01-08 16:06:51,721 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174199717_4b591e4b0e_z.jpg?zz=1?fit=max&w=2400" 2400 x 1770 to 180.0
+2026-01-08 16:06:51,721 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/vava-yossalva-background-design.jpg" 1920 x 1080 to 180.0
+2026-01-08 16:06:51,721 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/mary-davydova-davydova-mary-pearl-fin.jpg" 3722 x 1881 to 180.0
+2026-01-08 16:06:51,721 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150351.png" 1000 x 1248 to 180.0
+2026-01-08 16:06:51,721 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150242.jpg" 735 x 520 to 180.0
+2026-01-08 16:06:51,721 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150182.jpg" 1920 x 2613 to 180.0
+2026-01-08 16:06:51,721 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-North_East_view_from_the_top_of_Mt_Kosciusko_NSW.jpg?fit=max&w=2400" 800 x 587 to 180.0
+2026-01-08 16:06:51,722 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150197.jpg" 1280 x 720 to 180.0
+2026-01-08 16:06:51,722 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/-25-6-3a-2.jpg" 1920 x 930 to 180.0
+2026-01-08 16:06:51,722 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/dmitry-hryroriev-stones-concept.jpg" 1200 x 600 to 180.0
+2026-01-08 16:06:51,722 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174194623_885e126b38_z.jpg?zz=1?fit=max&w=2400" 2400 x 1766 to 180.0
+2026-01-08 16:06:51,722 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/theghosteclyps-image.jpg" 1176 x 875 to 180.0
+2026-01-08 16:06:51,722 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356 to 180.0
+2026-01-08 16:06:51,722 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Forest2C_Cape_Otway_Ranges.jpg?fit=max&w=2400" 800 x 588 to 180.0
+2026-01-08 16:06:51,723 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150186.jpg" 1920 x 864 to 180.0
+2026-01-08 16:06:51,723 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/6b5bdeb4b08499678986f775a737dba2/7b4ebfcf2ea9febb-71/s1280x1920/83728bc99a8ab71dad9b27c8abae54bd8477cb51.jpg" 1280 x 1639 to 180.0
+2026-01-08 16:06:51,723 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/anthony-lachanat-ancientvesselfinal-copie.jpg" 1920 x 960 to 180.0
+2026-01-08 16:06:51,723 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3175035036_04d66edf80_z.jpg?zz=1?fit=max&w=2400" 2400 x 3193 to 180.0
+2026-01-08 16:06:51,723 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150099.jpg" 495 x 340 to 180.0
+2026-01-08 16:06:51,723 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Cabbage_Tree_Forest2C_American_Creek_28NSW29.jpg?fit=max&w=2400" 800 x 587 to 180.0
+2026-01-08 16:06:53,220 beeref.view 334573 140297745504064 Undo: Flip items
+2026-01-08 16:06:53,220 beeref.view 334573 140297745504064 Cancel sample color mode
+2026-01-08 16:06:53,220 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 14277.62099409398 x 14968.522345610863 to 2.4539999999998408
+2026-01-08 16:06:53,221 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150253.jpg" 800 x 800 to 360.0
+2026-01-08 16:06:53,221 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150155.jpg" 720 x 450 to 360.0
+2026-01-08 16:06:53,221 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/0298e20800b0760c5cd2cd5f984e9072/bf88192dcc8ac5f7-de/s1280x1920/8091576b6087948a5c346267394e0943019931c3.jpg" 1280 x 1399 to 360.0
+2026-01-08 16:06:53,221 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150103.png" 640 x 490 to 360.0
+2026-01-08 16:06:53,221 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150244.jpg" 1200 x 715 to 360.0
+2026-01-08 16:06:53,222 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/benjermaine-20230220-150847.jpg" 1920 x 1274 to 360.0
+2026-01-08 16:06:53,222 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/-.jpg" 1920 x 823 to 360.0
+2026-01-08 16:06:53,222 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Ferntree_Gulley2C_Dandenong_Ranges_28Victoria29.jpg?fit=max&w=2400" 800 x 588 to 360.0
+2026-01-08 16:06:53,222 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150225.jpg" 1600 x 900 to 360.0
+2026-01-08 16:06:53,222 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Top_of_Mount_Lofty_near_Adelaide_28S.A.29.jpg?fit=max&w=2400" 800 x 588 to 360.0
+2026-01-08 16:06:53,222 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/brandon-gonzales-nausicaa-02a.jpg" 1920 x 803 to 360.0
+2026-01-08 16:06:53,222 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150171.jpg" 720 x 752 to 360.0
+2026-01-08 16:06:53,223 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150147.jpg" 736 x 552 to 360.0
+2026-01-08 16:06:53,223 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/stephan-theunissen-littledogbigadventures-m.jpg" 1280 x 1920 to 360.0
+2026-01-08 16:06:53,223 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Weatherboard_Fall_NSW.jpg?fit=max&w=2400" 800 x 588 to 360.0
+2026-01-08 16:06:53,223 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/christophe-vacher-summoningofthestones-web.jpg" 1500 x 999 to 360.0
+2026-01-08 16:06:53,223 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/-g23s57-sean-ss.jpg" 1920 x 937 to 360.0
+2026-01-08 16:06:53,223 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/zhuoxin-wang-02.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,223 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150369.jpg" 736 x 1308 to 360.0
+2026-01-08 16:06:53,224 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/eart-cg-.jpg" 1920 x 916 to 360.0
+2026-01-08 16:06:53,224 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150254.jpg" 700 x 1324 to 360.0
+2026-01-08 16:06:53,224 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/44bc4ffc0defa9b989af3effefe7d523/f1368ec4a738479b-70/s1280x1920/1150321742dea5f90defc49359e988ee57bbd368.jpg" 1280 x 994 to 360.0
+2026-01-08 16:06:53,224 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/grigo-grigorii-g-lect-11-update1.jpg" 1920 x 979 to 360.0
+2026-01-08 16:06:53,224 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150236.jpg" 800 x 367 to 360.0
+2026-01-08 16:06:53,224 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150213.jpg" 1000 x 485 to 360.0
+2026-01-08 16:06:53,225 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150150.jpg" 812 x 465 to 360.0
+2026-01-08 16:06:53,225 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/cyann-lalot-capture-d-ecran-2025-05-16-121101.jpg" 1920 x 1082 to 360.0
+2026-01-08 16:06:53,225 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/alex-font-fondo-video2.jpg" 1813 x 2500 to 360.0
+2026-01-08 16:06:53,225 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/a-sch-2025-05-31-210938516.jpg" 1920 x 937 to 360.0
+2026-01-08 16:06:53,225 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/ying-lam-enconcept02.jpg" 1920 x 1013 to 360.0
+2026-01-08 16:06:53,225 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/sh1malvl-landscape.jpg" 1920 x 1280 to 360.0
+2026-01-08 16:06:53,225 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/nazar-yakivchuk-farm-final-8b.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,226 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150160.jpg" 736 x 381 to 360.0
+2026-01-08 16:06:53,226 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174183473_ee67d2c700_z.jpg?zz=1?fit=max&w=2400" 2400 x 3268 to 360.0
+2026-01-08 16:06:53,226 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/midnight-prince-landscape-02.jpg" 1080 x 1080 to 360.0
+2026-01-08 16:06:53,227 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/anna-zhurba-1.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,227 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/nikolai-makarov-dark.jpg" 1920 x 864 to 360.0
+2026-01-08 16:06:53,227 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150257.jpg" 1920 x 2555 to 360.0
+2026-01-08 16:06:53,227 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150187.jpg" 1920 x 863 to 360.0
+2026-01-08 16:06:53,227 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150190.jpg" 736 x 414 to 360.0
+2026-01-08 16:06:53,227 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150188.jpg" 563 x 342 to 360.0
+2026-01-08 16:06:53,227 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/alioune-seck-export202304220210205100.jpg" 1920 x 1292 to 360.0
+2026-01-08 16:06:53,228 beeref.selection 334573 140297745504064 Setting rotation for MultiSelectItem 14277.62099409398 x 14968.522345610863 to 360.0
+2026-01-08 16:06:53,228 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150363.jpg" 766 x 1065 to 360.0
+2026-01-08 16:06:53,228 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150142.png" 680 x 446 to 360.0
+2026-01-08 16:06:53,228 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/nicolas-zuriaga-mattepainting-landscape-castle-chico.jpg" 1920 x 891 to 360.0
+2026-01-08 16:06:53,228 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/nicolas-zuriaga-mattepainting-landscape-castle-chico.jpg" 1920 x 891 to 360.0
+2026-01-08 16:06:53,228 beeref.selection 334573 140297745504064 Setting rotation for Image "https://www.creativeuncut.com/gallery-17/art/dq6-island-map.jpg" 1000 x 750 to 360.0
+2026-01-08 16:06:53,229 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150437.png" 1000 x 1457 to 360.0
+2026-01-08 16:06:53,229 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150249.jpg" 720 x 906 to 360.0
+2026-01-08 16:06:53,229 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/theo-steiner-porfolio5.jpg" 1920 x 1357 to 360.0
+2026-01-08 16:06:53,229 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150098.jpg" 495 x 273 to 360.0
+2026-01-08 16:06:53,229 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150145.jpg" 900 x 585 to 360.0
+2026-01-08 16:06:53,229 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/astero-20250530n.jpg" 1920 x 882 to 360.0
+2026-01-08 16:06:53,229 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150156.jpg" 800 x 411 to 360.0
+2026-01-08 16:06:53,230 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/johnny-kiz-lakeside-mountain.jpg" 1920 x 1348 to 360.0
+2026-01-08 16:06:53,230 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150158.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,230 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/lazlo-woodbine-lw-5-copy.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,230 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/442679c4a2f3798faf57b4c17933faf9/1b412ea5bc134902-1c/s1280x1920/9988a468614551326af9a431cc548cfe0db66384.jpg" 1280 x 973 to 360.0
+2026-01-08 16:06:53,230 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Fall_of_the_first_Creek_near_Glen_Osmond_S.A._by_EV_GuC3A9rard.jpg?fit=max&w=2400" 800 x 588 to 360.0
+2026-01-08 16:06:53,230 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3175022976_1f9b070410_z.jpg?zz=1?fit=max&w=2400" 2400 x 1766 to 360.0
+2026-01-08 16:06:53,230 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3175013574_0f485bdb7f_z.jpg?zz=1?fit=max&w=2400" 2400 x 1755 to 360.0
+2026-01-08 16:06:53,231 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/-g23s57-sean-ss-sss.jpg" 1920 x 935 to 360.0
+2026-01-08 16:06:53,231 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/g-liulian-fff2-ssss2.jpg" 1920 x 820 to 360.0
+2026-01-08 16:06:53,231 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/narendra-soni-17-04-sss-copy.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,231 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174194065_49513bd0fe_z.jpg?zz=1?fit=max&w=2400" 2400 x 1763 to 360.0
+2026-01-08 16:06:53,231 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150246.jpg" 4096 x 2281 to 360.0
+2026-01-08 16:06:53,231 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/jan-urschel-mc-ju-treescene-b.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,231 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/cyann-lalot-splash-screen.jpg" 1920 x 1290 to 360.0
+2026-01-08 16:06:53,232 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150200.jpg" 735 x 1196 to 360.0
+2026-01-08 16:06:53,232 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Moroka_River_Falls_28foot_of_Mount_Kent29.jpg?fit=max&w=2400" 800 x 587 to 360.0
+2026-01-08 16:06:53,232 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/jaosetsu-illustration-sample-grassland-afternoon1.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,232 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/alex-van-der-linde-256-gloomy-passage-by-alex-van-der-linde.jpg" 3840 x 2160 to 360.0
+2026-01-08 16:06:53,233 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174191573_f88fa2d43e_z.jpg?zz=1?fit=max&w=2400" 2400 x 1780 to 360.0
+2026-01-08 16:06:53,233 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150237.jpg" 928 x 1172 to 360.0
+2026-01-08 16:06:53,233 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/yuko-iwase-alkemy-yellow-websize-sign.jpg" 1060 x 1500 to 360.0
+2026-01-08 16:06:53,233 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174174579_0c6a63ca70_z.jpg?zz=1?fit=max&w=2400" 2400 x 1763 to 360.0
+2026-01-08 16:06:53,234 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3175013846_635fc4e13a_z.jpg?zz=1?fit=max&w=2400" 2400 x 3254 to 360.0
+2026-01-08 16:06:53,234 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150231.jpg" 611 x 864 to 360.0
+2026-01-08 16:06:53,234 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/p-d-keyframes2.jpg" 1531 x 802 to 360.0
+2026-01-08 16:06:53,234 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/hector-castrillon-viking-01.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,234 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Hobart_Town.jpg?fit=max&w=2400" 800 x 587 to 360.0
+2026-01-08 16:06:53,235 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/halgand-joris-final-paint-3.jpg" 1920 x 898 to 360.0
+2026-01-08 16:06:53,235 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150154.jpg" 564 x 797 to 360.0
+2026-01-08 16:06:53,235 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150179.jpg" 2048 x 1277 to 360.0
+2026-01-08 16:06:53,235 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/yuvraj-singh-chouhan-lighthouse1.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,235 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/brandon-gonzales-nausicaa-04c.jpg" 1920 x 1038 to 360.0
+2026-01-08 16:06:53,236 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/yuko-iwase-boreal-box-webglaze.jpg" 1060 x 1500 to 360.0
+2026-01-08 16:06:53,236 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/0d3af756a4659ff96abcd4b1dee21ac9/f33b3a0d5acdd590-85/s1280x1920/b35e8a015dbee2784bfa6a028b20c0cea7f396e9.jpg" 1280 x 845 to 360.0
+2026-01-08 16:06:53,236 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150243.jpg" 736 x 368 to 360.0
+2026-01-08 16:06:53,236 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/bobyalexart-leviathans-gate.jpg" 1920 x 2400 to 360.0
+2026-01-08 16:06:53,236 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150235.jpg" 2000 x 1125 to 360.0
+2026-01-08 16:06:53,236 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174199717_4b591e4b0e_z.jpg?zz=1?fit=max&w=2400" 2400 x 1770 to 360.0
+2026-01-08 16:06:53,237 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/vava-yossalva-background-design.jpg" 1920 x 1080 to 360.0
+2026-01-08 16:06:53,237 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/mary-davydova-davydova-mary-pearl-fin.jpg" 3722 x 1881 to 360.0
+2026-01-08 16:06:53,237 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150351.png" 1000 x 1248 to 360.0
+2026-01-08 16:06:53,237 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150242.jpg" 735 x 520 to 360.0
+2026-01-08 16:06:53,237 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150182.jpg" 1920 x 2613 to 360.0
+2026-01-08 16:06:53,237 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-North_East_view_from_the_top_of_Mt_Kosciusko_NSW.jpg?fit=max&w=2400" 800 x 587 to 360.0
+2026-01-08 16:06:53,237 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150197.jpg" 1280 x 720 to 360.0
+2026-01-08 16:06:53,238 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/-25-6-3a-2.jpg" 1920 x 930 to 360.0
+2026-01-08 16:06:53,238 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/dmitry-hryroriev-stones-concept.jpg" 1200 x 600 to 360.0
+2026-01-08 16:06:53,238 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3174194623_885e126b38_z.jpg?zz=1?fit=max&w=2400" 2400 x 1766 to 360.0
+2026-01-08 16:06:53,238 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/theghosteclyps-image.jpg" 1176 x 875 to 360.0
+2026-01-08 16:06:53,238 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150373.jpg" 1200 x 2356 to 360.0
+2026-01-08 16:06:53,238 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Forest2C_Cape_Otway_Ranges.jpg?fit=max&w=2400" 800 x 588 to 360.0
+2026-01-08 16:06:53,238 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150186.jpg" 1920 x 864 to 360.0
+2026-01-08 16:06:53,239 beeref.selection 334573 140297745504064 Setting rotation for Image "https://64.media.tumblr.com/6b5bdeb4b08499678986f775a737dba2/7b4ebfcf2ea9febb-71/s1280x1920/83728bc99a8ab71dad9b27c8abae54bd8477cb51.jpg" 1280 x 1639 to 360.0
+2026-01-08 16:06:53,239 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Downloads/anthony-lachanat-ancientvesselfinal-copie.jpg" 1920 x 960 to 360.0
+2026-01-08 16:06:53,239 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/landscape-and-marine-views-of-norway/3175035036_04d66edf80_z.jpg?zz=1?fit=max&w=2400" 2400 x 3193 to 360.0
+2026-01-08 16:06:53,239 beeref.selection 334573 140297745504064 Setting rotation for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150099.jpg" 495 x 340 to 360.0
+2026-01-08 16:06:53,239 beeref.selection 334573 140297745504064 Setting rotation for Image "https://the-public-domain-review.imgix.net/collections/eugene-von-guerard-s-australian-landscapes/800px-Cabbage_Tree_Forest2C_American_Creek_28NSW29.jpg?fit=max&w=2400" 800 x 587 to 360.0
+2026-01-08 16:06:57,391 beeref.scene 334573 140297745504064 Removing item MultiSelectItem 14277.62099409398 x 14968.522345610863
+2026-01-08 16:06:57,391 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:06:57,417 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:06:57,417 beeref.scene 334573 140297745504064 Adding item RubberbandItem 18198.178627758425 x 17573.225018320256
+2026-01-08 16:06:57,417 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 18198.178627758425 x 17573.225018320256 to 2.4549999999998406
+2026-01-08 16:06:57,494 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:06:57,494 beeref.scene 334573 140297745504064 Removing item RubberbandItem 184.80988512887416 x 37.761977025775195
+2026-01-08 16:06:57,926 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Landscape" to 2.4559999999998405
+2026-01-08 16:06:57,926 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:00,310 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:07:00,333 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:07:00,334 beeref.scene 334573 140297745504064 Adding item RubberbandItem 184.80988512887416 x 37.761977025775195
+2026-01-08 16:07:00,334 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 184.80988512887416 x 37.761977025775195 to 2.4569999999998404
+2026-01-08 16:07:00,390 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150321.jpg" 492 x 1172 to 2.4579999999998403
+2026-01-08 16:07:00,390 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:00,426 beeref.scene 334573 140297745504064 Adding item MultiSelectItem 1923.7081616338703 x 4056.7042816585563
+2026-01-08 16:07:00,426 beeref.view 334573 140297745504064 Currently selected items: 4
+2026-01-08 16:07:00,447 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 1923.7081616338703 x 4056.7042816585563 to 2.45899999999984
+2026-01-08 16:07:00,447 beeref.view 334573 140297745504064 Currently selected items: 4
+2026-01-08 16:07:00,473 beeref.view 334573 140297745504064 Currently selected items: 17
+2026-01-08 16:07:00,504 beeref.view 334573 140297745504064 Currently selected items: 34
+2026-01-08 16:07:00,535 beeref.view 334573 140297745504064 Currently selected items: 44
+2026-01-08 16:07:00,576 beeref.view 334573 140297745504064 Currently selected items: 61
+2026-01-08 16:07:00,611 beeref.view 334573 140297745504064 Currently selected items: 73
+2026-01-08 16:07:00,664 beeref.view 334573 140297745504064 Currently selected items: 80
+2026-01-08 16:07:00,705 beeref.view 334573 140297745504064 Currently selected items: 87
+2026-01-08 16:07:00,763 beeref.view 334573 140297745504064 Currently selected items: 91
+2026-01-08 16:07:00,803 beeref.view 334573 140297745504064 Currently selected items: 95
+2026-01-08 16:07:00,863 beeref.view 334573 140297745504064 Currently selected items: 101
+2026-01-08 16:07:00,905 beeref.view 334573 140297745504064 Currently selected items: 103
+2026-01-08 16:07:01,214 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:07:01,214 beeref.scene 334573 140297745504064 Removing item RubberbandItem 15918.936052160398 x 12683.882073892233
+2026-01-08 16:07:02,088 beeref.scene 334573 140297745504064 Removing item MultiSelectItem 15729.682862788522 x 13311.57251773385
+2026-01-08 16:07:02,089 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:07:02,113 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:07:02,114 beeref.scene 334573 140297745504064 Adding item RubberbandItem 15918.936052160398 x 12683.882073892233
+2026-01-08 16:07:02,114 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 15918.936052160398 x 12683.882073892233 to 2.45999999999984
+2026-01-08 16:07:02,162 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/gallery-dl/pinterest/lutherthedev/Obscure Enviroment/pinterest_930626710515150321.jpg" 492 x 1172 to 2.46099999999984
+2026-01-08 16:07:02,162 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:02,187 beeref.scene 334573 140297745504064 Adding item MultiSelectItem 3030.20950420115 x 5959.038350212067
+2026-01-08 16:07:02,187 beeref.view 334573 140297745504064 Currently selected items: 9
+2026-01-08 16:07:02,206 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 3030.20950420115 x 5959.038350212067 to 2.46199999999984
+2026-01-08 16:07:02,206 beeref.view 334573 140297745504064 Currently selected items: 9
+2026-01-08 16:07:02,241 beeref.view 334573 140297745504064 Currently selected items: 79
+2026-01-08 16:07:02,283 beeref.view 334573 140297745504064 Currently selected items: 108
+2026-01-08 16:07:02,642 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:07:02,642 beeref.scene 334573 140297745504064 Removing item RubberbandItem 18933.418168273914 x 15257.220465696455
+2026-01-08 16:07:05,414 beeref.selection 334573 140297745504064 Setting z-value for Text "Thelma Towns/Cities" to 2.4629999999998398
+2026-01-08 16:07:05,414 beeref.scene 334573 140297745504064 Removing item MultiSelectItem 15776.543523442866 x 13311.57251773385
+2026-01-08 16:07:05,414 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:07,755 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/Terranean.jpg" 5000 x 5000 to 2.4639999999998397
+2026-01-08 16:07:07,755 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:09,111 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:07:09,139 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:07:09,140 beeref.scene 334573 140297745504064 Adding item RubberbandItem 18933.418168273914 x 15257.220465696455
+2026-01-08 16:07:09,140 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 18933.418168273914 x 15257.220465696455 to 2.4649999999998395
+2026-01-08 16:07:09,579 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:07:09,579 beeref.scene 334573 140297745504064 Removing item RubberbandItem 1030.3353567216873 x 1692.0509431856299
+2026-01-08 16:07:13,683 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:07:13,683 beeref.scene 334573 140297745504064 Adding item RubberbandItem 1030.3353567216873 x 1692.0509431856299
+2026-01-08 16:07:13,683 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 1030.3353567216873 x 1692.0509431856299 to 2.4659999999998394
+2026-01-08 16:07:13,719 beeref.selection 334573 140297745504064 Setting z-value for Text "Beasts" to 2.4669999999998393
+2026-01-08 16:07:13,719 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:13,789 beeref.scene 334573 140297745504064 Adding item MultiSelectItem 2551.4966654058826 x 2363.6543573670897
+2026-01-08 16:07:13,789 beeref.view 334573 140297745504064 Currently selected items: 2
+2026-01-08 16:07:13,803 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 2551.4966654058826 x 2363.6543573670897 to 2.467999999999839
+2026-01-08 16:07:13,804 beeref.view 334573 140297745504064 Currently selected items: 2
+2026-01-08 16:07:13,915 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:07:13,915 beeref.scene 334573 140297745504064 Removing item RubberbandItem 1702.3467420159586 x 2348.594729293338
+2026-01-08 16:07:16,157 beeref.scene 334573 140297745504064 Removing item MultiSelectItem 2551.4966654058826 x 2363.6543573670897
+2026-01-08 16:07:16,157 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:07:16,182 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:07:16,182 beeref.scene 334573 140297745504064 Adding item RubberbandItem 1702.3467420159586 x 2348.594729293338
+2026-01-08 16:07:16,182 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 1702.3467420159586 x 2348.594729293338 to 2.468999999999839
+2026-01-08 16:07:16,252 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:07:16,252 beeref.scene 334573 140297745504064 Removing item RubberbandItem 66.94367217116087 x 172.45354764501826
+2026-01-08 16:07:16,519 beeref.selection 334573 140297745504064 Setting z-value for Text "Beasts" to 2.469999999999839
+2026-01-08 16:07:16,519 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:17,431 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 52.85170959872114
+2026-01-08 16:07:17,435 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 52.624892290252625
+2026-01-08 16:07:17,440 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 52.29491197082825
+2026-01-08 16:07:17,444 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 51.96493165140389
+2026-01-08 16:07:17,449 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 51.634951331979515
+2026-01-08 16:07:17,452 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 51.408134023510996
+2026-01-08 16:07:17,457 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 51.07815370408663
+2026-01-08 16:07:17,462 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 50.74817338466226
+2026-01-08 16:07:17,466 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 50.521356076193726
+2026-01-08 16:07:17,470 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 50.191375756769354
+2026-01-08 16:07:17,475 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 49.63457812887647
+2026-01-08 16:07:17,479 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 49.3045978094521
+2026-01-08 16:07:17,484 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 49.07778050098358
+2026-01-08 16:07:17,488 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 48.747800181559214
+2026-01-08 16:07:17,492 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 48.41781986213484
+2026-01-08 16:07:17,497 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 48.19100255366632
+2026-01-08 16:07:17,502 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 47.86102223424196
+2026-01-08 16:07:17,507 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 47.30422460634907
+2026-01-08 16:07:17,512 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 47.07740729788055
+2026-01-08 16:07:17,515 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 46.747426978456176
+2026-01-08 16:07:17,521 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 46.52060966998766
+2026-01-08 16:07:17,525 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 46.19062935056328
+2026-01-08 16:07:17,530 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 45.860649031138905
+2026-01-08 16:07:17,535 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 45.63383172267039
+2026-01-08 16:07:17,540 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 45.303851403246014
+2026-01-08 16:07:17,545 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 45.0770340947775
+2026-01-08 16:07:17,548 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 44.85021678630898
+2026-01-08 16:07:17,553 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 44.74705377535313
+2026-01-08 16:07:17,557 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 44.52023646688461
+2026-01-08 16:07:17,562 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 44.293419158416086
+2026-01-08 16:07:17,566 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 43.96343883899172
+2026-01-08 16:07:17,571 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 43.7366215305232
+2026-01-08 16:07:17,578 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 43.40664121109883
+2026-01-08 16:07:17,587 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 43.17982390263032
+2026-01-08 16:07:17,590 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 42.849843583205946
+2026-01-08 16:07:17,603 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 42.62302627473743
+2026-01-08 16:07:17,611 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 42.3962089662689
+2026-01-08 16:07:17,623 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 42.06622864684452
+2026-01-08 16:07:17,635 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 41.839411338376
+2026-01-08 16:07:17,640 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 41.73624832742016
+2026-01-08 16:07:17,644 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 41.50943101895163
+2026-01-08 16:07:17,650 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 41.28261371048311
+2026-01-08 16:07:17,667 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 40.95263339105875
+2026-01-08 16:07:17,682 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 40.72581608259023
+2026-01-08 16:07:17,723 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 40.4989987741217
+2026-01-08 16:07:17,727 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 40.395835763165856
+2026-01-08 16:07:17,731 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 40.16901845469734
+2026-01-08 16:07:17,736 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 39.94220114622882
+2026-01-08 16:07:17,742 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 39.612220826804446
+2026-01-08 16:07:17,747 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 39.28224050738008
+2026-01-08 16:07:17,755 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 39.05542319891156
+2026-01-08 16:07:17,760 beeref.selection 334573 140297745504064 Setting scale for Text "Beasts" to 38.72544287948719
+2026-01-08 16:07:20,735 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:07:20,806 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:07:20,807 beeref.scene 334573 140297745504064 Adding item RubberbandItem 66.94367217116087 x 172.45354764501826
+2026-01-08 16:07:20,807 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 66.94367217116087 x 172.45354764501826 to 2.470999999999839
+2026-01-08 16:07:20,834 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:07:20,835 beeref.scene 334573 140297745504064 Removing item RubberbandItem 1.0 x 40.56620330269652
+2026-01-08 16:07:21,307 beeref.selection 334573 140297745504064 Setting z-value for Text "Monsters" to 2.4719999999998388
+2026-01-08 16:07:21,307 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:22,447 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 59.83259964728629
+2026-01-08 16:07:22,451 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 59.58306123247029
+2026-01-08 16:07:22,456 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 59.14477120157093
+2026-01-08 16:07:22,461 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 58.89523278675494
+2026-01-08 16:07:22,465 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 58.70648117067157
+2026-01-08 16:07:22,469 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 58.45694275585558
+2026-01-08 16:07:22,475 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 57.58036269405686
+2026-01-08 16:07:22,478 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 57.33082427924087
+2026-01-08 16:07:22,482 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 56.8925342483415
+2026-01-08 16:07:22,486 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 56.642995833525504
+2026-01-08 16:07:22,491 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 56.204705802626144
+2026-01-08 16:07:22,495 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 55.705628972994155
+2026-01-08 16:07:22,499 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 55.45609055817816
+2026-01-08 16:07:22,503 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 55.01780052727881
+2026-01-08 16:07:22,507 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 54.39075888029606
+2026-01-08 16:07:22,512 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 54.14122046548007
+2026-01-08 16:07:22,515 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 53.763717233313336
+2026-01-08 16:07:22,520 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 53.51417881849733
+2026-01-08 16:07:22,523 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 53.26464040368134
+2026-01-08 16:07:22,527 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 53.01510198886535
+2026-01-08 16:07:22,531 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 52.57681195796599
+2026-01-08 16:07:22,536 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 52.32727354314999
+2026-01-08 16:07:22,540 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 52.13852192706663
+2026-01-08 16:07:22,544 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 51.70023189616727
+2026-01-08 16:07:22,548 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 51.45069348135127
+2026-01-08 16:07:22,552 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 51.26194186526791
+2026-01-08 16:07:22,556 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 51.01240345045191
+2026-01-08 16:07:22,561 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 50.76286503563592
+2026-01-08 16:07:22,564 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 50.38536180346919
+2026-01-08 16:07:22,568 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 50.13582338865318
+2026-01-08 16:07:22,572 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 49.88628497383719
+2026-01-08 16:07:22,577 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 49.69753335775382
+2026-01-08 16:07:22,581 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 49.44799494293783
+2026-01-08 16:07:22,585 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 49.19845652812184
+2026-01-08 16:07:22,589 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 49.00970491203847
+2026-01-08 16:07:22,593 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 48.76016649722248
+2026-01-08 16:07:22,597 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 48.57141488113911
+2026-01-08 16:07:22,602 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 48.32187646632312
+2026-01-08 16:07:22,607 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 48.13312485023975
+2026-01-08 16:07:22,623 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 47.88358643542376
+2026-01-08 16:07:22,639 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 47.69483481934039
+2026-01-08 16:07:22,646 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 47.50608320325703
+2026-01-08 16:07:22,659 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 47.4452964045244
+2026-01-08 16:07:22,664 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 47.25654478844103
+2026-01-08 16:07:22,667 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 47.00700637362504
+2026-01-08 16:07:22,674 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 46.81825475754166
+2026-01-08 16:07:22,678 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 46.568716342725665
+2026-01-08 16:07:22,686 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 46.3799647266423
+2026-01-08 16:07:22,691 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 46.191213110558934
+2026-01-08 16:07:22,695 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 45.94167469574294
+2026-01-08 16:07:22,702 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 45.752923079659574
+2026-01-08 16:07:22,707 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 45.50338466484358
+2026-01-08 16:07:22,714 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 45.314633048760214
+2026-01-08 16:07:22,722 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 45.12588143267685
+2026-01-08 16:07:22,727 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 45.06509463394422
+2026-01-08 16:07:22,731 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 44.876343017860854
+2026-01-08 16:07:22,743 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 44.68759140177749
+2026-01-08 16:07:22,750 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 44.62680460304486
+2026-01-08 16:07:22,807 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 44.438052986961495
+2026-01-08 16:07:22,814 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 44.24930137087813
+2026-01-08 16:07:22,819 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 44.06054975479476
+2026-01-08 16:07:22,826 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 43.81101133997877
+2026-01-08 16:07:22,831 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 43.6222597238954
+2026-01-08 16:07:22,836 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 43.43350810781203
+2026-01-08 16:07:22,840 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 43.18396969299603
+2026-01-08 16:07:22,844 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 42.995218076912664
+2026-01-08 16:07:22,848 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 42.8064664608293
+2026-01-08 16:07:22,853 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 42.556928046013304
+2026-01-08 16:07:22,857 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 42.36817642992994
+2026-01-08 16:07:22,861 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 42.17942481384658
+2026-01-08 16:07:22,864 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 41.990673197763215
+2026-01-08 16:07:22,868 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 41.74113478294721
+2026-01-08 16:07:22,874 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 41.55238316686385
+2026-01-08 16:07:22,879 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 41.36363155078048
+2026-01-08 16:07:22,882 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 41.17487993469712
+2026-01-08 16:07:22,886 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 41.11409313596449
+2026-01-08 16:07:22,891 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 40.92534151988112
+2026-01-08 16:07:22,896 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 40.73658990379776
+2026-01-08 16:07:22,900 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 40.54783828771438
+2026-01-08 16:07:22,903 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 40.29829987289838
+2026-01-08 16:07:22,907 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 39.92079664073165
+2026-01-08 16:07:22,911 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 39.671258225915665
+2026-01-08 16:07:22,916 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 39.293754993748934
+2026-01-08 16:07:22,919 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 38.85546496284957
+2026-01-08 16:07:22,923 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 38.6667133467662
+2026-01-08 16:07:22,927 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 38.477961730682836
+2026-01-08 16:07:22,931 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 38.22842331586684
+2026-01-08 16:07:22,935 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 38.039671699783476
+2026-01-08 16:07:22,939 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 37.85092008370012
+2026-01-08 16:07:22,946 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 37.662168467616745
+2026-01-08 16:07:22,951 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 37.601381668884116
+2026-01-08 16:07:22,955 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 37.412630052800736
+2026-01-08 16:07:22,982 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 37.22387843671737
+2026-01-08 16:07:22,987 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 36.974340021901384
+2026-01-08 16:07:22,994 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 36.78558840581802
+2026-01-08 16:07:22,999 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 36.53604999100202
+2026-01-08 16:07:23,003 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 36.34729837491865
+2026-01-08 16:07:23,007 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 36.158546758835286
+2026-01-08 16:07:23,010 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 35.96979514275192
+2026-01-08 16:07:23,015 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 35.781043526668554
+2026-01-08 16:07:23,018 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 35.53150511185256
+2026-01-08 16:07:23,026 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 35.3427534957692
+2026-01-08 16:07:23,034 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 35.15400187968583
+2026-01-08 16:07:23,050 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 34.965250263602464
+2026-01-08 16:07:23,091 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 34.7764986475191
+2026-01-08 16:07:23,095 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 34.71571184878647
+2026-01-08 16:07:23,111 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 34.526960232703104
+2026-01-08 16:07:23,211 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 34.338208616619724
+2026-01-08 16:07:23,215 beeref.selection 334573 140297745504064 Setting scale for Text "Monsters" to 34.08867020180373
+2026-01-08 16:07:24,763 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:07:24,858 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:07:24,859 beeref.scene 334573 140297745504064 Adding item RubberbandItem 1.0 x 40.56620330269652
+2026-01-08 16:07:24,859 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 1.0 x 40.56620330269652 to 2.4729999999998387
+2026-01-08 16:07:24,874 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:07:24,875 beeref.scene 334573 140297745504064 Removing item RubberbandItem 14.188734434232174 x 106.50987547385739
+2026-01-08 16:07:25,275 beeref.selection 334573 140297745504064 Setting z-value for Image "https://64.media.tumblr.com/fc71ed5571c6adc90d7fab794c61dc93/9b2959b92b00f658-fc/s1280x1920/cc17cd74fd9bcac7779322f137840ea2a3dcd391.jpg" 1090 x 1600 to 2.4739999999998386
+2026-01-08 16:07:25,275 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:27,583 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Pictures/Screenshots/Temp/Argus-sm.jpg" 721 x 900 to 2.4749999999998384
+2026-01-08 16:07:27,583 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:29,848 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:07:29,935 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:07:29,935 beeref.scene 334573 140297745504064 Adding item RubberbandItem 14.188734434232174 x 106.50987547385739
+2026-01-08 16:07:29,935 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 14.188734434232174 x 106.50987547385739 to 2.4759999999998383
+2026-01-08 16:07:29,939 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:07:29,939 beeref.scene 334573 140297745504064 Removing item RubberbandItem 1.0 x 14.188734434232174
+2026-01-08 16:07:30,256 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Downloads/dfae162-f337bdc3-6fdf-441a-948e-2ce0188959f6.jpg" 1080 x 1420 to 2.476999999999838
+2026-01-08 16:07:30,256 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:33,084 beeref.selection 334573 140297745504064 Setting z-value for Image "/home/luther/Downloads/don-vito-afan-15ink2019final.jpg" 1920 x 1864 to 2.477999999999838
+2026-01-08 16:07:33,084 beeref.view 334573 140297745504064 Currently selected items: 1
+2026-01-08 16:07:34,768 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:07:39,927 beeref.view 334573 140297745504064 Fit view: PyQt6.QtCore.QRectF(-4030.7070285827613, -11711.57535314864, 15775.543523442864, 35106.84249574113)
+2026-01-08 16:07:41,590 beeref.scene 334573 140297745504064 Adding item MultiSelectItem 15776.543523442864 x 35107.84249574113
+2026-01-08 16:07:41,593 beeref.view 334573 140297745504064 Currently selected items: 229
+2026-01-08 16:07:41,693 beeref.selection 334573 140297745504064 Setting z-value for MultiSelectItem 15776.543523442864 x 35107.84249574113 to 2.478999999999838
+2026-01-08 16:07:41,693 beeref.view 334573 140297745504064 Currently selected items: 229
+2026-01-08 16:07:51,732 beeref.view 334573 140297745504064 Got export filename /home/luther/Pictures/Screenshots/Temp/World of Thelma.png
+2026-01-08 16:07:51,732 beeref.fileio.export 334573 140297745504064 Exporter for type png: <class 'beeref.fileio.export.SceneToPixmapExporter'>
+2026-01-08 16:07:51,735 beeref.fileio.export 334573 140297745504064 Default export margin: 1053.18
+2026-01-08 16:07:51,735 beeref.fileio.export 334573 140297745504064 Default export size with margins: PyQt6.QtCore.QSize(17881, 37212)
+2026-01-08 16:07:53,508 beeref.fileio.export 334573 140297745504064 Got export size PyQt6.QtCore.QSize(17881, 37212)
+2026-01-08 16:07:53,509 beeref.widgets 334573 140297745504064 Initialised progress bar
+2026-01-08 16:07:53,510 beeref.fileio.export 334573 140297488582336 Exporting scene to /home/luther/Pictures/Screenshots/Temp/World of Thelma.png
+2026-01-08 16:07:53,510 beeref.fileio.export 334573 140297488582336 Final export size: PyQt6.QtCore.QSize(17881, 37212)
+2026-01-08 16:07:53,510 beeref.fileio.export 334573 140297488582336 Final export margin: 1053.18
+2026-01-08 16:07:53,915 beeref.widgets 334573 140297745504064 Beginn progress dialog: 1
+2026-01-08 16:08:21,241 beeref.fileio.export 334573 140297488582336 Export finished
+2026-01-08 16:08:21,268 beeref.widgets 334573 140297745504064 Progress dialog: 1
+2026-01-08 16:08:21,269 beeref.widgets 334573 140297745504064 Finished progress dialog
+2026-01-08 16:08:28,228 beeref.scene 334573 140297745504064 Removing item MultiSelectItem 15776.543523442864 x 35107.84249574113
+2026-01-08 16:08:28,239 beeref.view 334573 140297745504064 Currently selected items: 0
+2026-01-08 16:08:28,325 beeref.scene 334573 140297745504064 Activating rubberband selection
+2026-01-08 16:08:28,325 beeref.scene 334573 140297745504064 Adding item RubberbandItem 1.0 x 14.188734434232174
+2026-01-08 16:08:28,329 beeref.selection 334573 140297745504064 Setting z-value for RubberbandItem 1.0 x 14.188734434232174 to 2.479999999999838
+2026-01-08 16:08:28,336 beeref.scene 334573 140297745504064 Ending rubberband selection
+2026-01-08 16:08:28,336 beeref.scene 334573 140297745504064 Removing item RubberbandItem 19.813956321404476 x 1.0
+2026-01-08 16:08:33,456 __main__ 334573 140297745504064 BeeRef closed

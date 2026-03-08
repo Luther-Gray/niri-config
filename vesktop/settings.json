@@ -1,0 +1,14 @@
+{
+    "minimizeToTray": "on",
+    "discordBranch": "stable",
+    "arRPC": false,
+    "splashColor": "rgb(192, 189, 219)",
+    "splashBackground": "rgb(35, 33, 54)",
+    "spellCheckLanguages": [
+        "en-US",
+        "en"
+    ],
+    "autoStartMinimized": false,
+    "hardwareVideoAcceleration": true,
+    "disableMinSize": true
+}

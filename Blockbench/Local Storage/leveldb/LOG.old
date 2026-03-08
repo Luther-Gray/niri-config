@@ -1,0 +1,11 @@
+2024/07/15-20:14:20.084 125e Reusing MANIFEST /home/luther/.config/Blockbench/Local Storage/leveldb/MANIFEST-000001
+2024/07/15-20:14:20.088 125e Recovering log #3
+2024/07/15-20:14:20.090 125e Level-0 table #3: started
+2024/07/15-20:14:20.116 125e Level-0 table #3: 19252 bytes OK
+2024/07/15-20:14:20.116 125e Recovering log #4
+2024/07/15-20:14:20.116 125e Reusing old log /home/luther/.config/Blockbench/Local Storage/leveldb/000004.log 
+2024/07/15-20:14:20.119 125e Delete type=2 #5
+2024/07/15-20:14:20.119 125e Delete type=0 #3
+2024/07/15-20:49:22.969 125f Level-0 table #6: started
+2024/07/15-20:49:22.971 125f Level-0 table #6: 20614 bytes OK
+2024/07/15-20:49:22.973 125f Delete type=0 #4

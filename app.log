@@ -1,0 +1,28 @@
+[2026-03-08 08:47:34.656] [error] Error: ENOENT: no such file or directory, open 'settings.json'
+    at Object.openSync (node:fs:561:18)
+    at Object.func [as openSync] (node:electron/js2c/node_init:2:2617)
+    at Object.readFileSync (node:fs:445:35)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at pn.loadSettings (/opt/stellar-mod-loader-bin/resources/app.asar/electron/main.js:33:205074)
+    at /opt/stellar-mod-loader-bin/resources/app.asar/electron/main.js:50:4788
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:107089)
+    at Session.emit (node:events:519:28)
+[2026-03-08 08:47:34.664] [error] Error: ENOENT: no such file or directory, open 'settings.json'
+    at Object.openSync (node:fs:561:18)
+    at Object.func [as openSync] (node:electron/js2c/node_init:2:2617)
+    at Object.readFileSync (node:fs:445:35)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at pn.loadSettings (/opt/stellar-mod-loader-bin/resources/app.asar/electron/main.js:33:205074)
+    at /opt/stellar-mod-loader-bin/resources/app.asar/electron/main.js:50:4788
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:107089)
+    at Session.emit (node:events:519:28)
+[2026-03-08 08:49:23.741] [info]  Adding new mod
+[2026-03-08 08:52:23.156] [info]  Adding new mod
+[2026-03-08 08:54:17.591] [info]  Adding new mod
+[2026-03-08 08:55:40.329] [info]  Adding new mod
+[2026-03-08 08:55:53.719] [info]  Adding new mod
+[2026-03-08 08:57:14.491] [info]  Deploying profile Immersion
+[2026-03-08 08:57:14.551] [info]  Mod deployment succeeded
+[2026-03-08 08:57:24.740] [info]  Running game action:  "/home/luther/.local/share/Steam/steam.sh" steam://launch/489830
+[2026-03-08 08:59:02.823] [info]  Undeploying profile Immersion
+[2026-03-08 08:59:06.058] [info]  Mod undeployment succeeded

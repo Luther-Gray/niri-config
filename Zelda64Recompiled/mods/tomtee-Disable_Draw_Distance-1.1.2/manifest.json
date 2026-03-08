@@ -1,0 +1,7 @@
+{
+    "name": "Disable_Draw_Distance",
+    "version_number": "1.1.2",
+    "website_url": "https://github.com/t0mtee/MMRecompDrawDistance/",
+    "description": "Disables draw distance culling. Finally, you can see!",
+    "dependencies": [ ]
+}

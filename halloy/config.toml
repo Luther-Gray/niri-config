@@ -1,0 +1,9 @@
+# Halloy config.
+#
+# For a complete list of available options,
+# please visit https://halloy.squidowl.org/configuration/index.html
+
+[servers.liberachat]
+nickname = "DubiousPhoenix"
+server = "irc.gazellegames.net"
+channels = ["#gazellegames"]

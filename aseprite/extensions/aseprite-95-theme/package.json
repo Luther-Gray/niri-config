@@ -1,0 +1,76 @@
+{
+  "name": "aseprite-95-theme",
+  "displayName": "Aseprite 95 Theme",
+  "description": "Retro theme that brings back the classic UI of a 90s Windows machine",
+  "version": "2.0",
+  "author": {
+    "name": "Kacper Woźniak",
+    "email": "kac.wozniak@gmail.com",
+    "url": "https://thkaspar.itch.io/"
+  },
+  "contributors": [],
+  "publisher": "thkwznk",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "aseprite-95-default",
+        "path": "./default",
+        "variant": "Default"
+      },
+      {
+        "id": "aseprite-95-teal",
+        "path": "./teal",
+        "variant": "Teal"
+      },
+      {
+        "id": "aseprite-95-slate",
+        "path": "./slate",
+        "variant": "Slate"
+      },
+      {
+        "id": "aseprite-95-rainy-day",
+        "path": "./rainy-day",
+        "variant": "Rainy Day"
+      },
+      {
+        "id": "aseprite-95-spruce",
+        "path": "./spruce",
+        "variant": "Spruce"
+      },
+      {
+        "id": "aseprite-95-eggplant",
+        "path": "./eggplant",
+        "variant": "Eggplant"
+      },
+      {
+        "id": "aseprite-95-desert",
+        "path": "./desert",
+        "variant": "Desert"
+      },
+      {
+        "id": "aseprite-95-lilac",
+        "path": "./lilac",
+        "variant": "Lilac"
+      },
+      {
+        "id": "aseprite-95-rose",
+        "path": "./rose",
+        "variant": "Rose"
+      },
+      {
+        "id": "aseprite-95-midnight",
+        "path": "./midnight",
+        "variant": "Midnight"
+      },
+      {
+        "id": "aseprite-95-gruvbox",
+        "path": "./gruvbox",
+        "variant": "Gruvbox"
+      }
+    ]
+  }
+}

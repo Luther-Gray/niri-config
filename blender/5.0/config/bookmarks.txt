@@ -1,0 +1,17 @@
+[Bookmarks]
+/home/luther/Documents/Profession/
+/home/luther/Documents/Profession/Game Development/
+/home/luther/Pictures/Screenshots/Temp/
+/home/luther/Pictures/Artwork/Personal/Doodles/
+/home/luther/Documents/Obsidian/Thelma Design Document/World Building/World/
+[Recent]
+/home/luther/Downloads/Nintendo 64 - The Legend of Zelda_ Ocarina of Time - Playable Characters - Link (Young, High Poly)/Young Link/
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/Nintendo/
+/home/luther/Pictures/Screenshots/Temp/Nintendo 64 - The Legend of Zelda_ Ocarina of Time - Playable Characters - Link (Adult, High Poly)/
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/suitNtie/Spike_KoFi/
+/home/luther/Documents/Obsidian/Thelma Design Document/World Building/World/Plates/Terranean/Marken/
+/home/luther/Documents/Profession/Web Development/Astro/other-heaven/src/3d/
+/home/luther/Documents/Profession/Game Development/Project-T/Assets/Meshes/Actors/Player/
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/suitNtie/LaraCroft_KoFi/
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/suitNtie/Cloud_KoFi/

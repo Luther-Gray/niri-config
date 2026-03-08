@@ -1,0 +1,27 @@
+[7/8/2024, 4:32:36 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json --version
+[7/8/2024, 4:32:36 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+[7/8/2024, 4:32:36 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+1.0.1
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:37 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:37 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:38 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:39 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:40 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:41 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:42 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:43 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:44 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:45 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}
+[7/8/2024, 4:32:49 PM] GOGDL_CONFIG_PATH=/home/luther/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/luther/.config/heroic/gog_store/auth.json auth
+{"access_token":"<redacted>","expires_in":3600,"token_type":"bearer","scope":"","session_id":"<redacted>","refresh_token":"<redacted>","user_id":"<redacted>","loginTime":1720456222.3291662}

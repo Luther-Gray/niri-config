@@ -1,0 +1,4 @@
+2026/03/08-17:12:40.910 11b9b Reusing MANIFEST /home/luther/.config/FreeTube/Session Storage/MANIFEST-000001
+2026/03/08-17:12:40.910 11b9b Recovering log #3
+2026/03/08-17:12:40.910 11b9b (ignoring error) /home/luther/.config/FreeTube/Session Storage/000003.log: dropping 20842 bytes; Corruption: checksum mismatch
+2026/03/08-17:12:40.910 11b9b Reusing old log /home/luther/.config/FreeTube/Session Storage/000003.log 

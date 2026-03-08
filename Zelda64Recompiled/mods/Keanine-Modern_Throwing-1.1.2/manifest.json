@@ -1,0 +1,9 @@
+{
+    "name": "Modern_Throwing",
+    "version_number": "1.1.2",
+    "website_url": "https://github.com/keanine/mm-modern-throwing",
+    "description": "Throw with A. Drop with B!",
+    "dependencies": [
+		"tomtee-Do_Action_Helper-1.0.1"
+	]
+}

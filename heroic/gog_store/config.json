@@ -1,0 +1,60 @@
+{
+	"isLoggedIn": true,
+	"userData": {
+		"country": "US",
+		"currencies": [
+			{
+				"code": "USD",
+				"symbol": "$"
+			}
+		],
+		"selectedCurrency": {
+			"code": "USD",
+			"symbol": "$"
+		},
+		"preferredLanguage": {
+			"code": "en",
+			"name": "English"
+		},
+		"ratingBrand": "ESRB",
+		"isLoggedIn": true,
+		"checksum": {
+			"cart": null,
+			"games": "d3f6021ba4835f370eb9d501471fff51",
+			"wishlist": "70f2ca57d3c87032c6eaa6e2b473e9eb",
+			"reviews_votes": null,
+			"games_rating": null
+		},
+		"updates": {
+			"messages": 0,
+			"pendingFriendRequests": 0,
+			"unreadChatMessages": 0,
+			"products": 23,
+			"forum": 0,
+			"total": 23
+		},
+		"userId": "436375518568",
+		"username": "DubiousPhoenix",
+		"galaxyUserId": "46988120767609808",
+		"avatar": "https://images.gog.com/86aeb050d86d86369bc1bf64645d1f314b581a97b651c357e6b6df5806db8aee",
+		"walletBalance": {
+			"currency": "USD",
+			"amount": 0
+		},
+		"purchasedItems": {
+			"games": 103,
+			"movies": 0
+		},
+		"wishlistedItems": 1,
+		"friends": [
+			{
+				"username": "FromTheBroth",
+				"userSince": 1617308681,
+				"galaxyId": "54267874186292079",
+				"avatar": "https://images.gog.com/8fd8ebce55d2afc7d53f2457a2d0ce65b437b3b451a395ba7ff6c7f4f7b48a1d"
+			}
+		],
+		"personalizedProductPrices": [],
+		"personalizedSeriesPrices": []
+	}
+}

@@ -1,0 +1,19 @@
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/Nintendo/Adult Link - High Poly.blend
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/suitNtie/Spike_KoFi/Spike_KoFi.blend
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/Base Male.blend
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/suitNtie/LaraCroft_KoFi/LaraCroft_KoFi.blend
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/suitNtie/Cloud_KoFi/Cloud_Blender.blend
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/LaraCroft_KoFi/LaraCroft_KoFi.blend1
+/home/luther/Documents/Profession/Game Development/_Assets/Actors/Spike_KoFi/Spike_KoFi.blend
+/home/luther/Downloads/HumanBasicMotionsFREE_BlenderFiles/HumanM_BasicMotionsFREE_2.4.blend
+/home/luther/Downloads/shanks 7.blend
+/home/luther/Pictures/Artwork/Personal/Doodles/3D/Thelma Continents.blend
+/home/luther/Pictures/Artwork/Personal/Doodles/3D/End of Ve-Gellion.blend
+/home/luther/Documents/Profession/Game Development/(2018) Thelma/Mesh/Player.blend
+/home/luther/Documents/Profession/Game Development/(2018) Thelma/Mesh/_Archive/cBaseMeshRigTest.blend
+/home/luther/Documents/Profession/Game Development/(2018) Thelma/Mesh/_Archive/Bread.blend
+/home/luther/Pictures/Screenshots/Temp/Temp.blend
+/home/luther/Downloads/female-body-42/source/untitled.blend
+/tmp/quit.blend
+/home/luther/Downloads/Roblox Starter Rigs/Rigs/Starter_Blocky_Rig.blend
+/home/luther/Documents/Profession/Game Development/Voxterra/Character/Blender/Nox.blend

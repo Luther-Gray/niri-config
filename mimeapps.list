@@ -1,0 +1,15 @@
+[Default Applications]
+text/x-csrc=dev.zed.Zed.desktop
+application/json=dev.zed.Zed.desktop
+x-scheme-handler/freetube=FreeTube.desktop
+x-scheme-handler/discord=vesktop.desktop
+inode/directory=thunar.desktop
+application/x-gnome-saved-search=thunar.desktop
+x-scheme-handler/nxm=amethystmodmanager-nxm.desktop
+
+[Added Associations]
+text/x-csrc=dev.zed.Zed.desktop;
+application/json=dev.zed.Zed.desktop;
+application/zip=xarchiver.desktop;
+text/x-opml+xml=dev.zed.Zed.desktop;
+font/ttf=com.github.FontManager.FontViewer.desktop;

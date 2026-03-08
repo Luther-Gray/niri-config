@@ -1,0 +1,10 @@
+/home/luther/Pictures/Artwork/Personal/Doodles/3D/Thelma Continents.blend
+/home/luther/Pictures/Artwork/Personal/Doodles/3D/End of Ve-Gellion.blend
+/home/luther/Documents/Profession/Game Development/(2018) Thelma/Mesh/Player.blend
+/home/luther/Documents/Profession/Game Development/(2018) Thelma/Mesh/_Archive/cBaseMeshRigTest.blend
+/home/luther/Documents/Profession/Game Development/(2018) Thelma/Mesh/_Archive/Bread.blend
+/home/luther/Pictures/Screenshots/Temp/Temp.blend
+/home/luther/Downloads/female-body-42/source/untitled.blend
+/tmp/quit.blend
+/home/luther/Downloads/Roblox Starter Rigs/Rigs/Starter_Blocky_Rig.blend
+/home/luther/Documents/Profession/Game Development/Voxterra/Character/Blender/Nox.blend

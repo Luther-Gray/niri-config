@@ -1,0 +1,3048 @@
+{
+	"games": [
+		{
+			"app_name": "gog-redist",
+			"runner": "gog",
+			"title": "Galaxy Common Redistributables",
+			"canRunOffline": true,
+			"install": {
+				"is_dlc": true
+			},
+			"is_installed": true,
+			"art_cover": "https://images.gog-statics.com/516af877f6a03199526d1ce5a76358b8f85f6b828764cf46c820f77ae8832fc5.jpg",
+			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5fa80a0fb5ff0b2aaca6730ba213219b.png"
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/sunblaze",
+			"developer": "Games From Earth",
+			"app_name": "1763369377",
+			"art_cover": "https://images.gog.com/33298899e7324574e80b6dd0c1d20ea66e4fa4d17b538d3c48e926e17acfbe4d.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/52e61adae1bb2a645fd088f1f2d36791de0ab100004379128cf6e44a58d521f6.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/c58847415b5bba64e50926f21e50bb4e00adacfba2930b1a0c23c16b2f21c22e.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Lead Josie, aka. Sunblaze into a superhero training simulator built by her dad, a retired protagonist fighting the evils of our universe. Sunblaze is a brain-twisting precision platformer with hundreds of challenging levels, an awesome story, a superb soundtrack, and a beautiful game design.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/sunblaze"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "sunblaze",
+			"save_folder": "",
+			"title": "Sunblaze",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/fallout_tactics_classic",
+			"developer": "Micro Forté",
+			"app_name": "3",
+			"art_cover": "https://images.gog.com/176fab5f55c07234b331b2fb703ebb75fa102d8978c583dec454d9aeaf3fe8ed.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/167a302bf82ec4edfcfc2a10493069abf1174e737d43cd50c50c340f8d6e0ded.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/6ffa0c1b1ea418b043a2a360baca479b2945f5ffce044ebd64c4c78992b421f5.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Vault Dweller is tasked with exploring post-nuclear California in order to retrieve a water chip to replace the broken chip of Vault 13, their home, which they are the first person to ever leave. The player will engage in Western RPG character building and turn-based tactical combat while getting to know settlements and factions of people, mutants and ghouls through branching dialogue trees.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/fallout_tactics_classic"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "fallout_tactics_classic",
+			"save_folder": "",
+			"title": "Fallout Tactics Classic",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/bio_menace",
+			"developer": "Apogee Software",
+			"app_name": "1449569170",
+			"art_cover": "https://images.gog.com/62260f6bc0f9921d44a9acbbb18999ecf0677b17d8b6414aa330936e26668882.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/88d23f65d34a89831ea7f66212b7cf127a4eb335faff084d908e423f181d038a.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/1268f8fcd673cc911a83597e7583adf6deaae6dd6e477386b2fc54d6e8d51cfc.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Intelligence reports indicate that a man calling himself Dr. Mangle is responsible for the mutants and the destruction of Metro. You will have to battle your way through levels packed with evil mutants and robotic guards to finally infiltrate Mangle's fortress and defeat him. You think to yourself that this will be the most dangerous mission of your life.\n\nSnake Logan is a weapons expert, and uses several throughout the game, including a high-powered machine gun and grenades.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/bio_menace"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "bio_menace",
+			"save_folder": "",
+			"title": "Bio Menace",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/lacuna_a_scifi_noir_adventure",
+			"developer": "DigiTales Interactive",
+			"app_name": "1139279216",
+			"art_cover": "https://images.gog.com/cf9dd99eed097ed5cd1591645626963c9fc8227e549e8b1d964dd76098973c16.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/0351dd2efbefeedf134a779e1d6a538cf8da482a0c6ecae59a7ca22ddc2635e7.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/41fb34a418c13d27c9ae4a503ab1c504eaacda4d1e8ba0bfedd310424ba7fa7a.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "A murder. A hack. A bombing. All it takes to plunge the solar system into war – unless you do something about it. Help CDI agent Neil Conrad make a string of increasingly difficult decisions in this modern dialog-driven adventure set in a gorgeous 2D sci-fi noir universe.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/lacuna_a_scifi_noir_adventure"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "lacuna_a_scifi_noir_adventure",
+			"save_folder": "",
+			"title": "Lacuna – A Sci-Fi Noir Adventure",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/ultima_underworld_1",
+			"developer": "Looking Glass Studios",
+			"app_name": "1207662463",
+			"art_cover": "https://images.gog.com/d7bb0cc98a263a938bf2e20bee9bd2c24c6607978a7ee76c27772cfbfb851946.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/570bb3b278251750eb7dffb16d4cafecaaa118bd49a5ac1a3e756096bb344a70.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/614ea9368b4cbff50d40edebb80592d9a95c7fe94cb2b2d814cad8a48ce287f9.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Isle of the Avatar was discovered during the Fourth Age (as related in Quest of the Avatar), at the climax of the Avatar’s quest. The Stranger from Another World, who came to Britannia in answer to Lord British’s summons, completed the Test of the Eight Virtues and became the Avatar — the embodiment of the pure axiom of life. \r\nIt was during his journeys that the Avatar unearthed a chilling artifact: the skull of Mondain the Wicked, the first of the Triad of Evil. There were those who claimed that the artifact held the power to destroy all life on our world. Fortunately, it was the Stranger who discovered it, and not someone of lesser Virtue. \r\n \r\nUpon completing the Path of the Eight Virtues, the Avatar embarked on a search for the Codex of Ultimate Wisdom. Legend linked this ancient tome with the subterranean maze known as the Great Stygian Abyss. “Truly, no one has ever plumbed its depths,” wrote Shamino, who arranged by magic to obtain a map of its corridors. “I cannot imagine the horrors that await the first to venture into the Stygian depths.”",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/ultima_underworld_1"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "ultima_underworld_1",
+			"save_folder": "",
+			"title": "Ultima™  Underworld I",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/worlds_of_ultima_the_savage_empire",
+			"developer": "Origin Systems",
+			"app_name": "1207659061",
+			"art_cover": "https://images.gog.com/51c5e2ec331b194f0dd96d86fc7d74cfaabca7653290da0478c3419dc1e243b6.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/f99329cadba31dd8ae94558a03cb8bf23aec33ec1f6aa8f01c7b0abce8a70daf.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/c25e2aeccaf9157824787cf2edd6bc8bf6ec9b32101121742c3c3149dd2288ff.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Savage Empire is Origin's first \"Worlds of Ultima\" release. It was made using basically the same engine as Ultima VI but with slightly different graphics. The game contains all of the elements of the other Ultimas, as well as some extra features that add to the experience. You are able to interact with the environment in a realistic manner... picking branches from trees, digging clay from a riverbank etc. Savage Empire also has a lot more character interaction than the previous Ultimas. Characters will jump into conversations whenever they feel they have something pertinent to add.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/worlds_of_ultima_the_savage_empire"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "worlds_of_ultima_the_savage_empire",
+			"save_folder": "",
+			"title": "Worlds of Ultima™ : The Savage Empire",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/requiem_avenging_angel",
+			"developer": "Cyclone Studios",
+			"app_name": "1449581489",
+			"art_cover": "https://images.gog.com/7c6eeb77cf37c51a79028489fdc166d3d42eaef4437c45ab46d2f267c31f241f.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/f49f70cfe3ab6731e4fc3ff18bec6111717985adfaf1fc4fe2963d435369de76.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/43b149cb6e9dae60c9790db049c0cd0e8c8950c37d4c678a8c9db975158de63a.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Requiem: Avenging Angel is a 3D, first-person action game of biblical proportions set in a world under siege. A holy war rages on Earth between Heaven's Chosen Soldiers and Hell's Fallen Angels.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/requiem_avenging_angel"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "requiem_avenging_angel",
+			"save_folder": "",
+			"title": "Requiem: Avenging Angel",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/postal_classic_and_uncut",
+			"developer": "Running with Scissors",
+			"app_name": "1207658754",
+			"art_cover": "https://images.gog.com/7c69274784cb976e5663199526ffb55e08cab3ec79ff195b9a0ceac56d9e3acb.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/1ee0cbc2915e72f62f05b56d8344e3401680222c278ce82fb98a09763ec6d45e.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/09ab6d49850d15b00bf6fe9562d46c251681418a464b93dcd0b1016b295d5be7.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Postal is a survival horror isometric third-person shooter video game developed by Running With Scissors and published by Ripcord Games in 1997. A sequel to the game, Postal², was released in 2003. Director Uwe Boll has bought the movie rights for the series, and has produced a film of the same name. A March 2001 re-release of the game, called Postal Plus, included a \"Special Delivery\" add-on",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/postal_classic_and_uncut"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "postal_classic_and_uncut",
+			"save_folder": "",
+			"title": "POSTAL: Classic and Uncut",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/prison_architect",
+			"developer": "Introversion Software",
+			"app_name": "1441974651",
+			"art_cover": "https://images.gog.com/ab04dea52661a782e749ceef4aff35c8d0c5621f4be0dbaa0ad8fc9fceebae68.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/824738dd3534fba4838d9d4920cc0a780c9dea998a5d45f28a93fbb3bacdcaff.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/ab679758906a2b48a4e3cfda684cf78288aef89a4fbc39331a6e6d89787eb7e9.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The game is a top-down 2D construction and management simulation where the player takes control of building and running a prison. The player is responsible for managing various aspects of their prison including building cells and facilities, planning and connecting utilities, hiring and assigning staff, including a warden, guards, workers, and more. The player needs to recruit staff to unlock more aspects of the game. The player is also responsible for the finance, and keeping their inmates content.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/prison_architect"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "prison_architect",
+			"save_folder": "",
+			"title": "Prison Architect",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/ultima_underworld_2",
+			"developer": "Looking Glass Software, Inc.",
+			"app_name": "1207662473",
+			"art_cover": "https://images.gog.com/655b590061f31ccd7eb829b7ed1056344cab038b473be86152d7b62229e9e94e.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/f98f9b0d06c87ee2dc35d08a3261afc027a8498efdaf5dcf6dc94313bb9789a6.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/02aabf2efd0d7b603a14fea5690ac6765408fa9f3462098f51f6d76af77bb26a.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "In an attempt to conquer the world, The Guardian encases Castle Britannia and its occupants--including the Avatar--in a giant blackrock gem. \r\n \r\nThe game takes place one year after the events of Ultima 7: The Black Gate. To celebrate the defeat of the Guardian, Lord British invites the Avatar and his companions to his castle. However, in the night of the feast the Guardian attacks again, encasing the castle in a giant gem of blackrock. Deep in the sewers of the castle, another blackrock gem resides, being a teleporter to other worlds controlled by the Guardian. Now you, the Avatar, must travel to these worlds in order to free the castle from the Guardian's spell. This sequel to Ultima Underworld plays exactly as the original, except for a larger game world, a richer storyline and better graphics and sound.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/ultima_underworld_2"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "ultima_underworld_2",
+			"save_folder": "",
+			"title": "Ultima™  Underworld II",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/daymare_1998",
+			"developer": "Invader Studios",
+			"app_name": "1544460195",
+			"art_cover": "https://images.gog.com/72005847a0ca0dd69355a7d9c3615664cc35ad2d332dff7d2d90bc0c4538ac67.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/d1fb2d2349c6ce918d12df1d5592bd009409d83260db0e22f39f981f67209cf5.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/202df2f1f27bc9c7f6e40b4818dfee332b9d9204b8171c59d84f1ae87debb228.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Daymare: 1998 is a third-person survival horror game that recreates the mood of iconic titles from the '90s, with a fresh storyline. An incident that turns a small town into a deadly zone, three characters to play with and little time to find the truth, before its mutated citizens abruptly end your mission.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/daymare_1998"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "daymare_1998",
+			"save_folder": "",
+			"title": "Daymare: 1998",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/jazz_jackrabbit_2_secret_files",
+			"developer": "",
+			"app_name": "1351891846",
+			"art_cover": "https://images.gog.com/aa366b42915d3d0b29c3d66a788fc3f8e0e61f456715233d7472a10f7d57a492.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/815f695a093eb35325ac84c66af106b993a940a40097d1ed63149c0bb87562fe.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/53669def0ca2900b0ab3cacd7846a66cdc2036179be1d68b4c68062907b7c199.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Jazz Jackrabbit 2: The Secret Files is an old dos game, published in 1999 by Epic Megagames. Main genre of this old game is action. We gave this game stunning rating of 88 and you can download it for free right here. If I say green, crazy, running and hopping hare, many will surely now think about the famous computer character - Jazz Jackrabitt and they would guessed who am I thinking about. The game Jazz Jackrabbit 2: The Secret Files is an extension to the second game from 1998 and it adds one more episode. \r\n \r\nIn this game, you might choose to play as one of three characters: of course, there is Jazz Jackrabbit and there is also his brother Spaz and Lori, his lost sister. The story is classic, it's about kidnapping a almost the same as in the game from 1998 (Jazz was about to het married to his longtime girlfriend Eva Earlong, but his arch-enemy, turtle Devan Shell, stole the wedding ring, captured Eva's mom and you, together with your brother imprisoned in the dungeon. The goal is clear: together with your brother, you must escape from prison, recover the precious jewel and save your future mother-in-law (who would do that, right? :)). You can play as Lori too and there numbers of different routes in every level you can take.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/jazz_jackrabbit_2_secret_files"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "jazz_jackrabbit_2_secret_files",
+			"save_folder": "",
+			"title": "Jazz Jackrabbit 2: The Secret Files",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/beholder_2",
+			"developer": "Warm Lamp Games",
+			"app_name": "1451215361",
+			"art_cover": "https://images.gog.com/ebb7e49d4c64f656084598298ad632aec4206b4e0f313dc9cdd119062bc87214.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/b964138274b2e33439f4f2262729483cdc328003f3946eab079d84a07b0f8965.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/d0f1f5ce9018bc9bcb9d3c74a4f4e3cead64a6bd69e2d8f84cd020cd50ee5713.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Every citizen of our great State dreams of working at the Prime Ministry!\n\nYou are lucky, intern – your dream has come true!\nWhile you are at the bottom of the career ladder, that is more than many of your fellow citizens will ever achieve!\n\nHave you already decided what you're going to become?\nWill you become a diligent and responsible officer decorated by the Wise Leader himself? Or will you become a hardline careerist capable of destroying anyone who stands between you and the Prime Minister's seat? Or maybe you are just a whistle-blower? If so, who sent you? And why?\n\nWhatever the case, you are now part of the Ministry!\nFrom this moment on, no one beyond these walls has ascendance over you! You are free to shape your own future!\n\nSo, what are you going to become?",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/beholder_2"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "beholder_2",
+			"save_folder": "",
+			"title": "Beholder 2",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/doomdarks_revenge",
+			"developer": "",
+			"app_name": "1207660693",
+			"art_cover": "https://images.gog.com/d585995f70f064dad18eb0fc1939df99c3ecae4794b83e6555c329aea1b2f21c.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/d70513a29ad25c6c4ab73ef8195bf441d12be3b11dc54e0220ca81e2803a8577.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/1c7f4816a1ef1a0e4a718da2d39720aa6d9a1d73fac1df4efcc5946761950bea.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The follow-up to the original Lords of Midnight game uses a similar game system to its predecessor, but the story is now much more complex. Luxor the Moonprince's son Morkin has been kidnapped by Shareth, daughter of Doomdark, the evil ruler deposed in the first game. The player initially takes control of Luxor, Rothron the Wise, and Morkin's lover Tarithel the Fey, although many more characters can be recruited as the game progresses, as they aim to banish Shareth and rescue Morkin. Shareth has brainwashed him, so he must also be turned back to Luxor's side. \r\n \r\nThe game is effectively turn-based; your characters move by day (with a limited amount of movement possible, with each move in one of the 8 compass directions) and Shareth's by night. You will find plains, mountains, forests, underground tunnels and mysterious temples on your journey. A dark mist follows much of the area, which causes your characters to deteriorate in mood and thus become less effective. \r\n \r\nThe characters are now split into five distinct tribes - Giant, Dwarf, Fey, Icemark and Barbarians, and recruiting new characters into your party isn't automatic - factors such as the game situation can make some refuse to join, turn on members of other races, or defect (as the Utarg did in the first game). \r\n \r\nThere are several different objectives and possible outcomes to the game. Bringing Morkin back to the Gates of Varenorn is the most basic one, but many other characters ought to be saved, Shareth can be killed completely (with practice!), and there are many Crowns of Icemark to be retrieved. As in the first game, control of the full party only remains while Luxor is alive - his death means total defeat.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/doomdarks_revenge"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "doomdarks_revenge",
+			"save_folder": "",
+			"title": "Doomdark's Revenge",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/sunrider_mask_of_arcadius",
+			"developer": "Sekai Project",
+			"app_name": "1748855533",
+			"art_cover": "https://images.gog.com/da5731703681d340f3506b2a2851e4a52bac300c1fa44e9a3e49930be82dd079.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/fd621ccb38732a61c0bca0fbfb21a913772dba45b62ef5fb437dc517b60a958c.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/a0bc7e93a7ac4c99f102c36d90a1a0cda22736164bbf3031ead6267e93bf3b7d.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "As Captain Kayto Shields, embark on a galactic voyage of heroism and survival. With his home world destroyed and his nation conquered, the inexperienced Captain Shields, and his newly minted vessel, the Sunrider, are left as the only hope against a galactic evil intent on subjugating all sentient life.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/sunrider_mask_of_arcadius"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "sunrider_mask_of_arcadius",
+			"save_folder": "",
+			"title": "Sunrider: Mask of Arcadius",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/sangfroid_tales_of_werewolves",
+			"developer": "Artifice Studio",
+			"app_name": "1207660203",
+			"art_cover": "https://images.gog.com/2a82bf8e54e7883f16fb4bf9c2213739b99428dc5c6de8c4842ab294e7923707.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/92a779edc8f8b01aa2509935454a9e4c2fe5f564455de7dea278fdf2d69ae79c.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/b696a7c45e1e74355f045e177649eac8fd2007839dfb4abe287c9396b9dc8698.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Combining action and strategy in a unique way, Sang-Froid: Tales of Werewolves transports you into an epic folktale co-written with best-selling Canadian author Bryan Perro (Amos Daragon, Wariwulf), in which two feuding brothers will have to put aside their differences to save their sister, who is pursued by the Devil himself! \n\nThis time however, sheer brute strength won't be enough to save the day as your enemies are way stronger than you are. Only your wits and the ability to combine ingenious traps to setup deadly ambushes will give you a chance to see the sun rise again on your frozen piece of forest...",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/sangfroid_tales_of_werewolves"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "sangfroid_tales_of_werewolves",
+			"save_folder": "",
+			"title": "Sang-Froid: Tales of Werewolves",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/ancient_enemy",
+			"developer": "Grey Alien Games",
+			"app_name": "1751965389",
+			"art_cover": "https://images.gog.com/036f95def1472e5c3e0aeb3d8d27f317528754051b8f6be97ea23f354eab12f6.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/160a8b89ce30e123bb2022a8f54983a73a02f728fc0a85c3b9ff661eb9fc527f.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/f290d7e9d766d4dc6f5548953a44903020bacd26810c9d6da5e8c2972d207e55.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "An unusual, strategic RPG card game from the makers of Shadowhand and Regency Solitaire.\n\n\"Awakening from centuries of slumber, a fallen mage returns to battle twisted folkloric foe across sprawling, ghostly landscapes. His ultimate destination: the nameless antagonist, a dread nemesis waiting patiently in the dark fastness of monstrous citadel, his Ancient Enemy.\n\nYou'll embark upon a quest inspired by British mythology and Mabinogion, so expect card battling, visceral fights, mixed with bleak and evocative folklore! Loot the fallen to fill your hero's RPG-style inventory with collectible cards, capture strongholds and gather talented henchmen. Only powerful magic and iron determination will enable revenge upon your ultimate foe.\"",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/ancient_enemy"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "ancient_enemy",
+			"save_folder": "",
+			"title": "Ancient Enemy",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/terroir",
+			"developer": "General Interactive",
+			"app_name": "1990946201",
+			"art_cover": "https://images.gog.com/e231ab63abf8b696e56d1511ab77bbca5a508b48b5f67baec1e6427508233b60.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/455066f995a6ee16301996afddb2d2adc73da6271fed65a484aafdcaee7bf198.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/0d4716fee921e72a8fa6c934228b9231cd6af47ddc3a152ceb3adb9df5fd79ac.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Terroir is a 3D tile-based tycoon game where you manage your very own vineyard. In Terroir, you grow a variety of different grape varietals, craft your wine, and expand and manage your Chateau, all the while dealing with the weather and events that can either make or break your business.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/terroir"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "terroir",
+			"save_folder": "",
+			"title": "Terroir",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/crime_cities",
+			"developer": "Techland",
+			"app_name": "1485600994",
+			"art_cover": "https://images.gog.com/5ffa585121aace241f2de47dcdbbf0267a009c138fa0143a1afb119fd1a541fc.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/f723a60605a86374dbb9a58e8a29d32984758670882439cf15d86691ec8dde71.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/f4a7a2b9c33632771b4160eec85bdf5a6104891db92b22a73c1f97be42e6db77.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Revisit Crime Cities, a revolutionary cross between a shooter and a futuristic vehicle simulator, originally published in 2000. Immerse yourself in the dense atmosphere of a grim future, as you follow a complex plot and complete a variety of deadly, unpredictable missions.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/crime_cities"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "crime_cities",
+			"save_folder": "",
+			"title": "Crime Cities",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/narita_boy",
+			"developer": "Studio Koba",
+			"app_name": "2029460067",
+			"art_cover": "https://images.gog.com/8fa68bf359e80596126f3afd19a4172e7f2f2f55222bf04175b8a4960cceea09.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/30178fc0716dc1ba7a2626b3959120644e7002f4eea4d8970097d9bd4c6fa54b.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/8aed2145098c32ae308c76315e81823714dd5a20b688146f59758159a5d1655a.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The retro-futuristic pixel game\n\nExplore and fight in a retro-futuristic world. Swim deep into a oneiric, poetic and unique experience across dimensional planes.\n\nThe aesthetic of the game was inspired by retro pixel adventures (Castlevania, Another World, Double Dragon) with a modern touch (Superbrothers, Sword and Sorcery) and an 80s plot homage (Ready Player One, He-Man, The Last Starfighter), accompanied by the retro synth touch of the old glory days.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/narita_boy"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "narita_boy",
+			"save_folder": "",
+			"title": "Narita Boy",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/treasure_adventure_game",
+			"developer": "Robit Games",
+			"app_name": "1207659013",
+			"art_cover": "https://images.gog.com/24871d1c2910cfe3fc0d6ee7babaa768fa21d6776554c7f8cf4b2face75112da.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/caa70c9dd1f905312a5c1583dec1fa6c082ab20f231675ea76259f58bce166d0.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/dc8ff9435bfaf80d377f9fc6811157eb2e342836c032c390ad09acc720639b58.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Treasure Adventure Game is a freeware open-world, platform adventure game developed by Stephen Orlando. It includes a 1 hour original sound-track composed by Robert Ellis",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/treasure_adventure_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "treasure_adventure_game",
+			"save_folder": "",
+			"title": "Treasure Adventure Game",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/tyrian_2000",
+			"developer": "Eclipse Software",
+			"app_name": "1207658901",
+			"art_cover": "https://images.gog.com/b6973026fb66e94db4099841b8e70b42edcd7201c1225219f55e9f832163a38f.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/e3154e891fbc1fa3476997633ba39946100f2f89d57a21ff72cdab0395214385.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/551c302f4e3971c4be89463ce41871731d3a89c9ee4ecf6577af1e92e8878a30.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Tyrian 2000 is an improved remake of the original Tyrian. Tyrian is an action killing, smashing, shoot'em'all arcade game. Your goal is to kill as many enemies as possible and finish the level, buy more weapons and then kill many more enemies. Your battle ship can be improved over time and you can buy new weapons currently available. Your ship supports front guns, rear guns and side slots for the most deadly weapons.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/tyrian_2000"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "tyrian_2000",
+			"save_folder": "",
+			"title": "Tyrian 2000",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/caveblazers",
+			"developer": "Deadpan Games",
+			"app_name": "1600722961",
+			"art_cover": "https://images.gog.com/d64796b37688e0b452b20a6cc49b8bd8e763b1b6838de87fa38e6618d34e9b17.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/7296f2534998c535f29edbb0640f16e63505e401ff23098babb61109780878d2.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/8898c8f02df3f4f27e64b8fbcb684a941776364e4436d83dc9a993c10d49dbad.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Caveblazers is a challenging and brutal roguelike platformer. Journey into a mysterious cave, fighting orcs and goblins with an abundance of weapons and magical items! Make friends along the way to aid your adventure, then watch in despair as they are crushed in to a bloody pulp under a troll's fist.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/caveblazers"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "caveblazers",
+			"save_folder": "",
+			"title": "Caveblazers",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/lorelai",
+			"developer": "Harvester Games",
+			"app_name": "1128886553",
+			"art_cover": "https://images.gog.com/c5182f90b044d782c0359ea50cc3a9edb4ac6bf0d0d6a1f90714575f0a63b29b.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/654b36507052f660e031ee9977dbc099f4a883ac7965eca1fa96037633eb9e1f.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/52079ea29b96aad0ac197666e8ce32106c0d75ab506311b01ce037d4478d3857.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Lorelai, a brand new emotional horror ride from the maker of The Cat Lady and Downfall, tells a coming of age story of a young girl trying to escape the hell of her toxic family home. But adulthood is like waking up from a long dream. There will be times you will wish you were asleep again... But you can never go back to the same dream.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/lorelai"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "lorelai",
+			"save_folder": "",
+			"title": "Lorelai",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/fallout_classic",
+			"developer": "Interplay Entertainment, Black Isle Studios",
+			"app_name": "1",
+			"art_cover": "https://images.gog.com/05c3dcacbbc3209e0d9b16e52ae1edb192d37dd15b2014beec749f5fa4775acc.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/fd5058854f23dc3c0326109721683cd1e881f609fe046fb78a15af426f48dbe6.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/4f4fca6e38d3012e08f0008fe7311d0ddf985041357e885edc25bb1f80846f19.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Vault Dweller is tasked with exploring post-nuclear California in order to retrieve a water chip to replace the broken chip of Vault 13, their home, which they are the first person to ever leave. The player will engage in Western RPG character building and turn-based tactical combat while getting to know settlements and factions of people, mutants and ghouls through branching dialogue trees.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/fallout_classic"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "fallout_classic",
+			"save_folder": "",
+			"title": "Fallout Classic",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_elder_scrolls_chapter_ii_daggerfall",
+			"developer": "Bethesda Softworks",
+			"app_name": "1435829353",
+			"art_cover": "https://images.gog.com/6ecbe19f18ee42bf0f43cb4a9e55e714d21282bcc660453570e36e259a8d75bc.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8cc4d6705ba01454f947015200f699ab1c1e8cde5eaf217bda5619d7fc06aab7.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fb3d28325eb1bc700e2fbe982638c85f7180de68f50da472f109e9c22b0cc8ae.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Elder Scrolls - Daggerfall is the second fantasy RPG from The Elder Scrolls series. The game is situated in a city of Daggerfall and its surrounding areas. The emperor himself asked you, as your friend, to investigate the death of King Lysandus. The whole story is up to you. There is no straight line which you should follow. you have a number of options for character classes and numerous regions filled with cities, towns, and dungeons. \r\n \r\nYour journey starts on your way to the Kingdom of Daggerfall. Unfortunately your ship is wrecked in a storm and you end up in a small cave with only your bare life. Your first goal becomes to escape, and so your adventure begins. The game has a numerous options how to solve the crisis and numerous differed endings as well.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_elder_scrolls_chapter_ii_daggerfall"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_elder_scrolls_chapter_ii_daggerfall",
+			"save_folder": "",
+			"title": "The Elder Scrolls II: Daggerfall",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/greak_memories_of_azur",
+			"developer": "Navegante Entertainment",
+			"app_name": "2142923325",
+			"art_cover": "https://images.gog.com/dea50843d34ee5e05427f4a639cce78754a9e75231fc43d73981918fd2227bb4.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/fada2822ee7ab2f6808b0d4f3facd88d14220b100b3d4aaeb4063f7e8f3287da.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/a2017103a60519125b7c03fd315b6f80feb4cb21553827d55b88b983c60b4c5f.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Greak: Memories of Azur is a beautiful single-player puzzle platformer adventure. You will take the role of three siblings: Greak, Adara and Raydel to guide them through the lands of Azur. Alternate control between them and use their unique abilities to escape from the Urlag invasion.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/greak_memories_of_azur"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "greak_memories_of_azur",
+			"save_folder": "",
+			"title": "Greak: Memories of Azur",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/ultima_4",
+			"developer": "Origin Systems",
+			"app_name": "1207658962",
+			"art_cover": "https://images.gog.com/f34add0a2b854e4d511f8f88ee191442eb908f309769d065e732ff22f3aa7df3.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/82003a7f51611404fa0059f4279eabe6125c75b564139765431ad4bdec8db9af.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/e2978070b04d9b5a84cd2c7ed5e66ed3d430e81adc4203d5a3c42d0e96e814e0.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "As an addendum to this work, I, Lord British, would like to speak of the Quest of the Avatar mentioned in these pages. The Quest of the Avatar is the search for a new standard, a new vision of life for which out people may strive. We seek the person who can become a shining example of our nation and guides us from the Age of Darkness into the Age of Light. We have sent this message our to the farthest reaches of the known universe, indeed, we have even spoken across the void of time. Is there One who can complete the Quest of the Avatar? Many have tried already, and have met with partial success, becoming enlightened in one or more of the Eight Virtues of the Avatar - but none have yet attained the true state of being an Avatar. \r\n\r\nThe secrets of the Avatar are buried deep in the hearts of both our people and the land in which we dwell. The search will be arduous and the One who shall succeed must be able to assemble all the parts of the great mystery in order to solve the Quest. Gaze upon the device portrayed on the facing page of this tome. Learn it well, for when thou dost gaze upon it again then shall thy life's quest be revealed.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/ultima_4"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "ultima_4",
+			"save_folder": "",
+			"title": "Ultima™ 4: Quest of the Avatar",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/outcast",
+			"developer": "",
+			"app_name": "1207658853",
+			"art_cover": "https://images.gog.com/aece57cc5570183556e4bb09f15522b5682aee38be08d417b91a5420cf75c2da.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/875f5c18585d4a4e8a46738114c6d949541892fdf0577d8267d47eb547de7ac0.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/e82a852d2fc09187eea2d92a6baa5c45e5c4d38457a43e0e7412c1a5747fc4b9.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Outcast 1.1 is an enhanced version of the critically acclaimed action-adventure game developed in 1999 by Appeal for the PC.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/outcast"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "outcast",
+			"save_folder": "",
+			"title": "Outcast 1.1",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/legend_of_keepers_career_of_a_dungeon_master",
+			"developer": "Goblinz Studio",
+			"app_name": "1208434383",
+			"art_cover": "https://images.gog.com/df25535d7be3e0d3750816deaae5df0525efd0c8a268658fd4ee47e0f76c8d92.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/3da8f7a2ea6cdfe73eb34ccd5857beb963ecf3f06e5a0f2422032b24214d0e6d.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/6b2875de0ac2c982ff99fff4c69fc6c376c6714c9ad8929b9d92ea3142e63930.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Legend of Keepers is the perfect mix between a Dungeon Defender and a Roguelite. You have been hired as a dungeon guardian by the Dungeons Company. Your job is simple: Protect their dungeons!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/legend_of_keepers_career_of_a_dungeon_master"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "legend_of_keepers_career_of_a_dungeon_master",
+			"save_folder": "",
+			"title": "Legend of Keepers: Career of a Dungeon Manager",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/mordheim_city_of_the_damned",
+			"developer": "Rogue Factor",
+			"app_name": "1848744423",
+			"art_cover": "https://images.gog.com/ccb183dcf93d074fc62ca26322a5bde24ade09bd8d9818de31bcc26ae29dbeb9.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/fb288e5d532c19b8558aabb4f8e4246178c5e241ac514d2203028502146ae915.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/b45df63e2a7d0a8f98a81242b706a3bcc1e09881633824e4d7660ffb938e3c5f.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Mordheim: City of the Damned is the first video game adaptation of Games Workshop's cult classic tabletop game Mordheim. Set in the Warhammer World's decimated Empire city, Mordheim: City of the Damned is a turn-based tactical game where you lead warbands into bloody and lethal skirmishes. The game blends RPG elements, fast-paced tactical combat and intricate unit customization in a time wrought by chaos and rivalry where only the strongest survive.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/mordheim_city_of_the_damned"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "mordheim_city_of_the_damned",
+			"save_folder": "",
+			"title": "Mordheim: City of the Damned",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/final_liberation_warhammer_epic_40000",
+			"developer": "Holistic Design, Inc. (HDI)",
+			"app_name": "1436454557",
+			"art_cover": "https://images.gog.com/376111a471b9e8a3d118d02d4211b29bce89932efc201e7142e297eb9a314ccd.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/c9fff9e1051732cbbe2d967b220b6bcdd0129128fc451ccde99778111a2e200d.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/82496d42961f133ed530834175b6869218b62b99de9f18ed0242bf2b59196f94.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Set in the turbulent universe of Game Workshop’s Warhammer 40,000 EPIC, Final Liberation allows you to lead the Imperial campaign in Volistad as Lord Commander Militant. Having eaten five Astropaths en-route to their new stations, Ork Warboss Skroll of the Evil Sunz clan is visited with (demented?) dreams of grandeur and conquest and launches a full-scale WAAAGH! on the Imperial colony of Volistad. With the might of the Bad Moons, the rapacious Evil Sunz and the Orkiest of all clans, the Goffs, at his disposal, Skroll quickly swept aside the defences of Volistad and took control of the planet. Leading an army of Ultramarines and Imperial guard, you must retake the system and cleanse it of the foul alien by completing missions and annihilating the Ork forces. Though the Emperor protects you, you must remain vigilant, for like all Orks, Skroll loves fitin’, so he and his forces will take you to the last man and space marine. Only supreme tactics and precise execution will allow you to reclaim Volistad in the name of the Emperor.  \r\nSSI, the masterminds behind the Five Star General Series’, bring their Midas touch to the Warhammer 40,000 world in the first ever video-game adaption of the EPIC table-top game. With over 85 unit types, this addition to the 40k franchise brings the vastness and depth of an EPIC-style battle to your PC, allowing you greater selection and customisation over your army. This, along with the multiple scenarios and battlefronts to fight from, will keep your strategic mind on edge for hours on end.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/final_liberation_warhammer_epic_40000"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "final_liberation_warhammer_epic_40000",
+			"save_folder": "",
+			"title": "Final Liberation: Warhammer Epic 40,000",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/truberbrook",
+			"developer": "btf",
+			"app_name": "1289701346",
+			"art_cover": "https://images.gog.com/da2ccd9dd67e3f8c122b0ddfb3053566af3d0071ad8c1b742416ee4d8c4b409f.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/54ded5b7f9e16510485dcdcdbb39bf2a2c7996adc7825134ebee4110519a9bf6.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/b55d72321e04a03d6b8c5594910e334df043785036429d4805ad33f631792d80.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Enjoy an adventurous vacation to a 1960's parallel universe! A Sci-Fi-Mystery Adventure Game with handmade scenery.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/truberbrook"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "truberbrook",
+			"save_folder": "",
+			"title": "Trüberbrook",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/outward_definitive_edition",
+			"developer": "",
+			"app_name": "1091409855",
+			"art_cover": "https://images.gog.com/556ddf686774355ffafe91b33410372011bbe8c0fe9b8b79715a5ba1d2393411.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/1b82f7a3ebd358d1e7591f04208cec32c97ddf7e07d590b68e229735995bd90a.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/de4a78f8f29329d7d11286ce5ecd6731f502494b69eab09edb9917c35946ccf1.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Outward is an open world RPG that you play alone or with friends, either online or in splitscreen. It's more than just an open world RPG you can play coop though: it is an adventurer life simulator. You live the life of an adventurer, from his or her humble beginnings up until retirement. Your life isn't only about killing monsters and looting: you need to eat, drink and sleep; preparing accordingly before jumping into danger. Everything is meant to feel more real and consequential, while still taking place in a high fantasy universe with magic and exotic creatures.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/outward_definitive_edition"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "outward_definitive_edition",
+			"save_folder": "",
+			"title": "Outward Definitive Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/akalabeth_world_of_doom",
+			"developer": "Richard Garriott",
+			"app_name": "1207666073",
+			"art_cover": "https://images.gog.com/b5dc3ccc105529e0ed00ef7de0c80ada58ff9235ab9cd05ebacc9e50cc9a3fe4.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/511cf474562bdaf2c8b9eec1a0c94e1eb5cf4e3900a618516adff2ebd89118e0.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/76625d1c0f0b2b2da8138873ba401e48f6ac1e9a13704f181b0ae51fc6519d4e.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "In the game, the player character visits Lord British and is instructed by him to kill certain monsters. The final mission is to kill a balrog, and after this has been accomplished, Lord British proclaims that \"thou hast proven thyself worthy of knighthood\".",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/akalabeth_world_of_doom"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "akalabeth_world_of_doom",
+			"save_folder": "",
+			"title": "Akalabeth: World of Doom",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/alwas_awakening",
+			"developer": "Elden Pixels",
+			"app_name": "1396087560",
+			"art_cover": "https://images.gog.com/47d30e38f8ef553866e2b9afb04abf242400715994139a7d214c7c01f9357f98.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8c0834b7d6a1f0ca654ba565eca7a999edc7d4fdfe0b4617830a46d9dbc3670c.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/c5860c0dbaabb986bba6cb7f2479c9aa02666f20ceb75948df716505ea782f5c.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Use your magic staff and progress through a large interconnected world where you'll solve puzzles, fight enemies and defeat bosses in order to help free the land of Alwa. Explore and uncover the secrets by using your platforming skills in this challenging and charming 8-bit adventure game.\n\nAlwa’s Awakening is a game that tries to stay as close as possible to the authentic 8-bit look with sweet pixel art, a soundtrack filled with catchy chiptunes and so much charm it’ll bring you right back to the NES era. With easy to understand controls the game is easy to learn but tough to master, just like how games were in the old days!\n\n- A new challenging NES-inspired adventure game\n- Use the magic staff to solve puzzles and defeat enemies\n- Find and unlock upgrades to your items and abilities\n- Explore a large interconnected map in true 'Metroidvania' style\n- Listen to a completely new 8-bit soundtrack with over 25 new original tracks",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/alwas_awakening"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "alwas_awakening",
+			"save_folder": "",
+			"title": "Alwa's Awakening",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/warsow",
+			"developer": "Chasseur De Bots",
+			"app_name": "1207659121",
+			"art_cover": "https://images.gog.com/f99d5ffbf43977c8250dbded8ebaf58238339530d0369dc6bdc1863906a189ab.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/47d956374f39780e688e5e2955007813608635b44a5de86e9f6a0af1f0cc5c46.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/b56452a52a76bbca96eb9ae0e4bb1ed414671e13f0004d1619a9e69d2d163158.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Warsow is set in a futuristic cartoonish world where rocketlauncher-wielding pigs and lasergun-carrying cyberpunks roam the streets. It is a completely free, fast-paced first-person shooter without hard graphical violence. Red stars instead of blood indicate hits and colored cubes replace guts as gib effects.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/warsow"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "warsow",
+			"save_folder": "",
+			"title": "Warsow",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/brigador",
+			"developer": "Stellar Jockeys",
+			"app_name": "1356485086",
+			"art_cover": "https://images.gog.com/7d44ac145a6c2cf74b412c4de0110f3051095c09bf0bab9c326f4b23ce089bcc.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/d2ceb77eb0704ccb4d0ff87604e29dc7b6c1f8f6a81186740b0542badc968b5f.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/0db62f7aaa1611a1fee4b288b68e79d78f73d75f3ab6ec1f61d278914c6503d5.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Brigador is an isometric vehicle action game set in completely destructible environments. Highly difficult without being unfair. Lush revivalist graphic style reminds you of what 90's games would look like now. Huge variety of playable vehicles and weapons, deep tactics and high skill ceiling with custom map support all contribute to a game built to be played and enjoyed for a long time.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/brigador"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "brigador",
+			"save_folder": "",
+			"title": "Brigador: Up-Armored Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/sigma_theory_global_cold_war",
+			"developer": "Mi-Clos Studio",
+			"app_name": "1986246769",
+			"art_cover": "https://images.gog.com/e622c5bc6874ba1f6565f2575b9b443e287c200324270b60b47ceb907be61603.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8a2707a16f86862e043cad24821d1796f1220ca6ab8eeb9e03d59ade67706545.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/8329b7b3bfff362030cce96a61628f0687e834aaff7f5b543de7998902a9a124.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "A Turn-based Strategy game in a futuristic global cold war from the award-winning creators of Out There. Recruit a squad of special agents and run your intel agency to secure the control of the singularity.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/sigma_theory_global_cold_war"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "sigma_theory_global_cold_war",
+			"save_folder": "",
+			"title": "Sigma Theory: Global Cold War",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/fallout_2_classic",
+			"developer": "Black Isle Studios",
+			"app_name": "2",
+			"art_cover": "https://images.gog.com/20ba0c7ca5cd32307d2428f9c12d3b8050bf1c6a88b169207923b399ac4baafe.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/075d571e3fa0a116830132e3a3f820f6e4a64ba8e2d0f940479d4e0ed99695e2.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/4c90ad70de415389c3456a5c75c94386aac94546c0be48ff964113ef8dbe04c1.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "A turn-based tactical Western RPG in which the Chosen One is tasked with exploring post-nuclear California to locate and retrieve the fabled Garden of Eden Creation Kit for their famine-stricken tribe, while coming into contact through branching dialogue trees with numerous tribes, factions and micro-civilizations, each with their own virtues, vices, socioeconomic situations and political agendas.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/fallout_2_classic"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "fallout_2_classic",
+			"save_folder": "",
+			"title": "Fallout 2 Classic",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/syberia",
+			"developer": "Microids, Anuman Interactive",
+			"app_name": "1207658848",
+			"art_cover": "https://images.gog.com/d47d9ea62f4abcc6d9a2a394a38c13c49f900b061d2dc66d18ded8157b5ce3e7.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8899cb2722e5cdee8161b0720cc1cf9944f5623df5dfeb233568b8a6c3a19145.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/856bbbe8e163bbaecfbd383f9e392eee3a368cec4319b5d4d55f17859c3e4370.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Join Kate Walker as she travels to remote locations and time periods in this timeless voyage to discover her true destiny.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/syberia"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "syberia",
+			"save_folder": "",
+			"title": "Syberia",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/alien_breed_2_assault",
+			"developer": "Team17",
+			"app_name": "1786995757",
+			"art_cover": "https://images.gog.com/3538065fb63bb6b5c2ccbd40368d62d18bd6c3bc5b0a1679a6378b9a47058cc2.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/fca5ea1ace166e73282db686716b6b1b4a861e3af0cd589a1d1652465ee0bf04.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/a6ca4020c3e5a9c47b9e5d7980837c1d6df4d67320a181a7e2fc3b8c209ebe58.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Can you survive the alien onslaught? Alien Breed 2: Assault is the second chapter in the Alien Breed series, and is an explosive science fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weaponry, highly detailed and rich environments, developed using Epic Games' Unreal Engine 3. Take control of the hero, Conrad, the ship’s Chief Engineer, and continue your fight for survival across the fatally damaged space vessel, against a ruthless assault by an alien horde. Your only hope relies on reigniting the alien space craft’s monstrous engines to rescue you from impending annihilation. Deep inside the bowels of the unfamiliar craft, and with time rapidly running out, ready your weapons and begin to claw your way through the darkness in a fight for survival. But you are not alone. The ship is home to the carnivorous alien horde and something else ... something yet to reveal its true intentions ... something biding its time. In addition to the thrilling single-player campaign and all new “survivor” modes, the game also offers relentless, action-packed, two-player online co-operative battle modes.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/alien_breed_2_assault"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "alien_breed_2_assault",
+			"save_folder": "",
+			"title": "Alien Breed 2: Assault",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/immortal_redneck",
+			"developer": "CremaGames",
+			"app_name": "2089001920",
+			"art_cover": "https://images.gog.com/348338eaf16b93ec1c01eded39cdfedabfefe38068557490d50ec3b602910834.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/40c75a874f282a9c6625256a1939f66b0e43fe5a0f1a0756110a23259921fe51.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/b15dbf73a2de6300ea9ab7d2796bc7d23629255a5cfbd3b2f0b1176f85fcba47.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "\"Lost.\n\nFurious.\n\nImmortal!\n\nWhen a redneck awakes bandaged in the Ancient Egypt with the only company of his most beloved weapons… The bloodbath starts! Use a ton of different weapons to kill bizarre enemies (from blue dinosaurs to flying skulls) and finish off some of the biggest bosses you’ve ever seen!!\n\nUnleash the power of the Gods! Receive the blessing of Apis, Sekhmet and more: each one will give you its own weapons and abilities. Also, you can get new skills in the scrolls that you’ll find in the dungeons… And buy new ones in the skill tree!\n\nEach time you play, the game will be DIFFERENT! Procedural dungeons filled with bad monsters wait for you to enter and discover the secrets of the Ancient Pyramids of Egypt.\n\nBlood, bullets, evil monsters, big bosses and a ton of fun: Take your gun and let the craziness begin!\"",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/immortal_redneck"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "immortal_redneck",
+			"save_folder": "",
+			"title": "Immortal Redneck",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/shadowrun_returns",
+			"developer": "Harebrained Schemes",
+			"app_name": "1207660413",
+			"art_cover": "https://images.gog.com/52f9829803d938da3157d585ce244accb83444172531bae6661402056bd40374.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/610fa3ecab0ad535accb3d06664ccaf62b04288fd7da31ed5ff4e33fdefd7a80.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/96fce3b78782f41e780c8dd98295fcdf6df63823b842467d3dd84882bd57c173.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The year is 2054. Magic has returned to the world, awakening powerful creatures of myth and legend. Technology merges with flesh and consciousness. Elves, trolls, orks and dwarves walk among us, while ruthless corporations bleed the world dry. You are a shadowrunner – a mercenary living on the fringes of society, in the shadows of massive corporate arcologies, surviving day-by-day on skill and instinct alone. When the powerful or the desperate need a job done, you get it done… by any means necessary. \r\n \r\n \r\n \r\nThe unique cyberpunk-meets-fantasy world of Shadowrun has gained a huge cult following since its creation nearly 25 years ago. Now, creator Jordan Weisman returns to the world of Shadowrun, modernizing this classic game setting as a single player, turn-based tactical RPG. \r\n \r\n \r\n \r\nWith the Shadowrun Returns Editor, everyone is empowered to create and share their own stories and campaigns with the Steam Workshop community. You can even explore the entire Shadowrun Returns Seattle campaign in the Editor directly – see how it was built and borrow as much as you need to jump-start your own creations! No advanced coding or art skills are required to create content using the SRR Editor.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/shadowrun_returns"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "shadowrun_returns",
+			"save_folder": "",
+			"title": "Shadowrun Returns",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/hellpoint",
+			"developer": "Cradle Games",
+			"app_name": "1503950763",
+			"art_cover": "https://images.gog.com/a7a2f072096aba117bf3b301c695a507815d405a146d870625c0df14a5c1b98b.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/82d70c60a9ce6d1134e22d038ced112f8edfbd6b988ec0a54062a38c50bf8724.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/c42c124612fc50c359283eaa24a875139f9159d907300b43610daabc67e2b736.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Hellpoint is a dark sci fi action RPG set in the aftermath of a massive quantum cataclysm. Every living being quickly lost their mind as their memories and bodies were merged with alternate versions of themselves from parallel universes. The accident also attracted entities of immense power that should have been left alone, in the depth of other dimensions.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/hellpoint"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "hellpoint",
+			"save_folder": "",
+			"title": "Hellpoint",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/flashback",
+			"developer": "",
+			"app_name": "1486529526",
+			"art_cover": "https://images-2.gog-statics.com/cfbb26f44012638c90b9649bda0359292cca1e04dd889b862614c232384eacfa_glx_logo_2x.jpg",
+			"art_square": "https://images.gog.com/253d9ba02f662d8d3d9fe66805c83bc4f53f83eaf54924b4703c97216c529040.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/7f0b682bbf5ca156a4e30decbfd0d45f18839958f6285c7f4359aefdbcea2fcd.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Description\r\nFLASHBACK™, the hit action-adventure game with over 2.2 million units sold, is back! \r\n\r\n2142. After fleeing from a space ship but stripped of all memory, the young scientist Conrad B. Hart awakens on Titan, a colonised moon of the planet Saturn. His enemies and kidnappers are snapping at his heels. He must find a way back to Earth, all the while defending himself against the dangers he encounters and unravelling an insidious extra-terrestrial plot that threatens the planet…\r\n\r\nOn its 25th anniversary, rediscover this classic, consistently ranked among the best 100 games of all time! It was one of the first games to use motion capture technology for more realistic animations, with backgrounds that were entirely hand-drawn and a gripping science-fiction storyline.\r\n\r\nTravel back to the early 90’s and reunite with Conrad to rediscover this cult classic.\r\nChoose to play with the original graphics and sounds from the 90’s and face an unforgiving difficulty.\r\nOr go with the Modern mode. You can also fine tune your experience by turning on Modern mode options independently and on the fly.\r\nEnhanced content:\r\nFor the first time ever, play the Director’s Cut version featuring 2 exclusive cutscenes\r\nWhite or pink? Choose among the two iconic colors of Conrad's t-shirt\r\nWant to practice on a specific level? You can now play any completed level during the main adventure\r\nReplay any cutscene that you unlocked from the menu\r\nJukebox: listen to the game's soundtrack\r\nStreet Art gallery: earn points in the game and unlock street art pictures in the gallery\r\n\r\nModern mode:\r\nPost-FX graphic filters,\r\nCompletely remastered sound and music,\r\nA brand new \"Rewind\" function, variable according to the level of difficulty\r\nTutorials for those who need a boost!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/flashback"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "flashback",
+			"save_folder": "",
+			"title": "Flashback™",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_witcher_3_redkit",
+			"developer": "",
+			"app_name": "1441199941",
+			"art_cover": "https://images.gog.com/3149649896663770a7b6cf4ce1648f772ce26ea68736baad5caf8bcdeb7dfb6b.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/f9ea09dcc63b0e562d54150f09d687e00788394ec36739aefae7e97c7c5f9459.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/1f3c51fee17b1e9031b787c3f30b29d750d0721bccee91315458045465cd634f.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Witcher 3 REDkit is a powerful modding tool for The Witcher 3: Wild Hunt on PC that allows you to customize and expand the game as you see fit. From overhauling terrain to creating new quests, animations, characters, and more!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_witcher_3_redkit"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_witcher_3_redkit",
+			"save_folder": "",
+			"title": "The Witcher 3 REDkit",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/haven_park",
+			"developer": "Fabien Weibel, Bubble Studio",
+			"app_name": "1906330252",
+			"art_cover": "https://images.gog.com/27650a3796e66eec11666b78b40d8d99f1163f334955e64c43123d2e4ebdfdc0.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/07f92c3c3b4f1918f297906f7f9f6c7a570346d17f27f81e580727dc6a0be3a3.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/57e2fd16d796345e8d9a48a4cf16d875ea65cd130c6b861bdf6ea8aeb7b9816e.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Be Flint, who is doing his best to keep his grandma's park up and running and make it a place for the campers to enjoy. Learn the camper's wishes and build whatever their hearts desire to attract even more quirky characters and look forward to whimsical conversations and quests.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/haven_park"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "haven_park",
+			"save_folder": "",
+			"title": "Haven Park",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/king_of_seas",
+			"developer": "3DClouds",
+			"app_name": "1105915912",
+			"art_cover": "https://images.gog.com/50634347cb97ac7a198788da10e0eaf7bf0f8ed4792483a3435b8245348e9fe4.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/2d251ddbf6ccae31b06896f0390f5453ccaa171e64b95fd13ef0ad5157c0f8ca.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/294c3e887d734d8726d0bebbc4a753d115e080dacf6022b353b74893d68be002.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "King of Seas is an Action Role playing game set in a procedural pirate world. An epic adventure awaits you in a fantastic world, dotted with fights, lost islands and treasures. A universe that will keep you anchored as you struggle to become the king of all pirates.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/king_of_seas"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "king_of_seas",
+			"save_folder": "",
+			"title": "King of Seas",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/south_of_the_circle_game",
+			"developer": "State of Play Games",
+			"app_name": "1787058795",
+			"art_cover": "https://images.gog.com/2eb4d3a57d0f86063b029bb28e49f6ca82a545aff390385d92e76c3509bd3838.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/b99906adf5770060e251a3eb87d7eb93301280341912a5edf90e9b136a11e5bb.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/86366db4f52cc9b8a760fb2974c337340bfa36e7c02b940422feb7f6c4ff95b8.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "South of the Circle is an emotional narrative experience exploring the relationship between Peter and Clara, Cambridge academics caught up in the political conflict of the Cold War. The story focuses on the weight of life choices - between career, true love and the desire to keep our promises.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/south_of_the_circle_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "south_of_the_circle_game",
+			"save_folder": "",
+			"title": "South of the Circle",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/ghost_of_a_tale",
+			"developer": "SeithCG",
+			"app_name": "1875167847",
+			"art_cover": "https://images.gog.com/5b3bf1d21f0011b318accf0b6a669d2d60ef06e0254a07a674a905b83e6b0bab.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/b40c0a34c7c849c2060e3aab0e07281123e95f3216f131407284fbf585747bf4.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/c05ed968a4760d7492c9da97d31fa7f46a2c50df1d2372ccc8a8f04fa0cab440.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Ghost of a Tale is an action-RPG game in which you play as Tilo, a mouse and minstrel thrown into a perilous adventure. Through stealth and cunning you’ll be able to explore the secrets of Dwindling Heights Keep and navigate its dangers.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/ghost_of_a_tale"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "ghost_of_a_tale",
+			"save_folder": "",
+			"title": "Ghost of a Tale",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/under_the_moon",
+			"developer": "Bamya Games",
+			"app_name": "1386468605",
+			"art_cover": "https://images.gog.com/421701add8dcbd05f0fca4eb04aab987222a63a8cd1693faf726b09637b21ceb.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/95eab1a8360dec7618c73648dd4f41d1452fa53a8a7592e7ea8a522843c850ad.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/5faf0090fee453b76849dedc8e91d0fa2d381a4c92ac69d7fb0ffc0edb27dd10.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Under the Moon is an indie, platformer - riddle game which adorned with great stylized graphics and atmosphere. Join Ali Kemal on his fantastic world-wide journey on the path of true love!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/under_the_moon"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "under_the_moon",
+			"save_folder": "",
+			"title": "Under The Moon",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/wanderlust_transsiberian",
+			"developer": "Different Tales",
+			"app_name": "1766556386",
+			"art_cover": "https://images.gog.com/1510a88add59f1ddfe3fc453b1e5f7be302fb90a0808e7e51712cb507df200a3.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/80b09e0d21a98762879345aeb231ad43a9a718a6bd241afe7bb39769d514a054.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/9f544ac918ee9784460a091edfd3ef6cdd51cc0d3d1023872acd8f4967b99eae.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Board the Trans-Siberian railroad and travel 9,289 km from Moscow to Vladivostok. Clash with a vibrant culture as you meet people as strange to you as you are to them. Journey into a standalone Wanderlust adventure from the makers of The Witcher.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/wanderlust_transsiberian"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "wanderlust_transsiberian",
+			"save_folder": "",
+			"title": "Wanderlust: Transsiberian",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/war_wind",
+			"developer": "DreamForge Intertainment",
+			"app_name": "1455545518",
+			"art_cover": "https://images.gog.com/315e0cf8a16cac0a5a7ede5113e18796cc7cd92e5c51446ae7082f8f3b0b30ff.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/a38ca21438b522ccc4f8666e69af3d06efdd22def80a294fadc4e2d28fdc5128.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/755f2b5e104992be5eb81d62f306afd69e9258073e17000fb0adae2205941018.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "War Wind allows you to view this epic struggle through the eyes of four unique races, each with its own strengths, weaknesses and distinctive A.I. A real-time strategy masterwork, War Wind features 28 read-to-play scenarios. A powerful Scenario Editor that allows you to place units and build new battles. And a story of such compelling depth you won't believe it's just a game.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/war_wind"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "war_wind",
+			"save_folder": "",
+			"title": "War Wind",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/shadows_awakening",
+			"developer": "Games Farm",
+			"app_name": "1442285576",
+			"art_cover": "https://images.gog.com/3ccd0fca4f438a1c2ff4cd109f824558cf7c1d879e675801011ac59cb85747a1.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/a0b110b14c954afb4f084bc46c907f1d482693b6f9b0adb369f296e8fe33e3e8.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/8166a2c8c245e483d7741d084e6904bf815db79e6c4997333e321f0de38fcf58.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Shadows: Awakening is a unique, isometric single-player RPG with real-time tactical combat. You embark on an epic adventure with challenging gameplay, a gripping storyline and enchanting graphics.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/shadows_awakening"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "shadows_awakening",
+			"save_folder": "",
+			"title": "Shadows: Awakening",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/shadow_warrior_2",
+			"developer": "Flying Wild Hog",
+			"app_name": "1434021265",
+			"art_cover": "https://images.gog.com/b46766215d0998f19cdc3182a03d973d2ef44809024d24335c5525bde567baad.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/3bc7cc7783d0eab51b4fe7262620fc1b8f2570e3839ff8e251e847dfaa687540.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/491a039b66286c7e4eca9c534c506219e5ecc4f043a439128729dcc4af186ddd.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "\"Shadow Warrior 2 is the stunning evolution of Flying Wild Hog’s offbeat first-person shooter following the further misadventures of former corporate shogun Lo Wang. Now surviving as a reclusive mercenary on the edge of a corrupted world, the formidable warrior must again wield a devastating combination of guns, blades, magic and wit to strike down the demonic legions overwhelming the world. Battle alongside allies online in four-player co-op or go it alone in spectacular procedurally-generated landscapes to complete daring missions and collect powerful new weapons, armor, and arcane relics of legend.\"",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/shadow_warrior_2"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "shadow_warrior_2",
+			"save_folder": "",
+			"title": "Shadow Warrior 2",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/stellaris",
+			"developer": "Paradox Development Studio",
+			"app_name": "1508702879",
+			"art_cover": "https://images.gog.com/c50a5d26c42d84b4b884976fb89d10bb3e97ebda0c0450285d92b8c50844d788.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8d822a05746670fb2540e9c136f0efaed6a2d5ab698a9f8bd7f899d21f2022d2.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/742acfb77ec51ca48c9f96947bf1fc0ad8f0551c9c9f338021e8baa4f08e449f.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/stellaris"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "stellaris",
+			"save_folder": "",
+			"title": "Stellaris",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/beneath_a_steel_sky",
+			"developer": "Revolution Software",
+			"app_name": "1207658695",
+			"art_cover": "https://images.gog.com/43d3c234e630c5c07984a98d8935e0606ed19e41477fb8d0d02f7930efa48b7a.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/cfa2550bbfd27506a0b5099423aab3cc0cbfb1ae2edcef4d32a6faa38e7721a6.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/2ddb74da4bb18466ea716abfa56674d48858483f6a07e94f16792b4304e16b0c.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Beneath a Steel Sky is a cyberpunk, point and click, adventure game. You assume the role of Robert Foster and embark on a quest to make the world a better place, along with your robot companion Joey.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/beneath_a_steel_sky"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "beneath_a_steel_sky",
+			"save_folder": "",
+			"title": "Beneath a Steel Sky",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/syndicate",
+			"developer": "Bullfrog Productions",
+			"app_name": "1207658992",
+			"art_cover": "https://images.gog.com/5e1c5eb6e8dd9d62a6c03d678005d3cc26cb98589dcde0e46b68ec0a45f50efa.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/3e26cc19f2a7c86b5538b7e05b11e5c0c8abbb97cdb592711b99ffa4d76995bb.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/04602be13402033112e5f3c1436cedbff856748ae03f387b4e2d14c7e34b75e3.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "In the dark and twisted cities of tomorrow, corporate syndicates compete for global dominance. But the boardroom deals and corporate takeovers of the future look very different from today: they are lead by marketing directors who manage teams of half-men, half-machine cyborgs with no conscience and plenty of guns. \r\n\r\nYou are an ambitious marketing director in the Syndicate, hand-picked to lead a team of cyborg mercenaries. You work in the problem-solving department and you are damn good at \"taking care\" of problems. Some might say that violence is not the answer but you know better. There here are hardly any problems that you can't solve with a well-placed bullet. Collateral damage in the local population and infrastructure during the “negotiations” is, as always, acceptable. After all, what would you expect form the dystopian futuristic world run by mega-corporations? \r\n\r\nSyndicate is Bullfrog’s masterpiece of a game in which you aren’t saving the world or protecting innocents. You just make sure that your employers get what they want. At your disposal are four cyborg agents, an impressive arsenal of weapons and gadgets, and a massive selection of cybernetic upgrades. You are free to unleash this power on a highly interactive map where you can blow up buildings, steal cars, light trees on fire, or just shoot stuff. Produced by Peter Molyneux himself, Syndicate is the essence of cyberpunk and, with its great music, stylized visuals, and mind-blowing atmosphere, it has earned its place among the best games of all time. Make sure to check out the game that secured Bullfrog's place in game development hall of fame.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/syndicate"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "syndicate",
+			"save_folder": "",
+			"title": "Syndicate Plus™",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/lovecrafts_untold_stories",
+			"developer": "Blini Games",
+			"app_name": "1674669448",
+			"art_cover": "https://images.gog.com/2464efdd8c69203ff42d37869971d7c6a714a76bb896b093ef3c6306493e6899.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/01518a0327601a53b419a60e7f4ff5580f1b0e62377b76cdfa9a6d54c14b91de.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/6b34f034a5f7b0932806ddd7fefdef48ea773be395f13763a8cf30e10b8d154f.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Lovecraft’s Untold Stories is an action RPG with rogue-like elements. Explore, improve your skills and gear, and fight cultists and creatures from the Mythos to stop the Old Ones’ plans in randomly generated levels based on Lovecraft stories. Madness and death await you—but maybe you can delay the inevitable…",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/lovecrafts_untold_stories"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "lovecrafts_untold_stories",
+			"save_folder": "",
+			"title": "Lovecraft's Untold Stories",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/dex",
+			"developer": "Dreadlocks Ltd.",
+			"app_name": "1929434313",
+			"art_cover": "https://images.gog.com/2087e4315dd6ad2343646eed973d84f979d535b0a466a09c6e777b070161c96a.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/613a8fa9b28b3979d07f9db9ecee3639170a9d23bd907facfac53ab1df981201.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/57c3e20f8c94edfb993f401e38990aa4c26f4979a9eb4d97c675896498b7b0a2.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Discover the truth behind an enigmatic AI striving to reach the Singularity, a theoretical “event horizon” in which artificial intelligence will surpass human intelligence and all bets about the future will be off. How will you play your part in the story? \r\n \r\nExplore the futuristic city of Harbor Prime and meet its many inhabitants, answer the challenges the city has to offer, roam the neon-lit streets, and augment your character with skills and implants. \r\n \r\nDesigned as a tribute to the classic RPGs from the ‘90s, updated for a modern audience, Dex invites you to become part of a living, breathing cyberpunk universe as you decide which ultimate path you will embrace.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/dex"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "dex",
+			"save_folder": "",
+			"title": "Dex",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/eschalon_book_ii",
+			"developer": "Basilisk Games",
+			"app_name": "1207659220",
+			"art_cover": "https://images.gog.com/d8b548e36e64e4d6b9043858cfd0e47a2411b3215816b48b9ae41e3f25828ce4.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/e86992bd6737098059a50ee6dff30d73fa6bf91e3c1d42c309e9c2c892bb2e45.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/d15e067cbef6961b6a812bd9c4f01aa460c4aeccfea08cee6272789d7620c583.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Isometric turn-based single player role-playing game, with some survival aspects. Basic gameplay includes quests, combat, puzzles and skill checks.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/eschalon_book_ii"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "eschalon_book_ii",
+			"save_folder": "",
+			"title": "Eschalon: Book II",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/crusader_kings_ii",
+			"developer": "Paradox Development Studio",
+			"app_name": "1137712636",
+			"art_cover": "https://images.gog.com/dad4578bd6a304b8aaa452f5876608747a56782fdef6efe84a77151354f96961.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/bff4404211ce8dc42e483d1ee4cfbd96472fc86714ce7bf1ff33f6287ec50565.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/d4ff1f39b3a36585cbd23b0c01a7083403f783cc7b3fd46224eb771113b40433.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Dark Ages might be drawing to a close, but Europe is still in turmoil. Petty lords vie against beleaguered kings who struggle to assert control over their fragmented realms. The Pope calls for a Crusade to protect the Christians in the Holy Land even as he refuses to relinquish control over the investiture of bishops - and their riches. Now is the time for greatness. Expand your demesne and secure the future of your dynasty. Fill your coffers, appoint vassals, root out traitors and heretics, introduce laws and interact with hundreds of nobles, each with their own agenda.  \r\nA good lord will always need friends to support him. But beware, as loyal vassals can quickly turn to bitter rivals, and some might not be as reliable as they seem... Stand ready, and increase your prestige until the world whispers your name in awe. Do you have what it takes to become a Crusader King?  \r\nCrusader Kings II explores one of the defining periods in world history in an experience crafted by the masters of Grand Strategy. Medieval Europe is brought to life in this epic game of knights, schemes, and thrones...",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/crusader_kings_ii"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "crusader_kings_ii",
+			"save_folder": "",
+			"title": "Crusader Kings II",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/hammerting",
+			"developer": "Warpzone Studios",
+			"app_name": "1444308510",
+			"art_cover": "https://images.gog.com/130597e88069cea188cd799de026f67f097aec9d1612dc0f1407cce929ef190e.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/f409ac3094a4843f4a7753a5e5fcd5f1749238c86e6d8cbc1881451dc9235130.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/214c5db887d358e4d2ce3fff0dd50c0272fe0fdac3303ae5a1c181ab4956006f.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Hammerting is a vertical dwarven mining colony sim with RPG elements.\n\nManage a clan of colorful dwarves, establish an epic mining operation, craft legendary swords and delve deep for greater glory, riches... and danger.\n\nWith a war raging on the surface, the dwarves pledge to delve deep and, as the master craftspeople they are, produce and supply whatever is needed. From humble beginnings, you start with a few, hurried dwarves who need to set up operations. Ultimately, your small clan of dwarves will be known throughout the Upper Realms for their skill, and the base will span kilometers.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/hammerting"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "hammerting",
+			"save_folder": "",
+			"title": "Hammerting",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_witcher_3_wild_hunt_game",
+			"developer": "CD Projekt RED",
+			"app_name": "1207664643",
+			"art_cover": "https://images.gog.com/927af0c4e538f35d9cefbacec1d5d04113567eacd758ceb6f2b68de045421e9e.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/86856f62b3e633f639fed3dd5add84859d6447e0862138dbadf7fcae3272f67b.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/383a90bb3c398e298726a60eed9cde80ec446959f5b0e340f10cba072725f2df.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "RPG and sequel to The Witcher 2 (2011), The Witcher 3 follows witcher Geralt of Rivia as he seeks out his former lover and his young subject while intermingling with the political workings of the wartorn Northern Kingdoms. Geralt has to fight monsters and deal with people of all sorts in order to solve complex problems and settle contentious disputes, each ranging from the personal to the world-changing.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_witcher_3_wild_hunt_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_witcher_3_wild_hunt_game",
+			"save_folder": "",
+			"title": "The Witcher 3: Wild Hunt",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/nomads_of_driftland",
+			"developer": "Star Drifters",
+			"app_name": "1433027987",
+			"art_cover": "https://images.gog.com/0014141b4f5cb0dec82166f5c1e62e6f400fb16ce38760415287f52b6f67c0aa.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/caff1febb07649c371dd260213a531f04ecd8f1cef882ee2aa1e25e3f77d11c5.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/8f63ef7d9b0b79c584130aae995b20922b428b9e121989bca3497056933a36df.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Nomads of Driftland is an RTS game initially created as an add-on to Driftland: The Magic Revival. Since it is significantly different from the base game, it was released as standalone expansion available for free. \n \nBase game - Driftland: The Magic Revival is a unique fusion of RTS, 4X strategy, and Sim genres in a fantasy world made up of the shattered planet. The player takes on the role of a powerful mage-ruler capable of moving and reshaping parts of the planet. Both game mechanics and history are based on an innovative concept of dynamic topography and issuing orders to individuals with free will. \n \nNomads do not have a ruler and do not carry out orders like other races in the base game. Units are managed directly, like in classic RTS games. New unit types/classes affect strategy on the battlefield.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/nomads_of_driftland"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "nomads_of_driftland",
+			"save_folder": "",
+			"title": "Nomads of Driftland",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/shadowrun_dragonfall_directors_cut",
+			"developer": "Harebrained Schemes",
+			"app_name": "1207660913",
+			"art_cover": "https://images.gog.com/9227dd5364d1c22f1417e6693541749a888cfb951791b921f058518018089abf.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/a47c9646bf43ab361cdda643f435e28e556662c314420cd10526e1f7716d90e0.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/7496db95c74ad1718ab7aeef6a8b395f5b7cc16241d7cb90c10764eaa7b2fde4.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Shadowrun: Dragonfall - Director’s Cut is a standalone release of Harebrained Schemes' critically-acclaimed Dragonfall campaign, which first premiered as a major expansion for Shadowrun Returns. The Director's Cut adds a host of new content and enhancements to the original game: 5 all-new missions, alternate endings, new music, a redesigned interface, team customization options, a revamped combat system, and more - making it the definitive version of this one-of-a-kind cyberpunk RPG experience.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/shadowrun_dragonfall_directors_cut"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "shadowrun_dragonfall_directors_cut",
+			"save_folder": "",
+			"title": "Shadowrun: Dragonfall - Director's Cut",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/broken_sword_directors_cut",
+			"developer": "Revolution Software",
+			"app_name": "1207658900",
+			"art_cover": "https://images.gog.com/bc3cd31c1589568f7950eb425907d8462ed777f524d98b54d30ba0cab5e80374.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/522f5110cda6c01bc9d4e2521ba94e4ac20e710c4551302e6d46aa550848b69d.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/0c64187be18821a9785d618d854a277788a931d9a3613489dc46f190970920a3.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "One of the all-time classic adventures, multi BAFTA-nominated \"Broken Sword: Director's Cut\" pitches sassy journalist Nico Collard, and intrepid American George Stobbart into a mysterious journey of intrigue and jeopardy. Guide George and Nico on their globe-spanning adventure, exploring exotic locations, solving ancient mysteries, and thwarting a dark conspiracy to reveal the secret truths of the Knights Templar.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/broken_sword_directors_cut"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "broken_sword_directors_cut",
+			"save_folder": "",
+			"title": "Broken Sword: Director's Cut",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_witcher",
+			"developer": "CD Projekt RED",
+			"app_name": "1207658924",
+			"art_cover": "https://images.gog.com/3a4d9190f3c0a0a8d63638193ef8c9af2ba58eb0b250295db2a28bccf852a76d.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/7fbb815727527616881cb45a56f51a19e90ddf21ba00c9e22b4852d9bec6324a.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fc1c44b2252e3200db66872630f7e21687bba217b6eabb188451556b5941cf63.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Now you can experience this fantastic RPG on Mac and PC!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_witcher"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_witcher",
+			"save_folder": "",
+			"title": "The Witcher: Enhanced Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the_game",
+			"developer": "Bethesda Game Studios",
+			"app_name": "1458058109",
+			"art_cover": "https://images.gog.com/e07fd2011db02cedb6e3d1b795c1b92a1b2c9de0c04971fcffc0290f7a9a760b.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/15c40e319b2c9248e954391b6933bd68489e280ae9c808fec5144e969f64050d.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/07670e549c7867826cc4b40e900ce9f0204169d030f4d93d37c89eb9ae46553d.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The Elder Scrolls IV: Oblivion Game of the Year Edition presents one of the best RPGs of all time like never before. Step inside the most richly detailed and vibrant game-world ever created. With a powerful combination of freeform gameplay and unprecedented graphics, you can unravel the main quest at your own pace or explore the vast world and find your own challenges.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the_game",
+			"save_folder": "",
+			"title": "The Elder Scrolls IV: Oblivion - Game of the Year Edition Deluxe",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/lure_of_the_temptress",
+			"developer": "Revolution Software",
+			"app_name": "1207658694",
+			"art_cover": "https://images.gog.com/c6f3c72d55b319ee1343ff6f1a2df49fc7897909e22253904f3bc06bcdd7a65d.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/43fe4a10fc911d5be00844f91bab3ffa98fbebd58c205a9471b82c87eb8a679e.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/77186a91e3e25840f0409722bd531e13fd2ca83e1822da62d9b35ed977aeb506.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Lure of the Temptress is an Adventure game, developed by Revolution Software and published by Konami, which was released in 1992.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/lure_of_the_temptress"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "lure_of_the_temptress",
+			"save_folder": "",
+			"title": "Lure of the Temptress",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/flight_of_the_amazon_queen",
+			"developer": "iPhSoft, Interactive Binary Illusions",
+			"app_name": "1207659723",
+			"art_cover": "https://images.gog.com/ee1d11ebe03db365116050f683de96053bcc71d54592678943f30385a5741263.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/6c0ca4ae83c3dd59b59c9ea854a8ca34c42255243f571fae50b9fafe0ff9a0c6.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/e9e4dc4f0bb54f2aa593e0b5ac6ee5426808871eccf3c10ffaf43d2411ea647b.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Flight of the Amazon Queen follows a pilot for hire named Joe King who is hired to fly a famous actress to her next job, but ends up in a lightning storm and crashes deep in the Amazon Jungle. In the jungle, Joe uncovers a plot by a mad scientist to take over the world by creating an army of dinosaur women created from Amazon women.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/flight_of_the_amazon_queen"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "flight_of_the_amazon_queen",
+			"save_folder": "",
+			"title": "Flight of the Amazon Queen",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/syndicate_wars",
+			"developer": "Bullfrog Productions",
+			"app_name": "1207659193",
+			"art_cover": "https://images.gog.com/87c8e0619d23781a098ee395ed25ae69350ccf09a8ef8fad155222cadbd87fcd.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/9b36302efd6ae7d0ce5f1dc97df0c273c69396e4697a38920d02e5dc1c87c56d.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/315d66bab41935cd1b6f428e692043c392599a78d33fc5f0b9811e6bd0fffb06.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Welcome to an urban hell of ultra-violent mayhem. Welcome to Syndicate Wars where you’ll take control of a squad of cybernetically enhanced Agents and wreak havoc on the enemy. Funnel money towards research that will allow you to upgrade your team and make them into more efficient killing machines. Use the environment to assassinate, destroy, and eliminate your targets all from a classic isometric perspective. If you need cannon fodder, why not set your Agents loose armed with Persuadertrons to control huge crowds, or even enemy agents, and get them to do the dirty work for you? So whether you’re keeping EuroCorp in the black or burning infidels for the New Epoch, Syndicate Wars will have you giddily carving a path to victory. Welcome to the merciless future of violent squad-based real-time tactics!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/syndicate_wars"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "syndicate_wars",
+			"save_folder": "",
+			"title": "Syndicate Wars™",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/daggerfall_unity_gog_cut",
+			"developer": "Gavin Clayton",
+			"app_name": "1782995089",
+			"art_cover": "https://images.gog.com/cabc85ac306390954f817a8be1274ad4de84155db293bfc55ef6f5bd826703e6.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/c2947b3de9d98440b3e0b2d365846de741339387f098b6af02eae382fdf58b68.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/91fa689bb0929173135cebdf5f7a25313b79c2b69f0ced318ee5e5d1d1e6644a.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Daggerfall Unity is an open source recreation of Daggerfall in the Unity engine created by Daggerfall Workshop.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/daggerfall_unity_gog_cut"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "daggerfall_unity_gog_cut",
+			"save_folder": "",
+			"title": "Daggerfall Unity - GOG Cut",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/saint_kotar_the_yellow_mask",
+			"developer": "Red Martyr Entertainment",
+			"app_name": "1875222919",
+			"art_cover": "https://images.gog.com/360e31c5f90a7b6410ca59c2642c306ef0ed18b777c8cca3635c506f7c98389e.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/de8cc42059dd9f498d6c8da26cb5fd004fa6f1ca9ca7b8b02c25b42c06cb556c.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/87d16833df9af513db0e8bd1750e7c690b06989ea8a027dae44de1b1f4e9d4dc.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Follow the fear of Benedek Dohnany and Nikolay Kalyakin and play the onset of a dark and chilling narrative adventure. Make decisions and affect the events that precede a macabre series of murders, allegedly related to devil worship and witchcraft.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/saint_kotar_the_yellow_mask"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "saint_kotar_the_yellow_mask",
+			"save_folder": "",
+			"title": "Saint Kotar: The Yellow Mask",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/jazz_jackrabbit_2_christmas_chronicles",
+			"developer": "",
+			"app_name": "1597842603",
+			"art_cover": "https://images.gog.com/9289b6c95981a9933e9952a00ebc339232af0039ebdfa05df5ddf08dc12790a6.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/815f695a093eb35325ac84c66af106b993a940a40097d1ed63149c0bb87562fe.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/71062bd716e5760947ec92354d39e9f724d6ee45e87c35d19a1d0946bf250c39.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "They are back! Super-cool rabbit jazz, his crazy little brother, Spaz, and their athletic sister Lori will gang up for Christmas to have a wild and wacky time on your PC. In these Christmas levels of the PC hit Jazz Jackrabbit 2, our favourite rabbits have brand new adventures in cold, snowy landscapes, where there are many evil enemies.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/jazz_jackrabbit_2_christmas_chronicles"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "jazz_jackrabbit_2_christmas_chronicles",
+			"save_folder": "",
+			"title": "Jazz Jackrabbit 2: The Christmas Chronicles",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/dragonsphere",
+			"developer": "MPS Labs",
+			"app_name": "1207658927",
+			"art_cover": "https://images.gog.com/f18f30c8e1df620f163f2b781e4e8b91a2dcbb2c177dc12557febc29aef47de8.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/3870137e89407386f33fd4c136cc3e4d09dc60c900704220f40fb72baa01b577.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/2c40bb032307ae1c58fccca9075bec260b844b868175d5c80047e5e6e6e60313.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Newly-crowned King of Callahach! It's been twenty years since your father saved the world by entrapping the evil Sorcerer Sanwe. Now the spell is waning. Sanwe's malevolent force will soon consume the land, and only you can stop him!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/dragonsphere"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "dragonsphere",
+			"save_folder": "",
+			"title": "Dragonsphere",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/seven_the_days_long_gone",
+			"developer": "Fool's Theory",
+			"app_name": "1276856962",
+			"art_cover": "https://images.gog.com/37fdd76b2e487e62bc277a1b3bddb7f7bc0e58fab6b2e9f35e81b6e28858e4b4.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/9bdc89552abaaf6a0c9f9c50597da2b3f3e9cf0ca1e505cdc51f62291267960e.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/e199e245721b8e9b133045c77d12e9390a868dc2adda5d025831d3950289e030.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Seven: The Days Long Gone is an open-world, isometric role-playing game, in which you play as Teriel, a master thief sent on a mission that will shake the foundations of the Vetrall Empire. Free roam across the vibrant prison island of Peh, and choose whether to help or exploit its many citizens.\n\nIf there’s one place that Master Thief Teriel avoids at all costs, it’s the prison island of Peh. But when a daring heist takes an unexpected turn, Teriel finds himself shackled on an airship bound for the infamous island. To make matters worse, the daemon inside his head makes it very clear that the thief will never leave unless he does exactly what he’s told.\n\nIn Seven: The Days Long Gone you play as Teriel. You must use all of your cunning and clandestine skills to escape a web of deceit and betrayal, and ultimately survive Peh.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/seven_the_days_long_gone"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "seven_the_days_long_gone",
+			"save_folder": "",
+			"title": "Seven: Enhanced Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/shadowrun_hong_kong_extended_edition",
+			"developer": "Harebrained Schemes",
+			"app_name": "1436866438",
+			"art_cover": "https://images.gog.com/b2cede72dd1cf03c2757f5fd4824a1a59e1431748713cd981dc64f11ec98a98c.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8fe6e0f7980d905aa085cbab2e9448ed5f53a482ae0a3a2b95bc875c9794a3b7.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/adb57ab59e34d5ef3ced75b7cbadaeb2de2349f5fef2a141415e4ee37f42617e.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Shadowrun: Hong Kong - Extended Edition is the capstone title in Harebrained Schemes' Shadowrun series - and now includes the all-new, 6+ hr Shadows of Hong Kong Bonus Campaign. Experience the most impressive Shadowrun RPG yet, hailed as one of the best cRPG / strategy games of 2015!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/shadowrun_hong_kong_extended_edition"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "shadowrun_hong_kong_extended_edition",
+			"save_folder": "",
+			"title": "Shadowrun Hong Kong - Extended Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/ascendant",
+			"developer": "Hapa Games",
+			"app_name": "1207664543",
+			"art_cover": "https://images.gog.com/285465401e9b5f5df9603b0b067a6fced980000590db3bc7c8a498f7acfae002.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/faaa39ce7bcf3d3d6ec8df1cddfb88cc8f89c65804fdc41f9a9d1deca3a7243f.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/4b76553845c101c50bcea50941073af31d979b57055830fcb67003f63168b6d7.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Ascendant is the unforgiving beat 'em up that challenges you with a new world each time you play. It utilizes a number of modern roguelike elements such as permadeath and procedurally generated environments. You are a demigod who invades a plane controlled by your rivals. They will stop at nothing to eliminate you. Only the most impressive warriors will triumph over their armies of zealots and beasts.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/ascendant"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "ascendant",
+			"save_folder": "",
+			"title": "Ascendant",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/shores_unknown_demo",
+			"developer": "Vallynne",
+			"app_name": "1689019552",
+			"art_cover": "https://images-3.gog-statics.com/aa485936254a93b3a2ed0f780d3e64609413aee0ebe23c40b3e10e91b947e0ef_glx_logo_2x.jpg",
+			"art_square": "https://images.gog.com/a6be6891b723aa7e48fe5723f79f30d0e1c881873e8bab9fa0185ee53264f7e0.jpg?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "A turn-based tactical RPG rendered in a rich, low-poly aesthetic. Build your own team of mercenaries, forge alliances, wage battles, and journey beyond the seething wall of fog known only as the Murk in this decision-influenced, narrative-driven adventure. What dangers await you on Shores Unknown?",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/shores_unknown_demo"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "shores_unknown_demo",
+			"save_folder": "",
+			"title": "Shores Unknown: Arrival",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/fr/game/the_witcher_3_wild_hunt_game_of_the_year_edition_game",
+			"developer": "CD Projekt RED",
+			"app_name": "1495134320",
+			"art_cover": "https://images.gog.com/218935add6c0d3322f7ce08dcaaaa9d2578fa869f45f34b9d8ad7c64a5b00146.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/e030ace5195d05399ad86d6022bcfc9ddfbb0d83b318eb9cabc46707a35a8533.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/d4dcbad8151f8acf3d8316c82c62a9f132833d77a384c5523cac0e0bcea80f06.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Become a professional monster slayer and embark on an adventure of epic proportions! Upon its release, The Witcher 3: Wild Hunt became an instant classic, claiming over 250 Game of the Year awards. Now you can enjoy this huge, over 100-hour long, open-world adventure along with both its story-driven expansions worth an extra 50 hours of gameplay. This edition includes all additional content - new weapons, armor, companion outfits, new game mode and side quests.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/fr/game/the_witcher_3_wild_hunt_game_of_the_year_edition_game"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_witcher_3_wild_hunt_game_of_the_year_edition_game",
+			"save_folder": "",
+			"title": "The Witcher 3: Wild Hunt - Complete Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_first_templar",
+			"developer": "Haemimont Games",
+			"app_name": "1669367757",
+			"art_cover": "https://images.gog.com/e705e0504f476d879b41f3df16a8016dad7ef92c1632ef5840029fb8a76d0606.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/55474b4bf927cacd3c225c2c50a186c18783794e8ce18de26773c49766bb87f4.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/d3385d04ddae9feb061e2f9bb8765f65f7fdc9b9e30fd3e40931b1383b637a19.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The First Templar follows the story of two main characters – a French Templar, and his companion, a noble lady who has been proclaimed a heretic. Taking control over these two unlikely allies, the player must uncover the mysteries behind the Templar Order, play a role in a grand conspiracy, and discover the secret of the Holy Grail. The heroes face powerful opponents at every turn, including Sacracen, King Philip the IV of France and the Inquisition.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_first_templar"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_first_templar",
+			"save_folder": "",
+			"title": "The First Templar - Special Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/frostpunk",
+			"developer": "11 bit studios",
+			"app_name": "1648559910",
+			"art_cover": "https://images.gog.com/1127b36fd766ced0e237d524bb2f4228ff6ec5920c4382dc999afa71fb023af1.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/b1e6e3099c3cc3b06d4c9b318703cfae51374582c178bd1f479b67c3556c7885.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/800686d0f05107d01ad02fa3deecfb3468ad985f71d4a310e95d61c8a775eb59.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "In a completely frozen world, people develop steam-powered technology to oppose the overwhelming cold. Society in its current form becomes ineffective and it has to change in order to survive.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/frostpunk"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "frostpunk",
+			"save_folder": "",
+			"title": "Frostpunk",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/stargunner",
+			"developer": "Apogee Software",
+			"app_name": "1207659693",
+			"art_cover": "https://images.gog.com/73f9a585632d6f6c7085e5d8031601c3cfdb7b8a38e042d10fc7b085557e477a.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/56ede3f410bcc7371b6607a78dcd6bb53b8f14b331e6ba6c0411bb451ba4ebee.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/1b3d43ecaa045ff57abea2bbd825b76d8217693de9374bab3f6692d8f4d94350.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "In the far distant future, an epic war for survival takes place...\n\nDeep within the Andromeda galaxy, the people of Zile grow restless and greedy. The Zilions secretly prepare for a massive strike against the nearby planet Ytima. Fearing such an attack, the Ytimians train an elite squad of \"Stargunners.\" Their mission: To strike the planet Zile and cripple the Zilions’ three strongholds, where the Zilion war fleets await. If the Stargunners can surprise the Zilions on their own planet and wipe out their fleet, then good will triumph over evil once again.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/stargunner"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "stargunner",
+			"save_folder": "",
+			"title": "Stargunner",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/pl/game/absolute_drift",
+			"developer": "Funselektor Labs",
+			"app_name": "1136126792",
+			"art_cover": "https://images.gog.com/0d75eb708d55ede4fa5e7be860fcc413b022914a4f01b3e63ea55ae1044652e6.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/5610076c2e08b70452f744ea069f973244763dcaa5f1070998a4e1f5a5ece097.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/f9875e4f9f2125007f6a7969b5c101850e9c4d1c8fe069dc82c4bb60ebc413ad.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "In Absolute Drift, you will master the art of drifting. Practice your skills in Free-Roam and compete in drift events such as Driftkhana and Mountain Drifting.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/pl/game/absolute_drift"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "absolute_drift",
+			"save_folder": "",
+			"title": "Absolute Drift",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/alien_breed_impact",
+			"developer": "Team17",
+			"app_name": "1905791638",
+			"art_cover": "https://images.gog.com/9aeba64b9e39a9cf72fa540521eade61c578858a8036a020c6ee8f725565e883.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/59f2a448c5c5eda2fee4d9181c1395b16f3680ddd461701b4b029675d1d8edcc.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/b0b9ba99cf5650730ee682d3537b85c3bf3d1a7aa09304f2c7e9b36433d40bb0.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Alien Breed Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/alien_breed_impact"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "alien_breed_impact",
+			"save_folder": "",
+			"title": "Alien Breed: Impact",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/warhammer_skulls_2023_free_game_digitial_goodie_pack_goodies",
+			"developer": "",
+			"app_name": "1720387858",
+			"art_cover": "https://images.gog.com/ad2ae782be01581d2abcef12f6f21e855c52d170038bdd63d17f15316f4701eb.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/900c2a1f6ac569e2859f6bd18cc81dd877a87c8b2570d5d280c01f42299f3533.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/f10b65cb40def32ab30b60eaec15970aecb5d28ce7c4137cab0f9354434110c7.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/warhammer_skulls_2023_free_game_digitial_goodie_pack_goodies"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": false,
+			"is_installed": false,
+			"namespace": "warhammer_skulls_2023_free_game_digitial_goodie_pack_goodies",
+			"save_folder": "",
+			"title": "Warhammer Skulls 2023 - Free Game + Digitial Goodie Pack",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/the_lords_of_midnight",
+			"developer": "",
+			"app_name": "1207659333",
+			"art_cover": "https://images.gog.com/8e3a047382257580f8d03c7e66ee4880917d26c0f91fe36df836ec3e9365f4d3.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/708580ed8418ada64ea16e4f223cbdc9c86abb510ac2e1fd992a9fe25b24c4d7.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/f70512f84fb86670e18530489dee27e6a937317310dd9d86b50b8c74f40ddd55.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/the_lords_of_midnight"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "the_lords_of_midnight",
+			"save_folder": "",
+			"title": "The Lords of Midnight",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/control_ultimate_edition",
+			"developer": "Remedy Entertainment",
+			"app_name": "2049187585",
+			"art_cover": "https://images.gog.com/bc900962ee814d51504645df63d62efb5d515648f0278217b117d60c0b31adf2.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/a7109b6805ba44c05a110ceb6401422f3ed6de9289f95216b979b918ad3a0e95.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/d76cff73fe6d26607f202fe6abc314e7b113f36dea7c89c3d568d2b183701ef7.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Control is a supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/control_ultimate_edition"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "control_ultimate_edition",
+			"save_folder": "",
+			"title": "Control Ultimate Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/iris_and_the_giant_deckbuilding_roguelike",
+			"developer": "Goblinz Studio, Louis Rigaud",
+			"app_name": "1297646450",
+			"art_cover": "https://images.gog.com/6783dc3ff6ff69e7eb86bce3f2b76b48ed099b38d608c88effd866ff760505ff.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/da994ec4481ad126c5cd368a6125973ed43c044e8a9ec8dcfa1e0aeb5df038cf.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/d65aea7d7fa4cb586cb9a39134ac84440c3f9227963687f39bc9c3535ff5e552.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Iris and The Giant is a fusion of the CCG, RPG and roguelike genres. You play as Iris, who must brave her fears in her imaginary world. Dive into a melancholic and gripping adventure, filled with cute monsters and buried memories. Ready to face your inner demons?",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/iris_and_the_giant_deckbuilding_roguelike"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "iris_and_the_giant_deckbuilding_roguelike",
+			"save_folder": "",
+			"title": "Iris and the Giant",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/teenagent",
+			"developer": "Metropolis Software",
+			"app_name": "1207658753",
+			"art_cover": "https://images.gog.com/806450401419cca6e439471e8d40cfa133ea4fa6b6a67dc82257afd0028fd8a7.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/b8ad05356f20eaa1917ffc1ed762cd9b0a74f0093ef010edd2cfc0f0fade1089.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/79e809293c20a1f8be1bdf30057ce8994b0a3e849da175d8993ddf50f395e772.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "The CD version was the first game to be released on CD-ROM in Poland.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/teenagent"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "teenagent",
+			"save_folder": "",
+			"title": "Teenagent",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/journey_to_the_savage_planet",
+			"developer": "Typhoon Studios",
+			"app_name": "1519147341",
+			"art_cover": "https://images.gog.com/ffa70f0aa182842166a297d0725830e7540f09a92c06af65992fab8d5d3282d5.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/880e167b491aab62723145f506f1b72e2b2bc9cdd8f4c7dbc50de94b5edfd61b.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fa0962f17ce6d095cf17181117574b7851b3313912a93a4ba71443193d268da7.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Onward To Adventure \r\nIn this colorful, co-op adventure game you play as the newest recruit to Kindred Aerospace. Dropped onto an uncharted planet with little equipment, you must determine if this planet is fit for human habitation but perhaps you are not the first to set foot here…",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/journey_to_the_savage_planet"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "journey_to_the_savage_planet",
+			"save_folder": "",
+			"title": "Journey to the Savage Planet",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/shadow_warrior_complete",
+			"developer": "3D Realms",
+			"app_name": "1207659142",
+			"art_cover": "https://images.gog.com/e5ca7b44b13150f2eb8e9195eea68a3fc9d6a83c9640c8d2b2751cd5c793f98f.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/e9b244a0cefd6b624fc6083206ea3e1b60234efdd76f6aead0dd10f880c14256.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/81ef963c977917658cdd5489e42b7f02ba66b9b04060607c446a3ae682e500a6.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Lo Wang. The very name strikes fear in fortune cookie-eating Mafia men and small children everywhere. He is the reason most ninja wannabees have sold off their combat sandals to the local pawn shop. Lo Wang is Shadow Warrior. #1 Assassin. #1 Yakuza abuser. #1 Freak fragger. #1 Mutant mutilator. #1 Reason to be scared of the dark. Enter the Land of the Rising Sun and spread ninja charisma like napalm for there are undead sumos to be uzied, samurai to be shurikened, and bulldozers to be boarded. Don’t forget to goose the geishas and make sure your dinghy isn’t hanging out...",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/shadow_warrior_complete"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "shadow_warrior_complete",
+			"save_folder": "",
+			"title": "Shadow Warrior Classic Complete",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/oxenfree",
+			"developer": "Night School Studio",
+			"app_name": "1457519353",
+			"art_cover": "https://images.gog.com/b04ccb0d94b74d5386b0d6d3af3fbcf6e5ff72e9ebd521daae52aebd8ec3c991.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/9ebafa9617d269c58ba04cb465433b1c5f30810a90a216853782ccb32f48bfa9.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/937cd0bfcfacd430e62662a76b0a80b5798852cd1fc529d71326d25038f8de23.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Oxenfree is a supernatural adventure game. Rites of passage and Senior year traditions set the stage for a group of friends sneaking off to Edwards Island, an old military outpost with no phone service. Players will take on the role of Alex as she brings her new stepbrother Jonas to an overnight party gone horribly wrong. Inspired by classic cult films like Stand by Me and Poltergeist, Oxenfree is an adventure that pulls from the past but looks to the present. “It’s a coming of age story where players control how their hero comes of age,” says Sean Krankel, co-founder of Night School. “We’re drawing on the fond and mortifying aspects of being in your late teens, and setting it against a dangerous and ghostly backdrop.”",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/oxenfree"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "oxenfree",
+			"save_folder": "",
+			"title": "Oxenfree",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/venetica",
+			"developer": "Deck13 Interactive",
+			"app_name": "1345182195",
+			"art_cover": "https://images.gog.com/a1c0384382767e859cdb6d9bad0088da3d25342b5ff3fc381d9a48d5fd6c0df8.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/3b7fafc43e5af3151e9b0273eac1c6f95e4d43c1b327fe7cd20be63f838ebe6a.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/3d5851ad3902bf7c1bae2ada0ad90f5c3db3fab8944ba2bedcff7b23f09c55c4.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "In a fantastical Venice, The Corpus are deceived by a cunning necromancer. Transformed into an undead fiend, the conniving imposter is hell-bent on destroying the reinstated Death and the council of Corpus. Only Scarlett, the daughter of Death, can stand in his way.\nKnowing nothing of her destiny at first, Scarlett has to learn about her special powers and become a mighty warrior, strong enough to defeat the greatest threat to the world of the living.\nShe must master her incredible supernatural powers and capabilities, in order to save her father and curse the necromancer and his gruesome henchmen to the eternal hereafter.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/venetica"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "venetica",
+			"save_folder": "",
+			"title": "Venetica - Gold Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/alien_breed_3_descent",
+			"developer": "Team17",
+			"app_name": "1743464065",
+			"art_cover": "https://images.gog.com/5da2657ccd5bbfcc9638c3ecd16d90a5706728a7f9d9e0109c91ed886ab15d55.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/42a755368f108a9531b971261845be7dd1328a54e164801482f27c13aa71c44b.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/5921e909ad932fe7dfe3e8b1ebbb8ebc3cfb18a02d5f7396bfdd8cbe7d738389.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Alien Breed 3: Descent is the final explosive chapter in the Alien Breed series, and is a science fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weapons and stunning environments, developed using Epic Games' Unreal Engine 3. Descend into hell and once again take control of the hero, Conrad, the ship’s Chief Engineer, in his last stand against the savage alien horde. While the doomed vessel, the Leopold, and the alien space craft plunge deeper into the planet’s atmosphere, with an icy ocean promising a watery grave, you have just hours to defy a grisly death and survive the alien onslaught for the final time. As you struggle deeper into the sinking alien ship, through the freezing waters flooding every corridor, the horrifying truth surrounding the existence of the Breed is finally uncovered… In addition to the thrilling conclusion to the single-player campaign and the relentless and competitive “Survivor” modes, the game offers action-packed, two-player online co-operative battle modes.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/alien_breed_3_descent"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "alien_breed_3_descent",
+			"save_folder": "",
+			"title": "Alien Breed 3: Descent",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/figment",
+			"developer": "Bedtime Digital Games",
+			"app_name": "1090728382",
+			"art_cover": "https://images.gog.com/e8d4f14c188ffaa1ba0a9e82ab91c940b4d01138d40ef7c76b140141a2151878.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/1286900fea4fb4f154987f15bb5e11396670b1c174ca31e0eaf96835442890ff.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fae02216d95ec1ff3c204a25f3354e0af65196eebbe485a47c1dfb0d77a1f849.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "A musical action-adventure set in the recesses of the human mind... Welcome to the world of Figment. A strange and surreal world; a place filled with our deepest thoughts, urges and memories, populated by the many voices we hear in our heads.\r\n\r\nThis mind has been quiet and calm for many years. But something has changed. New thoughts have started to emerge - taking the shape of nightmarish creatures who spread fear wherever they go. The only hope is for the grumpy Dusty, the mind's former voice of courage, to get back to his old self and help the mind to face its fears.\r\n\r\nJoin Dusty and his ever-optimistic friend, Piper, on an adventure through the different sides of the mind, solving puzzles to set things straight, beating back the nightmares and seeking to restore the courage that's been lost.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/figment"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "figment",
+			"save_folder": "",
+			"title": "Figment",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/neurodeck_psychological_deckbuilder",
+			"developer": "",
+			"app_name": "1739122581",
+			"art_cover": "https://images.gog.com/00fd936f75beebbf1624d9549faffc1eb7fad0186caaa28866dcf1562e2354b0.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/a2d7404320c901d3c66ca1d48a23ff1e4be31db4b7e78e565c7fc1a9fafadcd3.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/83fb0a7333326001ce3e80850e9501bee21ec3fc8196b9af71874249dedffaab.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/neurodeck_psychological_deckbuilder"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "neurodeck_psychological_deckbuilder",
+			"save_folder": "",
+			"title": "Neurodeck: Psychological Deckbuilder",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/de/game/syberia_2",
+			"developer": "Microïds Canada",
+			"app_name": "1207658849",
+			"art_cover": "https://images.gog.com/0c0899ec2ce503c7f8f0ae88b1f0f2f8aaca31c9aaac0e7a4a9b5404e7394d04.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/880f194d9252e5082abfbb27caba51ab87cc2b6da9798befbd5988fca9ce29d2.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/a0bfd7c4724f4e7da5f541e93867dd8b7fad71524f8549277a9cce18144f18bb.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Syberia II is a third person point and click adventure game that revolves around Kate Walker embarking on a desperate search for Hans Voralberg.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/de/game/syberia_2"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "syberia_2",
+			"save_folder": "",
+			"title": "Syberia II",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://www.gog.com/en/game/book_of_demons",
+			"developer": "Thing Trunk, SONKA",
+			"app_name": "1580300418",
+			"art_cover": "https://images.gog.com/9578f8af9615035ca8a1d58a35ecc852aebf208a68ce5888be01112c5ee49c73.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/c714c00aad8ee6a05157d377f51459fb060a9a782344a37723970a714591e1fd.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/bc782bab7c6089b16374c80fae734a9b68bd66f8babed86375df7e758926f3f1.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"extra": {
+				"about": {
+					"description": "Book of Demons is a deck-building hack and slash adventure, with a dark theme reminiscent of classics of the PC ARPG genre.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.gog.com/en/game/book_of_demons"
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"installable": true,
+			"is_installed": false,
+			"namespace": "book_of_demons",
+			"save_folder": "",
+			"title": "Book of Demons",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		}
+	],
+	"__timestamp": {
+		"games": "Mon Jul 08 2024 16:32:49 GMT+0000 (Coordinated Universal Time)"
+	}
+}
