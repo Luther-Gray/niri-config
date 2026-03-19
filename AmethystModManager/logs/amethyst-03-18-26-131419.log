@@ -1,0 +1,59 @@
+[2026-03-18 13:14:22]  Downloads: found 0 archive(s) in 1 location(s)
+[2026-03-18 13:14:23]  Display: 2560x1440, HiDPI detected=1.35, scale=1.0
+[2026-03-18 13:14:23]  Mod Manager ready. 1/36 games configured.
+[2026-03-18 13:14:23]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-18 13:14:23]  Nexus Mods API key loaded.
+[2026-03-18 13:14:23]  NXM protocol handler registered.
+[2026-03-18 13:14:23]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-18 13:14:23]  Nexus: logged in as DubiousPhoenix (premium=False)
+[2026-03-18 13:14:24]  Nexus: Downloading mod 164095 file 692704 from skyrimspecialedition...
+[2026-03-18 13:14:24]  Filemap updated: 35311 file(s).
+[2026-03-18 13:14:25]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:14:25]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 164095, "name": "Unlocked 1st Person Combat", "summary": "", "version": "1.2", "author": "Beefclot-COACHWICKWACK", "modCategory": {"categoryId": 77, "name": "Combat"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:14:25]  Nexus API GET /games/skyrimspecialedition/mods/164095/files/692704/download_link → 200
+[2026-03-18 13:14:25]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/164095/Unlocked 1st Person Combat-164095-1-2-1764471746.zip?md5=oyCtP3GFBvClacUhGrc4RA&expires=1773868465&user_id=71483453"}]
+[2026-03-18 13:14:26]  Nexus API GET /games/skyrimspecialedition/mods/164095/files/692704 → 200
+[2026-03-18 13:14:26]    Response: {"id": [692704, 1704], "uid": 7318624965088, "file_id": 692704, "name": "Unlocked 1st Person Combat", "version": "1.2", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 43, "file_name": "Unlocked 1st Person Combat-164095-1-2-1764471746.zip", "uploaded_timestamp": 1764471746, "uploaded_time": "2025-11-30T03:02:26.000+00:00", "mod_version": "1.2", "external_virus_scan_url": "https://www.virustotal.com/gui/file/61c33d75e4554490cc1166fba61f15ecce975e0cca2af10893e681d738a0406b/detection/f-61c33d75e4554490cc1166fba61f15ecce975e0cca2af10893e681d738a0406b-1764471748", "description": "FOMOD Installer, now includes options for optional install of slowdown espfe plugin and variants of behavior edits.", "size_kb": 43, "size_in_bytes": 44407, "changelog_html": "Added FOMOD installer to choose between options of behavior edits, optional espfe slowdown plugin, and options to slowdown during power attacks or all attacks.", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/164095/Unlocked 1st Person Combat-164095-1-2-1764471746.zip.json"}
+[2026-03-18 13:14:26]  Nexus: Installing Unlocked 1st Person Combat-164095-1-2-1764471746.zip...
+[2026-03-18 13:14:26]  Extracting with zipfile…
+[2026-03-18 13:14:26]  FOMOD installer detected — opening wizard...
+[2026-03-18 13:14:26]  Downloaded Unlocked 1st Person Combat-164095-1-2-1764471746.zip (44407 bytes) → /home/luther/.config/AmethystModManager/download_cache/Unlocked 1st Person Combat-164095-1-2-1764471746.zip
+[2026-03-18 13:14:44]  FOMOD complete — 1 file(s) to install.
+[2026-03-18 13:14:44]  Copied 49 item(s) to staging area.
+[2026-03-18 13:14:44]  Installed 'Unlocked 1st Person Combat' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Unlocked 1st Person Combat
+[2026-03-18 13:14:45]  Added 'Unlocked 1st Person Combat' to modlist.
+[2026-03-18 13:14:45]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Unlocked 1st Person Combat/meta.ini
+[2026-03-18 13:14:45]  Nexus: Saved metadata (mod 164095, v1.2)
+[2026-03-18 13:14:45]  Nexus: Removed archive Unlocked 1st Person Combat-164095-1-2-1764471746.zip
+[2026-03-18 13:14:45]  Downloads: found 0 archive(s) in 1 location(s)
+[2026-03-18 13:14:45]  Nexus: Detected mod ID 164095 from filename.
+[2026-03-18 13:14:45]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:14:45]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 164095, "name": "Unlocked 1st Person Combat", "summary": "", "version": "1.2", "author": "Beefclot-COACHWICKWACK", "modCategory": {"categoryId": 77, "name": "Combat"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:14:45]  Nexus: Identified as 'Unlocked 1st Person Combat' (mod 164095, file 692704).
+[2026-03-18 13:14:45]  Nexus API GET /games/skyrimspecialedition/mods/164095/files → 200
+[2026-03-18 13:14:45]    Response: {"file_updates": [{"old_file_id": 685884, "new_file_id": 687807, "old_file_name": "Unlocked 1st Person Combat-164095-1-0-1762726934.zip", "new_file_name": "Unlocked 1st Person Combat-164095-1-1-1763229160.zip", "uploaded_timestamp": 1763229160, "uploaded_time": "2025-11-15T17:52:40.000+00:00"}, {"old_file_id": 687807, "new_file_id": 692704, "old_file_name": "Unlocked 1st Person Combat-164095-1-1-1763229160.zip", "new_file_name": "Unlocked 1st Person Combat-164095-1-2-1764471746.zip", "uploaded_timestamp": 1764471746, "uploaded_time": "2025-11-30T03:02:26.000+00:00"}], "files": [{"id": [685884, 1704], "uid": 7318624958268, "file_id": 685884, "name": "Unlocked 1st Person Combat", "version": "1.0", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": false, "size": 3, "file_name": "Unlocked 1st Person Combat-164095-1-0-1762726934.zip", "uploaded_timestamp": 1762726934, "uploaded_time": "2025-11-09T22:22:14.000+00:00", "mod_version": "1.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/895ce2144482b16476de1583709b2e56bc379691ac376817ddf13bf2ba9ada0a/detection/f-895ce2144482b16476de1583709b2e56bc379691ac376817ddf13bf2ba9ada0a-1762726939", "description": "Jus...
+[2026-03-18 13:14:45]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Unlocked 1st Person Combat/meta.ini
+[2026-03-18 13:14:45]  Nexus: Saved metadata for 'Unlocked 1st Person Combat' (mod 164095)
+[2026-03-18 13:14:46]  Filemap updated: 35360 file(s).
+[2026-03-18 13:20:38]  [portal] Trying XDG portal (jeepney/gi)...
+[2026-03-18 13:20:38]  [portal] predicted_handle='/org/freedesktop/portal/desktop/request/1_208/amethyst_63d0ec983e224424'
+[2026-03-18 13:20:38]  [portal] actual handle_path='/org/freedesktop/portal/desktop/request/1_208/amethyst_63d0ec983e224424'
+[2026-03-18 13:20:38]  [portal] Waiting for portal Response signal...
+[2026-03-18 13:21:10]  [portal] Response: code=0, results type=dict, results={'choices': ('a(ss)', []), 'current_filter': ('(sa(us))', ('Executables (*.exe, *.bat)', [(0, '*.exe'), (0, '*.bat')])), 'uris': ('as', ['file:///home/luther/.local/share/Steam/steamapps/common/Skyrim%20Special%20Edition/Tools/Pandora_Behaviour_Engine_v4.1.2-beta/Pandora%20Behaviour%20Engine+.exe'])}
+[2026-03-18 13:21:10]  [portal] uris entry=('as', ['file:///home/luther/.local/share/Steam/steamapps/common/Skyrim%20Special%20Edition/Tools/Pandora_Behaviour_Engine_v4.1.2-beta/Pandora%20Behaviour%20Engine+.exe'])
+[2026-03-18 13:21:10]  [portal] uri='file:///home/luther/.local/share/Steam/steamapps/common/Skyrim%20Special%20Edition/Tools/Pandora_Behaviour_Engine_v4.1.2-beta/Pandora%20Behaviour%20Engine+.exe'
+[2026-03-18 13:21:10]  [portal] File selected: /home/luther/.local/share/Steam/steamapps/common/Skyrim Special Edition/Tools/Pandora_Behaviour_Engine_v4.1.2-beta/Pandora Behaviour Engine+.exe
+[2026-03-18 13:21:10]  exe_args: added default args for Pandora Behaviour Engine+.exe
+[2026-03-18 13:21:13]  Run EXE: launching Pandora Behaviour Engine+.exe via Proton - Experimental ...
+[2026-03-18 13:25:37]  Run EXE: launching Pandora Behaviour Engine+.exe via Proton - Experimental ...
+[2026-03-18 13:35:35]  Run EXE: launching Pandora Behaviour Engine+.exe via Proton - Experimental ...
+[2026-03-18 13:36:03]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-18 13:36:04]  Updated masterlist_skyrimse.yaml.
+[2026-03-18 13:36:04]  Fetching latest masterlist_prelude.yaml...
+[2026-03-18 13:36:04]  Updated masterlist_prelude.yaml.
+[2026-03-18 13:36:04]  Initializing LOOT...
+[2026-03-18 13:36:05]  Loaded masterlist with prelude.
+[2026-03-18 13:36:05]  Loading 266 plugin headers...
+[2026-03-18 13:36:05]  Sorting 266 plugins...
+[2026-03-18 13:36:06]  Sort complete. 0 plugin(s) changed position.
+[2026-03-18 13:36:06]  Load order is already sorted.

@@ -1,0 +1,189 @@
+[2026-03-18 13:38:41]  Downloads: found 1 archive(s) in 1 location(s)
+[2026-03-18 13:38:42]  Display: 2560x1440, HiDPI detected=1.35, scale=1.0
+[2026-03-18 13:38:42]  Mod Manager ready. 1/36 games configured.
+[2026-03-18 13:38:42]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-18 13:38:42]  Nexus Mods API key loaded.
+[2026-03-18 13:38:42]  NXM protocol handler registered.
+[2026-03-18 13:38:42]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-18 13:38:43]  Nexus: logged in as DubiousPhoenix (premium=False)
+[2026-03-18 13:38:43]  Nexus: Downloading mod 15309 file 315864 from skyrimspecialedition...
+[2026-03-18 13:38:43]  Filemap updated: 35382 file(s).
+[2026-03-18 13:38:44]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:38:44]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 15309, "name": "TK Dodge SE", "summary": "", "version": "3.18", "author": "tktk", "modCategory": {"categoryId": 51, "name": "Animation"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:38:45]  Nexus API GET /games/skyrimspecialedition/mods/15309/files/315864/download_link → 200
+[2026-03-18 13:38:45]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/15309/TK Dodge AE-15309-3-18-1663095851.7z?md5=DuTCDFrislE-GFuYITwxaA&expires=1773869924&user_id=71483453"}]
+[2026-03-18 13:38:45]  Nexus API GET /games/skyrimspecialedition/mods/15309/files/315864 → 200
+[2026-03-18 13:38:45]    Response: {"id": [315864, 1704], "uid": 7318624588248, "file_id": 315864, "name": "TK Dodge AE", "version": "3.18", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 426, "file_name": "TK Dodge AE-15309-3-18-1663095851.7z", "uploaded_timestamp": 1663095851, "uploaded_time": "2022-09-13T19:04:11.000+00:00", "mod_version": "3.18", "external_virus_scan_url": "https://www.virustotal.com/gui/file/904b76fe8cc3d756e9f1d6811c44928780b241d4a1f74123da2610844ccb7ba2/detection/f-904b76fe8cc3d756e9f1d6811c44928780b241d4a1f74123da2610844ccb7ba2-1663095859", "description": "Required:Skyrim 1.6.353 SKSE 3.1.5 SkyUI 5.2SE", "size_kb": 426, "size_in_bytes": 436250, "changelog_html": "Supported Skyrim 1.5.97 and SKSE 2.0.17\nSupported languages: Simplified Chinese.\nSupported Skyrim AE 1.6.353 and SKSE 2.1.5 without version change\nAdded Opition for TK Dodge RE", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/15309/TK Dodge AE-15309-3-18-1663095851.7z.json"}
+[2026-03-18 13:38:47]  Nexus: Installing TK Dodge AE-15309-3-18-1663095851.7z...
+[2026-03-18 13:38:47]  Extracting with py7zr…
+[2026-03-18 13:38:47]  py7zr failed ((b'\x03\x03\x01\x1b', 'BCJ2 filter is not supported by py7zr. Please consider to contribute to XZ/liblzma project and help Python core team implementing it. Or please use another tool to extract it.')), retrying with 7z…
+[2026-03-18 13:38:47]  Extracted with 7z.
+[2026-03-18 13:38:47]  Direct install — 28 file(s) to install.
+[2026-03-18 13:38:47]  Auto-stripped top-level folder(s) so mod matches expected structure.
+[2026-03-18 13:38:47]  Copied 28 item(s) to staging area.
+[2026-03-18 13:38:47]  Installed 'TK Dodge' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TK Dodge
+[2026-03-18 13:38:47]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'TK Dodge'.
+[2026-03-18 13:38:47]  Added 'TK Dodge' to modlist.
+[2026-03-18 13:38:47]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TK Dodge/meta.ini
+[2026-03-18 13:38:47]  Nexus: Saved metadata (mod 15309, v3.18)
+[2026-03-18 13:38:47]  Nexus: Removed archive TK Dodge AE-15309-3-18-1663095851.7z
+[2026-03-18 13:38:47]  Downloads: found 1 archive(s) in 1 location(s)
+[2026-03-18 13:38:47]  Downloaded TK Dodge AE-15309-3-18-1663095851.7z (436250 bytes) → /home/luther/.config/AmethystModManager/download_cache/TK Dodge AE-15309-3-18-1663095851.7z
+[2026-03-18 13:38:48]  Nexus: Detected mod ID 15309 from filename.
+[2026-03-18 13:38:48]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:38:48]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 15309, "name": "TK Dodge SE", "summary": "", "version": "3.18", "author": "tktk", "modCategory": {"categoryId": 51, "name": "Animation"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:38:48]  Nexus API GET /games/skyrimspecialedition/mods/15309/files → 200
+[2026-03-18 13:38:48]    Response: {"file_updates": [{"old_file_id": 46278, "new_file_id": 50739, "old_file_name": "TK Dodge SE-15309-3-1.7z", "new_file_name": "TK Dodge-15309-3-11.7z", "uploaded_timestamp": 1523367248, "uploaded_time": "2018-04-10T13:34:08.000+00:00"}, {"old_file_id": 50739, "new_file_id": 50749, "old_file_name": "TK Dodge-15309-3-11.7z", "new_file_name": "TK DodgeSE 311-15309-3-0.7z", "uploaded_timestamp": 1523373322, "uploaded_time": "2018-04-10T15:15:22.000+00:00"}, {"old_file_id": 50749, "new_file_id": 65314, "old_file_name": "TK DodgeSE 311-15309-3-0.7z", "new_file_name": "TK Dodge SE-15309-3-12.7z", "uploaded_timestamp": 1536391124, "uploaded_time": "2018-09-08T07:18:44.000+00:00"}, {"old_file_id": 65315, "new_file_id": 68172, "old_file_name": "TK Dodge SE 312-15309-3-12.7z", "new_file_name": "TK Dodge SE-15309-3-13.7z", "uploaded_timestamp": 1538672110, "uploaded_time": "2018-10-04T16:55:10.000+00:00"}, {"old_file_id": 68172, "new_file_id": 68721, "old_file_name": "TK Dodge SE-15309-3-13.7z", "new_file_name": "TK Dodge-15309-3-14.7z", "uploaded_timestamp": 1539099195, "uploaded_time": "2018-10-09T15:33:15.000+00:00"}, {"old_file_id": 68721, "new_file_id": 74378, "old_file_name": "TK Dodge-15...
+[2026-03-18 13:38:48]  Nexus: Identified as 'TK Dodge SE' (mod 15309, file 315864).
+[2026-03-18 13:38:48]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TK Dodge/meta.ini
+[2026-03-18 13:38:48]  Nexus: Saved metadata for 'TK Dodge' (mod 15309)
+[2026-03-18 13:38:48]  Filemap updated: 35407 file(s).
+[2026-03-18 13:38:51]  Nexus: Received link from browser.
+[2026-03-18 13:38:51]  Nexus: Downloading mod 56956 file 402680 from skyrimspecialedition...
+[2026-03-18 13:38:51]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/56956/files/402680?key=NwzzSpr-x1qBxFjHt9I38A&expires=1774028328&user_id=71483453
+[2026-03-18 13:38:51]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:38:51]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 56956, "name": "TK Dodge RE - Script Free", "summary": "", "version": "v0.55-rc3", "author": "Maxsu and FBplus and Loop and Xing", "modCategory": {"categoryId": 51, "name": "Animation"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:38:51]  Nexus API GET /games/skyrimspecialedition/mods/56956/files/402680/download_link → 200
+[2026-03-18 13:38:51]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/56956/TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip?md5=grmUP08D_YvKynZyfBa9Ew&expires=1773869931&user_id=71483453"}]
+[2026-03-18 13:38:51]  Nexus API GET /games/skyrimspecialedition/mods/56956/files/402680 → 200
+[2026-03-18 13:38:51]    Response: {"id": [402680, 1704], "uid": 7318624675064, "file_id": 402680, "name": "TK Dodge RE-v0.55-rc3", "version": "v0.55-rc3", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 2811, "file_name": "TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip", "uploaded_timestamp": 1688194322, "uploaded_time": "2023-07-01T06:52:02.000+00:00", "mod_version": "v0.55-rc3", "external_virus_scan_url": "https://www.virustotal.com/gui/file/4809e8bbce01186468dc63760e0b347cb93e636c41a241047028be1245281e6f/detection/f-4809e8bbce01186468dc63760e0b347cb93e636c41a241047028be1245281e6f-1688194339", "description": "Load this mod below Nemesis engine\n<br />Load this mod below \"Precision - Accurate Melee Collisions\" (Let this mod files overwrite the files in \"Precision\")\n<br />Included \"TK Dodge RE AE Support\" v0.61.1 DLL plugin\n<br />Included \"TK dodge standalone\" new Nemesis patch", "size_kb": 2811, "size_in_bytes": 2878753, "changelog_html": "Added fomod optional patch: Forward dodge scurry fix. For Dynamic Dodge Animation: https://www.nexusmods.com/skyrimspecialedition/mods/79598\n\u2191 Consider there have other modders extend the animation frame to fix the scurry movement be...
+[2026-03-18 13:38:53]  Nexus: Installing TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip...
+[2026-03-18 13:38:53]  Extracting with zipfile…
+[2026-03-18 13:38:54]  FOMOD installer detected — opening wizard...
+[2026-03-18 13:38:54]  Downloaded TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip (2878753 bytes) → /home/luther/.config/AmethystModManager/download_cache/TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip
+[2026-03-18 13:38:57]  FOMOD install cancelled.
+[2026-03-18 13:38:58]  Filemap updated: 35382 file(s).
+[2026-03-18 13:39:04]  Nexus: Received link from browser.
+[2026-03-18 13:39:04]  Nexus: Downloading mod 74401 file 312711 from skyrimspecialedition...
+[2026-03-18 13:39:04]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/74401/files/312711?key=7Yd_GJdbDUB1O-c00Ad30A&expires=1774028342&user_id=71483453
+[2026-03-18 13:39:05]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:39:05]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 74401, "name": "IFrame Generator RE", "summary": "", "version": "v1.03", "author": "Maxsu", "modCategory": {"categoryId": 51, "name": "Animation"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:39:05]  Nexus API GET /games/skyrimspecialedition/mods/74401/files/312711/download_link → 200
+[2026-03-18 13:39:05]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/74401/IFrame Generator RE-74401-v1-03-1662193506.7z?md5=UkS0MYAUzgijP56OA7TqyQ&expires=1773869945&user_id=71483453"}]
+[2026-03-18 13:39:05]  Nexus API GET /games/skyrimspecialedition/mods/74401/files/312711 → 200
+[2026-03-18 13:39:05]    Response: {"id": [312711, 1704], "uid": 7318624585095, "file_id": 312711, "name": "IFrame Generator RE", "version": "v1.03", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 257, "file_name": "IFrame Generator RE-74401-v1-03-1662193506.7z", "uploaded_timestamp": 1662193506, "uploaded_time": "2022-09-03T08:25:06.000+00:00", "mod_version": "v1.03", "external_virus_scan_url": "https://www.virustotal.com/gui/file/35fa8ef4c88bfa3fad22c1eb1768463a1bd0e9ea0ac82d3bba9fd5d7d426309c/detection/f-35fa8ef4c88bfa3fad22c1eb1768463a1bd0e9ea0ac82d3bba9fd5d7d426309c-1662193510", "description": "Supports both SE &amp; AE, not supports VR edition yet.", "size_kb": 257, "size_in_bytes": 263536, "changelog_html": "Prevent an potentially CTD issue occurred when working with an actor that not has 3D loaded.\nBuild the plugin with `RelWithDebInfo` config, so I can looking for the correspond  codes block from a Crash log offset easily.", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/74401/IFrame Generator RE-74401-v1-03-1662193506.7z.json"}
+[2026-03-18 13:39:05]  Nexus: Installing IFrame Generator RE-74401-v1-03-1662193506.7z...
+[2026-03-18 13:39:05]  Extracting with py7zr…
+[2026-03-18 13:39:05]  Direct install — 1 file(s) to install.
+[2026-03-18 13:39:05]  Auto-stripped top-level folder(s) so mod matches expected structure.
+[2026-03-18 13:39:05]  Copied 1 item(s) to staging area.
+[2026-03-18 13:39:05]  Installed 'IFrame Generator RE' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/IFrame Generator RE
+[2026-03-18 13:39:05]  Added 'IFrame Generator RE' to modlist.
+[2026-03-18 13:39:06]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/IFrame Generator RE/meta.ini
+[2026-03-18 13:39:06]  Nexus: Saved metadata (mod 74401, vv1.03)
+[2026-03-18 13:39:06]  Nexus: Removed archive IFrame Generator RE-74401-v1-03-1662193506.7z
+[2026-03-18 13:39:06]  Downloads: found 1 archive(s) in 1 location(s)
+[2026-03-18 13:39:06]  Downloaded IFrame Generator RE-74401-v1-03-1662193506.7z (263536 bytes) → /home/luther/.config/AmethystModManager/download_cache/IFrame Generator RE-74401-v1-03-1662193506.7z
+[2026-03-18 13:39:06]  Nexus: Detected mod ID 3 from filename.
+[2026-03-18 13:39:06]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:39:06]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 3, "name": "Nocturnals Craftable Armor -CBBE friendly", "summary": "", "version": "1.0", "author": "Aquifn", "modCategory": {"categoryId": 54, "name": "Armour"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:39:06]  Nexus: Identified as 'Nocturnals Craftable Armor -CBBE friendly' (mod 3, file 0).
+[2026-03-18 13:39:06]  Nexus API GET /games/skyrimspecialedition/mods/3/files → 200
+[2026-03-18 13:39:07]    Response: {"file_updates": [], "files": [{"id": [406, 1704], "uid": 7318624272790, "file_id": 406, "name": "Nocturnal Craftable Armor", "version": "1.0", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 1, "file_name": "Nocturnal Craftable Armor-3-1-0.7z", "uploaded_timestamp": 1477478277, "uploaded_time": "2016-10-26T10:37:57.000+00:00", "mod_version": "1.0", "external_virus_scan_url": "https://www.virustotal.com/file/3c7ce451b21e43054887a6abbc673f2b7f189b34500e04c5cc2e71cc1622c56a/analysis/1477478283/", "description": "Goddess Armor", "size_kb": 1, "size_in_bytes": 1131, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/3/Nocturnal Craftable Armor-3-1-0.7z.json"}]}
+[2026-03-18 13:39:07]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/IFrame Generator RE/meta.ini
+[2026-03-18 13:39:07]  Nexus: Saved metadata for 'IFrame Generator RE' (mod 3)
+[2026-03-18 13:39:07]  Filemap updated: 35383 file(s).
+[2026-03-18 13:39:30]  Nexus: Received link from browser.
+[2026-03-18 13:39:30]  Nexus: Downloading mod 15309 file 315866 from skyrimspecialedition...
+[2026-03-18 13:39:31]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/15309/files/315866?key=K67Hs7B7efISY1R0GN1mjg&expires=1774028369&user_id=71483453
+[2026-03-18 13:39:31]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:39:31]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 15309, "name": "TK Dodge SE", "summary": "", "version": "3.18", "author": "tktk", "modCategory": {"categoryId": 51, "name": "Animation"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:39:31]  Nexus API GET /games/skyrimspecialedition/mods/15309/files/315866/download_link → 200
+[2026-03-18 13:39:31]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/15309/TK Dodge For RE-15309-3-18-1663096096.7z?md5=Z8SvtwLu_mfRQrJ-ZcSptA&expires=1773869971&user_id=71483453"}]
+[2026-03-18 13:39:31]  Nexus API GET /games/skyrimspecialedition/mods/15309/files/315866 → 200
+[2026-03-18 13:39:31]    Response: {"id": [315866, 1704], "uid": 7318624588250, "file_id": 315866, "name": "TK Dodge For RE", "version": "3.18", "category_id": 3, "category_name": "OPTIONAL", "is_primary": false, "size": 345, "file_name": "TK Dodge For RE-15309-3-18-1663096096.7z", "uploaded_timestamp": 1663096096, "uploaded_time": "2022-09-13T19:08:16.000+00:00", "mod_version": "3.18", "external_virus_scan_url": "https://www.virustotal.com/gui/file/0ba17c40eaaeb32e54f77b910df1a4bb21c884be6c7e52ff0e1244ff263446f4/detection/f-0ba17c40eaaeb32e54f77b910df1a4bb21c884be6c7e52ff0e1244ff263446f4-1663096135", "description": "This option is for TK Dodge RE. It only contains the meshes folder.", "size_kb": 345, "size_in_bytes": 353251, "changelog_html": "Supported Skyrim 1.5.97 and SKSE 2.0.17\nSupported languages: Simplified Chinese.\nSupported Skyrim AE 1.6.353 and SKSE 2.1.5 without version change\nAdded Opition for TK Dodge RE", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/15309/TK Dodge For RE-15309-3-18-1663096096.7z.json"}
+[2026-03-18 13:39:31]  Nexus: Installing TK Dodge For RE-15309-3-18-1663096096.7z...
+[2026-03-18 13:39:31]  Extracting with py7zr…
+[2026-03-18 13:39:32]  Direct install — 17 file(s) to install.
+[2026-03-18 13:39:32]  Auto-stripped top-level folder(s) so mod matches expected structure.
+[2026-03-18 13:39:32]  Copied 17 item(s) to staging area.
+[2026-03-18 13:39:32]  Installed 'TK Dodge For RE' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TK Dodge For RE
+[2026-03-18 13:39:32]  Added 'TK Dodge For RE' to modlist.
+[2026-03-18 13:39:32]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TK Dodge For RE/meta.ini
+[2026-03-18 13:39:32]  Nexus: Saved metadata (mod 15309, v3.18)
+[2026-03-18 13:39:32]  Nexus: Removed archive TK Dodge For RE-15309-3-18-1663096096.7z
+[2026-03-18 13:39:32]  Downloads: found 1 archive(s) in 1 location(s)
+[2026-03-18 13:39:32]  Downloaded TK Dodge For RE-15309-3-18-1663096096.7z (353251 bytes) → /home/luther/.config/AmethystModManager/download_cache/TK Dodge For RE-15309-3-18-1663096096.7z
+[2026-03-18 13:39:32]  Nexus: Detected mod ID 15309 from filename.
+[2026-03-18 13:39:32]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:39:32]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 15309, "name": "TK Dodge SE", "summary": "", "version": "3.18", "author": "tktk", "modCategory": {"categoryId": 51, "name": "Animation"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:39:32]  Nexus API GET /games/skyrimspecialedition/mods/15309/files → 200
+[2026-03-18 13:39:32]    Response: {"file_updates": [{"old_file_id": 46278, "new_file_id": 50739, "old_file_name": "TK Dodge SE-15309-3-1.7z", "new_file_name": "TK Dodge-15309-3-11.7z", "uploaded_timestamp": 1523367248, "uploaded_time": "2018-04-10T13:34:08.000+00:00"}, {"old_file_id": 50739, "new_file_id": 50749, "old_file_name": "TK Dodge-15309-3-11.7z", "new_file_name": "TK DodgeSE 311-15309-3-0.7z", "uploaded_timestamp": 1523373322, "uploaded_time": "2018-04-10T15:15:22.000+00:00"}, {"old_file_id": 50749, "new_file_id": 65314, "old_file_name": "TK DodgeSE 311-15309-3-0.7z", "new_file_name": "TK Dodge SE-15309-3-12.7z", "uploaded_timestamp": 1536391124, "uploaded_time": "2018-09-08T07:18:44.000+00:00"}, {"old_file_id": 65315, "new_file_id": 68172, "old_file_name": "TK Dodge SE 312-15309-3-12.7z", "new_file_name": "TK Dodge SE-15309-3-13.7z", "uploaded_timestamp": 1538672110, "uploaded_time": "2018-10-04T16:55:10.000+00:00"}, {"old_file_id": 68172, "new_file_id": 68721, "old_file_name": "TK Dodge SE-15309-3-13.7z", "new_file_name": "TK Dodge-15309-3-14.7z", "uploaded_timestamp": 1539099195, "uploaded_time": "2018-10-09T15:33:15.000+00:00"}, {"old_file_id": 68721, "new_file_id": 74378, "old_file_name": "TK Dodge-15...
+[2026-03-18 13:39:32]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TK Dodge For RE/meta.ini
+[2026-03-18 13:39:32]  Nexus: Identified as 'TK Dodge SE' (mod 15309, file 315866).
+[2026-03-18 13:39:33]  Nexus: Saved metadata for 'TK Dodge For RE' (mod 15309)
+[2026-03-18 13:39:33]  Filemap updated: 35397 file(s).
+[2026-03-18 13:39:37]  Nexus: Received link from browser.
+[2026-03-18 13:39:37]  Nexus: Downloading mod 56956 file 402680 from skyrimspecialedition...
+[2026-03-18 13:39:37]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/56956/files/402680?key=pHrUdzSsKTzCaxxbW4AbkQ&expires=1774028375&user_id=71483453
+[2026-03-18 13:39:37]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 13:39:37]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 56956, "name": "TK Dodge RE - Script Free", "summary": "", "version": "v0.55-rc3", "author": "Maxsu and FBplus and Loop and Xing", "modCategory": {"categoryId": 51, "name": "Animation"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 13:39:38]  Nexus API GET /games/skyrimspecialedition/mods/56956/files/402680/download_link → 200
+[2026-03-18 13:39:38]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/56956/TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip?md5=TVlQXmz9QxqpdvdpbJ0zyw&expires=1773869978&user_id=71483453"}]
+[2026-03-18 13:39:38]  Nexus API GET /games/skyrimspecialedition/mods/56956/files/402680 → 200
+[2026-03-18 13:39:38]    Response: {"id": [402680, 1704], "uid": 7318624675064, "file_id": 402680, "name": "TK Dodge RE-v0.55-rc3", "version": "v0.55-rc3", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 2811, "file_name": "TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip", "uploaded_timestamp": 1688194322, "uploaded_time": "2023-07-01T06:52:02.000+00:00", "mod_version": "v0.55-rc3", "external_virus_scan_url": "https://www.virustotal.com/gui/file/4809e8bbce01186468dc63760e0b347cb93e636c41a241047028be1245281e6f/detection/f-4809e8bbce01186468dc63760e0b347cb93e636c41a241047028be1245281e6f-1688194339", "description": "Load this mod below Nemesis engine\n<br />Load this mod below \"Precision - Accurate Melee Collisions\" (Let this mod files overwrite the files in \"Precision\")\n<br />Included \"TK Dodge RE AE Support\" v0.61.1 DLL plugin\n<br />Included \"TK dodge standalone\" new Nemesis patch", "size_kb": 2811, "size_in_bytes": 2878753, "changelog_html": "Added fomod optional patch: Forward dodge scurry fix. For Dynamic Dodge Animation: https://www.nexusmods.com/skyrimspecialedition/mods/79598\n\u2191 Consider there have other modders extend the animation frame to fix the scurry movement be...
+[2026-03-18 13:39:39]  Nexus: Installing TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip...
+[2026-03-18 13:39:39]  Extracting with zipfile…
+[2026-03-18 13:39:39]  FOMOD installer detected — opening wizard...
+[2026-03-18 13:39:39]  Downloaded TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip (2878753 bytes) → /home/luther/.config/AmethystModManager/download_cache/TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322 (1).zip
+[2026-03-18 13:40:00]  FOMOD complete — 4 file(s) to install.
+[2026-03-18 13:40:01]  Copied 582 item(s) to staging area.
+[2026-03-18 13:40:01]  Installed 'TK Dodge RE' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TK Dodge RE
+[2026-03-18 13:40:01]  Added 'TK Dodge RE' to modlist.
+[2026-03-18 13:40:01]  Nexus: Removed archive TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322 (1).zip
+[2026-03-18 13:40:01]  Downloads: found 1 archive(s) in 1 location(s)
+[2026-03-18 13:40:01]  Nexus: Computing MD5 hash of TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322 (1).zip...
+[2026-03-18 13:40:01]  Nexus: MD5 lookup failed — [Errno 2] No such file or directory: '/home/luther/.config/AmethystModManager/download_cache/TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322 (1).zip'
+[2026-03-18 13:40:02]  Filemap updated: 35975 file(s).
+[2026-03-18 13:40:11]  Run EXE: launching Pandora Behaviour Engine+.exe via Proton - Experimental ...
+[2026-03-18 13:40:28]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-18 13:40:31]  Updated masterlist_skyrimse.yaml.
+[2026-03-18 13:40:31]  Fetching latest masterlist_prelude.yaml...
+[2026-03-18 13:40:31]  Updated masterlist_prelude.yaml.
+[2026-03-18 13:40:31]  Initializing LOOT...
+[2026-03-18 13:40:32]  Loaded masterlist with prelude.
+[2026-03-18 13:40:32]  Loading 266 plugin headers...
+[2026-03-18 13:40:32]  Sorting 266 plugins...
+[2026-03-18 13:40:33]  Sort complete. 0 plugin(s) changed position.
+[2026-03-18 13:40:33]  Load order is already sorted.
+[2026-03-18 13:40:46]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-18 13:40:48]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-18 13:40:48]  Restore: removing plugins.txt symlink ...
+[2026-03-18 13:40:48]    Removed plugins.txt symlink from prefix.
+[2026-03-18 13:40:48]  Restore: restoring launcher ...
+[2026-03-18 13:40:48]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-18 13:40:48]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-18 13:40:48]    Rescued 2 runtime-created file(s) → overwrite/.
+[2026-03-18 13:40:49]    Removed 31893 file(s) from Data/.
+[2026-03-18 13:40:49]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-18 13:40:49]  Restore complete.
+[2026-03-18 13:40:49]  Backup: modlist.txt
+[2026-03-18 13:40:49]  Backup: plugins.txt
+[2026-03-18 13:40:49]  Backup: plugin_locks.json
+[2026-03-18 13:40:49]  Backup: removed oldest 20260313_010349
+[2026-03-18 13:40:49]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-18 13:40:49]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-18 13:40:49]    Moved 34 file(s) to Data_Core/.
+[2026-03-18 13:40:49]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-18 13:40:52]    Transferred 35977 mod file(s).
+[2026-03-18 13:40:52]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-18 13:40:52]    Transferred 25 vanilla file(s).
+[2026-03-18 13:40:52]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-18 13:40:53]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-18 13:40:53]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-18 13:40:53]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-18 13:40:53]  Step 7: Swapping launcher for SKSE ...
+[2026-03-18 13:40:53]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-18 13:40:53]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-18 13:40:53]  Deploy complete. 35977 mod + 25 vanilla = 36002 total file(s) in Data/.
+[2026-03-18 13:40:54]  Filemap updated: 35977 file(s).
+[2026-03-18 13:40:56]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-18 13:40:56]  Updated masterlist_skyrimse.yaml.
+[2026-03-18 13:40:56]  Fetching latest masterlist_prelude.yaml...
+[2026-03-18 13:40:56]  Updated masterlist_prelude.yaml.
+[2026-03-18 13:40:56]  Initializing LOOT...
+[2026-03-18 13:40:56]  Loaded masterlist with prelude.
+[2026-03-18 13:40:56]  Loading 266 plugin headers...
+[2026-03-18 13:40:56]  Sorting 266 plugins...
+[2026-03-18 13:40:57]  Sort complete. 0 plugin(s) changed position.
+[2026-03-18 13:40:57]  Load order is already sorted.

@@ -1,0 +1,113 @@
+[2026-03-13 16:16:41]  Downloads: found 0 archive(s) in 1 location(s)
+[2026-03-13 16:16:42]  Mod Manager ready. 1/31 games configured.
+[2026-03-13 16:16:42]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-13 16:16:42]  Nexus Mods API key loaded.
+[2026-03-13 16:16:42]  NXM protocol handler registered.
+[2026-03-13 16:16:42]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-13 16:16:43]  Nexus: Downloading mod 173704 file 727049 from skyrimspecialedition...
+[2026-03-13 16:16:43]  Nexus: logged in as DubiousPhoenix (premium=False)
+[2026-03-13 16:16:43]  Filemap updated: 34878 file(s).
+[2026-03-13 16:16:44]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-13 16:16:44]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-13 16:16:44]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-13 16:16:44]  Nexus API GET /games/skyrimspecialedition/mods/173704/files/727049/download_link → 200
+[2026-03-13 16:16:44]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/173704/Riv's Wolves of The Wild - Model Swapper and BOS-173704-1-0-1772403779.zip?md5=IRqctXP2s_m_vbVhs1oMQg&expires=1773447403&user_id=71483453"}]
+[2026-03-13 16:16:44]  Nexus API GET /games/skyrimspecialedition/mods/173704/files/727049 → 200
+[2026-03-13 16:16:44]    Response: {"id": [727049, 1704], "uid": 7318624999433, "file_id": 727049, "name": "Riv's Wolves of The Wild - Model Swapper and BOS", "version": "1.0", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 14688, "file_name": "Riv's Wolves of The Wild - Model Swapper and BOS-173704-1-0-1772403779.zip", "uploaded_timestamp": 1772403779, "uploaded_time": "2026-03-01T22:22:59.000+00:00", "mod_version": "1.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/fb710de4283e226d8b7a7400b9eda0291c4545cccaba223c2628f50532e71312", "description": "Requires Model Swapper and Base Object Swapper!\n<br />Adds 3 new wolf colors to add some variety, conflict free. Adds various new wolf head wall trophies using BOS. 2K textures. Needs the main file too. See images.", "size_kb": 14688, "size_in_bytes": 15040417, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/173704/Riv's Wolves of The Wild - Model Swapper and BOS-173704-1-0-1772403779.zip.json"}
+[2026-03-13 16:16:48]  Nexus: Installing Riv's Wolves of The Wild - Model Swapper and BOS-173704-1-0-1772403779.zip...
+[2026-03-13 16:16:48]  Extracting with zipfile…
+[2026-03-13 16:16:49]  Direct install — 14 file(s) to install.
+[2026-03-13 16:16:49]  Auto-stripped top-level folder(s) so mod matches expected structure.
+[2026-03-13 16:16:49]  Copied 14 item(s) to staging area.
+[2026-03-13 16:16:49]  Installed 'Riv's Wolves of The Wild - Model Swapper and BOS' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Riv's Wolves of The Wild - Model Swapper and BOS
+[2026-03-13 16:16:49]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Riv's Wolves of The Wild - Model Swapper and BOS'.
+[2026-03-13 16:16:49]  Added 'Riv's Wolves of The Wild - Model Swapper and BOS' to modlist.
+[2026-03-13 16:16:49]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Riv's Wolves of The Wild - Model Swapper and BOS/meta.ini
+[2026-03-13 16:16:49]  Nexus: Saved metadata (mod 173704, v)
+[2026-03-13 16:16:49]  Nexus: Removed archive Riv's Wolves of The Wild - Model Swapper and BOS-173704-1-0-1772403779.zip
+[2026-03-13 16:16:49]  Downloads: found 0 archive(s) in 1 location(s)
+[2026-03-13 16:16:49]  Downloaded Riv's Wolves of The Wild - Model Swapper and BOS-173704-1-0-1772403779.zip (15040417 bytes) → /home/luther/Downloads/Riv's Wolves of The Wild - Model Swapper and BOS-173704-1-0-1772403779.zip
+[2026-03-13 16:16:49]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/136461/files/573286?key=q4GWeRQGvhG48YEnW7lBHw&expires=1773605807&user_id=71483453
+[2026-03-13 16:16:49]  Nexus: Received link from browser.
+[2026-03-13 16:16:49]  Nexus: Downloading mod 136461 file 573286 from skyrimspecialedition...
+[2026-03-13 16:16:49]  Nexus: Detected mod ID 173704 from filename.
+[2026-03-13 16:16:49]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-13 16:16:49]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-13 16:16:49]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-13 16:16:50]  Nexus API GET /games/skyrimspecialedition/mods/173704 → 200
+[2026-03-13 16:16:50]    Response: {"name": "Riv's Wolves of The Wild - Diverse Wolf Replacer", "summary": "Replacer for all wolves based on Mihail's Cyrodiilic Wolves with an optional Model Swapper variety version, optional WillOhTheWisp's fluffy meshes and a new wall-mounted wolf replacer. 4k or 2k.", "description": "[b][font=Tahoma][color=#c9daf8][size=5]Riv's Wolves of The Wild - Wolf Replacer and Model Swapper Variety[/size][/color][/font][/b]\n<br />[font=Tahoma][color=#c9daf8][size=4][b]\n<br />Features[/b][/size][/color][/font]\n<br />\n<br />[list]\n<br />[*][size=4]Replaces the vanilla wolf models and textures with mildly edited assets from [url=http://www.nexusmods.com/skyrimspecialedition/mods/24524]Mihail's cyrodiilic wolves[/url][/size]\n<br />[*][size=4]Mesh without fur shaders: 8700 faces - With fur shaders: 86000 faces (beware of performance impact if there are multiple wolves rendered)\ufeff[/size]\n<br />[*][size=4]Optional Fluffy Fur Shader version based on [url=http://www.nexusmods.com/skyrimspecialedition/mods/68835]WillOhTheWisp's wolf meshes[/url]\ufeff, slightly more optimized (originally roughly 110k faces)[/size]\n<br />[*][size=4](Optional) Uses Model Swapper to add multiple new wolf vari...
+[2026-03-13 16:16:50]  Nexus API GET /games/skyrimspecialedition/mods/136461/files/573286/download_link → 200
+[2026-03-13 16:16:50]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/136461/Model Swapper 1.3-136461-1-3-1734437860.7z?md5=F5g0W-Qu3nXVKA1kPMS7Tg&expires=1773447409&user_id=71483453"}]
+[2026-03-13 16:16:50]  Nexus API GET /games/skyrimspecialedition/mods/173704/files → 200
+[2026-03-13 16:16:50]    Response: {"file_updates": [{"old_file_id": 727038, "new_file_id": 727049, "old_file_name": "Riv's Wolves of The Wild - Model Swapper Addon-173704-1-0-1772402142.zip", "new_file_name": "Riv's Wolves of The Wild - Model Swapper and BOS-173704-1-0-1772403779.zip", "uploaded_timestamp": 1772403779, "uploaded_time": "2026-03-01T22:22:59.000+00:00"}], "files": [{"id": [727026, 1704], "uid": 7318624999410, "file_id": 727026, "name": "Riv's Wolves of The Wild - Core - Vanilla Replacer", "version": "1.0", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 24052, "file_name": "Riv's Wolves of The Wild - Vanilla Replacer-173704-1-0-1772400437.zip", "uploaded_timestamp": 1772400437, "uploaded_time": "2026-03-01T21:27:17.000+00:00", "mod_version": "1.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/c5454fe3a8b3298ec3c6b303c7452ba2365620d67815ec3af9dd362485890834", "description": "Core Main File. This ONLY replaces the 3 vanilla wolves and the 2 wall-mounted wolf trophies. 2k textures. You need this if you want any addons.", "size_kb": 24052, "size_in_bytes": 24628863, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-fi...
+[2026-03-13 16:16:50]  Nexus API GET /games/skyrimspecialedition/mods/136461/files/573286 → 200
+[2026-03-13 16:16:50]    Response: {"id": [573286, 1704], "uid": 7318624845670, "file_id": 573286, "name": "Model Swapper 1.3", "version": "1.3", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 333, "file_name": "Model Swapper 1.3-136461-1-3-1734437860.7z", "uploaded_timestamp": 1734437860, "uploaded_time": "2024-12-17T12:17:40.000+00:00", "mod_version": "1.3", "external_virus_scan_url": "https://www.virustotal.com/gui/file/d88bd59ef0b43f5c2c1605a1ecc59181f3eebd71d9e1b5da9dd264e0b63a8e40/detection/f-d88bd59ef0b43f5c2c1605a1ecc59181f3eebd71d9e1b5da9dd264e0b63a8e40-1734437863", "description": "", "size_kb": 333, "size_in_bytes": 340512, "changelog_html": "Fixed an issue where race based models were not been replaced", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/136461/Model Swapper 1.3-136461-1-3-1734437860.7z.json"}
+[2026-03-13 16:16:50]  Nexus: Identified as 'Riv's Wolves of The Wild - Diverse Wolf Replacer' (mod 173704, file 727049).
+[2026-03-13 16:16:50]  Filemap updated: 34892 file(s).
+[2026-03-13 16:16:50]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Riv's Wolves of The Wild - Model Swapper and BOS/meta.ini
+[2026-03-13 16:16:50]  Nexus: Saved metadata for 'Riv's Wolves of The Wild - Model Swapper and BOS' (mod 173704)
+[2026-03-13 16:16:50]  Nexus: Installing Model Swapper 1.3-136461-1-3-1734437860.7z...
+[2026-03-13 16:16:50]  Extracting with py7zr…
+[2026-03-13 16:16:50]  Direct install — 2 file(s) to install.
+[2026-03-13 16:16:50]  Copied 2 item(s) to staging area.
+[2026-03-13 16:16:50]  Installed 'Model Swapper 1.3' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Model Swapper 1.3
+[2026-03-13 16:16:50]  Added 'Model Swapper 1.3' to modlist.
+[2026-03-13 16:16:51]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Model Swapper 1.3/meta.ini
+[2026-03-13 16:16:51]  Nexus: Saved metadata (mod 136461, v)
+[2026-03-13 16:16:51]  Nexus: Removed archive Model Swapper 1.3-136461-1-3-1734437860.7z
+[2026-03-13 16:16:51]  Downloads: found 0 archive(s) in 1 location(s)
+[2026-03-13 16:16:51]  Downloaded Model Swapper 1.3-136461-1-3-1734437860.7z (340512 bytes) → /home/luther/Downloads/Model Swapper 1.3-136461-1-3-1734437860.7z
+[2026-03-13 16:16:51]  Nexus: Detected mod ID 136461 from filename.
+[2026-03-13 16:16:51]  Nexus API GET /games/skyrimspecialedition/mods/136461 → 200
+[2026-03-13 16:16:51]    Response: {"name": "Model Swapper", "summary": "This mod allows you to replace models from the game by a set of other model variations", "description": "[size=5][b]Description:\n<br />[/b][/size][list]\n<br />[*]This mod does nothing on its own, but it allows authors to configure which model will be replaced automatically by a set of variations\n<br />[*]It is safe to install and uninstall as it only changes the model of the forms, after uninstalling it everything will have its default model.\n<br />[*]The models given to an object reference will stay the same, assuming its reference id does not change, wich can happen.\n<br />[/list][b][size=5]How create new model variations:[/size][/b]\n<br />\n<br />You can create files suffixed with\u00a0[color=#ff7700]_MS.json[/color] on the data folder to configure which models will be replaced, these files must be an array of json files, where each item of the array is one model and which variants it has\n<br />\n<br />[b][size=5]Example:[/size][/b]\n<br />[\n<br />\u00a0 {\n<br />\u00a0 \u00a0 \"OriginalModel\": \"actors&#92;&#92;canine&#92;&#92;character assets wolf&#92;&#92;wolfblack.nif\",\n<br />\u00a0 \u00a0 \"Variants\": [\n<br />\u00a0 \u00a0 ...
+[2026-03-13 16:16:51]  Nexus API GET /games/skyrimspecialedition/mods/136461/files → 200
+[2026-03-13 16:16:51]    Response: {"file_updates": [{"old_file_id": 572834, "new_file_id": 572939, "old_file_name": "AV Example Rainbow Wolfs-136461-1-0-1734305765.7z", "new_file_name": "Example Rainbow Wolfs-136461-1-1-1734342182.7z", "uploaded_timestamp": 1734342182, "uploaded_time": "2024-12-16T09:43:02.000+00:00"}, {"old_file_id": 572939, "new_file_id": 572943, "old_file_name": "Example Rainbow Wolfs-136461-1-1-1734342182.7z", "new_file_name": "Example Rainbow Wolfs-136461-1-2-1734342813.7z", "uploaded_timestamp": 1734342813, "uploaded_time": "2024-12-16T09:53:33.000+00:00"}, {"old_file_id": 572835, "new_file_id": 572938, "old_file_name": "Automatic Variation-136461-1-0-1734305814.7z", "new_file_name": "Model Swapper-136461-1-1-1734342154.7z", "uploaded_timestamp": 1734342154, "uploaded_time": "2024-12-16T09:42:34.000+00:00"}, {"old_file_id": 572938, "new_file_id": 572940, "old_file_name": "Model Swapper-136461-1-1-1734342154.7z", "new_file_name": "Model Swapper-136461-1-2-1734342409.7z", "uploaded_timestamp": 1734342409, "uploaded_time": "2024-12-16T09:46:49.000+00:00"}, {"old_file_id": 572940, "new_file_id": 573286, "old_file_name": "Model Swapper-136461-1-2-1734342409.7z", "new_file_name": "Model Swapper 1.3...
+[2026-03-13 16:16:51]  Nexus: Identified as 'Model Swapper' (mod 136461, file 573286).
+[2026-03-13 16:16:51]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Model Swapper 1.3/meta.ini
+[2026-03-13 16:16:51]  Nexus: Saved metadata for 'Model Swapper 1.3' (mod 136461)
+[2026-03-13 16:16:51]  Filemap updated: 34894 file(s).
+[2026-03-13 16:29:14]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-13 16:29:16]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-13 16:29:16]  Restore: removing plugins.txt symlink ...
+[2026-03-13 16:29:16]    Removed plugins.txt symlink from prefix.
+[2026-03-13 16:29:16]  Restore: restoring launcher ...
+[2026-03-13 16:29:16]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-13 16:29:16]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-13 16:29:17]    Removed 31471 file(s) from Data/.
+[2026-03-13 16:29:17]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-13 16:29:17]  Restore complete.
+[2026-03-13 16:29:17]  Backup: modlist.txt
+[2026-03-13 16:29:17]  Backup: plugins.txt
+[2026-03-13 16:29:17]  Backup: plugin_locks.json
+[2026-03-13 16:29:17]  Backup: removed oldest 20260312_120414
+[2026-03-13 16:29:17]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-13 16:29:17]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-13 16:29:17]    Moved 34 file(s) to Data_Core/.
+[2026-03-13 16:29:17]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-13 16:29:20]    Transferred 34894 mod file(s).
+[2026-03-13 16:29:20]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-13 16:29:20]    Transferred 25 vanilla file(s).
+[2026-03-13 16:29:20]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-13 16:29:20]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-13 16:29:20]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-13 16:29:20]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-13 16:29:20]  Step 7: Swapping launcher for SKSE ...
+[2026-03-13 16:29:20]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-13 16:29:20]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-13 16:29:20]  Deploy complete. 34894 mod + 25 vanilla = 34919 total file(s) in Data/.
+[2026-03-13 16:29:22]  Filemap updated: 34894 file(s).
+[2026-03-13 16:29:24]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-13 16:29:25]  Updated masterlist_skyrimse.yaml.
+[2026-03-13 16:29:25]  Fetching latest masterlist_prelude.yaml...
+[2026-03-13 16:29:25]  Updated masterlist_prelude.yaml.
+[2026-03-13 16:29:25]  Initializing LOOT...
+[2026-03-13 16:29:25]  Loaded masterlist with prelude.
+[2026-03-13 16:29:25]  Loading 259 plugin headers...
+[2026-03-13 16:29:25]  Sorting 259 plugins...
+[2026-03-13 16:29:26]  Sort complete. 11 plugin(s) changed position.
+[2026-03-13 16:29:26]  Sorted — 11 plugin(s) changed position.
+[2026-03-13 16:29:30]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-13 16:32:58]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-13 16:33:42]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/57706
+[2026-03-13 16:34:04]  Filemap updated: 34893 file(s).
+[2026-03-13 16:34:13]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...

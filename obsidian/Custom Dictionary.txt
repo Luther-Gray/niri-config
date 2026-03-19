@@ -6,6 +6,8 @@ Distvi
 Ephemia
 absurdism
 eccentrism
+impactful
+palpatine
 protag
 starchild
-checksum_v1 = 76298165468a074fbe23984817a3a20f
+checksum_v1 = d07dfcabe329366c23043c62362e42d6

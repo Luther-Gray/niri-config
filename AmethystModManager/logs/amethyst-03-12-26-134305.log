@@ -1,0 +1,319 @@
+[2026-03-12 13:43:06]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-12 13:43:07]  Mod Manager ready. 1/28 games configured.
+[2026-03-12 13:43:07]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-12 13:43:07]  Nexus Mods API key loaded.
+[2026-03-12 13:43:07]  NXM protocol handler registered.
+[2026-03-12 13:43:07]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-12 13:43:07]  Nexus API GET /users/validate → 200
+[2026-03-12 13:43:07]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-12 13:43:08]  Filemap updated: 30061 file(s).
+[2026-03-12 13:43:13]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-12 13:46:14]  Opened: SSEDisplayTweaks.ini
+[2026-03-12 13:47:55]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-12 14:24:15]  Filemap updated: 30059 file(s).
+[2026-03-12 14:24:18]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/51036
+[2026-03-12 14:24:40]  Filemap updated: 30059 file(s).
+[2026-03-12 14:27:07]  Nexus: Received link from browser.
+[2026-03-12 14:27:07]  Nexus: Downloading mod 88724 file 376713 from skyrimspecialedition...
+[2026-03-12 14:27:07]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/88724/files/376713?key=qPewGT8FGAcTtFPEOJMJmg&expires=1773512826&user_id=71483453
+[2026-03-12 14:27:08]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 14:27:08]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 14:27:08]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 14:27:08]  Nexus API GET /games/skyrimspecialedition/mods/88724/files/376713/download_link → 200
+[2026-03-12 14:27:08]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/88724/Shield Sisters-88724-2-1681057571.zip?md5=VaNrbHDyjD-VeqAiXTNz2Q&expires=1773354428&user_id=71483453"}]
+[2026-03-12 14:27:08]  Nexus API GET /games/skyrimspecialedition/mods/88724/files/376713 → 200
+[2026-03-12 14:27:08]    Response: {"id": [376713, 1704], "uid": 7318624649097, "file_id": 376713, "name": "Shield Sisters", "version": "2", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 71570, "file_name": "Shield Sisters-88724-2-1681057571.zip", "uploaded_timestamp": 1681057571, "uploaded_time": "2023-04-09T16:26:11.000+00:00", "mod_version": "2", "external_virus_scan_url": "https://www.virustotal.com/gui/file/9872482fb5d7a0285d3d319a42ced485a2f9b1b0fa1566163bd2461bd7e0febc/detection/f-9872482fb5d7a0285d3d319a42ced485a2f9b1b0fa1566163bd2461bd7e0febc-1681057592", "description": "Main File.\n<br />- Updated Njada and Ria", "size_kb": 71570, "size_in_bytes": 73287755, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/88724/Shield Sisters-88724-2-1681057571.zip.json"}
+[2026-03-12 14:27:31]  Nexus: Installing Shield Sisters-88724-2-1681057571.zip...
+[2026-03-12 14:27:31]  Extracting with zipfile…
+[2026-03-12 14:27:32]  Direct install — 66 file(s) to install.
+[2026-03-12 14:27:32]  Copied 66 item(s) to staging area.
+[2026-03-12 14:27:32]  Installed 'Shield Sisters' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Shield Sisters
+[2026-03-12 14:27:32]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Shield Sisters'.
+[2026-03-12 14:27:32]  Added 'Shield Sisters' to modlist.
+[2026-03-12 14:27:32]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Shield Sisters/meta.ini
+[2026-03-12 14:27:32]  Nexus: Saved metadata (mod 88724, v)
+[2026-03-12 14:27:32]  Nexus: Removed archive Shield Sisters-88724-2-1681057571.zip
+[2026-03-12 14:27:32]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-12 14:27:32]  Downloaded Shield Sisters-88724-2-1681057571.zip (73287755 bytes) → /home/luther/Downloads/Shield Sisters-88724-2-1681057571.zip
+[2026-03-12 14:27:32]  Nexus: Detected mod ID 88724 from filename.
+[2026-03-12 14:27:33]  Nexus API GET /games/skyrimspecialedition/mods/88724 → 200
+[2026-03-12 14:27:33]    Response: {"name": "Shield Sisters - Aela NPC Replacer -Njada- Ria-", "summary": "This mod changes the appearance of the Shield Sisters . Aela, Ria, and Njada have been given a fresh, unique look that draws inspiration from their vanilla appearance.", "description": "[center]Overhauls the appearance of Aela the Huntress , Ria and Njada Stonearm.\n<br />Textures are 2k-1k, and the facegen poly is vanilla.\u00a0\n<br />No impact on performance.\n<br />\n<br />[size=6][b]REQUIREMENTS[/b][/size]\n<br />\n<br />[i]none, the mod is completely standalone\n<br />[/i]\n<br />[size=6][b]INSTALLATION\u00a0[/b][/size]\n<br />\n<br />[i]1.Download[/i]\n<br />[i]2.Install with mod manager (or extract files in Data folder)[/i]\n<br />[i]3.Activate ESP\u00a0[/i]\n<br />[i]4.Enjoy :)\n<br />\n<br />[/i][size=6][b]LOAD ORDER\n<br />[/b][/size]\n<br />Load main esp and files after all other NPC overhauls.\n<br />Load patches after main esp.\n<br />\n<br />[b][size=6]CREDITS\ufeff\n<br />[/size]\n<br />[url=https://www.nexusmods.com/skyrimspecialedition/mods/13630][size=2]Kyoe's Bang'n Brows[/size][/url][/b][size=2]\n<br />[url=https://www.nexusmods.com/skyrimspecialedition/mods/79077]Ravens Warpaint SE[/url]\n...
+[2026-03-12 14:27:33]  Nexus: Identified as 'Shield Sisters - Aela NPC Replacer -Njada- Ria-' (mod 88724, file 376713).
+[2026-03-12 14:27:33]  Nexus API GET /games/skyrimspecialedition/mods/88724/files → 200
+[2026-03-12 14:27:33]    Response: {"file_updates": [{"old_file_id": 376098, "new_file_id": 376116, "old_file_name": "Shield Sisters-88724-1-1680894788.zip", "new_file_name": "Shield Sisters-88724-1-1680899120.zip", "uploaded_timestamp": 1680899120, "uploaded_time": "2023-04-07T20:25:20.000+00:00"}, {"old_file_id": 376117, "new_file_id": 376715, "old_file_name": "AI Overhaul Patch-88724-1-1680899152.zip", "new_file_name": "AI Overhaul Patch-88724-2-1681057667.zip", "uploaded_timestamp": 1681057667, "uploaded_time": "2023-04-09T16:27:47.000+00:00"}, {"old_file_id": 376119, "new_file_id": 376121, "old_file_name": "Warpaint for Ria-88724-1-1680899233.zip", "new_file_name": "Warpaint for Ria-88724-1-1680899485.zip", "uploaded_timestamp": 1680899485, "uploaded_time": "2023-04-07T20:31:25.000+00:00"}], "files": [{"id": [376098, 1704], "uid": 7318624648482, "file_id": 376098, "name": "Shield Sisters", "version": "1", "category_id": 7, "category_name": "ARCHIVED", "is_primary": false, "size": 71748, "file_name": "Shield Sisters-88724-1-1680894788.zip", "uploaded_timestamp": 1680894788, "uploaded_time": "2023-04-07T19:13:08.000+00:00", "mod_version": "1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/dc7b56...
+[2026-03-12 14:27:33]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Shield Sisters/meta.ini
+[2026-03-12 14:27:33]  Nexus: Saved metadata for 'Shield Sisters' (mod 88724)
+[2026-03-12 14:27:33]  Filemap updated: 30124 file(s).
+[2026-03-12 14:28:21]  Nexus: Received link from browser.
+[2026-03-12 14:28:21]  Nexus: Downloading mod 63979 file 501460 from skyrimspecialedition...
+[2026-03-12 14:28:21]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/63979/files/501460?key=kbEFlpQAj-NmmJxxBA3F8Q&expires=1773512900&user_id=71483453
+[2026-03-12 14:28:21]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 14:28:21]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 14:28:21]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 14:28:21]  Nexus API GET /games/skyrimspecialedition/mods/63979/files/501460/download_link → 200
+[2026-03-12 14:28:21]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/63979/Vanilla hair remake-63979-1-0-2-1715806292.7z?md5=saXyr_3zzwN001xx5GiXwg&expires=1773354501&user_id=71483453"}]
+[2026-03-12 14:28:22]  Nexus API GET /games/skyrimspecialedition/mods/63979/files/501460 → 200
+[2026-03-12 14:28:22]    Response: {"id": [501460, 1704], "uid": 7318624773844, "file_id": 501460, "name": "Vanilla hair remake", "version": "1.0.2", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 8620, "file_name": "Vanilla hair remake-63979-1-0-2-1715806292.7z", "uploaded_timestamp": 1715806292, "uploaded_time": "2024-05-15T20:51:32.000+00:00", "mod_version": "1.0.2", "external_virus_scan_url": "https://www.virustotal.com/gui/file/fd06a5ed60cb891b0ef51b863dc29433e01d078e01cdbe23d04d0ca33d0b34d2/detection/f-fd06a5ed60cb891b0ef51b863dc29433e01d078e01cdbe23d04d0ca33d0b34d2-1715806328", "description": "No physics. Does not require HDT-SMP.", "size_kb": 8620, "size_in_bytes": 8827229, "changelog_html": "Fixed stretching in MaleOrc11 (No SMP version)", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/63979/Vanilla hair remake-63979-1-0-2-1715806292.7z.json"}
+[2026-03-12 14:28:25]  Nexus: Installing Vanilla hair remake-63979-1-0-2-1715806292.7z...
+[2026-03-12 14:28:25]  Extracting with py7zr…
+[2026-03-12 14:28:25]  Direct install — 475 file(s) to install.
+[2026-03-12 14:28:26]  Copied 475 item(s) to staging area.
+[2026-03-12 14:28:26]  Installed 'Vanilla hair remake' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Vanilla hair remake
+[2026-03-12 14:28:26]  Added 'Vanilla hair remake' to modlist.
+[2026-03-12 14:28:26]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Vanilla hair remake/meta.ini
+[2026-03-12 14:28:26]  Nexus: Saved metadata (mod 63979, v)
+[2026-03-12 14:28:26]  Nexus: Removed archive Vanilla hair remake-63979-1-0-2-1715806292.7z
+[2026-03-12 14:28:26]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-12 14:28:26]  Downloaded Vanilla hair remake-63979-1-0-2-1715806292.7z (8827229 bytes) → /home/luther/Downloads/Vanilla hair remake-63979-1-0-2-1715806292.7z
+[2026-03-12 14:28:26]  Nexus: Detected mod ID 63979 from filename.
+[2026-03-12 14:28:26]  Nexus API GET /games/skyrimspecialedition/mods/63979 → 200
+[2026-03-12 14:28:26]    Response: {"name": "Vanilla hair remake", "summary": "A remake from scratch of 146 vanilla hairstyles, across all playable races. Same scruffy look, but with greater detail and (optional) SMP support.", "description": "The goal of this project is to add good-looking physics to the vanilla hair, while staying true to the original style and without murdering your fps. It started with a very brief attempt at adding physics directly to the original meshes, but they are just not made for it. They are for the most part a single sheet. No volume, no segmentation. This looks terrible when it moves. So I made a completely new mesh in the same style, designed specifically to look good in motion, and I liked it. I made a few more, and here we are.\n<br />\n<br />A core value of this project is to maintain a reasonable balance between quality and performance. This mod is not for high-end systems. [b]It's for everyone[/b]. \n<br />\n<br />The physics is highly optimised and has a much lower performance cost than other SMP hair. This does not mean that the quality is low, but rather that I've skipped some optional features that you usually don't need when you're slaying dragons. Notably, body collisions. ...
+[2026-03-12 14:28:27]  Filemap updated: 30599 file(s).
+[2026-03-12 14:28:27]  Nexus API GET /games/skyrimspecialedition/mods/63979/files → 200
+[2026-03-12 14:28:27]    Response: {"file_updates": [{"old_file_id": 265682, "new_file_id": 266722, "old_file_name": "Vanilla hair remake SMP-63979-0-1-1645383586.7z", "new_file_name": "Vanilla hair remake SMP-63979-0-2-1645819926.7z", "uploaded_timestamp": 1645819926, "uploaded_time": "2022-02-25T20:12:06.000+00:00"}, {"old_file_id": 266722, "new_file_id": 268283, "old_file_name": "Vanilla hair remake SMP-63979-0-2-1645819926.7z", "new_file_name": "Vanilla hair remake SMP-63979-0-3-1646507169.7z", "uploaded_timestamp": 1646507169, "uploaded_time": "2022-03-05T19:06:09.000+00:00"}, {"old_file_id": 268283, "new_file_id": 287801, "old_file_name": "Vanilla hair remake SMP-63979-0-3-1646507169.7z", "new_file_name": "Vanilla hair remake SMP-63979-0-4-1653962870.7z", "uploaded_timestamp": 1653962870, "uploaded_time": "2022-05-31T02:07:50.000+00:00"}, {"old_file_id": 287801, "new_file_id": 288600, "old_file_name": "Vanilla hair remake SMP-63979-0-4-1653962870.7z", "new_file_name": "Vanilla hair remake SMP-63979-0-5-1654281646.7z", "uploaded_timestamp": 1654281646, "uploaded_time": "2022-06-03T18:40:46.000+00:00"}, {"old_file_id": 288600, "new_file_id": 294834, "old_file_name": "Vanilla hair remake SMP-63979-0-5-1654281646....
+[2026-03-12 14:28:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Vanilla hair remake/meta.ini
+[2026-03-12 14:28:27]  Nexus: Identified as 'Vanilla hair remake' (mod 63979, file 501460).
+[2026-03-12 14:28:27]  Nexus: Saved metadata for 'Vanilla hair remake' (mod 63979)
+[2026-03-12 14:28:34]  Nexus: Received link from browser.
+[2026-03-12 14:28:34]  Nexus: Downloading mod 134457 file 564346 from skyrimspecialedition...
+[2026-03-12 14:28:34]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/134457/files/564346?key=_SWk_0g53KQZ_MUUQp6AZA&expires=1773512913&user_id=71483453
+[2026-03-12 14:28:34]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 14:28:34]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 14:28:34]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 14:28:34]  Nexus API GET /games/skyrimspecialedition/mods/134457/files/564346/download_link → 200
+[2026-03-12 14:28:34]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/134457/Vanilla Hair Remake SMP Wig Distribution-134457-1-1732133886.7z?md5=jubnE7As34KSqT5B4XRZyA&expires=1773354514&user_id=71483453"}]
+[2026-03-12 14:28:35]  Nexus API GET /games/skyrimspecialedition/mods/134457/files/564346 → 200
+[2026-03-12 14:28:35]    Response: {"id": [564346, 1704], "uid": 7318624836730, "file_id": 564346, "name": "Vanilla Hair Remake SMP Wig Distribution", "version": "1", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 1767, "file_name": "Vanilla Hair Remake SMP Wig Distribution-134457-1-1732133886.7z", "uploaded_timestamp": 1732133886, "uploaded_time": "2024-11-20T20:18:06.000+00:00", "mod_version": "1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/49eae373a0d0d0497d4111a362bf8f6a1528d23bcf508a8e76d3d462598cae5a/detection/f-49eae373a0d0d0497d4111a362bf8f6a1528d23bcf508a8e76d3d462598cae5a-1732134173", "description": "Select the replacers you're using in the FOMOD", "size_kb": 1767, "size_in_bytes": 1809618, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/134457/Vanilla Hair Remake SMP Wig Distribution-134457-1-1732133886.7z.json"}
+[2026-03-12 14:28:35]  Nexus: Installing Vanilla Hair Remake SMP Wig Distribution-134457-1-1732133886.7z...
+[2026-03-12 14:28:35]  Extracting with py7zr…
+[2026-03-12 14:28:35]  FOMOD installer detected — opening wizard...
+[2026-03-12 14:28:35]  Downloaded Vanilla Hair Remake SMP Wig Distribution-134457-1-1732133886.7z (1809618 bytes) → /home/luther/Downloads/Vanilla Hair Remake SMP Wig Distribution-134457-1-1732133886.7z
+[2026-03-12 14:28:42]  FOMOD complete — 6 file(s) to install.
+[2026-03-12 14:28:42]  Copied 6 item(s) to staging area.
+[2026-03-12 14:28:42]  Installed 'Vanilla Hair Remake Wig Distribution - Bijin and Pan' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Vanilla Hair Remake Wig Distribution - Bijin and Pan
+[2026-03-12 14:28:42]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Vanilla Hair Remake Wig Distribution - Bijin and Pan'.
+[2026-03-12 14:28:42]  Added 'Vanilla Hair Remake Wig Distribution - Bijin and Pan' to modlist.
+[2026-03-12 14:28:42]  Nexus: Removed archive Vanilla Hair Remake SMP Wig Distribution-134457-1-1732133886.7z
+[2026-03-12 14:28:42]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-12 14:28:42]  Nexus: Detected mod ID 134457 from filename.
+[2026-03-12 14:28:42]  Nexus API GET /games/skyrimspecialedition/mods/134457 → 200
+[2026-03-12 14:28:42]    Response: {"name": "Vanilla Hair Remake SMP Wig Distribution - Bijin and Pandorable", "summary": "Distributes wigs from jg1's Vanilla Hair Remake to most of the NPCs covered by Bijin and Pandorable's various replacers using SPID. The goal is to give these NPCs performance-friendly SMP hair so they don't stand out from all of the others.", "description": "Once I installed Vanilla Hair Remake, I immediately wished all of the NPCs updated by Bijin and Pandorable had SMP hair too, so I created this mod.\n<br />\n<br />This mod doesn't\u00a0apply wigs randomly. Every NPC has a hand-chosen wig that either matches their original hair or looks similar to the hairstyle from Pandorable or Bijin's version. In cases where the Bijin/Pandorable hairstyle looks good without physics (eg. short hair or tied into a bun), the NPC won't receive a wig.\n<br />\n<br />Everything here is very modular. There's only one file to download, but the FOMOD allows you to select the NPC replacers you use so you'll only get the SPID distribution files you need.\n<br />\n<br /> I've left out Serana and Valerica as their hairstyles are not covered by Vanilla Hair Remake, and there are other mods that replace their hair with S...
+[2026-03-12 14:28:43]  Nexus API GET /games/skyrimspecialedition/mods/134457/files → 200
+[2026-03-12 14:28:43]    Response: {"file_updates": [], "files": [{"id": [564346, 1704], "uid": 7318624836730, "file_id": 564346, "name": "Vanilla Hair Remake SMP Wig Distribution", "version": "1", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 1767, "file_name": "Vanilla Hair Remake SMP Wig Distribution-134457-1-1732133886.7z", "uploaded_timestamp": 1732133886, "uploaded_time": "2024-11-20T20:18:06.000+00:00", "mod_version": "1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/49eae373a0d0d0497d4111a362bf8f6a1528d23bcf508a8e76d3d462598cae5a/detection/f-49eae373a0d0d0497d4111a362bf8f6a1528d23bcf508a8e76d3d462598cae5a-1732134173", "description": "Select the replacers you're using in the FOMOD", "size_kb": 1767, "size_in_bytes": 1809618, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/134457/Vanilla Hair Remake SMP Wig Distribution-134457-1-1732133886.7z.json"}]}
+[2026-03-12 14:28:43]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Vanilla Hair Remake Wig Distribution - Bijin and Pan/meta.ini
+[2026-03-12 14:28:43]  Nexus: Identified as 'Vanilla Hair Remake SMP Wig Distribution - Bijin and Pandorable' (mod 134457, file 564346).
+[2026-03-12 14:28:43]  Nexus: Saved metadata for 'Vanilla Hair Remake Wig Distribution - Bijin and Pan' (mod 134457)
+[2026-03-12 14:28:43]  Filemap updated: 30637 file(s).
+[2026-03-12 14:29:44]  Nexus: Received link from browser.
+[2026-03-12 14:29:44]  Nexus: Downloading mod 11247 file 30461 from skyrimspecialedition...
+[2026-03-12 14:29:44]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/11247/files/30461?key=73XRckXD4m2zqxVEv1st3g&expires=1773512983&user_id=71483453
+[2026-03-12 14:29:44]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 14:29:44]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 14:29:44]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 14:29:44]  Nexus API GET /games/skyrimspecialedition/mods/11247/files/30461/download_link → 200
+[2026-03-12 14:29:44]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/11247/Bijin Wives SE 1.1.2-11247-1-1-2.7z?md5=pQIKtHpYRuf1qD_G-ukTVA&expires=1773354584&user_id=71483453"}]
+[2026-03-12 14:29:44]  Nexus API GET /games/skyrimspecialedition/mods/11247/files/30461 → 200
+[2026-03-12 14:29:44]    Response: {"id": [30461, 1704], "uid": 7318624302845, "file_id": 30461, "name": "Bijin Wives SE 1.1.2", "version": "1.1.2", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 105020, "file_name": "Bijin Wives SE 1.1.2-11247-1-1-2.7z", "uploaded_timestamp": 1501504660, "uploaded_time": "2017-07-31T12:37:40.000+00:00", "mod_version": "1.1.2", "external_virus_scan_url": "https://www.virustotal.com/file/fd6ffb7e6c7f3973e6657df1da689d2ed0251b75fb003e03ca888f77ebd0a5aa/analysis/1501504879/", "description": "Installing this mod with a mod manager is highly recommended. See description for more info.", "size_kb": 105020, "size_in_bytes": 107540155, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/11247/Bijin Wives SE 1.1.2-11247-1-1-2.7z.json"}
+[2026-03-12 14:29:45]  Nexus: Download failed — Download cancelled
+[2026-03-12 14:29:48]  Nexus: Received link from browser.
+[2026-03-12 14:29:48]  Nexus: Downloading mod 11247 file 30600 from skyrimspecialedition...
+[2026-03-12 14:29:48]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/11247/files/30600?key=ldbmorMIoByAg226IQxNCw&expires=1773512987&user_id=71483453
+[2026-03-12 14:29:49]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 14:29:49]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 14:29:49]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 14:29:49]  Nexus API GET /games/skyrimspecialedition/mods/11247/files/30600/download_link → 200
+[2026-03-12 14:29:49]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/11247/Bijin AIO SE-11247-AIOSE.7z?md5=kcWQJs7DO-Q5BW3-FiniLw&expires=1773354589&user_id=71483453"}]
+[2026-03-12 14:29:49]  Nexus API GET /games/skyrimspecialedition/mods/11247/files/30600 → 200
+[2026-03-12 14:29:49]    Response: {"id": [30600, 1704], "uid": 7318624302984, "file_id": 30600, "name": "Bijin AIO SE", "version": "AIOSE", "category_id": 3, "category_name": "OPTIONAL", "is_primary": false, "size": 39, "file_name": "Bijin AIO SE-11247-AIOSE.7z", "uploaded_timestamp": 1501696188, "uploaded_time": "2017-08-02T17:49:48.000+00:00", "mod_version": "AIOSE", "external_virus_scan_url": "https://www.virustotal.com/file/4f0ce3724a35e9b633fb3e072e46e9d54b2d23509557dbc5d04a0a3ac68d26c7/analysis/1501696211/", "description": "This is the merged esp of Bijin Warmaidens, Wives and NPCs. See [color=red]requirements[/color] and how to use in description.", "size_kb": 39, "size_in_bytes": 39442, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/11247/Bijin AIO SE-11247-AIOSE.7z.json"}
+[2026-03-12 14:29:49]  Nexus: Installing Bijin AIO SE-11247-AIOSE.7z...
+[2026-03-12 14:29:49]  Extracting with py7zr…
+[2026-03-12 14:29:49]  Direct install — 1 file(s) to install.
+[2026-03-12 14:29:49]  Auto-stripped top-level folder(s) so mod matches expected structure.
+[2026-03-12 14:29:49]  Copied 1 item(s) to staging area.
+[2026-03-12 14:29:49]  Installed 'Bijin AIO' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Bijin AIO
+[2026-03-12 14:29:49]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Bijin AIO'.
+[2026-03-12 14:29:49]  Added 'Bijin AIO' to modlist.
+[2026-03-12 14:29:50]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Bijin AIO/meta.ini
+[2026-03-12 14:29:50]  Nexus: Saved metadata (mod 11247, v)
+[2026-03-12 14:29:50]  Nexus: Removed archive Bijin AIO SE-11247-AIOSE.7z
+[2026-03-12 14:29:50]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-12 14:29:50]  Downloaded Bijin AIO SE-11247-AIOSE.7z (39442 bytes) → /home/luther/Downloads/Bijin AIO SE-11247-AIOSE.7z
+[2026-03-12 14:29:50]  Nexus: Computing MD5 hash of Bijin AIO SE-11247-AIOSE.7z...
+[2026-03-12 14:29:50]  Nexus: MD5 lookup failed — [Errno 2] No such file or directory: '/home/luther/Downloads/Bijin AIO SE-11247-AIOSE.7z'
+[2026-03-12 14:29:50]  Filemap updated: 30638 file(s).
+[2026-03-12 14:30:20]  Nexus: Received link from browser.
+[2026-03-12 14:30:20]  Nexus: Downloading mod 11247 file 30461 from skyrimspecialedition...
+[2026-03-12 14:30:20]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/11247/files/30461?key=iTirEogulwlZYv3q2dLCQQ&expires=1773513019&user_id=71483453
+[2026-03-12 14:30:20]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 14:30:20]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 14:30:20]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 14:30:20]  Nexus API GET /games/skyrimspecialedition/mods/11247/files/30461/download_link → 200
+[2026-03-12 14:30:20]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/11247/Bijin Wives SE 1.1.2-11247-1-1-2.7z?md5=lMIv5Q3Mc-WnbSsq9eFCnQ&expires=1773354620&user_id=71483453"}]
+[2026-03-12 14:30:20]  Nexus API GET /games/skyrimspecialedition/mods/11247/files/30461 → 200
+[2026-03-12 14:30:20]    Response: {"id": [30461, 1704], "uid": 7318624302845, "file_id": 30461, "name": "Bijin Wives SE 1.1.2", "version": "1.1.2", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 105020, "file_name": "Bijin Wives SE 1.1.2-11247-1-1-2.7z", "uploaded_timestamp": 1501504660, "uploaded_time": "2017-07-31T12:37:40.000+00:00", "mod_version": "1.1.2", "external_virus_scan_url": "https://www.virustotal.com/file/fd6ffb7e6c7f3973e6657df1da689d2ed0251b75fb003e03ca888f77ebd0a5aa/analysis/1501504879/", "description": "Installing this mod with a mod manager is highly recommended. See description for more info.", "size_kb": 105020, "size_in_bytes": 107540155, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/11247/Bijin Wives SE 1.1.2-11247-1-1-2.7z.json"}
+[2026-03-12 14:30:23]  Nexus: Received link from browser.
+[2026-03-12 14:30:23]  Nexus: Downloading mod 1825 file 22452 from skyrimspecialedition...
+[2026-03-12 14:30:23]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/1825/files/22452?key=57dapLlLGp7YtNfxWnaVaA&expires=1773513022&user_id=71483453
+[2026-03-12 14:30:24]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 14:30:24]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 14:30:24]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 14:30:24]  Nexus API GET /games/skyrimspecialedition/mods/1825/files/22452/download_link → 200
+[2026-03-12 14:30:24]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/1825/Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z?md5=NqX3GhNX19z-1_VtRsLf2Q&expires=1773354624&user_id=71483453"}]
+[2026-03-12 14:30:24]  Nexus API GET /games/skyrimspecialedition/mods/1825/files/22452 → 200
+[2026-03-12 14:30:24]    Response: {"id": [22452, 1704], "uid": 7318624294836, "file_id": 22452, "name": "Bijin Warmaidens SE v3.1.3", "version": "3.1.3", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 192042, "file_name": "Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z", "uploaded_timestamp": 1489483894, "uploaded_time": "2017-03-14T09:31:34.000+00:00", "mod_version": "3.1.3", "external_virus_scan_url": "https://www.virustotal.com/file/713c5e189fbd5e92e4029d835b6c01709273d3c5d9d92ce9db10ce40f8b5f7fa/analysis/1489484065/", "description": "Installing this mod with a mod manager is highly recommended. See description and [color=red]CHANGES tab[/color] for more info.", "size_kb": 192042, "size_in_bytes": 196650772, "changelog_html": "ESPs were fixed. No more LOOT error(I believe so).", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/1825/Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z.json"}
+[2026-03-12 14:30:26]  Nexus: Received link from browser.
+[2026-03-12 14:30:26]  Nexus: Downloading mod 11287 file 30612 from skyrimspecialedition...
+[2026-03-12 14:30:26]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/11287/files/30612?key=h8Lln-BNCiaeGZP9y3NJ8w&expires=1773513025&user_id=71483453
+[2026-03-12 14:30:27]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 14:30:27]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 14:30:27]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 14:30:27]  Nexus API GET /games/skyrimspecialedition/mods/11287/files/30612/download_link → 200
+[2026-03-12 14:30:27]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/11287/Bijin NPCs SE 1.2.1-11287-1-2-1.7z?md5=t_Xgvv6pEc3f-_PyWGJvWA&expires=1773354627&user_id=71483453"}]
+[2026-03-12 14:30:27]  Nexus API GET /games/skyrimspecialedition/mods/11287/files/30612 → 200
+[2026-03-12 14:30:27]    Response: {"id": [30612, 1704], "uid": 7318624302996, "file_id": 30612, "name": "Bijin NPCs SE 1.2.1", "version": "1.2.1", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 155562, "file_name": "Bijin NPCs SE 1.2.1-11287-1-2-1.7z", "uploaded_timestamp": 1501698038, "uploaded_time": "2017-08-02T18:20:38.000+00:00", "mod_version": "1.2.1", "external_virus_scan_url": "https://www.virustotal.com/file/c862bee6f49dd064d62f8606df074e9125e2e7cf6e84127b7cb3ced7442c83df/analysis/1501698440/", "description": "Installing this mod with a mod manager is highly recommended. See description for more info.", "size_kb": 155562, "size_in_bytes": 159295466, "changelog_html": "Hulda&#39;s pink face is fixed \r<br />Their skin textures are improved \r<br />Some characters&#39; face texture paths are changed \r<br />Form version is updated for SE\r<br />All the Rikkes(Common Rikke, Civil War Rikke and Sovngarde Rikke?) are probably managed(I tested only common Rikke).\r<br />\r<br />\r<br />", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/11287/Bijin NPCs SE 1.2.1-11287-1-2-1.7z.json"}
+[2026-03-12 14:30:55]  Nexus: Installing Bijin Wives SE 1.1.2-11247-1-1-2.7z...
+[2026-03-12 14:30:55]  Extracting with py7zr…
+[2026-03-12 14:30:57]  FOMOD installer detected — opening wizard...
+[2026-03-12 14:30:57]  Downloaded Bijin Wives SE 1.1.2-11247-1-1-2.7z (107540155 bytes) → /home/luther/Downloads/Bijin Wives SE 1.1.2-11247-1-1-2.7z
+[2026-03-12 14:31:02]  FOMOD complete — 12 file(s) to install.
+[2026-03-12 14:31:02]  Mod structure unrecognised — installing as-is (no prefix applied).
+[2026-03-12 14:31:02]  Copied 12 item(s) to staging area.
+[2026-03-12 14:31:02]  Installed 'Bijin Wives' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Bijin Wives
+[2026-03-12 14:31:02]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Bijin Wives'.
+[2026-03-12 14:31:02]  Added 'Bijin Wives' to modlist.
+[2026-03-12 14:31:03]  Nexus: Removed archive Bijin Wives SE 1.1.2-11247-1-1-2.7z
+[2026-03-12 14:31:03]  Downloads: found 6 archive(s) in /home/luther/Downloads
+[2026-03-12 14:31:03]  Nexus: Detected mod ID 11247 from filename.
+[2026-03-12 14:31:03]  Nexus API GET /games/skyrimspecialedition/mods/11247 → 200
+[2026-03-12 14:31:03]    Response: {"name": "Bijin Wives SE", "summary": "This mod will change the appearance of marriable characters(Camilla, Ysolda, Sylgja, Temba, Taarie, Muiri, Senna, Grelka and Morwen).", "description": "[center][youtube]Qcs4z_-rSgU[/youtube][youtube]VsImIEwav1I[/youtube][youtube]pbuEVxoUM6k[/youtube][youtube]S1UN0U-9NkQ[/youtube]\r<br />\r<br />\r<br />[color=red][size=4]You no longer need &#34;Bijin All in One-SSE by Mebantiza&#34; \r<br />It&#39;s available in the OPTIONAL FILES category.[/size][/color]\r<br />\r<br />\r<br />[b][color=#f9cb9c][size=6]Bijin Wives[/size][/color][/b]\r<br />\r<br />\r<br />[color=#ea9999][My other replacers][/color]\r<br />[url=http://www.nexusmods.com/skyrimspecialedition/mods/1825/?]Bijin Warmaidens SE[/url]\r<br />[url=http://www.nexusmods.com/skyrimspecialedition/mods/11287?]Bijin NPCs SE[/url]\r<br />\r<br />\r<br />[color=#fce5cd][size=4][b][Summary]\r<br />[/b][/size][/color]\r<br />This Mod changes the appearances of Camilla Valerius, Ysolda, Sylgja, Temba, Taarie, Muiri, Senna, Grelka and Morwen(DB).\r<br />This Mod is[color=#ea9999]\u00a0[b]STANDALONE[/b]\u00a0[/color]which means no other Mods will be required.\r<br />You can install them with no pro...
+[2026-03-12 14:31:04]  Nexus API GET /games/skyrimspecialedition/mods/11247/files → 200
+[2026-03-12 14:31:04]    Response: {"file_updates": [], "files": [{"id": [30460, 1704], "uid": 7318624302844, "file_id": 30460, "name": "High-resolution skin textures for UNP", "version": "1.1.2", "category_id": 3, "category_name": "OPTIONAL", "is_primary": false, "size": 34330, "file_name": "High-resolution skin textures for UNP-11247-1-1-2.7z", "uploaded_timestamp": 1501504656, "uploaded_time": "2017-07-31T12:37:36.000+00:00", "mod_version": "1.1.2", "external_virus_scan_url": "https://www.virustotal.com/file/97e8a07f8f62d73d681494bd7b447b0c290a3b30f86c1a96dfe493211ed6d465/analysis/1501504867/", "description": "[color=red]Main file is required, please overwrite it. For Bijin Wives UNP users.[/color] Face and Body diffuse maps are 4k, Face normal map and hand diffuse map are 2k. All diffuse maps are compressed. All normal maps aren&#39;t compressed.", "size_kb": 34330, "size_in_bytes": 35153540, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/11247/High-resolution skin textures for UNP-11247-1-1-2.7z.json"}, {"id": [30461, 1704], "uid": 7318624302845, "file_id": 30461, "name": "Bijin Wives SE 1.1.2", "version": "1.1.2", "category_id": 1, "category_n...
+[2026-03-12 14:31:04]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Bijin Wives/meta.ini
+[2026-03-12 14:31:04]  Nexus: Identified as 'Bijin Wives SE' (mod 11247, file 30461).
+[2026-03-12 14:31:04]  Nexus: Saved metadata for 'Bijin Wives' (mod 11247)
+[2026-03-12 14:31:04]  Filemap updated: 30769 file(s).
+[2026-03-12 14:31:12]  Filemap updated: 30769 file(s).
+[2026-03-12 14:31:26]  Filemap updated: 30768 file(s).
+[2026-03-12 14:32:47]  Nexus: Installing Bijin NPCs SE 1.2.1-11287-1-2-1.7z...
+[2026-03-12 14:32:47]  Extracting with py7zr…
+[2026-03-12 14:32:49]  FOMOD installer detected — opening wizard...
+[2026-03-12 14:32:49]  Downloaded Bijin NPCs SE 1.2.1-11287-1-2-1.7z (159295466 bytes) → /home/luther/Downloads/Bijin NPCs SE 1.2.1-11287-1-2-1.7z
+[2026-03-12 14:33:05]  Nexus: Installing Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z...
+[2026-03-12 14:33:05]  Extracting with py7zr…
+[2026-03-12 14:33:07]  FOMOD installer detected — opening wizard...
+[2026-03-12 14:33:08]  Downloaded Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z (196650772 bytes) → /home/luther/Downloads/Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z
+[2026-03-12 14:34:34]  FOMOD complete — 26 file(s) to install.
+[2026-03-12 14:34:34]  Mod structure unrecognised — installing as-is (no prefix applied).
+[2026-03-12 14:34:35]  Copied 26 item(s) to staging area.
+[2026-03-12 14:34:35]  Installed 'Bijin Warmaidens' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Bijin Warmaidens
+[2026-03-12 14:34:35]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Bijin Warmaidens'.
+[2026-03-12 14:34:35]  Added 'Bijin Warmaidens' to modlist.
+[2026-03-12 14:34:36]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Bijin Warmaidens/meta.ini
+[2026-03-12 14:34:36]  Nexus: Saved metadata (mod 1825, v)
+[2026-03-12 14:34:36]  Nexus: Removed archive Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z
+[2026-03-12 14:34:36]  Downloads: found 5 archive(s) in /home/luther/Downloads
+[2026-03-12 14:34:36]  Nexus: Detected mod ID 1825 from filename.
+[2026-03-12 14:34:36]  Nexus API GET /games/skyrimspecialedition/mods/1825 → 200
+[2026-03-12 14:34:36]    Response: {"name": "Bijin Warmaidens SE", "summary": "This Mod changes the appearances of Lydia, Jordis, Iona, Aela, Mjoll, Uthgerd, Ria, Frea, Rayya, Njada, Annekke, Adelaisa, Jenassa, Illia, Delphine, Ingjard, Aranea, Eola, Borgakh, Brelyna, Beleval and Ugor.", "description": "[center][img]https://c1.staticflickr.com/1/701/22281152134_fe69e61481_b.jpg[/img]SS by\u00a0[url=https://www.flickr.com/photos/131650551@N06/]Nom Nom[/url]\n<br />\n<br />\n<br />\n<br />[size=4][color=red]You no longer need \"Bijin All in One-SSE by Mebantiza\"\u00a0\n<br />It's available in the OPTIONAL FILES category.[/color]\n<br />[/size]\n<br />[color=#b6b6b6][size=3][My other replacers][/size][/color]\n<br />[url=http://www.nexusmods.com/skyrimspecialedition/mods/11247/?]Bijin Wives SE[/url]\n<br />[url=http://www.nexusmods.com/skyrimspecialedition/mods/11287?]Bijin NPCs SE[/url]\n<br />\n<br />------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n<br />\n<br />[b][color=#b6b6b6][size=5][Summary][/size][/color]\n<br />[/b]\n<br />This Mod changes the appearances of Lydia, ...
+[2026-03-12 14:34:36]  Nexus API GET /games/skyrimspecialedition/mods/1825/files → 200
+[2026-03-12 14:34:37]    Response: {"file_updates": [], "files": [{"id": [22210, 1704], "uid": 7318624294594, "file_id": 22210, "name": "High-res skin textures for UNP", "version": "3.1.2", "category_id": 3, "category_name": "OPTIONAL", "is_primary": false, "size": 94252, "file_name": "High-res skin textures for UNP-1825-3-1-2.7z", "uploaded_timestamp": 1489199197, "uploaded_time": "2017-03-11T02:26:37.000+00:00", "mod_version": "3.1.2", "external_virus_scan_url": "https://www.virustotal.com/file/c078b2e070e9c5cfc16deab602ec7dbd02f75445af9bffcf2817ca6903a9f24f/analysis/1489199594/", "description": "[color=red]Main file is required[/color] and overwrite it. For users who chose [color=red]UNP[/color] on the installation of the main file.", "size_kb": 94252, "size_in_bytes": 96514026, "changelog_html": "Minor update of the skin textures from 3.1.1.", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/1825/High-res skin textures for UNP-1825-3-1-2.7z.json"}, {"id": [22211, 1704], "uid": 7318624294595, "file_id": 22211, "name": "High-res skin textures for CBBE", "version": "3.1.2", "category_id": 3, "category_name": "OPTIONAL", "is_primary": false, "size": 94338, "file_name": "High...
+[2026-03-12 14:34:37]  Nexus: Identified as 'Bijin Warmaidens SE' (mod 1825, file 22452).
+[2026-03-12 14:34:37]  Nexus: Saved metadata for 'Bijin Warmaidens' (mod 1825)
+[2026-03-12 14:34:37]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Bijin Warmaidens/meta.ini
+[2026-03-12 14:34:37]  Filemap updated: 31084 file(s).
+[2026-03-12 14:34:50]  FOMOD complete — 19 file(s) to install.
+[2026-03-12 14:34:50]  Mod structure unrecognised — installing as-is (no prefix applied).
+[2026-03-12 14:34:50]  Copied 19 item(s) to staging area.
+[2026-03-12 14:34:50]  Installed 'Bijin NPCs' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Bijin NPCs
+[2026-03-12 14:34:50]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Bijin NPCs'.
+[2026-03-12 14:34:50]  Added 'Bijin NPCs' to modlist.
+[2026-03-12 14:34:51]  Nexus: Removed archive Bijin NPCs SE 1.2.1-11287-1-2-1.7z
+[2026-03-12 14:34:51]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-12 14:34:51]  Nexus: Detected mod ID 11287 from filename.
+[2026-03-12 14:34:51]  Nexus API GET /games/skyrimspecialedition/mods/11287 → 200
+[2026-03-12 14:34:52]    Response: {"name": "Bijin NPCs SE", "summary": "This mod will change the appearance of Vex, Sapphire, Irileth, Rikke, Hulda, Lisette, Carlotta, Karliah, Tonilia, Adrianne, Maven, Ingun, Gerdur and Idgrod the younger.", "description": "[center]\r<br />[youtube]-0PhiTM_w3I[/youtube]\r<br />\r<br />[color=red][size=4]You no longer need  &#34;Bijin All in One-SSE by Mebantiza&#34; \r<br />It&#39;s available in the OPTIONAL FILES category.[/size][/color]\r<br />\r<br />\r<br />[color=#b6b6b6][size=4][b][My other replacers]\r<br />[/b][/size][/color]\r<br />[url=http://www.nexusmods.com/skyrimspecialedition/mods/1825/?]Bijin Warmaidens SE[/url]\r<br />[url=http://www.nexusmods.com/skyrimspecialedition/mods/11247?]Bijin Wives SE[/url]\r<br />\r<br />----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r<br />\r<br />[color=#b6b6b6][size=4][b][Summary]\r<br />[/b][/size][/color]\r<br />This mod will change the appearances of\r<br /> [color=#a2c4c9]Vex, Sapphire, Irileth, Rikke, Hulda, Lisette, Carlotta, Karliah, Tonilia, Adrianne, Ingun, Maven, Gerdur and Idgrod t...
+[2026-03-12 14:34:52]  Nexus API GET /games/skyrimspecialedition/mods/11287/files → 200
+[2026-03-12 14:34:52]    Response: {"file_updates": [], "files": [{"id": [30610, 1704], "uid": 7318624302994, "file_id": 30610, "name": "Bijin AIO SE", "version": "AIOSE", "category_id": 3, "category_name": "OPTIONAL", "is_primary": false, "size": 39, "file_name": "Bijin AIO SE-11287-AIOSE.7z", "uploaded_timestamp": 1501697666, "uploaded_time": "2017-08-02T18:14:26.000+00:00", "mod_version": "AIOSE", "external_virus_scan_url": "https://www.virustotal.com/file/4f0ce3724a35e9b633fb3e072e46e9d54b2d23509557dbc5d04a0a3ac68d26c7/analysis/1501696211/", "description": "This is the merged esp of Bijin Warmaidens, Wives and NPCs. See [color=red]requirements[/color] and how to use in description.", "size_kb": 39, "size_in_bytes": 39442, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/11287/Bijin AIO SE-11287-AIOSE.7z.json"}, {"id": [30611, 1704], "uid": 7318624302995, "file_id": 30611, "name": "Bijin AIO SE for USSEP", "version": "AIOSE", "category_id": 3, "category_name": "OPTIONAL", "is_primary": false, "size": 40, "file_name": "Bijin AIO SE for USSEP-11287-AIOSE.7z", "uploaded_timestamp": 1501697722, "uploaded_time": "2017-08-02T18:15:22.000+00:00", "mod_ver...
+[2026-03-12 14:34:52]  Nexus: Identified as 'Bijin NPCs SE' (mod 11287, file 30612).
+[2026-03-12 14:34:52]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Bijin NPCs/meta.ini
+[2026-03-12 14:34:52]  Filemap updated: 31284 file(s).
+[2026-03-12 14:34:52]  Nexus: Saved metadata for 'Bijin NPCs' (mod 11287)
+[2026-03-12 14:34:55]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-12 14:34:56]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-12 14:34:56]  Restore: removing plugins.txt symlink ...
+[2026-03-12 14:34:56]    Removed plugins.txt symlink from prefix.
+[2026-03-12 14:34:56]  Restore: restoring launcher ...
+[2026-03-12 14:34:56]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-12 14:34:56]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-12 14:34:57]    Rescued 8 runtime-created file(s) → overwrite/.
+[2026-03-12 14:34:58]    Removed 30089 file(s) from Data/.
+[2026-03-12 14:34:58]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-12 14:34:58]  Restore complete.
+[2026-03-12 14:34:58]  Backup: modlist.txt
+[2026-03-12 14:34:58]  Backup: plugins.txt
+[2026-03-12 14:34:58]  Backup: plugin_locks.json
+[2026-03-12 14:34:58]  Backup: removed oldest 20260310_091248
+[2026-03-12 14:34:58]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-12 14:34:58]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-12 14:34:58]    Moved 34 file(s) to Data_Core/.
+[2026-03-12 14:34:58]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-12 14:35:01]    Transferred 34724 mod file(s).
+[2026-03-12 14:35:01]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-12 14:35:01]    Transferred 25 vanilla file(s).
+[2026-03-12 14:35:01]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-12 14:35:02]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-12 14:35:02]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-12 14:35:02]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-12 14:35:02]  Step 7: Swapping launcher for SKSE ...
+[2026-03-12 14:35:02]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-12 14:35:02]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-12 14:35:02]  Deploy complete. 34724 mod + 25 vanilla = 34749 total file(s) in Data/.
+[2026-03-12 14:35:03]  Filemap updated: 34724 file(s).
+[2026-03-12 14:35:06]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-12 14:35:06]  Updated masterlist_skyrimse.yaml.
+[2026-03-12 14:35:06]  Fetching latest masterlist_prelude.yaml...
+[2026-03-12 14:35:06]  Updated masterlist_prelude.yaml.
+[2026-03-12 14:35:06]  Initializing LOOT...
+[2026-03-12 14:35:07]  Loaded masterlist with prelude.
+[2026-03-12 14:35:07]  Loading 240 plugin headers...
+[2026-03-12 14:35:07]  Sorting 240 plugins...
+[2026-03-12 14:35:07]  Sort complete. 15 plugin(s) changed position.
+[2026-03-12 14:35:07]  Sorted — 15 plugin(s) changed position.
+[2026-03-12 14:35:22]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-12 15:28:52]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/11247
+[2026-03-12 15:29:47]  Nexus: Received link from browser.
+[2026-03-12 15:29:47]  Nexus: Downloading mod 10741 file 28731 from skyrimspecialedition...
+[2026-03-12 15:29:47]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/10741/files/28731?key=BQRf3_c_v9HTLQs5yqz-pg&expires=1773516586&user_id=71483453
+[2026-03-12 15:29:47]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 15:29:47]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 15:29:47]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 15:29:48]  Nexus API GET /games/skyrimspecialedition/mods/10741/files/28731/download_link → 200
+[2026-03-12 15:29:48]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/10741/Attack Speed Fix-10741-2-2-1.7z?md5=XM-wllZlSO2IZcz5gn1B5w&expires=1773358188&user_id=71483453"}]
+[2026-03-12 15:29:48]  Nexus API GET /games/skyrimspecialedition/mods/10741/files/28731 → 200
+[2026-03-12 15:29:48]    Response: {"id": [28731, 1704], "uid": 7318624301115, "file_id": 28731, "name": "Attack Speed Fix", "version": "2.2.1", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 7, "file_name": "Attack Speed Fix-10741-2-2-1.7z", "uploaded_timestamp": 1499203437, "uploaded_time": "2017-07-04T21:23:57.000+00:00", "mod_version": "2.2.1", "external_virus_scan_url": "https://www.virustotal.com/file/5eb1f57d8a1884c9204f4278e81e98d21170827949d043d72bd2d053a9f6079d/analysis/1499203776/", "description": "Main version until SKSE is released", "size_kb": 7, "size_in_bytes": 7365, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/10741/Attack Speed Fix-10741-2-2-1.7z.json"}
+[2026-03-12 15:29:48]  Nexus: Installing Attack Speed Fix-10741-2-2-1.7z...
+[2026-03-12 15:29:48]  Extracting with py7zr…
+[2026-03-12 15:29:48]  Direct install — 2 file(s) to install.
+[2026-03-12 15:29:48]  Mod contains recognised top-level file type(s) — skipping prefix check.
+[2026-03-12 15:29:48]  Copied 2 item(s) to staging area.
+[2026-03-12 15:29:48]  Installed 'Attack Speed Fix' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Attack Speed Fix
+[2026-03-12 15:29:48]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Attack Speed Fix'.
+[2026-03-12 15:29:48]  Added 'Attack Speed Fix' to modlist.
+[2026-03-12 15:29:49]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Attack Speed Fix/meta.ini
+[2026-03-12 15:29:49]  Nexus: Saved metadata (mod 10741, v)
+[2026-03-12 15:29:49]  Nexus: Removed archive Attack Speed Fix-10741-2-2-1.7z
+[2026-03-12 15:29:49]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-12 15:29:49]  Downloaded Attack Speed Fix-10741-2-2-1.7z (7365 bytes) → /home/luther/Downloads/Attack Speed Fix-10741-2-2-1.7z
+[2026-03-12 15:29:49]  Nexus: Detected mod ID 10741 from filename.
+[2026-03-12 15:29:49]  Nexus API GET /games/skyrimspecialedition/mods/10741 → 200
+[2026-03-12 15:29:49]    Response: {"name": "Attack Speed Framework", "summary": "Framework that allows attack speed effects to stack properly and enables attack speed debuffs.", "description": "[center][color=#ff7700][size=5]Attack Speed Framework[/size][/color][/center]\n<br />\n<br />[color=#ff7700][size=4]Summary[/size][/color]\n<br />Attack Speed Framework corrects an attack speed flaw in vanilla Skyrim. It allows attack speed effects to be stacked properly and makes attack speed debuffs possible.\n<br />\n<br />\n<br />[color=#ff7700][size=4]More About the Fix[/size][/color]\n<br />[spoiler]The way attack speed was handled in vanilla Skyrim is flawed. Normal attack speed can be achieved with a weaponspeedmult of 1, 0, or any negative number. 150% attack speed is 1.5 and 50% attack speed is 0.5. Vanilla Skyrim starts all characters with a value of 0 and then adds 1+x to give the character an x% attack speed boost. The problem with this method is that attack speed is not properly stackable.\n<br />\n<br />If you take Dual Flurry perk you'd get +1.2. If you also gained some ability from another mod that gave +15% attack speed, you'd get another +1.15. This would resilt in 235% attack speed instead of the 135% you...
+[2026-03-12 15:29:49]  Nexus API GET /games/skyrimspecialedition/mods/10741/files → 200
+[2026-03-12 15:29:49]    Response: {"file_updates": [], "files": [{"id": [28731, 1704], "uid": 7318624301115, "file_id": 28731, "name": "Attack Speed Fix", "version": "2.2.1", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 7, "file_name": "Attack Speed Fix-10741-2-2-1.7z", "uploaded_timestamp": 1499203437, "uploaded_time": "2017-07-04T21:23:57.000+00:00", "mod_version": "2.2.1", "external_virus_scan_url": "https://www.virustotal.com/file/5eb1f57d8a1884c9204f4278e81e98d21170827949d043d72bd2d053a9f6079d/analysis/1499203776/", "description": "Main version until SKSE is released", "size_kb": 7, "size_in_bytes": 7365, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/10741/Attack Speed Fix-10741-2-2-1.7z.json"}, {"id": [46551, 1704], "uid": 7318624318935, "file_id": 46551, "name": "ASF Guide", "version": "2.2.1", "category_id": 5, "category_name": "MISCELLANEOUS", "is_primary": false, "size": 5, "file_name": "ASF Guide-10741-2-2-1.7z", "uploaded_timestamp": 1519213457, "uploaded_time": "2018-02-21T11:44:17.000+00:00", "mod_version": "2.2.1", "external_virus_scan_url": "https://www.virustotal.com/file/45d4d3ab9931c7595cde83049ff412919...
+[2026-03-12 15:29:49]  Nexus: Identified as 'Attack Speed Framework' (mod 10741, file 28731).
+[2026-03-12 15:29:49]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Attack Speed Fix/meta.ini
+[2026-03-12 15:29:49]  Nexus: Saved metadata for 'Attack Speed Fix' (mod 10741)
+[2026-03-12 15:29:49]  Filemap updated: 34726 file(s).
+[2026-03-12 15:54:36]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-12 16:06:13]  Filemap updated: 34723 file(s).
+[2026-03-12 16:06:13]  plugins.txt: added 1 new plugin(s).
+[2026-03-12 16:06:17]  Filemap updated: 34720 file(s).

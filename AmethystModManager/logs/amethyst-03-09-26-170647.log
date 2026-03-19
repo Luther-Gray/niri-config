@@ -1,0 +1,14 @@
+[2026-03-09 17:06:47]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-09 17:06:48]  Mod Manager ready. 1/28 games configured.
+[2026-03-09 17:06:48]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-09 17:06:48]  Nexus Mods API key loaded.
+[2026-03-09 17:06:48]  NXM protocol handler registered.
+[2026-03-09 17:06:48]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-09 17:06:48]  Nexus API GET /users/validate → 200
+[2026-03-09 17:06:48]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-09 17:06:49]  Filemap updated: 28585 file(s).
+[2026-03-09 17:06:52]  Run EXE: launching skse64_loader.exe via Proton 9.0 (Beta) ...
+[2026-03-09 17:08:46]  Filemap updated: 28355 file(s).
+[2026-03-09 17:09:13]  Run EXE: launching skse64_loader.exe via Proton 9.0 (Beta) ...
+[2026-03-09 17:11:25]  Filemap updated: 28354 file(s).
+[2026-03-09 17:20:32]  Run EXE: launching skse64_loader.exe via Proton 9.0 (Beta) ...

@@ -1,0 +1,200 @@
+[2026-03-09 12:55:51]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-09 12:55:52]  Mod Manager ready. 1/28 games configured.
+[2026-03-09 12:55:52]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-09 12:55:52]  Nexus Mods API key loaded.
+[2026-03-09 12:55:52]  NXM protocol handler registered.
+[2026-03-09 12:55:52]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-09 12:55:52]  Nexus API GET /users/validate → 200
+[2026-03-09 12:55:52]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-09 12:55:53]  Filemap updated: 31586 file(s).
+[2026-03-09 12:56:58]  Run EXE: launching skse64_loader.exe via Proton 9.0 (Beta) ...
+[2026-03-09 13:02:05]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/61719
+[2026-03-09 13:02:15]  Set priority for 'FWMF Lite' to position 8
+[2026-03-09 13:02:15]  Filemap updated: 31586 file(s).
+[2026-03-09 13:04:37]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-09 13:04:37]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-09 13:04:37]  Restore: removing plugins.txt symlink ...
+[2026-03-09 13:04:37]    Removed plugins.txt symlink from prefix.
+[2026-03-09 13:04:37]  Restore: restoring launcher ...
+[2026-03-09 13:04:37]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-09 13:04:37]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-09 13:04:38]    Rescued 1 runtime-created file(s) → overwrite/.
+[2026-03-09 13:04:38]    Removed 31611 file(s) from Data/.
+[2026-03-09 13:04:38]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-09 13:04:38]  Restore complete.
+[2026-03-09 13:04:38]  Backup: modlist.txt
+[2026-03-09 13:04:38]  Backup: plugins.txt
+[2026-03-09 13:04:38]  Backup: plugin_locks.json
+[2026-03-09 13:04:39]  Backup: removed oldest 20260309_115111
+[2026-03-09 13:04:39]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-09 13:04:39]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-09 13:04:39]    Moved 34 file(s) to Data_Core/.
+[2026-03-09 13:04:39]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-09 13:04:41]  Initializing LOOT...
+[2026-03-09 13:04:42]  Loaded masterlist with prelude.
+[2026-03-09 13:04:42]  Loading 216 plugin headers...
+[2026-03-09 13:04:42]  Sorting 216 plugins...
+[2026-03-09 13:04:42]  Sort complete. 226 plugin(s) changed position.
+[2026-03-09 13:04:42]  Warning: 10 plugin(s) not found on disk: Skyrim.esm, Update.esm, Dawnguard.esm, HearthFires.esm, Dragonborn.esm ... and 5 more
+[2026-03-09 13:04:42]  Sorted — 226 plugin(s) changed position.
+[2026-03-09 13:04:42]    Transferred 31587 mod file(s).
+[2026-03-09 13:04:42]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-09 13:04:42]    Transferred 25 vanilla file(s).
+[2026-03-09 13:04:42]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-09 13:04:42]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-09 13:04:42]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-09 13:04:42]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-09 13:04:42]  Step 7: Swapping launcher for SKSE ...
+[2026-03-09 13:04:42]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-09 13:04:42]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-09 13:04:42]  Deploy complete. 31587 mod + 25 vanilla = 31612 total file(s) in Data/.
+[2026-03-09 13:04:44]  Filemap updated: 31587 file(s).
+[2026-03-09 13:04:46]  Initializing LOOT...
+[2026-03-09 13:04:46]  Loaded masterlist with prelude.
+[2026-03-09 13:04:46]  Loading 226 plugin headers...
+[2026-03-09 13:04:46]  Sorting 226 plugins...
+[2026-03-09 13:04:46]  Sort complete. 226 plugin(s) changed position.
+[2026-03-09 13:04:47]  Sorted — 226 plugin(s) changed position.
+[2026-03-09 13:04:47]  Run EXE: launching skse64_loader.exe via Proton 9.0 (Beta) ...
+[2026-03-09 13:14:08]  Filemap updated: 31561 file(s).
+[2026-03-09 13:14:18]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/56123
+[2026-03-09 13:15:36]  Nexus: Received link from browser.
+[2026-03-09 13:15:36]  Nexus: Downloading mod 53694 file 226433 from skyrimspecialedition...
+[2026-03-09 13:15:37]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/53694/files/226433?key=cCdY3bBTn_XakEktv0AVqA&expires=1773249335&user_id=71483453
+[2026-03-09 13:15:37]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-09 13:15:37]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-09 13:15:37]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-09 13:15:37]  Nexus API GET /games/skyrimspecialedition/mods/53694/files/226433/download_link → 200
+[2026-03-09 13:15:37]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/53694/Realistic Death Physics - No Animations Only ESL-53694-1-2-1630880774.zip?md5=4Nbvceuvm0Aqo8WlkXd2oA&expires=1773090937&user_id=71483453"}]
+[2026-03-09 13:15:37]  Nexus API GET /games/skyrimspecialedition/mods/53694/files/226433 → 200
+[2026-03-09 13:15:37]    Response: {"id": [226433, 1704], "uid": 7318624498817, "file_id": 226433, "name": "Realistic Death Physics - No Animations Only ESL", "version": "1.2", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 3, "file_name": "Realistic Death Physics - No Animations Only ESL-53694-1-2-1630880774.zip", "uploaded_timestamp": 1630880774, "uploaded_time": "2021-09-05T22:26:14.000+00:00", "mod_version": "1.2", "external_virus_scan_url": "https://www.virustotal.com/gui/file/74fbd02c4fe136b21b7e27b1e4a97595f38dfb699f0579ec21b0be4b463d8b84/detection/f-74fbd02c4fe136b21b7e27b1e4a97595f38dfb699f0579ec21b0be4b463d8b84-1630880780", "description": "This mod removes the death animations from animals and NPCs, making them ragdoll immediately. \n<br /><br /><br />WITHOUT tweaks physics and collisions. ONLY animations.", "size_kb": 3, "size_in_bytes": 2620, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/53694/Realistic Death Physics - No Animations Only ESL-53694-1-2-1630880774.zip.json"}
+[2026-03-09 13:15:37]  Nexus: Installing Realistic Death Physics - No Animations Only ESL-53694-1-2-1630880774.zip...
+[2026-03-09 13:15:37]  Extracting with zipfile…
+[2026-03-09 13:15:37]  Direct install — 1 file(s) to install.
+[2026-03-09 13:15:37]  Mod contains recognised top-level file type(s) — skipping prefix check.
+[2026-03-09 13:15:37]  Copied 1 item(s) to staging area.
+[2026-03-09 13:15:37]  Installed 'Realistic Death Physics - No Animations Only ESL' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Realistic Death Physics - No Animations Only ESL
+[2026-03-09 13:15:37]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Realistic Death Physics - No Animations Only ESL'.
+[2026-03-09 13:15:37]  Added 'Realistic Death Physics - No Animations Only ESL' to modlist.
+[2026-03-09 13:15:38]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Realistic Death Physics - No Animations Only ESL/meta.ini
+[2026-03-09 13:15:38]  Nexus: Saved metadata (mod 53694, v)
+[2026-03-09 13:15:38]  Nexus: Removed archive Realistic Death Physics - No Animations Only ESL-53694-1-2-1630880774.zip
+[2026-03-09 13:15:38]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-09 13:15:38]  Downloaded Realistic Death Physics - No Animations Only ESL-53694-1-2-1630880774.zip (2620 bytes) → /home/luther/Downloads/Realistic Death Physics - No Animations Only ESL-53694-1-2-1630880774.zip
+[2026-03-09 13:15:38]  Nexus: Detected mod ID 53694 from filename.
+[2026-03-09 13:15:38]  Nexus API GET /games/skyrimspecialedition/mods/53694 → 200
+[2026-03-09 13:15:38]    Response: {"name": "Realistic Death Physics - No Animations ESL", "summary": "Removes the death animations from animals and NPCs, making them ragdoll immediately. Also tweaks physics and collision. ESL Flagged.", "description": "[size=4]This is ESL flagged version of\u00a0[url=https://www.nexusmods.com/skyrimspecialedition/mods/706]Realistic Death Physics - No Animations[/url]\u00a0by\u00a0[url=https://www.nexusmods.com/skyrimspecialedition/users/3326056]mm137[/url]. It doesn't count towards 255 plugin limit.\u00a0\n<br />\n<br />[s]BEWARE:\n<br />Should be installed AFTER the into in Helgen or use [url=https://www.nexusmods.com/skyrimspecialedition/mods/272]AS - LAL[/url] or [url=https://www.nexusmods.com/skyrimspecialedition/mods/6532]Skyrim Unbound[/url]\ufeff to skip Helgen intro. (Breaks opening scene)\n<br />Must be disabled during\u00a0the [url=https://elderscrolls.fandom.com/wiki/To_Kill_an_Empire]killing of the Emperors double, with the poisoned stew[/url]. It can be enabled after it.\n<br />[/s]This problem no longer occurs from version 1.2. Thanks to\u00a0[url=https://forums.nexusmods.com/index.php?/user/927130-priest47/]PRieST47[/url] for finding a solution.\n<br />\n<br />Descri...
+[2026-03-09 13:15:38]  Nexus API GET /games/skyrimspecialedition/mods/53694/files → 200
+[2026-03-09 13:15:38]    Response: {"file_updates": [{"old_file_id": 220520, "new_file_id": 226432, "old_file_name": "Realistic Death Physics - No Animations ESL-53694-1-1-1-1628721585.7z", "new_file_name": "Realistic Death Physics - No Animations ESL-53694-1-2-1630880707.zip", "uploaded_timestamp": 1630880707, "uploaded_time": "2021-09-05T22:25:07.000+00:00"}, {"old_file_id": 220521, "new_file_id": 226433, "old_file_name": "Realistic Death Physics - No Animations Only ESL-53694-1-1-1-1628721686.7z", "new_file_name": "Realistic Death Physics - No Animations Only ESL-53694-1-2-1630880774.zip", "uploaded_timestamp": 1630880774, "uploaded_time": "2021-09-05T22:26:14.000+00:00"}], "files": [{"id": [220520, 1704], "uid": 7318624492904, "file_id": 220520, "name": "Realistic Death Physics - No Animations ESL", "version": "1.1.1", "category_id": 7, "category_name": "ARCHIVED", "is_primary": false, "size": 3, "file_name": "Realistic Death Physics - No Animations ESL-53694-1-1-1-1628721585.7z", "uploaded_timestamp": 1628721585, "uploaded_time": "2021-08-11T22:39:45.000+00:00", "mod_version": "1.1.1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/7a9b6f15aca9a739869ab7e517b5a2230cd2af1c5339ea82abdebcede867bbd...
+[2026-03-09 13:15:39]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Realistic Death Physics - No Animations Only ESL/meta.ini
+[2026-03-09 13:15:39]  Nexus: Identified as 'Realistic Death Physics - No Animations ESL' (mod 53694, file 226433).
+[2026-03-09 13:15:39]  Nexus: Saved metadata for 'Realistic Death Physics - No Animations Only ESL' (mod 53694)
+[2026-03-09 13:15:39]  Filemap updated: 31562 file(s).
+[2026-03-09 13:15:41]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-09 13:15:41]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-09 13:15:41]  Restore: removing plugins.txt symlink ...
+[2026-03-09 13:15:41]    Removed plugins.txt symlink from prefix.
+[2026-03-09 13:15:41]  Restore: restoring launcher ...
+[2026-03-09 13:15:41]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-09 13:15:41]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-09 13:15:42]    Removed 31586 file(s) from Data/.
+[2026-03-09 13:15:42]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-09 13:15:42]  Restore complete.
+[2026-03-09 13:15:43]  Backup: modlist.txt
+[2026-03-09 13:15:43]  Backup: plugins.txt
+[2026-03-09 13:15:43]  Backup: plugin_locks.json
+[2026-03-09 13:15:43]  Backup: removed oldest 20260309_115350
+[2026-03-09 13:15:43]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-09 13:15:43]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-09 13:15:43]    Moved 34 file(s) to Data_Core/.
+[2026-03-09 13:15:43]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-09 13:15:46]    Transferred 31562 mod file(s).
+[2026-03-09 13:15:46]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-09 13:15:46]    Transferred 25 vanilla file(s).
+[2026-03-09 13:15:46]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-09 13:15:46]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-09 13:15:46]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-09 13:15:46]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-09 13:15:46]  Step 7: Swapping launcher for SKSE ...
+[2026-03-09 13:15:46]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-09 13:15:46]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-09 13:15:46]  Deploy complete. 31562 mod + 25 vanilla = 31587 total file(s) in Data/.
+[2026-03-09 13:15:47]  Run EXE: launching skse64_loader.exe via Proton 9.0 (Beta) ...
+[2026-03-09 13:15:47]  Filemap updated: 31562 file(s).
+[2026-03-09 14:03:18]  Filemap updated: 31559 file(s).
+[2026-03-09 14:09:15]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-09 14:09:16]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-09 14:09:16]  Restore: removing plugins.txt symlink ...
+[2026-03-09 14:09:16]    Removed plugins.txt symlink from prefix.
+[2026-03-09 14:09:16]  Restore: restoring launcher ...
+[2026-03-09 14:09:16]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-09 14:09:16]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-09 14:09:17]    Removed 31587 file(s) from Data/.
+[2026-03-09 14:09:17]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-09 14:09:17]  Restore complete.
+[2026-03-09 14:09:17]  Backup: modlist.txt
+[2026-03-09 14:09:17]  Backup: plugins.txt
+[2026-03-09 14:09:17]  Backup: plugin_locks.json
+[2026-03-09 14:09:17]  Backup: removed oldest 20260309_115358
+[2026-03-09 14:09:17]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-09 14:09:17]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-09 14:09:17]    Moved 34 file(s) to Data_Core/.
+[2026-03-09 14:09:17]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-09 14:09:21]    Transferred 31559 mod file(s).
+[2026-03-09 14:09:21]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-09 14:09:21]    Transferred 25 vanilla file(s).
+[2026-03-09 14:09:21]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-09 14:09:21]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-09 14:09:21]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-09 14:09:21]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-09 14:09:21]  Step 7: Swapping launcher for SKSE ...
+[2026-03-09 14:09:21]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-09 14:09:21]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-09 14:09:21]  Deploy complete. 31559 mod + 25 vanilla = 31584 total file(s) in Data/.
+[2026-03-09 14:09:21]  Initializing LOOT...
+[2026-03-09 14:09:22]  Loaded masterlist with prelude.
+[2026-03-09 14:09:22]  Loading 225 plugin headers...
+[2026-03-09 14:09:22]  Sorting 225 plugins...
+[2026-03-09 14:09:22]  Sort complete. 11 plugin(s) changed position.
+[2026-03-09 14:09:22]  Sorted — 11 plugin(s) changed position.
+[2026-03-09 14:09:23]  Filemap updated: 31559 file(s).
+[2026-03-09 14:09:25]  Run EXE: launching skse64_loader.exe via Proton 9.0 (Beta) ...
+[2026-03-09 14:27:15]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/24458
+[2026-03-09 14:27:20]  Filemap updated: 27247 file(s).
+[2026-03-09 14:27:51]  Nexus: Received link from browser.
+[2026-03-09 14:27:51]  Nexus: Downloading mod 104381 file 455734 from skyrimspecialedition...
+[2026-03-09 14:27:51]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/104381/files/455734?key=AYAIq6v3O3WwWsUsb43L-Q&expires=1773253669&user_id=71483453
+[2026-03-09 14:27:51]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-09 14:27:51]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-09 14:27:51]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-09 14:27:51]  Nexus API GET /games/skyrimspecialedition/mods/104381/files/455734/download_link → 200
+[2026-03-09 14:27:51]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/104381/Artifact of Might-104381-1-0-3-1703765437.zip?md5=BYN3-x5_Ei9DsssDu9hYoA&expires=1773095271&user_id=71483453"}]
+[2026-03-09 14:27:51]  Nexus API GET /games/skyrimspecialedition/mods/104381/files/455734 → 200
+[2026-03-09 14:27:51]    Response: {"id": [455734, 1704], "uid": 7318624728118, "file_id": 455734, "name": "Artifact of Might", "version": "1.0.3", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 150887, "file_name": "Artifact of Might-104381-1-0-3-1703765437.zip", "uploaded_timestamp": 1703765437, "uploaded_time": "2023-12-28T12:10:37.000+00:00", "mod_version": "1.0.3", "external_virus_scan_url": "https://www.virustotal.com/gui/file/4ffc90821a6072bfdc86331fdef57203973d229626e31f0a6bd54a3b95ad23d6/detection/f-4ffc90821a6072bfdc86331fdef57203973d229626e31f0a6bd54a3b95ad23d6-1703765473", "description": "", "size_kb": 150887, "size_in_bytes": 154508706, "changelog_html": "New weapon added : King Borgas' Sword", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/104381/Artifact of Might-104381-1-0-3-1703765437.zip.json"}
+[2026-03-09 14:28:41]  Nexus: Installing Artifact of Might-104381-1-0-3-1703765437.zip...
+[2026-03-09 14:28:41]  Extracting with zipfile…
+[2026-03-09 14:28:42]  Direct install — 57 file(s) to install.
+[2026-03-09 14:28:43]  Copied 57 item(s) to staging area.
+[2026-03-09 14:28:43]  Installed 'Artifact of Might' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Artifact of Might
+[2026-03-09 14:28:43]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Artifact of Might'.
+[2026-03-09 14:28:43]  Added 'Artifact of Might' to modlist.
+[2026-03-09 14:28:43]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Artifact of Might/meta.ini
+[2026-03-09 14:28:43]  Nexus: Saved metadata (mod 104381, v)
+[2026-03-09 14:28:43]  Nexus: Removed archive Artifact of Might-104381-1-0-3-1703765437.zip
+[2026-03-09 14:28:43]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-09 14:28:43]  Downloaded Artifact of Might-104381-1-0-3-1703765437.zip (154508706 bytes) → /home/luther/Downloads/Artifact of Might-104381-1-0-3-1703765437.zip
+[2026-03-09 14:28:43]  Nexus: Detected mod ID 104381 from filename.
+[2026-03-09 14:28:44]  Nexus API GET /games/skyrimspecialedition/mods/104381 → 200
+[2026-03-09 14:28:44]    Response: {"name": "Artifact of Might", "summary": "Get access to 8 new world placed, lore-friendly weapons for you to play with.", "description": "[left]\ufeff\ufeff[img]https://i.imgur.com/DxuvTyg.jpg[/img][/left][left][/left][center][left][/left][/center][center]\ufeff[/center]\ufeff\ufeffWith[b] Artifact of Might[/b] you'll get access to 8 new unique weapons for you to use in your adventures. All of them are hand placed in certain location and point of interests within the game's world which, in my opinion, felt appropriate; the inspiration and design for this weapons comes from different sources, most notably: Assassin Creed - Vallhalla, Games of Thrones, and various norse-themed weapons design found while browsing the net. All the meshes and textures are custom made from scratch to the best of my actual abilities.\n<br />\n<br />[center][color=#9fc5e8][size=3][b]The mod contains the following weapons:[/b][/size][/color][/center]\n<br />[img]https://i.imgur.com/ZiBtp4k.jpg[/img]   \ufeff   \ufeff   \ufeff   \ufeff   \ufeff   \ufeff[img]https://i.imgur.com/SMfumxc.jpg[/img]\n<br />   [color=#ffd966]   \ufeff   \ufeff   \ufeff\ufeff[b]Harbinger's Claw   \ufeff   \ufeff   \ufeff   \ufeff  ...
+[2026-03-09 14:28:44]  Nexus API GET /games/skyrimspecialedition/mods/104381/files → 200
+[2026-03-09 14:28:44]    Response: {"file_updates": [{"old_file_id": 450527, "new_file_id": 450580, "old_file_name": "Artifact of Might-104381-1-0-0-1702229107.zip", "new_file_name": "Artifact of Might-104381-1-0-1-1702238745.zip", "uploaded_timestamp": 1702238745, "uploaded_time": "2023-12-10T20:05:45.000+00:00"}, {"old_file_id": 450580, "new_file_id": 450607, "old_file_name": "Artifact of Might-104381-1-0-1-1702238745.zip", "new_file_name": "Artifact of Might-104381-1-0-2-1702243927.zip", "uploaded_timestamp": 1702243927, "uploaded_time": "2023-12-10T21:32:07.000+00:00"}, {"old_file_id": 450607, "new_file_id": 455734, "old_file_name": "Artifact of Might-104381-1-0-2-1702243927.zip", "new_file_name": "Artifact of Might-104381-1-0-3-1703765437.zip", "uploaded_timestamp": 1703765437, "uploaded_time": "2023-12-28T12:10:37.000+00:00"}], "files": [{"id": [450527, 1704], "uid": 7318624722911, "file_id": 450527, "name": "Artifact of Might", "version": "1.0.0", "category_id": 7, "category_name": "ARCHIVED", "is_primary": false, "size": 135575, "file_name": "Artifact of Might-104381-1-0-0-1702229107.zip", "uploaded_timestamp": 1702229107, "uploaded_time": "2023-12-10T17:25:07.000+00:00", "mod_version": "1.0.0", "external_vi...
+[2026-03-09 14:28:44]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Artifact of Might/meta.ini
+[2026-03-09 14:28:44]  Nexus: Identified as 'Artifact of Might' (mod 104381, file 455734).
+[2026-03-09 14:28:44]  Nexus: Saved metadata for 'Artifact of Might' (mod 104381)
+[2026-03-09 14:28:44]  Filemap updated: 27304 file(s).
+[2026-03-09 14:30:40]  Initializing LOOT...
+[2026-03-09 14:30:41]  Loaded masterlist with prelude.
+[2026-03-09 14:30:41]  Loading 225 plugin headers...
+[2026-03-09 14:30:41]  Sorting 225 plugins...
+[2026-03-09 14:30:41]  Sort complete. 11 plugin(s) changed position.
+[2026-03-09 14:30:41]  Sorted — 11 plugin(s) changed position.

@@ -1,0 +1,13 @@
+{
+  "etags": {
+    "https://www.pewresearch.org/publications/feed/": "W/\"82049bb147e2ef4140dc726cf859b2f1\"",
+    "https://www.bellingcat.com/feed/": "W/\"bd082a19524019430704de1a5c394d20\"",
+    "https://www.eff.org/rss/updates.xml": "\"1773779003-1\"",
+    "https://hackaday.com/blog/feed/": "W/\"f4a1bf7f6da3bf3121e552302daf3411\"",
+    "https://www.propublica.org/feeds/propublica/main": "W/\"3589e0a12e17f4875cad10cc283f1afc\"",
+    "https://thehill.com/homenews/feed/": "W/\"abbe004a69c78316d862d9623056716e\"",
+    "https://ascii.textfiles.com/feed": "\"a9446b108253d542b01b33d403cdc2bc\"",
+    "https://www.yankodesign.com/feed/": "\"3e388f57e71368c0e077a196f2c7d70b\""
+  },
+  "cache_control": {}
+}

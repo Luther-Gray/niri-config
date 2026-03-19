@@ -1,0 +1,14 @@
+[2026-03-08 22:02:10]  Downloads: found 5 archive(s) in /home/luther/Downloads
+[2026-03-08 22:02:11]  Mod Manager ready. 1/26 games configured.
+[2026-03-08 22:02:11]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-08 22:02:11]  Nexus Mods API key loaded.
+[2026-03-08 22:02:11]  NXM protocol handler registered.
+[2026-03-08 22:02:11]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-08 22:02:11]  Nexus API GET /users/validate → 200
+[2026-03-08 22:02:11]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-08 22:02:12]  Filemap updated: 21370 file(s).
+[2026-03-08 22:02:15]  Installing Kart_CSSET_POST_1.6.1130-38775-1-2-3-4-1714757549.7z …
+[2026-03-08 22:02:15]  Installing: Kart_CSSET_POST_1.6.1130-38775-1-2-3-4-1714757549.7z
+[2026-03-08 22:02:15]  Archive is 7790 MB — skipping py7zr to avoid OOM, using 7z binary…
+[2026-03-08 22:02:49]  7z failed (System ERROR:
+errno=28 : No space left on device), retrying with bsdtar…

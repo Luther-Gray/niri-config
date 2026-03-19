@@ -1,0 +1,77 @@
+[2026-03-13 18:29:23]  Downloads: found 0 archive(s) in 1 location(s)
+[2026-03-13 18:29:24]  Mod Manager ready. 1/31 games configured.
+[2026-03-13 18:29:24]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-13 18:29:24]  Nexus Mods API key loaded.
+[2026-03-13 18:29:24]  NXM protocol handler registered.
+[2026-03-13 18:29:24]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-13 18:29:24]  Nexus: Downloading mod 113660 file 664039 from skyrimspecialedition...
+[2026-03-13 18:29:24]  Nexus: logged in as DubiousPhoenix (premium=False)
+[2026-03-13 18:29:24]  Filemap updated: 34893 file(s).
+[2026-03-13 18:29:25]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-13 18:29:25]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-13 18:29:25]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-13 18:29:25]  Nexus API GET /games/skyrimspecialedition/mods/113660/files/664039/download_link → 200
+[2026-03-13 18:29:25]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/113660/Unmarked Locations Pack - All In One-113660-1-3a-1757428590.rar?md5=_PxMMpTtJbdEKveqbdYLTw&expires=1773455365&user_id=71483453"}]
+[2026-03-13 18:29:25]  Nexus API GET /games/skyrimspecialedition/mods/113660/files/664039 → 200
+[2026-03-13 18:29:25]    Response: {"id": [664039, 1704], "uid": 7318624936423, "file_id": 664039, "name": "Unmarked Locations Pack - All In One", "version": "1.3a", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 406, "file_name": "Unmarked Locations Pack - All In One-113660-1-3a-1757428590.rar", "uploaded_timestamp": 1757428590, "uploaded_time": "2025-09-09T14:36:30.000+00:00", "mod_version": "1.3a", "external_virus_scan_url": "https://www.virustotal.com/gui/file/5ae9e8538f2578d3526900306be257c2d4f15640162c53a5963b3fc5b908adfd/detection/f-5ae9e8538f2578d3526900306be257c2d4f15640162c53a5963b3fc5b908adfd-1757428593", "description": "", "size_kb": 406, "size_in_bytes": 415735, "changelog_html": "Fixed a bug where player couldn't open the chest in the underwater location near the Haafingar shore\nFixed a floating skeleton arm in the underwater location near Thirsk Mead Hall\nQuality of Life improvements:<br />Added a new rumble effect to the Bonemen ambush in Soul Cairn<br />Added reward to underwater location near Thirsk Mead Hall<br />Slightly improved rewards for hidden location in Falkreath Hold<br />Added more blood near Bjorn's remains to make them easier to find<br />Added a Heavy Imperi...
+[2026-03-13 18:29:26]  Nexus: Installing Unmarked Locations Pack - All In One-113660-1-3a-1757428590.rar...
+[2026-03-13 18:29:26]  Extracting with unrar…
+[2026-03-13 18:29:26]  Direct install — 1 file(s) to install.
+[2026-03-13 18:29:26]  Mod contains recognised top-level file type(s) — skipping prefix check.
+[2026-03-13 18:29:26]  Copied 1 item(s) to staging area.
+[2026-03-13 18:29:26]  Installed 'Unmarked Locations Pack - All In One' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Unmarked Locations Pack - All In One
+[2026-03-13 18:29:26]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Unmarked Locations Pack - All In One'.
+[2026-03-13 18:29:26]  Added 'Unmarked Locations Pack - All In One' to modlist.
+[2026-03-13 18:29:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Unmarked Locations Pack - All In One/meta.ini
+[2026-03-13 18:29:27]  Nexus: Saved metadata (mod 113660, v)
+[2026-03-13 18:29:27]  Nexus: Removed archive Unmarked Locations Pack - All In One-113660-1-3a-1757428590.rar
+[2026-03-13 18:29:27]  Downloads: found 0 archive(s) in 1 location(s)
+[2026-03-13 18:29:27]  Downloaded Unmarked Locations Pack - All In One-113660-1-3a-1757428590.rar (415735 bytes) → /home/luther/Downloads/Unmarked Locations Pack - All In One-113660-1-3a-1757428590.rar
+[2026-03-13 18:29:27]  Nexus: Detected mod ID 1757428590 from filename.
+[2026-03-13 18:29:27]  Nexus API GET /games/skyrimspecialedition/mods/1757428590 → 404
+[2026-03-13 18:29:27]    Response: {"error": "Mod ID 1757428590 not found for skyrimspecialedition"}
+[2026-03-13 18:29:27]  Nexus: Filename had mod ID 1757428590 but API lookup failed (Not Found). Trying MD5...
+[2026-03-13 18:29:27]  Nexus: Computing MD5 hash of Unmarked Locations Pack - All In One-113660-1-3a-1757428590.rar...
+[2026-03-13 18:29:27]  Nexus: MD5 lookup failed — [Errno 2] No such file or directory: '/home/luther/Downloads/Unmarked Locations Pack - All In One-113660-1-3a-1757428590.rar'
+[2026-03-13 18:29:27]  Filemap updated: 34894 file(s).
+[2026-03-13 18:30:08]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-13 18:30:10]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-13 18:30:10]  Restore: removing plugins.txt symlink ...
+[2026-03-13 18:30:10]    Removed plugins.txt symlink from prefix.
+[2026-03-13 18:30:10]  Restore: restoring launcher ...
+[2026-03-13 18:30:10]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-13 18:30:10]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-13 18:30:10]    Rescued 5 runtime-created file(s) → overwrite/.
+[2026-03-13 18:30:11]    Removed 31486 file(s) from Data/.
+[2026-03-13 18:30:11]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-13 18:30:11]  Restore complete.
+[2026-03-13 18:30:11]  Backup: modlist.txt
+[2026-03-13 18:30:11]  Backup: plugins.txt
+[2026-03-13 18:30:11]  Backup: plugin_locks.json
+[2026-03-13 18:30:11]  Backup: removed oldest 20260312_120952
+[2026-03-13 18:30:11]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-13 18:30:11]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-13 18:30:11]    Moved 34 file(s) to Data_Core/.
+[2026-03-13 18:30:11]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-13 18:30:14]    Transferred 34900 mod file(s).
+[2026-03-13 18:30:14]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-13 18:30:14]    Transferred 25 vanilla file(s).
+[2026-03-13 18:30:14]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-13 18:30:14]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-13 18:30:14]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-13 18:30:14]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-13 18:30:14]  Step 7: Swapping launcher for SKSE ...
+[2026-03-13 18:30:14]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-13 18:30:14]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-13 18:30:14]  Deploy complete. 34900 mod + 25 vanilla = 34925 total file(s) in Data/.
+[2026-03-13 18:30:15]  Filemap updated: 34900 file(s).
+[2026-03-13 18:30:17]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-13 18:30:17]  Updated masterlist_skyrimse.yaml.
+[2026-03-13 18:30:17]  Fetching latest masterlist_prelude.yaml...
+[2026-03-13 18:30:18]  Updated masterlist_prelude.yaml.
+[2026-03-13 18:30:18]  Initializing LOOT...
+[2026-03-13 18:30:18]  Loaded masterlist with prelude.
+[2026-03-13 18:30:18]  Loading 259 plugin headers...
+[2026-03-13 18:30:18]  Sorting 259 plugins...
+[2026-03-13 18:30:18]  Sort complete. 11 plugin(s) changed position.
+[2026-03-13 18:30:18]  Sorted — 11 plugin(s) changed position.

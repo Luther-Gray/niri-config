@@ -1,0 +1,633 @@
+[2026-03-08 22:31:54]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-08 22:31:55]  Mod Manager ready. 1/26 games configured.
+[2026-03-08 22:31:55]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-08 22:31:55]  Nexus Mods API key loaded.
+[2026-03-08 22:31:55]  NXM protocol handler registered.
+[2026-03-08 22:31:55]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-08 22:31:55]  Nexus API GET /users/validate → 200
+[2026-03-08 22:31:55]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-08 22:31:56]  Filemap updated: 21544 file(s).
+[2026-03-08 22:32:01]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-08 22:56:48]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/24791
+[2026-03-08 22:58:13]  Nexus: Received link from browser.
+[2026-03-08 22:58:13]  Nexus: Downloading mod 167417 file 724132 from skyrimspecialedition...
+[2026-03-08 22:58:13]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/167417/files/724132?key=gOXpRJQig44j0ZZSPLUYCg&expires=1773197892&user_id=71483453
+[2026-03-08 22:58:14]  Nexus API GET /games/skyrimspecialedition/mods/167417 → 200
+[2026-03-08 22:58:14]    Response: {"name": "Custom Dodge", "summary": "A non-animation based SKSE dodge mechanic, using purely Havok physics. Features many custom settings via .ini.", "description": "[color=#ff7700][size=3][u]SUMMARY[/u][/size][/color]\n<br />\n<br />A non-animation-based dodge with a lot of [b][u]customizable options in the ini[/u][/b]. Purely\u00a0[color=#9fc5e8][size=3]engine physics through an SKSE plugin[/size][/color],\u00a0no Nemesis/behavior/merging needed.\u00a0\n<br />\n<br />This mod will give your character an instant physics push (not limited by normal acceleration/speed constraints) on key activation. It's not a temporary movement speed boost, but an actual dash that pushes you in a direction.\u00a0\n<br />\u00a0\n<br />I was looking for a first-person dodge but couldn't find something that felt responsive enough for my taste. This is very vanilla-friendly and has a lot of options in the ini to customize various aspects.\u00a0\u00a0\n<br />\n<br />[color=#f9cb9c]-Has options for speed, distance, stamina consumption, cooldown, iframe, attacking, etc.\u00a0\n<br />-Works with any weapon/bow/magic/holstered\n<br />-Option to dodge while attacking, blocking\u00a0\n<br />-Works as a Werewo...
+[2026-03-08 22:58:14]  Nexus API GET /games/skyrimspecialedition/mods/167417/files → 200
+[2026-03-08 22:58:14]    Response: {"file_updates": [{"old_file_id": 699506, "new_file_id": 700113, "old_file_name": "Custom Dodge-167417-1-0-0-1766116381.zip", "new_file_name": "Custom Dodge-167417-1-0-1-1766262976.zip", "uploaded_timestamp": 1766262976, "uploaded_time": "2025-12-20T20:36:16.000+00:00"}, {"old_file_id": 700113, "new_file_id": 700290, "old_file_name": "Custom Dodge-167417-1-0-1-1766262976.zip", "new_file_name": "Custom Dodge-167417-1-0-2-1766296708.zip", "uploaded_timestamp": 1766296708, "uploaded_time": "2025-12-21T05:58:28.000+00:00"}, {"old_file_id": 700290, "new_file_id": 724132, "old_file_name": "Custom Dodge-167417-1-0-2-1766296708.zip", "new_file_name": "Custom Dodge-167417-1-1-0-1771704145.zip", "uploaded_timestamp": 1771704145, "uploaded_time": "2026-02-21T20:02:25.000+00:00"}], "files": [{"id": [699506, 1704], "uid": 7318624971890, "file_id": 699506, "name": "Custom Dodge", "version": "1.0.0", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": false, "size": 1266, "file_name": "Custom Dodge-167417-1-0-0-1766116381.zip", "uploaded_timestamp": 1766116381, "uploaded_time": "2025-12-19T03:53:01.000+00:00", "mod_version": "1.0.0", "external_virus_scan_url": "https://www.virustotal....
+[2026-03-08 22:58:14]  Nexus API GET /games/skyrimspecialedition/mods/167417/files/724132/download_link → 200
+[2026-03-08 22:58:14]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/167417/Custom Dodge-167417-1-1-0-1771704145.zip?md5=6AozixsZev-tc6XJAwdnXg&expires=1773039494&user_id=71483453"}]
+[2026-03-08 22:58:14]  Nexus API GET /games/skyrimspecialedition/mods/167417/files/724132 → 200
+[2026-03-08 22:58:14]    Response: {"id": [724132, 1704], "uid": 7318624996516, "file_id": 724132, "name": "Custom Dodge", "version": "1.1.0", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 1263, "file_name": "Custom Dodge-167417-1-1-0-1771704145.zip", "uploaded_timestamp": 1771704145, "uploaded_time": "2026-02-21T20:02:25.000+00:00", "mod_version": "1.1.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/96b180ef78667ee85f82a57f0f243aefcdbae7da6b41a480bc016b49dce9f39f", "description": "", "size_kb": 1263, "size_in_bytes": 1293256, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/167417/Custom Dodge-167417-1-1-0-1771704145.zip.json"}
+[2026-03-08 22:58:16]  Nexus: Installing Custom Dodge-167417-1-1-0-1771704145.zip...
+[2026-03-08 22:58:16]  Extracting with zipfile…
+[2026-03-08 22:58:16]  Direct install — 11 file(s) to install.
+[2026-03-08 22:58:16]  Copied 11 item(s) to staging area.
+[2026-03-08 22:58:16]  Installed 'Custom Dodge' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Custom Dodge
+[2026-03-08 22:58:16]  plugins.txt: added 1 plugin(s) from 'Custom Dodge'.
+[2026-03-08 22:58:16]  Added 'Custom Dodge' to modlist.
+[2026-03-08 22:58:16]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Custom Dodge/meta.ini
+[2026-03-08 22:58:16]  Nexus: Saved metadata (mod 167417, v1.1.0)
+[2026-03-08 22:58:16]  Nexus: Removed archive Custom Dodge-167417-1-1-0-1771704145.zip
+[2026-03-08 22:58:16]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-08 22:58:16]  Downloaded Custom Dodge-167417-1-1-0-1771704145.zip (1293256 bytes) → /home/luther/Downloads/Custom Dodge-167417-1-1-0-1771704145.zip
+[2026-03-08 22:58:16]  Nexus: Detected mod ID 167417 from filename.
+[2026-03-08 22:58:16]  Nexus API GET /games/skyrimspecialedition/mods/167417 → 200
+[2026-03-08 22:58:16]    Response: {"name": "Custom Dodge", "summary": "A non-animation based SKSE dodge mechanic, using purely Havok physics. Features many custom settings via .ini.", "description": "[color=#ff7700][size=3][u]SUMMARY[/u][/size][/color]\n<br />\n<br />A non-animation-based dodge with a lot of [b][u]customizable options in the ini[/u][/b]. Purely\u00a0[color=#9fc5e8][size=3]engine physics through an SKSE plugin[/size][/color],\u00a0no Nemesis/behavior/merging needed.\u00a0\n<br />\n<br />This mod will give your character an instant physics push (not limited by normal acceleration/speed constraints) on key activation. It's not a temporary movement speed boost, but an actual dash that pushes you in a direction.\u00a0\n<br />\u00a0\n<br />I was looking for a first-person dodge but couldn't find something that felt responsive enough for my taste. This is very vanilla-friendly and has a lot of options in the ini to customize various aspects.\u00a0\u00a0\n<br />\n<br />[color=#f9cb9c]-Has options for speed, distance, stamina consumption, cooldown, iframe, attacking, etc.\u00a0\n<br />-Works with any weapon/bow/magic/holstered\n<br />-Option to dodge while attacking, blocking\u00a0\n<br />-Works as a Werewo...
+[2026-03-08 22:58:16]  Nexus: Identified as 'Custom Dodge' (mod 167417, file 724132).
+[2026-03-08 22:58:16]  Nexus: Saved metadata for 'Custom Dodge' (mod 167417)
+[2026-03-08 22:58:16]  Nexus API GET /games/skyrimspecialedition/mods/167417/files → 200
+[2026-03-08 22:58:16]    Response: {"file_updates": [{"old_file_id": 699506, "new_file_id": 700113, "old_file_name": "Custom Dodge-167417-1-0-0-1766116381.zip", "new_file_name": "Custom Dodge-167417-1-0-1-1766262976.zip", "uploaded_timestamp": 1766262976, "uploaded_time": "2025-12-20T20:36:16.000+00:00"}, {"old_file_id": 700113, "new_file_id": 700290, "old_file_name": "Custom Dodge-167417-1-0-1-1766262976.zip", "new_file_name": "Custom Dodge-167417-1-0-2-1766296708.zip", "uploaded_timestamp": 1766296708, "uploaded_time": "2025-12-21T05:58:28.000+00:00"}, {"old_file_id": 700290, "new_file_id": 724132, "old_file_name": "Custom Dodge-167417-1-0-2-1766296708.zip", "new_file_name": "Custom Dodge-167417-1-1-0-1771704145.zip", "uploaded_timestamp": 1771704145, "uploaded_time": "2026-02-21T20:02:25.000+00:00"}], "files": [{"id": [699506, 1704], "uid": 7318624971890, "file_id": 699506, "name": "Custom Dodge", "version": "1.0.0", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": false, "size": 1266, "file_name": "Custom Dodge-167417-1-0-0-1766116381.zip", "uploaded_timestamp": 1766116381, "uploaded_time": "2025-12-19T03:53:01.000+00:00", "mod_version": "1.0.0", "external_virus_scan_url": "https://www.virustotal....
+[2026-03-08 22:58:16]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Custom Dodge/meta.ini
+[2026-03-08 22:58:17]  Filemap updated: 21555 file(s).
+[2026-03-08 22:58:17]  Nexus: Received link from browser.
+[2026-03-08 22:58:17]  Nexus: Downloading mod 168288 file 703173 from skyrimspecialedition...
+[2026-03-08 22:58:17]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/168288/files/703173?key=v1HbYOh5-Ctgg0Mc9fqGmA&expires=1773197896&user_id=71483453
+[2026-03-08 22:58:18]  Nexus API GET /games/skyrimspecialedition/mods/168288 → 200
+[2026-03-08 22:58:18]    Response: {"name": "1st person custom dodge", "summary": "option for Custom Dodge by shwowsh to only work while in 1st person", "description": "requires original [url=http://https://www.nexusmods.com/skyrimspecialedition/mods/167417?tab=files]Custom Dodge[/url]\u00a0(endorse the original creator)\n<br />can be used with any other 3rd person dodge mod like dmc or tudm\n<br />\n<br />just install custom dodge, and replace the dodgeplugin.dll for this one\n<br />\n<br />\n<br />[youtube]JdQIkuwVFIU[/youtube]", "picture_url": "https://staticdelivery.nexusmods.com/mods/1704/images/168288/168288-1766995590-249508732.png", "mod_downloads": 186, "mod_unique_downloads": 162, "uid": 7318624440672, "mod_id": 168288, "game_id": 1704, "allow_rating": true, "domain_name": "skyrimspecialedition", "category_id": 24, "version": "1.0.2", "endorsement_count": 6, "created_timestamp": 1766996598, "created_time": "2025-12-29T08:23:18.000+00:00", "updated_timestamp": 1766996598, "updated_time": "2025-12-29T08:23:18.000+00:00", "author": "shwowsh", "uploaded_by": "rockenandoooooooo", "uploaded_users_profile_url": "https://www.nexusmods.com/users/74125713", "contains_adult_content": false, "status": "published", "av...
+[2026-03-08 22:58:18]  Nexus API GET /games/skyrimspecialedition/mods/168288/files → 200
+[2026-03-08 22:58:18]    Response: {"file_updates": [], "files": [{"id": [703173, 1704], "uid": 7318624975557, "file_id": 703173, "name": "1stpersoncustomDodge", "version": "1.0.2", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 227, "file_name": "1stpersoncustomDodge-168288-1-0-2-1766996567.rar", "uploaded_timestamp": 1766996567, "uploaded_time": "2025-12-29T08:22:47.000+00:00", "mod_version": "1.0.2", "external_virus_scan_url": "https://www.virustotal.com/gui/file/6776a0d9d1aa05bc5492a32a8a4faab10f48139b6bbb1485a654742b9b17c3cf/detection/f-6776a0d9d1aa05bc5492a32a8a4faab10f48139b6bbb1485a654742b9b17c3cf-1766996568", "description": "replace dodgeplugin.dll with this one", "size_kb": 227, "size_in_bytes": 232362, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/168288/1stpersoncustomDodge-168288-1-0-2-1766996567.rar.json"}]}
+[2026-03-08 22:58:18]  Nexus API GET /games/skyrimspecialedition/mods/168288/files/703173/download_link → 200
+[2026-03-08 22:58:18]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/168288/1stpersoncustomDodge-168288-1-0-2-1766996567.rar?md5=-8U5xE94q7Gskm0aumCIBA&expires=1773039498&user_id=71483453"}]
+[2026-03-08 22:58:18]  Nexus API GET /games/skyrimspecialedition/mods/168288/files/703173 → 200
+[2026-03-08 22:58:18]    Response: {"id": [703173, 1704], "uid": 7318624975557, "file_id": 703173, "name": "1stpersoncustomDodge", "version": "1.0.2", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 227, "file_name": "1stpersoncustomDodge-168288-1-0-2-1766996567.rar", "uploaded_timestamp": 1766996567, "uploaded_time": "2025-12-29T08:22:47.000+00:00", "mod_version": "1.0.2", "external_virus_scan_url": "https://www.virustotal.com/gui/file/6776a0d9d1aa05bc5492a32a8a4faab10f48139b6bbb1485a654742b9b17c3cf/detection/f-6776a0d9d1aa05bc5492a32a8a4faab10f48139b6bbb1485a654742b9b17c3cf-1766996568", "description": "replace dodgeplugin.dll with this one", "size_kb": 227, "size_in_bytes": 232362, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/168288/1stpersoncustomDodge-168288-1-0-2-1766996567.rar.json"}
+[2026-03-08 22:58:19]  Nexus: Installing 1stpersoncustomDodge-168288-1-0-2-1766996567.rar...
+[2026-03-08 22:58:19]  Extracting with unrar…
+[2026-03-08 22:58:19]  Direct install — 1 file(s) to install.
+[2026-03-08 22:58:19]  Copied 1 item(s) to staging area.
+[2026-03-08 22:58:19]  Installed '1stpersoncustomDodge' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/1stpersoncustomDodge
+[2026-03-08 22:58:19]  Added '1stpersoncustomDodge' to modlist.
+[2026-03-08 22:58:19]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/1stpersoncustomDodge/meta.ini
+[2026-03-08 22:58:19]  Nexus: Saved metadata (mod 168288, v1.0.2)
+[2026-03-08 22:58:19]  Nexus: Removed archive 1stpersoncustomDodge-168288-1-0-2-1766996567.rar
+[2026-03-08 22:58:19]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-08 22:58:19]  Downloaded 1stpersoncustomDodge-168288-1-0-2-1766996567.rar (232362 bytes) → /home/luther/Downloads/1stpersoncustomDodge-168288-1-0-2-1766996567.rar
+[2026-03-08 22:58:19]  Nexus: Detected mod ID 168288 from filename.
+[2026-03-08 22:58:20]  Nexus API GET /games/skyrimspecialedition/mods/168288 → 200
+[2026-03-08 22:58:20]    Response: {"name": "1st person custom dodge", "summary": "option for Custom Dodge by shwowsh to only work while in 1st person", "description": "requires original [url=http://https://www.nexusmods.com/skyrimspecialedition/mods/167417?tab=files]Custom Dodge[/url]\u00a0(endorse the original creator)\n<br />can be used with any other 3rd person dodge mod like dmc or tudm\n<br />\n<br />just install custom dodge, and replace the dodgeplugin.dll for this one\n<br />\n<br />\n<br />[youtube]JdQIkuwVFIU[/youtube]", "picture_url": "https://staticdelivery.nexusmods.com/mods/1704/images/168288/168288-1766995590-249508732.png", "mod_downloads": 186, "mod_unique_downloads": 162, "uid": 7318624440672, "mod_id": 168288, "game_id": 1704, "allow_rating": true, "domain_name": "skyrimspecialedition", "category_id": 24, "version": "1.0.2", "endorsement_count": 6, "created_timestamp": 1766996598, "created_time": "2025-12-29T08:23:18.000+00:00", "updated_timestamp": 1766996598, "updated_time": "2025-12-29T08:23:18.000+00:00", "author": "shwowsh", "uploaded_by": "rockenandoooooooo", "uploaded_users_profile_url": "https://www.nexusmods.com/users/74125713", "contains_adult_content": false, "status": "published", "av...
+[2026-03-08 22:58:20]  Nexus API GET /games/skyrimspecialedition/mods/168288/files → 200
+[2026-03-08 22:58:20]    Response: {"file_updates": [], "files": [{"id": [703173, 1704], "uid": 7318624975557, "file_id": 703173, "name": "1stpersoncustomDodge", "version": "1.0.2", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 227, "file_name": "1stpersoncustomDodge-168288-1-0-2-1766996567.rar", "uploaded_timestamp": 1766996567, "uploaded_time": "2025-12-29T08:22:47.000+00:00", "mod_version": "1.0.2", "external_virus_scan_url": "https://www.virustotal.com/gui/file/6776a0d9d1aa05bc5492a32a8a4faab10f48139b6bbb1485a654742b9b17c3cf/detection/f-6776a0d9d1aa05bc5492a32a8a4faab10f48139b6bbb1485a654742b9b17c3cf-1766996568", "description": "replace dodgeplugin.dll with this one", "size_kb": 227, "size_in_bytes": 232362, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/168288/1stpersoncustomDodge-168288-1-0-2-1766996567.rar.json"}]}
+[2026-03-08 22:58:20]  Nexus: Identified as '1st person custom dodge' (mod 168288, file 703173).
+[2026-03-08 22:58:20]  Nexus: Saved metadata for '1stpersoncustomDodge' (mod 168288)
+[2026-03-08 22:58:20]  Filemap updated: 21555 file(s).
+[2026-03-08 22:58:20]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/1stpersoncustomDodge/meta.ini
+[2026-03-08 22:58:38]  Opened: CustomDodge.ini
+[2026-03-08 23:01:32]  Nexus: Received link from browser.
+[2026-03-08 23:01:32]  Nexus: Downloading mod 133427 file 645935 from skyrimspecialedition...
+[2026-03-08 23:01:32]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/133427/files/645935?key=5hj2FH3AUVETCov-tan4qg&expires=1773198091&user_id=71483453
+[2026-03-08 23:01:32]  Nexus API GET /games/skyrimspecialedition/mods/133427 → 200
+[2026-03-08 23:01:32]    Response: {"name": "Dodge - Simple Dodging", "summary": "Dodge attacks with the Sprint button, creating an additional timing-based option for defense.", "description": "[size=5][b]Dodge\ufeff[/b][/size]\n<br />\n<br />\n<br />[size=3][b]Dodge[/b]\u00a0attacks with the Sprint button, creating an additional timing-based option for defense.[/size]\n<br />[size=2][youtube]DyHwW0OJ7Bw[/youtube]\n<br />[/size][list]\n<br />[*][size=2][b]Dodge by pressing 'Sprint'[/b]\u00a0while moving sideways or backwards with a weapon, fist, or spell in hand.[/size]\n<br />[*][size=2]Successfully dodging an attack (being hit during the dodge animation) will [b]level Block[/b].[/size]\n<br />[*][size=2]You will [b]take no damage[/b] during the dodge animation (configurable).[/size]\n<br />[*][size=2][b]Dodging costs Stamina[/b] equivalent to sprinting during the animation, which lasts a bit less than 1 second.[/size]\n<br />[*][size=2]The ability to dodge and invulnerability while dodging are available as\u00a0[b]perks in the Block tree[/b], or can be\u00a0[b]activated in the configuration menu[/b].[/size]\n<br />[*][size=2][b]Enemies will dodge\u00a0[/b]your attacks and spells (likelihood configurable), and will...
+[2026-03-08 23:01:32]  Nexus API GET /games/skyrimspecialedition/mods/133427/files → 200
+[2026-03-08 23:01:32]    Response: {"file_updates": [{"old_file_id": 559934, "new_file_id": 563822, "old_file_name": "Dodge-133427-3-1-1731027443.zip", "new_file_name": "Dodge-133427-4-0-1731980455.zip", "uploaded_timestamp": 1731980455, "uploaded_time": "2024-11-19T01:40:55.000+00:00"}, {"old_file_id": 563822, "new_file_id": 602971, "old_file_name": "Dodge-133427-4-0-1731980455.zip", "new_file_name": "Dodge-133427-5-0-1741408765.zip", "uploaded_timestamp": 1741408765, "uploaded_time": "2025-03-08T04:39:25.000+00:00"}, {"old_file_id": 602971, "new_file_id": 645935, "old_file_name": "Dodge-133427-5-0-1741408765.zip", "new_file_name": "Dodge-133427-5-1-1752167004.zip", "uploaded_timestamp": 1752167004, "uploaded_time": "2025-07-10T17:03:24.000+00:00"}], "files": [{"id": [559934, 1704], "uid": 7318624832318, "file_id": 559934, "name": "Dodge", "version": "3.1", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": false, "size": 13, "file_name": "Dodge-133427-3-1-1731027443.zip", "uploaded_timestamp": 1731027443, "uploaded_time": "2024-11-08T00:57:23.000+00:00", "mod_version": "3.1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/92e3acc532ca8648eea2885c6bd96ce3f4b138d7d53c9611c0d098364ae0294...
+[2026-03-08 23:01:32]  Nexus API GET /games/skyrimspecialedition/mods/133427/files/645935/download_link → 200
+[2026-03-08 23:01:32]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/133427/Dodge-133427-5-1-1752167004.zip?md5=7GSKnLyEUpX8sgUrz_A3hw&expires=1773039692&user_id=71483453"}]
+[2026-03-08 23:01:33]  Nexus API GET /games/skyrimspecialedition/mods/133427/files/645935 → 200
+[2026-03-08 23:01:33]    Response: {"id": [645935, 1704], "uid": 7318624918319, "file_id": 645935, "name": "Dodge", "version": "5.1", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 18, "file_name": "Dodge-133427-5-1-1752167004.zip", "uploaded_timestamp": 1752167004, "uploaded_time": "2025-07-10T17:03:24.000+00:00", "mod_version": "5.1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/2f018d7a1f726199ad280037990f7c3a3302501e4d7f1dc39e590e428c858937/detection/f-2f018d7a1f726199ad280037990f7c3a3302501e4d7f1dc39e590e428c858937-1752167005", "description": "Dodge attacks with the Sprint button, creating an additional timing-based option for defense.", "size_kb": 18, "size_in_bytes": 18025, "changelog_html": "Fixed a bug that prevented regular non power attacks when dual wielding with the perk\nRemoved a null edit to a testing cell", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/133427/Dodge-133427-5-1-1752167004.zip.json"}
+[2026-03-08 23:01:33]  Downloaded Dodge-133427-5-1-1752167004.zip (18025 bytes) → /home/luther/Downloads/Dodge-133427-5-1-1752167004.zip
+[2026-03-08 23:01:33]  Nexus: Installing Dodge-133427-5-1-1752167004.zip...
+[2026-03-08 23:01:33]  Extracting with zipfile…
+[2026-03-08 23:01:33]  Direct install — 4 file(s) to install.
+[2026-03-08 23:01:33]  Mod contains recognised top-level file type(s) — skipping prefix check.
+[2026-03-08 23:01:33]  Copied 4 item(s) to staging area.
+[2026-03-08 23:01:33]  Installed 'Dodge' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Dodge
+[2026-03-08 23:01:33]  plugins.txt: added 1 plugin(s) from 'Dodge'.
+[2026-03-08 23:01:33]  Added 'Dodge' to modlist.
+[2026-03-08 23:01:33]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Dodge/meta.ini
+[2026-03-08 23:01:33]  Nexus: Saved metadata (mod 133427, v5.1)
+[2026-03-08 23:01:33]  Nexus: Removed archive Dodge-133427-5-1-1752167004.zip
+[2026-03-08 23:01:33]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-08 23:01:33]  Nexus: Detected mod ID 133427 from filename.
+[2026-03-08 23:01:33]  Nexus API GET /games/skyrimspecialedition/mods/133427 → 200
+[2026-03-08 23:01:33]    Response: {"name": "Dodge - Simple Dodging", "summary": "Dodge attacks with the Sprint button, creating an additional timing-based option for defense.", "description": "[size=5][b]Dodge\ufeff[/b][/size]\n<br />\n<br />\n<br />[size=3][b]Dodge[/b]\u00a0attacks with the Sprint button, creating an additional timing-based option for defense.[/size]\n<br />[size=2][youtube]DyHwW0OJ7Bw[/youtube]\n<br />[/size][list]\n<br />[*][size=2][b]Dodge by pressing 'Sprint'[/b]\u00a0while moving sideways or backwards with a weapon, fist, or spell in hand.[/size]\n<br />[*][size=2]Successfully dodging an attack (being hit during the dodge animation) will [b]level Block[/b].[/size]\n<br />[*][size=2]You will [b]take no damage[/b] during the dodge animation (configurable).[/size]\n<br />[*][size=2][b]Dodging costs Stamina[/b] equivalent to sprinting during the animation, which lasts a bit less than 1 second.[/size]\n<br />[*][size=2]The ability to dodge and invulnerability while dodging are available as\u00a0[b]perks in the Block tree[/b], or can be\u00a0[b]activated in the configuration menu[/b].[/size]\n<br />[*][size=2][b]Enemies will dodge\u00a0[/b]your attacks and spells (likelihood configurable), and will...
+[2026-03-08 23:01:34]  Nexus: Identified as 'Dodge - Simple Dodging' (mod 133427, file 645935).
+[2026-03-08 23:01:34]  Nexus: Saved metadata for 'Dodge' (mod 133427)
+[2026-03-08 23:01:34]  Nexus API GET /games/skyrimspecialedition/mods/133427/files → 200
+[2026-03-08 23:01:34]    Response: {"file_updates": [{"old_file_id": 559934, "new_file_id": 563822, "old_file_name": "Dodge-133427-3-1-1731027443.zip", "new_file_name": "Dodge-133427-4-0-1731980455.zip", "uploaded_timestamp": 1731980455, "uploaded_time": "2024-11-19T01:40:55.000+00:00"}, {"old_file_id": 563822, "new_file_id": 602971, "old_file_name": "Dodge-133427-4-0-1731980455.zip", "new_file_name": "Dodge-133427-5-0-1741408765.zip", "uploaded_timestamp": 1741408765, "uploaded_time": "2025-03-08T04:39:25.000+00:00"}, {"old_file_id": 602971, "new_file_id": 645935, "old_file_name": "Dodge-133427-5-0-1741408765.zip", "new_file_name": "Dodge-133427-5-1-1752167004.zip", "uploaded_timestamp": 1752167004, "uploaded_time": "2025-07-10T17:03:24.000+00:00"}], "files": [{"id": [559934, 1704], "uid": 7318624832318, "file_id": 559934, "name": "Dodge", "version": "3.1", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": false, "size": 13, "file_name": "Dodge-133427-3-1-1731027443.zip", "uploaded_timestamp": 1731027443, "uploaded_time": "2024-11-08T00:57:23.000+00:00", "mod_version": "3.1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/92e3acc532ca8648eea2885c6bd96ce3f4b138d7d53c9611c0d098364ae0294...
+[2026-03-08 23:01:34]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Dodge/meta.ini
+[2026-03-08 23:01:34]  Filemap updated: 21559 file(s).
+[2026-03-08 23:01:38]  Filemap updated: 21559 file(s).
+[2026-03-08 23:01:42]  Filemap updated: 21548 file(s).
+[2026-03-08 23:01:42]  plugins.txt: removed 1 plugin(s).
+[2026-03-08 23:03:45]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/2
+[2026-03-08 23:03:58]  Nexus: Received link from browser.
+[2026-03-08 23:03:58]  Nexus: Downloading mod 463 file 61422 from skyrimspecialedition...
+[2026-03-08 23:03:58]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/463/files/61422?key=VjUZnmbE_AazHhF0P0a6Vg&expires=1773198237&user_id=71483453
+[2026-03-08 23:03:58]  Nexus API GET /games/skyrimspecialedition/mods/463 → 200
+[2026-03-08 23:03:58]    Response: {"name": "SkyHUD", "summary": "Toggle HUD elements on or off, scale sizes, change positions and swap elements with alternative version. Features dot crosshair, slim compass, alternate ammo display, detached compass markers and built-in support for font mods.", "description": "[center][color=#999999][b]This mod is provided AS IS[/b]\n<br />I have a penchant for going missing for months or even years on end. As such, please do not rely on me for support. Any request is also unlikely to be heard. You have to solve any compatibility issue on your own as I simply do not have the capacity to help you. You will find support among fellow users, please treat each other well. For common issues and questions, please refer to the stickied post.[/color][/center]\n<br />\n<br />[center][img]http://imgur.com/SlTXZJ1.png[/img][/center]\n<br />[color=#7CA5B0][b][size=5]FEATURES[/size][/b][/color]\n<br />- Hide, scale, move and remove HUD elements\n<br />- Alternative HUD elements - dot crosshair, ammo display, slim compass, left-aligned health and stamina meter, combined charge meter\n<br />- Font mod support\n<br />- Standalone compass markers for compatibility with marker mods\n<br />- Better tra...
+[2026-03-08 23:03:59]  Nexus API GET /games/skyrimspecialedition/mods/463/files → 200
+[2026-03-08 23:03:59]    Response: {"file_updates": [{"old_file_id": 14778, "new_file_id": 61243, "old_file_name": "SkyHUD Reference Manual-463-0-50B.zip", "new_file_name": "SkyHUD Reference Manual-463-0-90B.zip", "uploaded_timestamp": 1532807325, "uploaded_time": "2018-07-28T19:48:45.000+00:00"}, {"old_file_id": 61243, "new_file_id": 61315, "old_file_name": "SkyHUD Reference Manual-463-0-90B.zip", "new_file_name": "SkyHUD Reference Manual-463-0-90B.zip", "uploaded_timestamp": 1532851363, "uploaded_time": "2018-07-29T08:02:43.000+00:00"}, {"old_file_id": 15277, "new_file_id": 30381, "old_file_name": "SkyHUD Presets-463-0-60B.zip", "new_file_name": "SkyHUD Presets v2-463-0-60B.zip", "uploaded_timestamp": 1501409676, "uploaded_time": "2017-07-30T10:14:36.000+00:00"}, {"old_file_id": 15285, "new_file_id": 35812, "old_file_name": "SkyHUD 060Bv3-463-0-60B.zip", "new_file_name": "skyhudv070Bv6.zip-463-0-70b.zip", "uploaded_timestamp": 1507446346, "uploaded_time": "2017-10-08T07:05:46.000+00:00"}, {"old_file_id": 35812, "new_file_id": 36004, "old_file_name": "skyhudv070Bv6.zip-463-0-70b.zip", "new_file_name": "skyhudv070B.zip-463-0-70B.zip", "uploaded_timestamp": 1507663612, "uploaded_time": "2017-10-10T19:26:52.000+00:00"...
+[2026-03-08 23:03:59]  Nexus API GET /games/skyrimspecialedition/mods/463/files/61422/download_link → 200
+[2026-03-08 23:03:59]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/463/SkyHUD v090B v4-463-0-90B.zip?md5=XAKn8pk91kf93jtrcZbTKg&expires=1773039839&user_id=71483453"}]
+[2026-03-08 23:03:59]  Nexus API GET /games/skyrimspecialedition/mods/463/files/61422 → 200
+[2026-03-08 23:03:59]    Response: {"id": [61422, 1704], "uid": 7318624333806, "file_id": 61422, "name": "SkyHUD v090B v4", "version": "0.90B", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 3887, "file_name": "SkyHUD v090B v4-463-0-90B.zip", "uploaded_timestamp": 1532967550, "uploaded_time": "2018-07-30T16:19:10.000+00:00", "mod_version": "0.90B", "external_virus_scan_url": "https://www.virustotal.com/file/78576d2fcec090a213c159b654f000abb808901ad6a7ee64be157a5970b6dd18/analysis/1532967683/", "description": "[size=3][color=red][b]BACKUP YOUR CURRENT CONFIG. FOLLOW INSTALLATION INSTRUCTIONS.[/b][/color][/size]\n<br />All-in-one FOMOD, BAIN and loose files installer. Include a manual, sample configs and Immersive HUD patch.\n<br />For Skyrim SE 1.5.3 and above.", "size_kb": 3887, "size_in_bytes": 3980107, "changelog_html": "New\n<br />+ Quest marker toggle\n<br />+ Compact charge meter\n<br /><br />Fix\n<br />+ Missing crosshair\n<br />+ Subtitle anchor\n<br />+ Magicka anchor\n<br />+ Health anchor\n<br />+ Stamina anchor\n<br />+ Compass anchor\n<br /><br />General\n<br />+ Changed center anchor to top-center\n<br />\t+ Subtitle\n<br />\t+ Activate Button\n<br />\t+ Activate Text\n<br />\t+ ...
+[2026-03-08 23:04:00]  Nexus: Installing SkyHUD v090B v4-463-0-90B.zip...
+[2026-03-08 23:04:00]  Extracting with zipfile…
+[2026-03-08 23:04:00]  FOMOD installer detected — opening wizard...
+[2026-03-08 23:04:01]  Downloaded SkyHUD v090B v4-463-0-90B.zip (3980107 bytes) → /home/luther/Downloads/SkyHUD v090B v4-463-0-90B.zip
+[2026-03-08 23:04:06]  FOMOD complete — 3 file(s) to install.
+[2026-03-08 23:04:06]  Mod contains recognised top-level file type(s) — skipping prefix check.
+[2026-03-08 23:04:06]  Copied 3 item(s) to staging area.
+[2026-03-08 23:04:06]  Installed 'SkyHUD' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/SkyHUD
+[2026-03-08 23:04:06]  plugins.txt: added 1 plugin(s) from 'SkyHUD'.
+[2026-03-08 23:04:06]  Added 'SkyHUD' to modlist.
+[2026-03-08 23:04:07]  Nexus: Removed archive SkyHUD v090B v4-463-0-90B.zip
+[2026-03-08 23:04:07]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-08 23:04:07]  Nexus: Computing MD5 hash of SkyHUD v090B v4-463-0-90B.zip...
+[2026-03-08 23:04:07]  Nexus: MD5 lookup failed — [Errno 2] No such file or directory: '/home/luther/Downloads/SkyHUD v090B v4-463-0-90B.zip'
+[2026-03-08 23:04:07]  Filemap updated: 21551 file(s).
+[2026-03-08 23:04:41]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-08 23:04:41]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-08 23:04:41]  Restore: removing plugins.txt symlink ...
+[2026-03-08 23:04:41]    Removed plugins.txt symlink from prefix.
+[2026-03-08 23:04:41]  Restore: restoring launcher ...
+[2026-03-08 23:04:41]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-08 23:04:41]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-08 23:04:41]    Removed 21569 file(s) from Data/.
+[2026-03-08 23:04:41]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-08 23:04:41]  Restore complete.
+[2026-03-08 23:04:41]  Backup: modlist.txt
+[2026-03-08 23:04:41]  Backup: plugins.txt
+[2026-03-08 23:04:41]  Backup: plugin_locks.json
+[2026-03-08 23:04:41]  Backup: removed oldest 20260308_164300
+[2026-03-08 23:04:41]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-08 23:04:41]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-08 23:04:41]    Moved 34 file(s) to Data_Core/.
+[2026-03-08 23:04:41]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-08 23:04:43]    Transferred 21551 mod file(s).
+[2026-03-08 23:04:43]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-08 23:04:43]    Transferred 25 vanilla file(s).
+[2026-03-08 23:04:43]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-08 23:04:43]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-08 23:04:43]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-08 23:04:43]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-08 23:04:43]  Step 7: Swapping launcher for SKSE ...
+[2026-03-08 23:04:43]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-08 23:04:43]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-08 23:04:43]  Deploy complete. 21551 mod + 25 vanilla = 21576 total file(s) in Data/.
+[2026-03-08 23:04:44]  Initializing LOOT...
+[2026-03-08 23:04:44]  Loaded masterlist with prelude.
+[2026-03-08 23:04:44]  Loading 174 plugin headers...
+[2026-03-08 23:04:44]  Sorting 174 plugins...
+[2026-03-08 23:04:44]  Sort complete. 12 plugin(s) changed position.
+[2026-03-08 23:04:44]  Sorted — 12 plugin(s) changed position.
+[2026-03-08 23:04:45]  Filemap updated: 21551 file(s).
+[2026-03-08 23:05:03]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-08 23:05:03]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-08 23:05:03]  Restore: removing plugins.txt symlink ...
+[2026-03-08 23:05:03]    Removed plugins.txt symlink from prefix.
+[2026-03-08 23:05:03]  Restore: restoring launcher ...
+[2026-03-08 23:05:03]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-08 23:05:03]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-08 23:05:04]    Removed 21576 file(s) from Data/.
+[2026-03-08 23:05:04]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-08 23:05:04]  Restore complete.
+[2026-03-08 23:05:04]  Backup: modlist.txt
+[2026-03-08 23:05:04]  Backup: plugins.txt
+[2026-03-08 23:05:04]  Backup: plugin_locks.json
+[2026-03-08 23:05:04]  Backup: removed oldest 20260308_175614
+[2026-03-08 23:05:04]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-08 23:05:04]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-08 23:05:04]    Moved 34 file(s) to Data_Core/.
+[2026-03-08 23:05:04]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-08 23:05:06]    Transferred 21551 mod file(s).
+[2026-03-08 23:05:06]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-08 23:05:06]    Transferred 25 vanilla file(s).
+[2026-03-08 23:05:06]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-08 23:05:06]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-08 23:05:06]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-08 23:05:06]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-08 23:05:06]  Step 7: Swapping launcher for SKSE ...
+[2026-03-08 23:05:06]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-08 23:05:06]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-08 23:05:06]  Deploy complete. 21551 mod + 25 vanilla = 21576 total file(s) in Data/.
+[2026-03-08 23:05:07]  Filemap updated: 21551 file(s).
+[2026-03-08 23:05:23]  Checking 193 Nexus mod(s) for updates...
+[2026-03-08 23:05:23]  Fetching update info via GraphQL...
+[2026-03-08 23:05:24]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:24]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 143275, "name": "Tween Menu Overhaul", "version": "1.1", "updatedAt": "2025-05-23T15:37:56Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}, {"modId": "30379", "modName": "Skyrim Script Extender (SKSE64)", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}, {"modId": "12604", "modName": "SkyUI", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}, {"modId": "136793", "modName": "Widescreen Scale Removed for 1-6-1130 and higher", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "For widescreen users playing on AE 1.6.1130+."}]}}}, {"modId": 126220, "name": "Achievement Injector", "version": "1.2.3", "updatedAt": "2025-01-03T08:44:41Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}, {"modId": "106441", "modName": "Backported Ex...
+[2026-03-08 23:05:24]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:24]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 164485, "name": "Better Carriage Destinations", "version": "1.0.7", "updatedAt": "2026-02-17T19:24:46Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "53000", "modName": "MCM Helper", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}]}}}, {"modId": 18967, "name": "Better Jumping SE", "version": "1.8.6", "updatedAt": "2022-09-18T19:47:49Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}, {"modId": "0", "modName": "", "gameId": "0", "url": "http://skse.silverlock.org/", "externalRequirement": true, "notes": ""}]}}}, {"modId": 136384, "name": "Biggie Traits", "version": "1.0.33", "updatedAt": "2026-01-24T23:56:47Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "127701", "modName": "B612 - my little asteroid of useful UI components", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}, {"modId": "148018", "modName": "Biggie ...
+[2026-03-08 23:05:24]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:24]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 51798, "name": "Dungeons - Revisited", "version": "1.1.1", "updatedAt": "2023-01-18T06:50:58Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": []}}}, {"modId": 73293, "name": "Dynamic Animation Casting - NG", "version": "3.2.4", "updatedAt": "2023-06-16T04:09:43Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "65512", "modName": "Dynamic Animation Casting", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "No longer needed. You can use this mod without it."}, {"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "Mandatory. Use AE/SE version match your SkyrimSE.exe"}]}}}, {"modId": 172083, "name": "Dynamic Leveled Lists (SKSE)", "version": "0.4.3a", "updatedAt": "2026-02-22T02:49:01Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "REQUIRED"}, {"modId": "30379", "modName": "Skyrim...
+[2026-03-08 23:05:24]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:24]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 74037, "name": "FormList Manipulator - FLM", "version": "1.8.1", "updatedAt": "2024-09-28T07:03:31Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "Mandatory"}, {"modId": "74689", "modName": "MergeMapper", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "[Optional] Not strictly VR-only, but VR players tend to have to merge stuff because of lack of esls."}, {"modId": "51073", "modName": "powerofthree's Tweaks", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "Mandatory - Load Editor IDs must be enabled"}, {"modId": "59510", "modName": "powerofthree's Tweaks VR", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "Mandatory for VR, Load Editor IDs must be enabled"}, {"modId": "58101", "modName": "VR Address Library for SKSEVR", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "Mandatory for VR - 0.43.0 or greater"}, {"modId": "0", "modName": "", "gameId": "0", "url": "https://aka.ms/vs/1...
+[2026-03-08 23:05:25]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:25]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 173949, "name": "Multiple Amulets and Rings... Automatically - MARA", "version": "0.0.3", "updatedAt": "2026-03-07T01:01:24Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "120352", "modName": "SKSE Menu Framework", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "required for the ring and amulet menus."}, {"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "required for Commonlib NG"}]}}}, {"modId": 53000, "name": "MCM Helper", "version": "1.5.0", "updatedAt": "2023-12-17T20:06:53Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "For Skyrim Special Edition"}, {"modId": "12604", "modName": "SkyUI", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}, {"modId": "0", "modName": "", "gameId": "0", "url": "https://skse.silverlock.org/", "externalRequirement": true, "notes": ""}]}}}, {"modId": 1176...
+[2026-03-08 23:05:25]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:25]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 78034, "name": "Phenderix Elements", "version": "1.3.3", "updatedAt": "2023-08-30T02:41:09Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "required"}, {"modId": "55728", "modName": "Keyword Item Distributor (KID)", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "required"}, {"modId": "22854", "modName": "powerofthree's Papyrus Extender", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "required"}, {"modId": "51073", "modName": "powerofthree's Tweaks", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "required"}, {"modId": "17561", "modName": "UIExtensions", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "required"}]}}}, {"modId": 172, "name": "Phenderix Magic Evolved", "version": "4.2.1", "updatedAt": "2022-03-09T00:34:35Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": []}}}, {"modId": 69750, "name": "Pick Up Radius", "version": "1.8", "updat...
+[2026-03-08 23:05:26]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:26]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 89297, "name": "Ryn's Hod and Gerdur's House", "version": "1.0", "updatedAt": "2023-04-15T17:30:27Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": []}}}, {"modId": 77059, "name": "Ryn's Karthspire", "version": "1.6", "updatedAt": "2023-09-07T04:38:30Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": []}}}, {"modId": 102676, "name": "Ryn's Lost Valley Redoubt", "version": "2.0", "updatedAt": "2024-03-30T06:34:16Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": []}}}, {"modId": 115134, "name": "Ryn's Lumber Mills", "version": "1.0", "updatedAt": "2024-03-27T18:24:55Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": []}}}, {"modId": 75304, "name": "Ryn's Lund's Hut", "version": "1.0", "updatedAt": "2022-09-14T05:16:59Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": []}}}, {"modId": 88451, "name": "Ryn's Mehrunes Dagon's Shrine", "version": "1.0", "updatedAt": "2023-04-04T08:51:32Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirement...
+[2026-03-08 23:05:26]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:26]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 164551, "name": "SIGMA - Greatsword animations - 1st person", "version": "1.0.0", "updatedAt": "2026-02-24T14:39:15Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "92109", "modName": "Open Animation Replacer", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}]}}}, {"modId": 163952, "name": "SIGMA - Mace animations - 1st person", "version": "1.0.3", "updatedAt": "2025-11-23T19:57:49Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "92109", "modName": "Open Animation Replacer", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}]}}}, {"modId": 166987, "name": "SIGMA - Magic animations - 1st person", "version": "1.0.1", "updatedAt": "2025-12-16T22:03:19Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "92109", "modName": "Open Animation Replacer", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "Won't work without it"}, {"modId": "167000", "modName": "Assorted Behavior Fixes", "gameId": "1704", "url": "", "externalRequirement": ...
+[2026-03-08 23:05:26]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:26]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 154352, "name": "Skyrim Bandit Expansion", "version": "1.3.1", "updatedAt": "2025-12-10T08:23:17Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": []}}}, {"modId": 36869, "name": "Spell Perk Item Distributor (SPID)", "version": "7.1.3", "updatedAt": "2025-10-01T15:44:07Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "For Skyrim Special Edition users. Not required for VR and Anniversary Edition"}, {"modId": "51073", "modName": "powerofthree's Tweaks", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "Hard requirement"}]}}}, {"modId": 40484, "name": "Stances - Dynamic Animation Sets", "version": "1.5.1", "updatedAt": "2023-06-27T00:33:34Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "33746", "modName": "Dynamic Animation Replacer", "gameId": "1704", "url": "", "externalRequirement": false, "notes": "either this or OAR"}, {"modId": "41251", "modName": "Stanc...
+[2026-03-08 23:05:27]    ↑ Item Stacking Tweaks SKSE: 1.0.5 → 1.0.6
+[2026-03-08 23:05:27]    GraphQL check complete. 0 mod(s) need REST fallback.
+[2026-03-08 23:05:27]  Update check complete: 1 update(s) available.
+[2026-03-08 23:05:27]  Checking mod requirements...
+[2026-03-08 23:05:27]  Nexus API POST GraphQL batchUpdateCheck → 200
+[2026-03-08 23:05:27]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 69944, "name": "dTry's Key Utils", "version": "1.1", "updatedAt": "2022-06-21T05:45:57Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}]}}}, {"modId": 18619, "name": "moreHUD Inventory Edition", "version": "2.1.3.0", "updatedAt": "2024-03-03T01:15:17Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "0", "modName": "", "gameId": "0", "url": "http://skse.silverlock.org/", "externalRequirement": true, "notes": ""}]}}}, {"modId": 12688, "name": "moreHUD SE", "version": "5.2.2.0", "updatedAt": "2022-12-01T14:32:30Z", "viewerUpdateAvailable": false, "modRequirements": {"nexusRequirements": {"nodes": [{"modId": "32444", "modName": "Address Library for SKSE Plugins", "gameId": "1704", "url": "", "externalRequirement": false, "notes": ""}, {"modId": "0", "modName": "", "gameId": "0", "url": "http://skse.silverlock.org/", "externalRequirement": true, "notes": ""}, {"modId": "0", "modName": "", "gameId": "0", "url": "htt...
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Item Stacking Tweaks SKSE/meta.ini
+[2026-03-08 23:05:27]    ⚠ Achievement Injector: missing ConsoleUtil Extended
+[2026-03-08 23:05:27]    ⚠ Achievements Mods Enabler SE-AE: missing xSHADOWMANx's Dll Loader
+[2026-03-08 23:05:27]    ⚠ Additional Traits for Biggie Traits: missing Requiem - The Roleplaying Overhaul
+[2026-03-08 23:05:27]    ⚠ Alchemy Recipe Expansion: missing Recipe Auto-Learn
+[2026-03-08 23:05:27]    ⚠ Leveled List Patch - Apothecary - An Alchemy Overhaul: missing Recipe Auto-Learn
+[2026-03-08 23:05:27]    ⚠ Armor and Clothing Extension - SPID Patch: missing Sound Record Distributor, Weapons Armor Clothing and Clutter Fixes
+[2026-03-08 23:05:27]    ⚠ Armor and Clothing Extension 2K-1K Textures: missing Sound Record Distributor, Weapons Armor Clothing and Clutter Fixes
+[2026-03-08 23:05:27]    ⚠ Aura's Inventory Tweaks: missing Inventory Interface Information Injector for Skyrim 1.5, Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ Auto Input Switch for Anniversary Edition: missing Auto Input Switch
+[2026-03-08 23:05:27]    ⚠ B.O.O.B.I.E.S: missing Inventory Interface Information Injector for Skyrim 1.5, Keyword Item Distributor (KID), Elden Rim - Weapon Arts 3.7.0
+[2026-03-08 23:05:27]    ⚠ Biggie Traits: missing Biggie Traits - Thumbnail Overhaul, Keyword Item Distributor (KID), Requiem - The Roleplaying Overhaul (+1 more)
+[2026-03-08 23:05:27]    ⚠ Cloud Shadows: missing Community Shaders
+[2026-03-08 23:05:27]    ⚠ Dynamic Animation Casting NG Plus: missing Dynamic Animation Casting
+[2026-03-08 23:05:27]    ⚠ FormList Manipulator - FLM: missing MergeMapper, powerofthree's Tweaks VR
+[2026-03-08 23:05:27]    ⚠ Grass Collision: missing Community Shaders, Grass Lighting - Community Shaders
+[2026-03-08 23:05:27]    ⚠ Item Equip Restrictor: missing Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ Know Your Enemy 2: missing Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ Know Your Enemy 2 - Armors: missing Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ MARA main: missing SKSE Menu Framework
+[2026-03-08 23:05:27]    ⚠ NordenUI: missing Alternate Perspective - Alternate Start, Archmagus' Favorites, Bathing in Skyrim - Renewed (+11 more)
+[2026-03-08 23:05:27]    ⚠ Object Categorization Framework: missing Keyword Item Distributor (KID), Keyword Patch Collection
+[2026-03-08 23:05:27]    ⚠ Phenderix Elements: missing Keyword Item Distributor (KID), UIExtensions
+[2026-03-08 23:05:27]    ⚠ Pick Up Radius: missing PapyrusUtil SE - Modders Scripting Utility Functions
+[2026-03-08 23:05:27]    ⚠ QuickLoot IE - A QuickLoot EE Fork: missing Inventory Interface Information Injector for Skyrim 1.5, PapyrusUtil SE - Modders Scripting Utility Functions, QuickLoot EE
+[2026-03-08 23:05:27]    ⚠ SIGMA - Magic: missing Assorted Behavior Fixes
+[2026-03-08 23:05:27]    ⚠ SIGMA - Warhammer: missing Vanilla Attack Annotation Fix (With FirstPerson Support), Unlocked 1st Person Combat
+[2026-03-08 23:05:27]    ⚠ SMIM Quality Addon: missing Static Mesh Improvement Mod - SMIM
+[2026-03-08 23:05:27]    ⚠ STB Active Effects: missing SKSE Menu Framework
+[2026-03-08 23:05:27]    ⚠ STB Widgets: missing SkyHUD, TrueHUD - HUD Additions, SKSE Menu Framework
+[2026-03-08 23:05:27]    ⚠ Serana Dialogue Expansion: missing Dialogue Interface ReShaped, Save Unbaker
+[2026-03-08 23:05:27]    ⚠ Serana Dialogue Expansion - Romance: missing Dialogue Interface ReShaped, Save Unbaker
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Achievement Injector/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Achievements Mods Enabler SE-AE/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Additional Traits for Biggie Traits/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Alchemy Recipe Expansion/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Leveled List Patch - Apothecary - An Alchemy Overhaul/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Armor and Clothing Extension - SPID Patch/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Armor and Clothing Extension 2K-1K Textures/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Aura's Inventory Tweaks/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Auto Input Switch for Anniversary Edition/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/B.O.O.B.I.E.S/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Biggie Traits/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Cloud Shadows/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Dynamic Animation Casting NG Plus/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/FormList Manipulator - FLM/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Grass Collision/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Item Equip Restrictor/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Know Your Enemy 2/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Know Your Enemy 2 - Armors/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/MARA main/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/NordenUI/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Object Categorization Framework/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Phenderix Elements/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Pick Up Radius/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/QuickLoot IE - A QuickLoot EE Fork/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/SIGMA - Magic/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/SIGMA - Warhammer/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/SMIM Quality Addon/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/STB Active Effects/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/STB Widgets/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Serana Dialogue Expansion/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Serana Dialogue Expansion - Romance/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Simple Follower Framework/meta.ini
+[2026-03-08 23:05:27]    ⚠ Simple Follower Framework: missing SKSE Menu Framework
+[2026-03-08 23:05:27]    ⚠ Stances - KeyUtils version: missing Stances - Dynamic Animation Sets (Add-On)
+[2026-03-08 23:05:27]    ⚠ Static Mesh Improvement Mod Improvement Mod: missing Static Mesh Improvement Mod - SMIM
+[2026-03-08 23:05:27]    ⚠ SunHelm Survival: missing JContainers SE
+[2026-03-08 23:05:27]    ⚠ The Dragonborn's Bestiary: missing Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ The Handy Icon Collection Collective: missing C.O.C.K.S. for Skyrim 1.5, Constructible Object Custom Keyword System NG, Inventory Interface Information Injector for Skyrim 1.5
+[2026-03-08 23:05:27]    ⚠ Tribute - Gold Based Leveling: missing Experience
+[2026-03-08 23:05:27]    ⚠ dTry Plugin Updates: missing Combat Music Fix SKSE, No Crime Teleport RE, Elden Parry (+2 more)
+[2026-03-08 23:05:27]  Requirements check complete: 39 mod(s) with missing dependencies.
+[2026-03-08 23:05:27]  Nexus: 1 update(s) available!
+[2026-03-08 23:05:27]    ↑ Item Stacking Tweaks SKSE: 1.0.5 → 1.0.6
+[2026-03-08 23:05:27]  Nexus: 39 mod(s) have missing requirements!
+[2026-03-08 23:05:27]    ⚠ Achievement Injector: needs ConsoleUtil Extended
+[2026-03-08 23:05:27]    ⚠ Achievements Mods Enabler SE-AE: needs xSHADOWMANx's Dll Loader
+[2026-03-08 23:05:27]    ⚠ Additional Traits for Biggie Traits: needs Requiem - The Roleplaying Overhaul
+[2026-03-08 23:05:27]    ⚠ Alchemy Recipe Expansion: needs Recipe Auto-Learn
+[2026-03-08 23:05:27]    ⚠ Leveled List Patch - Apothecary - An Alchemy Overhaul: needs Recipe Auto-Learn
+[2026-03-08 23:05:27]    ⚠ Armor and Clothing Extension - SPID Patch: needs Sound Record Distributor, Weapons Armor Clothing and Clutter Fixes
+[2026-03-08 23:05:27]    ⚠ Armor and Clothing Extension 2K-1K Textures: needs Sound Record Distributor, Weapons Armor Clothing and Clutter Fixes
+[2026-03-08 23:05:27]    ⚠ Aura's Inventory Tweaks: needs Inventory Interface Information Injector for Skyrim 1.5, Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ Auto Input Switch for Anniversary Edition: needs Auto Input Switch
+[2026-03-08 23:05:27]    ⚠ B.O.O.B.I.E.S: needs Inventory Interface Information Injector for Skyrim 1.5, Keyword Item Distributor (KID), Elden Rim - Weapon Arts 3.7.0
+[2026-03-08 23:05:27]    ⚠ Biggie Traits: needs Biggie Traits - Thumbnail Overhaul, Keyword Item Distributor (KID), Requiem - The Roleplaying Overhaul (+1 more)
+[2026-03-08 23:05:27]    ⚠ Cloud Shadows: needs Community Shaders
+[2026-03-08 23:05:27]    ⚠ Dynamic Animation Casting NG Plus: needs Dynamic Animation Casting
+[2026-03-08 23:05:27]    ⚠ FormList Manipulator - FLM: needs MergeMapper, powerofthree's Tweaks VR
+[2026-03-08 23:05:27]    ⚠ Grass Collision: needs Community Shaders, Grass Lighting - Community Shaders
+[2026-03-08 23:05:27]    ⚠ Item Equip Restrictor: needs Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ Know Your Enemy 2: needs Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ Know Your Enemy 2 - Armors: needs Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ MARA main: needs SKSE Menu Framework
+[2026-03-08 23:05:27]    ⚠ NordenUI: needs Alternate Perspective - Alternate Start, Archmagus' Favorites, Bathing in Skyrim - Renewed (+11 more)
+[2026-03-08 23:05:27]    ⚠ Object Categorization Framework: needs Keyword Item Distributor (KID), Keyword Patch Collection
+[2026-03-08 23:05:27]    ⚠ Phenderix Elements: needs Keyword Item Distributor (KID), UIExtensions
+[2026-03-08 23:05:27]    ⚠ Pick Up Radius: needs PapyrusUtil SE - Modders Scripting Utility Functions
+[2026-03-08 23:05:27]    ⚠ QuickLoot IE - A QuickLoot EE Fork: needs Inventory Interface Information Injector for Skyrim 1.5, PapyrusUtil SE - Modders Scripting Utility Functions, QuickLoot EE
+[2026-03-08 23:05:27]    ⚠ SIGMA - Magic: needs Assorted Behavior Fixes
+[2026-03-08 23:05:27]    ⚠ SIGMA - Warhammer: needs Vanilla Attack Annotation Fix (With FirstPerson Support), Unlocked 1st Person Combat
+[2026-03-08 23:05:27]    ⚠ SMIM Quality Addon: needs Static Mesh Improvement Mod - SMIM
+[2026-03-08 23:05:27]    ⚠ STB Active Effects: needs SKSE Menu Framework
+[2026-03-08 23:05:27]    ⚠ STB Widgets: needs SkyHUD, TrueHUD - HUD Additions, SKSE Menu Framework
+[2026-03-08 23:05:27]    ⚠ Serana Dialogue Expansion: needs Dialogue Interface ReShaped, Save Unbaker
+[2026-03-08 23:05:27]    ⚠ Serana Dialogue Expansion - Romance: needs Dialogue Interface ReShaped, Save Unbaker
+[2026-03-08 23:05:27]    ⚠ Simple Follower Framework: needs SKSE Menu Framework
+[2026-03-08 23:05:27]    ⚠ Stances - KeyUtils version: needs Stances - Dynamic Animation Sets (Add-On)
+[2026-03-08 23:05:27]    ⚠ Static Mesh Improvement Mod Improvement Mod: needs Static Mesh Improvement Mod - SMIM
+[2026-03-08 23:05:27]    ⚠ SunHelm Survival: needs JContainers SE
+[2026-03-08 23:05:27]    ⚠ The Dragonborn's Bestiary: needs Keyword Item Distributor (KID)
+[2026-03-08 23:05:27]    ⚠ The Handy Icon Collection Collective: needs C.O.C.K.S. for Skyrim 1.5, Constructible Object Custom Keyword System NG, Inventory Interface Information Injector for Skyrim 1.5
+[2026-03-08 23:05:27]    ⚠ Tribute - Gold Based Leveling: needs Experience
+[2026-03-08 23:05:27]    ⚠ dTry Plugin Updates: needs Combat Music Fix SKSE, No Crime Teleport RE, Elden Parry (+2 more)
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Stances - KeyUtils version/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Static Mesh Improvement Mod Improvement Mod/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/SunHelm Survival/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/The Dragonborn's Bestiary/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/The Handy Icon Collection Collective/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Tribute - Gold Based Leveling/meta.ini
+[2026-03-08 23:05:27]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/dTry Plugin Updates/meta.ini
+[2026-03-08 23:05:58]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/127701
+[2026-03-08 23:07:42]  Browse: Loaded page 1 — 30 top downloaded mod(s).
+[2026-03-08 23:07:42]  Nexus API POST GraphQL topMods → 200
+[2026-03-08 23:07:42]    Response: {"data": {"mods": {"nodes": [{"modId": 19518, "name": "kryptopyr's Patch Hub", "summary": "A central location for any compatibility patches I've created for my mods.  I'll also try to provide updated links to patches available elsewhere.", "author": "kryptopyr and others", "version": "4.2.4", "endorsements": 33786, "downloads": 31455285, "pictureUrl": "https://staticdelivery.nexusmods.com/mods/1704/images/19518/19518-1536925880-1200742885.jpeg", "description": "[center][img]https://staticdelivery.nexusmods.com/mods/1704/images/19518/19518-1535162594-712055817.png[/img][/center]\n<br />[line]\n<br />[size=4][font=Georgia][color=#ffffff][size=5][size=6]M[/size]OD [size=5][size=6]A[/size]BBREVIATIONS[/size][/size][/color][/font][/size]\n<br />[list][*][b]ACE[/b]\u00a0= [url=https://www.nexusmods.com/skyrimspecialedition/mods/19002]Armor &amp; Clothing Extension[/url]\ufeff\n<br />[*][b]AMB[/b]\u00a0= [url=https://www.nexusmods.com/skyrimspecialedition/mods/35390]aMidianBorn Content Addon[/url]\n<br />[*][b]AMM = [url=https://www.nexusmods.com/skyrimspecialedition/mods/24104]Atlas Map Markers SE - Updated with MCM[/url][/b]\n<br />[*][b]BSC = [url=https://www.nexusmods.com/skyrimspecia...
+[2026-03-08 23:09:53]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-08 23:18:52]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-08 23:18:52]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-08 23:18:52]  Restore: removing plugins.txt symlink ...
+[2026-03-08 23:18:52]    Removed plugins.txt symlink from prefix.
+[2026-03-08 23:18:52]  Restore: restoring launcher ...
+[2026-03-08 23:18:52]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-08 23:18:52]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-08 23:18:52]    Removed 21576 file(s) from Data/.
+[2026-03-08 23:18:52]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-08 23:18:53]  Restore complete.
+[2026-03-08 23:18:53]  Backup: modlist.txt
+[2026-03-08 23:18:53]  Backup: plugins.txt
+[2026-03-08 23:18:53]  Backup: plugin_locks.json
+[2026-03-08 23:18:53]  Backup: removed oldest 20260308_175745
+[2026-03-08 23:18:53]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-08 23:18:53]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-08 23:18:53]    Moved 34 file(s) to Data_Core/.
+[2026-03-08 23:18:53]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-08 23:18:54]    Transferred 21551 mod file(s).
+[2026-03-08 23:18:54]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-08 23:18:54]    Transferred 25 vanilla file(s).
+[2026-03-08 23:18:54]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-08 23:18:54]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-08 23:18:54]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-08 23:18:54]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-08 23:18:54]  Step 7: Swapping launcher for SKSE ...
+[2026-03-08 23:18:54]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-08 23:18:54]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-08 23:18:54]  Deploy complete. 21551 mod + 25 vanilla = 21576 total file(s) in Data/.
+[2026-03-08 23:18:55]  Initializing LOOT...
+[2026-03-08 23:18:55]  Loaded masterlist with prelude.
+[2026-03-08 23:18:55]  Loading 174 plugin headers...
+[2026-03-08 23:18:55]  Sorting 174 plugins...
+[2026-03-08 23:18:56]  Sort complete. 0 plugin(s) changed position.
+[2026-03-08 23:18:56]  Load order is already sorted.
+[2026-03-08 23:18:56]  Filemap updated: 21551 file(s).
+[2026-03-08 23:19:09]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/133427
+[2026-03-08 23:19:17]  Filemap updated: 21223 file(s).
+[2026-03-08 23:20:52]  Filemap updated: 21220 file(s).
+[2026-03-08 23:20:52]  plugins.txt: removed 1 plugin(s).
+[2026-03-08 23:21:14]  Nexus: Received link from browser.
+[2026-03-08 23:21:14]  Nexus: Downloading mod 463 file 61422 from skyrimspecialedition...
+[2026-03-08 23:21:14]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/463/files/61422?key=EsaNAdMFIYtMrtwjlMatPA&expires=1773199273&user_id=71483453
+[2026-03-08 23:21:14]  Nexus API GET /games/skyrimspecialedition/mods/463 → 200
+[2026-03-08 23:21:14]    Response: {"name": "SkyHUD", "summary": "Toggle HUD elements on or off, scale sizes, change positions and swap elements with alternative version. Features dot crosshair, slim compass, alternate ammo display, detached compass markers and built-in support for font mods.", "description": "[center][color=#999999][b]This mod is provided AS IS[/b]\n<br />I have a penchant for going missing for months or even years on end. As such, please do not rely on me for support. Any request is also unlikely to be heard. You have to solve any compatibility issue on your own as I simply do not have the capacity to help you. You will find support among fellow users, please treat each other well. For common issues and questions, please refer to the stickied post.[/color][/center]\n<br />\n<br />[center][img]http://imgur.com/SlTXZJ1.png[/img][/center]\n<br />[color=#7CA5B0][b][size=5]FEATURES[/size][/b][/color]\n<br />- Hide, scale, move and remove HUD elements\n<br />- Alternative HUD elements - dot crosshair, ammo display, slim compass, left-aligned health and stamina meter, combined charge meter\n<br />- Font mod support\n<br />- Standalone compass markers for compatibility with marker mods\n<br />- Better tra...
+[2026-03-08 23:21:15]  Nexus API GET /games/skyrimspecialedition/mods/463/files → 200
+[2026-03-08 23:21:15]    Response: {"file_updates": [{"old_file_id": 14778, "new_file_id": 61243, "old_file_name": "SkyHUD Reference Manual-463-0-50B.zip", "new_file_name": "SkyHUD Reference Manual-463-0-90B.zip", "uploaded_timestamp": 1532807325, "uploaded_time": "2018-07-28T19:48:45.000+00:00"}, {"old_file_id": 61243, "new_file_id": 61315, "old_file_name": "SkyHUD Reference Manual-463-0-90B.zip", "new_file_name": "SkyHUD Reference Manual-463-0-90B.zip", "uploaded_timestamp": 1532851363, "uploaded_time": "2018-07-29T08:02:43.000+00:00"}, {"old_file_id": 15277, "new_file_id": 30381, "old_file_name": "SkyHUD Presets-463-0-60B.zip", "new_file_name": "SkyHUD Presets v2-463-0-60B.zip", "uploaded_timestamp": 1501409676, "uploaded_time": "2017-07-30T10:14:36.000+00:00"}, {"old_file_id": 15285, "new_file_id": 35812, "old_file_name": "SkyHUD 060Bv3-463-0-60B.zip", "new_file_name": "skyhudv070Bv6.zip-463-0-70b.zip", "uploaded_timestamp": 1507446346, "uploaded_time": "2017-10-08T07:05:46.000+00:00"}, {"old_file_id": 35812, "new_file_id": 36004, "old_file_name": "skyhudv070Bv6.zip-463-0-70b.zip", "new_file_name": "skyhudv070B.zip-463-0-70B.zip", "uploaded_timestamp": 1507663612, "uploaded_time": "2017-10-10T19:26:52.000+00:00"...
+[2026-03-08 23:21:15]  Nexus API GET /games/skyrimspecialedition/mods/463/files/61422/download_link → 200
+[2026-03-08 23:21:15]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/463/SkyHUD v090B v4-463-0-90B.zip?md5=0zhES6hJ8dD9Doo8mEEdNg&expires=1773040875&user_id=71483453"}]
+[2026-03-08 23:21:15]  Nexus API GET /games/skyrimspecialedition/mods/463/files/61422 → 200
+[2026-03-08 23:21:15]    Response: {"id": [61422, 1704], "uid": 7318624333806, "file_id": 61422, "name": "SkyHUD v090B v4", "version": "0.90B", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 3887, "file_name": "SkyHUD v090B v4-463-0-90B.zip", "uploaded_timestamp": 1532967550, "uploaded_time": "2018-07-30T16:19:10.000+00:00", "mod_version": "0.90B", "external_virus_scan_url": "https://www.virustotal.com/file/78576d2fcec090a213c159b654f000abb808901ad6a7ee64be157a5970b6dd18/analysis/1532967683/", "description": "[size=3][color=red][b]BACKUP YOUR CURRENT CONFIG. FOLLOW INSTALLATION INSTRUCTIONS.[/b][/color][/size]\n<br />All-in-one FOMOD, BAIN and loose files installer. Include a manual, sample configs and Immersive HUD patch.\n<br />For Skyrim SE 1.5.3 and above.", "size_kb": 3887, "size_in_bytes": 3980107, "changelog_html": "New\n<br />+ Quest marker toggle\n<br />+ Compact charge meter\n<br /><br />Fix\n<br />+ Missing crosshair\n<br />+ Subtitle anchor\n<br />+ Magicka anchor\n<br />+ Health anchor\n<br />+ Stamina anchor\n<br />+ Compass anchor\n<br /><br />General\n<br />+ Changed center anchor to top-center\n<br />\t+ Subtitle\n<br />\t+ Activate Button\n<br />\t+ Activate Text\n<br />\t+ ...
+[2026-03-08 23:21:16]  Nexus: Installing SkyHUD v090B v4-463-0-90B.zip...
+[2026-03-08 23:21:16]  Extracting with zipfile…
+[2026-03-08 23:21:16]  FOMOD installer detected — opening wizard...
+[2026-03-08 23:21:16]  Restored previous FOMOD selections.
+[2026-03-08 23:21:17]  Downloaded SkyHUD v090B v4-463-0-90B.zip (3980107 bytes) → /home/luther/Downloads/SkyHUD v090B v4-463-0-90B.zip
+[2026-03-08 23:21:30]  FOMOD complete — 3 file(s) to install.
+[2026-03-08 23:21:30]  Copied 3 item(s) to staging area.
+[2026-03-08 23:21:30]  Installed 'SkyHUD' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/SkyHUD
+[2026-03-08 23:21:30]  Added 'SkyHUD' to modlist.
+[2026-03-08 23:21:30]  Nexus: Removed archive SkyHUD v090B v4-463-0-90B.zip
+[2026-03-08 23:21:30]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-08 23:21:30]  Nexus: Computing MD5 hash of SkyHUD v090B v4-463-0-90B.zip...
+[2026-03-08 23:21:30]  Nexus: MD5 lookup failed — [Errno 2] No such file or directory: '/home/luther/Downloads/SkyHUD v090B v4-463-0-90B.zip'
+[2026-03-08 23:21:30]  Filemap updated: 21221 file(s).
+[2026-03-08 23:24:52]  Filemap updated: 21220 file(s).
+[2026-03-08 23:25:59]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/12688
+[2026-03-08 23:26:53]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/166086
+[2026-03-08 23:27:46]  Opened: CastingBar.ini
+[2026-03-08 23:28:07]  Nexus: Received link from browser.
+[2026-03-08 23:28:07]  Nexus: Downloading mod 463 file 61422 from skyrimspecialedition...
+[2026-03-08 23:28:07]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/463/files/61422?key=n1PzRfS5ZAWgoZqXFox7aQ&expires=1773199686&user_id=71483453
+[2026-03-08 23:28:07]  Nexus API GET /games/skyrimspecialedition/mods/463 → 200
+[2026-03-08 23:28:07]    Response: {"name": "SkyHUD", "summary": "Toggle HUD elements on or off, scale sizes, change positions and swap elements with alternative version. Features dot crosshair, slim compass, alternate ammo display, detached compass markers and built-in support for font mods.", "description": "[center][color=#999999][b]This mod is provided AS IS[/b]\n<br />I have a penchant for going missing for months or even years on end. As such, please do not rely on me for support. Any request is also unlikely to be heard. You have to solve any compatibility issue on your own as I simply do not have the capacity to help you. You will find support among fellow users, please treat each other well. For common issues and questions, please refer to the stickied post.[/color][/center]\n<br />\n<br />[center][img]http://imgur.com/SlTXZJ1.png[/img][/center]\n<br />[color=#7CA5B0][b][size=5]FEATURES[/size][/b][/color]\n<br />- Hide, scale, move and remove HUD elements\n<br />- Alternative HUD elements - dot crosshair, ammo display, slim compass, left-aligned health and stamina meter, combined charge meter\n<br />- Font mod support\n<br />- Standalone compass markers for compatibility with marker mods\n<br />- Better tra...
+[2026-03-08 23:28:07]  Nexus API GET /games/skyrimspecialedition/mods/463/files → 200
+[2026-03-08 23:28:07]    Response: {"file_updates": [{"old_file_id": 14778, "new_file_id": 61243, "old_file_name": "SkyHUD Reference Manual-463-0-50B.zip", "new_file_name": "SkyHUD Reference Manual-463-0-90B.zip", "uploaded_timestamp": 1532807325, "uploaded_time": "2018-07-28T19:48:45.000+00:00"}, {"old_file_id": 61243, "new_file_id": 61315, "old_file_name": "SkyHUD Reference Manual-463-0-90B.zip", "new_file_name": "SkyHUD Reference Manual-463-0-90B.zip", "uploaded_timestamp": 1532851363, "uploaded_time": "2018-07-29T08:02:43.000+00:00"}, {"old_file_id": 15277, "new_file_id": 30381, "old_file_name": "SkyHUD Presets-463-0-60B.zip", "new_file_name": "SkyHUD Presets v2-463-0-60B.zip", "uploaded_timestamp": 1501409676, "uploaded_time": "2017-07-30T10:14:36.000+00:00"}, {"old_file_id": 15285, "new_file_id": 35812, "old_file_name": "SkyHUD 060Bv3-463-0-60B.zip", "new_file_name": "skyhudv070Bv6.zip-463-0-70b.zip", "uploaded_timestamp": 1507446346, "uploaded_time": "2017-10-08T07:05:46.000+00:00"}, {"old_file_id": 35812, "new_file_id": 36004, "old_file_name": "skyhudv070Bv6.zip-463-0-70b.zip", "new_file_name": "skyhudv070B.zip-463-0-70B.zip", "uploaded_timestamp": 1507663612, "uploaded_time": "2017-10-10T19:26:52.000+00:00"...
+[2026-03-08 23:28:08]  Nexus API GET /games/skyrimspecialedition/mods/463/files/61422/download_link → 200
+[2026-03-08 23:28:08]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/463/SkyHUD v090B v4-463-0-90B.zip?md5=B8MShVWMoZ83mqpfP74FLg&expires=1773041287&user_id=71483453"}]
+[2026-03-08 23:28:08]  Nexus API GET /games/skyrimspecialedition/mods/463/files/61422 → 200
+[2026-03-08 23:28:08]    Response: {"id": [61422, 1704], "uid": 7318624333806, "file_id": 61422, "name": "SkyHUD v090B v4", "version": "0.90B", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 3887, "file_name": "SkyHUD v090B v4-463-0-90B.zip", "uploaded_timestamp": 1532967550, "uploaded_time": "2018-07-30T16:19:10.000+00:00", "mod_version": "0.90B", "external_virus_scan_url": "https://www.virustotal.com/file/78576d2fcec090a213c159b654f000abb808901ad6a7ee64be157a5970b6dd18/analysis/1532967683/", "description": "[size=3][color=red][b]BACKUP YOUR CURRENT CONFIG. FOLLOW INSTALLATION INSTRUCTIONS.[/b][/color][/size]\n<br />All-in-one FOMOD, BAIN and loose files installer. Include a manual, sample configs and Immersive HUD patch.\n<br />For Skyrim SE 1.5.3 and above.", "size_kb": 3887, "size_in_bytes": 3980107, "changelog_html": "New\n<br />+ Quest marker toggle\n<br />+ Compact charge meter\n<br /><br />Fix\n<br />+ Missing crosshair\n<br />+ Subtitle anchor\n<br />+ Magicka anchor\n<br />+ Health anchor\n<br />+ Stamina anchor\n<br />+ Compass anchor\n<br /><br />General\n<br />+ Changed center anchor to top-center\n<br />\t+ Subtitle\n<br />\t+ Activate Button\n<br />\t+ Activate Text\n<br />\t+ ...
+[2026-03-08 23:28:09]  Nexus: Installing SkyHUD v090B v4-463-0-90B.zip...
+[2026-03-08 23:28:09]  Extracting with zipfile…
+[2026-03-08 23:28:09]  FOMOD installer detected — opening wizard...
+[2026-03-08 23:28:09]  Restored previous FOMOD selections.
+[2026-03-08 23:28:09]  Downloaded SkyHUD v090B v4-463-0-90B.zip (3980107 bytes) → /home/luther/Downloads/SkyHUD v090B v4-463-0-90B.zip
+[2026-03-08 23:28:10]  Nexus: Received link from browser.
+[2026-03-08 23:28:10]  Nexus: Downloading mod 62775 file 454617 from skyrimspecialedition...
+[2026-03-08 23:28:10]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/62775/files/454617?key=hXTlajkgOMKCgJPcXACEEw&expires=1773199689&user_id=71483453
+[2026-03-08 23:28:10]  Nexus API GET /games/skyrimspecialedition/mods/62775 → 200
+[2026-03-08 23:28:10]    Response: {"name": "TrueHUD - HUD Additions", "summary": "HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget, recent loot log and an API for other plugins to use. Modular and customizable through MCM.", "description": "[img]https://i.imgur.com/yHreb0l.png[/img]\n<br />\n<br />   The mod started its existence when I wasn't able anymore to rationalize adding more unrelated HUD elements to [url=https://www.nexusmods.com/skyrimspecialedition/mods/51614]True Directional Movement[/url]. I've made the decision to move all the HUD components to a separate mod, while also reworking and improving them. The plugin will also serve as a sort of hub for my (or someone else's) other SKSE plugins that want to add and control HUD widgets.\n<br />   Please excuse the cheesy name but I just couldn't resist the name connection with True Directional Movement.\n<br />\n<br />[center][url=https://ko-fi.com/ershin][img]https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true[/img][/url]\u00a0 [url=https://patreon.com/Ershin][img]https://github.com/doodlum/nexusmods-widgets/blob/main/P...
+[2026-03-08 23:28:11]  Nexus API GET /games/skyrimspecialedition/mods/62775/files → 200
+[2026-03-08 23:28:11]    Response: {"file_updates": [{"old_file_id": 261112, "new_file_id": 262850, "old_file_name": "TrueHUD (SE)-62775-1-0-0-1643768777.7z", "new_file_name": "TrueHUD (SE)-62775-1-0-1-1644380862.7z", "uploaded_timestamp": 1644380862, "uploaded_time": "2022-02-09T04:27:42.000+00:00"}, {"old_file_id": 262850, "new_file_id": 262922, "old_file_name": "TrueHUD (SE)-62775-1-0-1-1644380862.7z", "new_file_name": "TrueHUD (SE)-62775-1-0-2-1644421690.7z", "uploaded_timestamp": 1644421690, "uploaded_time": "2022-02-09T15:48:10.000+00:00"}, {"old_file_id": 262922, "new_file_id": 265266, "old_file_name": "TrueHUD (SE)-62775-1-0-2-1644421690.7z", "new_file_name": "TrueHUD (SE)-62775-1-0-3-1645245823.7z", "uploaded_timestamp": 1645245823, "uploaded_time": "2022-02-19T04:43:43.000+00:00"}, {"old_file_id": 265266, "new_file_id": 272085, "old_file_name": "TrueHUD (SE)-62775-1-0-3-1645245823.7z", "new_file_name": "TrueHUD (SE)-62775-1-1-0-1648078971.7z", "uploaded_timestamp": 1648078971, "uploaded_time": "2022-03-23T23:42:51.000+00:00"}, {"old_file_id": 272085, "new_file_id": 272278, "old_file_name": "TrueHUD (SE)-62775-1-1-0-1648078971.7z", "new_file_name": "TrueHUD (SE)-62775-1-1-1-1648160561.7z", "uploaded_timesta...
+[2026-03-08 23:28:11]  Nexus API GET /games/skyrimspecialedition/mods/62775/files/454617/download_link → 200
+[2026-03-08 23:28:11]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/62775/TrueHUD-62775-1-1-9-1703382929.7z?md5=aebccnCM5y8KexH3MTy9Bw&expires=1773041291&user_id=71483453"}]
+[2026-03-08 23:28:11]  Nexus API GET /games/skyrimspecialedition/mods/62775/files/454617 → 200
+[2026-03-08 23:28:11]    Response: {"id": [454617, 1704], "uid": 7318624727001, "file_id": 454617, "name": "TrueHUD", "version": "1.1.9", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 299, "file_name": "TrueHUD-62775-1-1-9-1703382929.7z", "uploaded_timestamp": 1703382929, "uploaded_time": "2023-12-24T01:55:29.000+00:00", "mod_version": "1.1.9", "external_virus_scan_url": "https://www.virustotal.com/gui/file/1271664b95b0b9085d94431b9abb1d24501c38500757a58e4627c40d85058929/detection/f-1271664b95b0b9085d94431b9abb1d24501c38500757a58e4627c40d85058929-1703382935", "description": "", "size_kb": 299, "size_in_bytes": 305668, "changelog_html": "Added support for the newest Skyrim version (1.6.1130) - huge thanks to alandtse for updating CommonLibSSE-NG!\nMerged GitHub PR from Zouizoui78: Don't hide player widget's bars if they are not full\nMerged GitHub PR from adya: Compatibility with NPCs Names Distributor", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/62775/TrueHUD-62775-1-1-9-1703382929.7z.json"}
+[2026-03-08 23:28:11]  Nexus: Installing TrueHUD-62775-1-1-9-1703382929.7z...
+[2026-03-08 23:28:11]  Extracting with py7zr…
+[2026-03-08 23:28:11]  Direct install — 20 file(s) to install.
+[2026-03-08 23:28:11]  Copied 20 item(s) to staging area.
+[2026-03-08 23:28:11]  Installed 'TrueHUD' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TrueHUD
+[2026-03-08 23:28:11]  plugins.txt: added 1 plugin(s) from 'TrueHUD'.
+[2026-03-08 23:28:11]  Added 'TrueHUD' to modlist.
+[2026-03-08 23:28:12]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TrueHUD/meta.ini
+[2026-03-08 23:28:12]  Nexus: Saved metadata (mod 62775, v1.1.9)
+[2026-03-08 23:28:12]  Nexus: Removed archive TrueHUD-62775-1-1-9-1703382929.7z
+[2026-03-08 23:28:12]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-08 23:28:12]  Downloaded TrueHUD-62775-1-1-9-1703382929.7z (305668 bytes) → /home/luther/Downloads/TrueHUD-62775-1-1-9-1703382929.7z
+[2026-03-08 23:28:12]  Nexus: Detected mod ID 62775 from filename.
+[2026-03-08 23:28:12]  Nexus API GET /games/skyrimspecialedition/mods/62775 → 200
+[2026-03-08 23:28:12]    Response: {"name": "TrueHUD - HUD Additions", "summary": "HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget, recent loot log and an API for other plugins to use. Modular and customizable through MCM.", "description": "[img]https://i.imgur.com/yHreb0l.png[/img]\n<br />\n<br />   The mod started its existence when I wasn't able anymore to rationalize adding more unrelated HUD elements to [url=https://www.nexusmods.com/skyrimspecialedition/mods/51614]True Directional Movement[/url]. I've made the decision to move all the HUD components to a separate mod, while also reworking and improving them. The plugin will also serve as a sort of hub for my (or someone else's) other SKSE plugins that want to add and control HUD widgets.\n<br />   Please excuse the cheesy name but I just couldn't resist the name connection with True Directional Movement.\n<br />\n<br />[center][url=https://ko-fi.com/ershin][img]https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true[/img][/url]\u00a0 [url=https://patreon.com/Ershin][img]https://github.com/doodlum/nexusmods-widgets/blob/main/P...
+[2026-03-08 23:28:12]  Nexus API GET /games/skyrimspecialedition/mods/62775/files → 200
+[2026-03-08 23:28:12]    Response: {"file_updates": [{"old_file_id": 261112, "new_file_id": 262850, "old_file_name": "TrueHUD (SE)-62775-1-0-0-1643768777.7z", "new_file_name": "TrueHUD (SE)-62775-1-0-1-1644380862.7z", "uploaded_timestamp": 1644380862, "uploaded_time": "2022-02-09T04:27:42.000+00:00"}, {"old_file_id": 262850, "new_file_id": 262922, "old_file_name": "TrueHUD (SE)-62775-1-0-1-1644380862.7z", "new_file_name": "TrueHUD (SE)-62775-1-0-2-1644421690.7z", "uploaded_timestamp": 1644421690, "uploaded_time": "2022-02-09T15:48:10.000+00:00"}, {"old_file_id": 262922, "new_file_id": 265266, "old_file_name": "TrueHUD (SE)-62775-1-0-2-1644421690.7z", "new_file_name": "TrueHUD (SE)-62775-1-0-3-1645245823.7z", "uploaded_timestamp": 1645245823, "uploaded_time": "2022-02-19T04:43:43.000+00:00"}, {"old_file_id": 265266, "new_file_id": 272085, "old_file_name": "TrueHUD (SE)-62775-1-0-3-1645245823.7z", "new_file_name": "TrueHUD (SE)-62775-1-1-0-1648078971.7z", "uploaded_timestamp": 1648078971, "uploaded_time": "2022-03-23T23:42:51.000+00:00"}, {"old_file_id": 272085, "new_file_id": 272278, "old_file_name": "TrueHUD (SE)-62775-1-1-0-1648078971.7z", "new_file_name": "TrueHUD (SE)-62775-1-1-1-1648160561.7z", "uploaded_timesta...
+[2026-03-08 23:28:12]  FOMOD complete — 3 file(s) to install.
+[2026-03-08 23:28:12]  Copied 3 item(s) to staging area.
+[2026-03-08 23:28:12]  Installed 'SkyHUD' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/SkyHUD
+[2026-03-08 23:28:12]  Added 'SkyHUD' to modlist.
+[2026-03-08 23:28:13]  Nexus: Removed archive SkyHUD v090B v4-463-0-90B.zip
+[2026-03-08 23:28:13]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-08 23:28:13]  Nexus: Identified as 'TrueHUD - HUD Additions' (mod 62775, file 454617).
+[2026-03-08 23:28:13]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/TrueHUD/meta.ini
+[2026-03-08 23:28:13]  Nexus: Saved metadata for 'TrueHUD' (mod 62775)
+[2026-03-08 23:28:13]  Filemap updated: 21236 file(s).
+[2026-03-08 23:28:13]  Nexus: Computing MD5 hash of SkyHUD v090B v4-463-0-90B.zip...
+[2026-03-08 23:28:13]  Nexus: MD5 lookup failed — [Errno 2] No such file or directory: '/home/luther/Downloads/SkyHUD v090B v4-463-0-90B.zip'
+[2026-03-08 23:28:13]  Filemap updated: 21237 file(s).
+[2026-03-08 23:28:40]  Initializing LOOT...
+[2026-03-08 23:28:41]  Loaded masterlist with prelude.
+[2026-03-08 23:28:41]  Loading 174 plugin headers...
+[2026-03-08 23:28:41]  Sorting 174 plugins...
+[2026-03-08 23:28:41]  Sort complete. 157 plugin(s) changed position.
+[2026-03-08 23:28:41]  Sorted — 157 plugin(s) changed position.
+[2026-03-08 23:28:57]  Initializing LOOT...
+[2026-03-08 23:28:57]  Loaded masterlist with prelude.
+[2026-03-08 23:28:57]  Loading 174 plugin headers...
+[2026-03-08 23:28:57]  Sorting 174 plugins...
+[2026-03-08 23:28:57]  Sort complete. 0 plugin(s) changed position.
+[2026-03-08 23:28:57]  Load order is already sorted.
+[2026-03-08 23:28:58]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-08 23:28:58]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-08 23:28:58]  Restore: removing plugins.txt symlink ...
+[2026-03-08 23:28:58]    Removed plugins.txt symlink from prefix.
+[2026-03-08 23:28:58]  Restore: restoring launcher ...
+[2026-03-08 23:28:58]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-08 23:28:58]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-08 23:28:59]    Removed 21243 file(s) from Data/.
+[2026-03-08 23:28:59]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-08 23:28:59]  Restore complete.
+[2026-03-08 23:28:59]  Backup: modlist.txt
+[2026-03-08 23:28:59]  Backup: plugins.txt
+[2026-03-08 23:28:59]  Backup: plugin_locks.json
+[2026-03-08 23:28:59]  Backup: removed oldest 20260308_183025
+[2026-03-08 23:28:59]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-08 23:28:59]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-08 23:28:59]    Moved 34 file(s) to Data_Core/.
+[2026-03-08 23:28:59]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-08 23:29:01]    Transferred 21237 mod file(s).
+[2026-03-08 23:29:01]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-08 23:29:01]    Transferred 25 vanilla file(s).
+[2026-03-08 23:29:01]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-08 23:29:01]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-08 23:29:01]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-08 23:29:01]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-08 23:29:01]  Step 7: Swapping launcher for SKSE ...
+[2026-03-08 23:29:01]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-08 23:29:01]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-08 23:29:01]  Deploy complete. 21237 mod + 25 vanilla = 21262 total file(s) in Data/.
+[2026-03-08 23:29:02]  Filemap updated: 21237 file(s).
+[2026-03-08 23:29:02]  Initializing LOOT...
+[2026-03-08 23:29:02]  Loaded masterlist with prelude.
+[2026-03-08 23:29:02]  Loading 174 plugin headers...
+[2026-03-08 23:29:02]  Sorting 174 plugins...
+[2026-03-08 23:29:02]  Sort complete. 0 plugin(s) changed position.
+[2026-03-08 23:29:02]  Load order is already sorted.
+[2026-03-08 23:29:17]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/85139
+[2026-03-08 23:29:27]  Nexus: Received link from browser.
+[2026-03-08 23:29:27]  Nexus: Downloading mod 84909 file 362967 from skyrimspecialedition...
+[2026-03-08 23:29:27]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/84909/files/362967?key=D57zedsANJ6CQDSed9QhcQ&expires=1773199766&user_id=71483453
+[2026-03-08 23:29:27]  Nexus API GET /games/skyrimspecialedition/mods/84909 → 200
+[2026-03-08 23:29:27]    Response: {"name": "Recipe Auto-Learn", "summary": "SKSE plugin for Skyrim that makes recipes useful by allowing the player to automatically learn ingredient effects when reading recipes and corrects all recipes to show the correct ingredients.", "description": "[size=5][center][youtube]5_LPNaD-68c[/youtube][/center][/size]\n<br />Inspired from [url=https://www.nexusmods.com/skyrimspecialedition/mods/80060]Learn Ingredients by MMX452[/url], this mod takes an SKSE approach that works for all recipes with no need for patching!\n<br />\n<br />[size=5][color=#77dd77][b]Features:\n<br />[/b][/color][/size]\n<br />[list]\n<br />[*]Automatically learn ingredient effects when reading recipes\n<br />[*]Corrects all recipes to show the correct ingredients if the ingredient(s) is misspelled (ex: Sabre Cat Eyeball becomes Eye Of Sabre Cat) or if the ingredient doesn't actually fit the recipe (ex: Imp Eye Stool in a resist shock potion recipe doesn't have resist shock effect, gets changed to closest ingredient that does have resist shock) \n<br />[*]Compatible with both Skyrim VR and Skyrim Special Edition\n<br />[*]Work for [i]any[/i] recipe, not just vanilla ones!\n<br />[*]Leaves no lasting changes on...
+[2026-03-08 23:29:28]  Nexus API GET /games/skyrimspecialedition/mods/84909/files → 200
+[2026-03-08 23:29:28]    Response: {"file_updates": [{"old_file_id": 360645, "new_file_id": 360701, "old_file_name": "Recipes 1.0-84909-1-0-0-1676649867.rar", "new_file_name": "1.0.1-84909-1-0-1-1676662522.rar", "uploaded_timestamp": 1676662522, "uploaded_time": "2023-02-17T19:35:22.000+00:00"}, {"old_file_id": 360701, "new_file_id": 360767, "old_file_name": "1.0.1-84909-1-0-1-1676662522.rar", "new_file_name": "Recipes 1.0.2-84909-1-0-2-1676672039.rar", "uploaded_timestamp": 1676672039, "uploaded_time": "2023-02-17T22:13:59.000+00:00"}, {"old_file_id": 360770, "new_file_id": 361410, "old_file_name": "Recipes 1.0.2-84909-1-0-2-1676672174.rar", "new_file_name": "Recipes 1.1.0-84909-1-1-0-1676842741.rar", "uploaded_timestamp": 1676842741, "uploaded_time": "2023-02-19T21:39:01.000+00:00"}, {"old_file_id": 361410, "new_file_id": 362967, "old_file_name": "Recipes 1.1.0-84909-1-1-0-1676842741.rar", "new_file_name": "Recipes 1.1.1-84909-1-1-1-1677267647.rar", "uploaded_timestamp": 1677267647, "uploaded_time": "2023-02-24T19:40:47.000+00:00"}], "files": [{"id": [360645, 1704], "uid": 7318624633029, "file_id": 360645, "name": "Recipes 1.0", "version": "1.0.0", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": fa...
+[2026-03-08 23:29:28]  Nexus API GET /games/skyrimspecialedition/mods/84909/files/362967/download_link → 200
+[2026-03-08 23:29:28]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/84909/Recipes 1.1.1-84909-1-1-1-1677267647.rar?md5=FeiTz7H33aQFaPWfeLsagQ&expires=1773041368&user_id=71483453"}]
+[2026-03-08 23:29:28]  Nexus API GET /games/skyrimspecialedition/mods/84909/files/362967 → 200
+[2026-03-08 23:29:28]    Response: {"id": [362967, 1704], "uid": 7318624635351, "file_id": 362967, "name": "Recipes 1.1.1", "version": "1.1.1", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 4267, "file_name": "Recipes 1.1.1-84909-1-1-1-1677267647.rar", "uploaded_timestamp": 1677267647, "uploaded_time": "2023-02-24T19:40:47.000+00:00", "mod_version": "1.1.1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/c4ea908a8a292bc2b72e79066d1518d439044cc46576a4184ac9e6f75cf34c7d/detection/f-c4ea908a8a292bc2b72e79066d1518d439044cc46576a4184ac9e6f75cf34c7d-1677267343", "description": "Reupload of 1.1.0 after rezipping as an attempt to prevent false positives for some window 10 users", "size_kb": 4267, "size_in_bytes": 4369374, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/84909/Recipes 1.1.1-84909-1-1-1-1677267647.rar.json"}
+[2026-03-08 23:29:29]  Nexus: Installing Recipes 1.1.1-84909-1-1-1-1677267647.rar...
+[2026-03-08 23:29:29]  Extracting with unrar…
+[2026-03-08 23:29:30]  Direct install — 4 file(s) to install.
+[2026-03-08 23:29:30]  Auto-stripped top-level folder(s) so mod matches expected structure.
+[2026-03-08 23:29:30]  Copied 4 item(s) to staging area.
+[2026-03-08 23:29:30]  Installed 'Recipes' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Recipes
+[2026-03-08 23:29:30]  Added 'Recipes' to modlist.
+[2026-03-08 23:29:30]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Recipes/meta.ini
+[2026-03-08 23:29:30]  Nexus: Saved metadata (mod 84909, v1.1.1)
+[2026-03-08 23:29:30]  Nexus: Removed archive Recipes 1.1.1-84909-1-1-1-1677267647.rar
+[2026-03-08 23:29:30]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-08 23:29:30]  Downloaded Recipes 1.1.1-84909-1-1-1-1677267647.rar (4369374 bytes) → /home/luther/Downloads/Recipes 1.1.1-84909-1-1-1-1677267647.rar
+[2026-03-08 23:29:30]  Nexus: Detected mod ID 84909 from filename.
+[2026-03-08 23:29:30]  Nexus API GET /games/skyrimspecialedition/mods/84909 → 200
+[2026-03-08 23:29:30]    Response: {"name": "Recipe Auto-Learn", "summary": "SKSE plugin for Skyrim that makes recipes useful by allowing the player to automatically learn ingredient effects when reading recipes and corrects all recipes to show the correct ingredients.", "description": "[size=5][center][youtube]5_LPNaD-68c[/youtube][/center][/size]\n<br />Inspired from [url=https://www.nexusmods.com/skyrimspecialedition/mods/80060]Learn Ingredients by MMX452[/url], this mod takes an SKSE approach that works for all recipes with no need for patching!\n<br />\n<br />[size=5][color=#77dd77][b]Features:\n<br />[/b][/color][/size]\n<br />[list]\n<br />[*]Automatically learn ingredient effects when reading recipes\n<br />[*]Corrects all recipes to show the correct ingredients if the ingredient(s) is misspelled (ex: Sabre Cat Eyeball becomes Eye Of Sabre Cat) or if the ingredient doesn't actually fit the recipe (ex: Imp Eye Stool in a resist shock potion recipe doesn't have resist shock effect, gets changed to closest ingredient that does have resist shock) \n<br />[*]Compatible with both Skyrim VR and Skyrim Special Edition\n<br />[*]Work for [i]any[/i] recipe, not just vanilla ones!\n<br />[*]Leaves no lasting changes on...
+[2026-03-08 23:29:30]  Nexus: Identified as 'Recipe Auto-Learn' (mod 84909, file 362967).
+[2026-03-08 23:29:30]  Nexus API GET /games/skyrimspecialedition/mods/84909/files → 200
+[2026-03-08 23:29:30]    Response: {"file_updates": [{"old_file_id": 360645, "new_file_id": 360701, "old_file_name": "Recipes 1.0-84909-1-0-0-1676649867.rar", "new_file_name": "1.0.1-84909-1-0-1-1676662522.rar", "uploaded_timestamp": 1676662522, "uploaded_time": "2023-02-17T19:35:22.000+00:00"}, {"old_file_id": 360701, "new_file_id": 360767, "old_file_name": "1.0.1-84909-1-0-1-1676662522.rar", "new_file_name": "Recipes 1.0.2-84909-1-0-2-1676672039.rar", "uploaded_timestamp": 1676672039, "uploaded_time": "2023-02-17T22:13:59.000+00:00"}, {"old_file_id": 360770, "new_file_id": 361410, "old_file_name": "Recipes 1.0.2-84909-1-0-2-1676672174.rar", "new_file_name": "Recipes 1.1.0-84909-1-1-0-1676842741.rar", "uploaded_timestamp": 1676842741, "uploaded_time": "2023-02-19T21:39:01.000+00:00"}, {"old_file_id": 361410, "new_file_id": 362967, "old_file_name": "Recipes 1.1.0-84909-1-1-0-1676842741.rar", "new_file_name": "Recipes 1.1.1-84909-1-1-1-1677267647.rar", "uploaded_timestamp": 1677267647, "uploaded_time": "2023-02-24T19:40:47.000+00:00"}], "files": [{"id": [360645, 1704], "uid": 7318624633029, "file_id": 360645, "name": "Recipes 1.0", "version": "1.0.0", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": fa...
+[2026-03-08 23:29:30]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Recipes/meta.ini
+[2026-03-08 23:29:30]  Nexus: Saved metadata for 'Recipes' (mod 84909)
+[2026-03-08 23:29:30]  Filemap updated: 21240 file(s).
+[2026-03-08 23:30:39]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-08 23:30:39]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-08 23:30:39]  Restore: removing plugins.txt symlink ...
+[2026-03-08 23:30:39]    Removed plugins.txt symlink from prefix.
+[2026-03-08 23:30:39]  Restore: restoring launcher ...
+[2026-03-08 23:30:39]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-08 23:30:39]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-08 23:30:39]    Removed 21262 file(s) from Data/.
+[2026-03-08 23:30:39]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-08 23:30:39]  Restore complete.
+[2026-03-08 23:30:39]  Backup: modlist.txt
+[2026-03-08 23:30:39]  Backup: plugins.txt
+[2026-03-08 23:30:39]  Backup: plugin_locks.json
+[2026-03-08 23:30:39]  Backup: removed oldest 20260308_183737
+[2026-03-08 23:30:39]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-08 23:30:39]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-08 23:30:39]    Moved 34 file(s) to Data_Core/.
+[2026-03-08 23:30:39]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-08 23:30:41]    Transferred 21240 mod file(s).
+[2026-03-08 23:30:41]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-08 23:30:41]    Transferred 25 vanilla file(s).
+[2026-03-08 23:30:41]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-08 23:30:41]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-08 23:30:41]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-08 23:30:41]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-08 23:30:41]  Step 7: Swapping launcher for SKSE ...
+[2026-03-08 23:30:41]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-08 23:30:41]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-08 23:30:41]  Deploy complete. 21240 mod + 25 vanilla = 21265 total file(s) in Data/.
+[2026-03-08 23:30:42]  Filemap updated: 21240 file(s).
+[2026-03-08 23:30:42]  Initializing LOOT...
+[2026-03-08 23:30:43]  Loaded masterlist with prelude.
+[2026-03-08 23:30:43]  Loading 174 plugin headers...
+[2026-03-08 23:30:43]  Sorting 174 plugins...
+[2026-03-08 23:30:43]  Sort complete. 0 plugin(s) changed position.
+[2026-03-08 23:30:43]  Load order is already sorted.
+[2026-03-08 23:31:00]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-09 00:28:30]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/94574
+[2026-03-09 00:29:30]  Nexus: Received link from browser.
+[2026-03-09 00:29:30]  Nexus: Downloading mod 82558 file 429047 from skyrimspecialedition...
+[2026-03-09 00:29:30]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/82558/files/429047?key=AELPbrM2QDdjCaFgVRww_A&expires=1773203369&user_id=71483453
+[2026-03-09 00:29:31]  Nexus API GET /games/skyrimspecialedition/mods/82558 → 200
+[2026-03-09 00:29:31]    Response: {"name": "Skyrim Skill Uncapper for SE and AE", "summary": "Allows for the reconfiguration of the max level and max effective level for skills. Fixes a number of bugs in the original implementation and adds new features. Compatible with both SE and AE.", "description": "This is an update to the [url=https://www.nexusmods.com/skyrimspecialedition/mods/46536]Skyrim Skill Uncapper(fixed)[/url] mod, which was itself an update to [url=https://www.nexusmods.com/skyrimspecialedition/mods/8889]Skyrim Skill Uncapper[/url].\n<br />\n<br />[b]Notable features:[/b]\n<br />[list]\n<br />[*]Configure the max level for each skill.\n<br />[*]Configure the max effective level (used in all game calculations).\n<br />[*]Configure the rate at which each skill gains experience.\n<br />[*]Configure the amount of experience necessary to level up.\n<br />[*]Configure the number of perks gained at level up.\n<br />[*]Configure the amount of health/magicka/stamina/carry weight gained at level up.\n<br />[*]Configure the amount of magicka/stamina gained at health level up, etc.\n<br />[*]Configure the scaling of the enchantment weapon charge equation.\n<br />[*]Configure which patches in this mod are applied...
+[2026-03-09 00:29:31]  Nexus API GET /games/skyrimspecialedition/mods/82558/files → 200
+[2026-03-09 00:29:31]    Response: {"file_updates": [], "files": [{"id": [348744, 1704], "uid": 7318624621128, "file_id": 348744, "name": "Skyrim Skill Uncapper AE", "version": "1.0.0", "category_id": 7, "category_name": "ARCHIVED", "is_primary": false, "size": 40, "file_name": "Skyrim Skill Uncapper AE-82558-1-0-0-1673484799.zip", "uploaded_timestamp": 1673484799, "uploaded_time": "2023-01-12T00:53:19.000+00:00", "mod_version": "1.0.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/4c330112d8caf7fe6a4ed243edb964c566355b9d8ca55a936549fa103890d6f9/detection/f-4c330112d8caf7fe6a4ed243edb964c566355b9d8ca55a936549fa103890d6f9-1673484804", "description": "", "size_kb": 40, "size_in_bytes": 40699, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/82558/Skyrim Skill Uncapper AE-82558-1-0-0-1673484799.zip.json"}, {"id": [349075, 1704], "uid": 7318624621459, "file_id": 349075, "name": "Skyrim Skill Uncapper AE", "version": "1.0.1", "category_id": 7, "category_name": "ARCHIVED", "is_primary": false, "size": 41, "file_name": "Skyrim Skill Uncapper AE-82558-1-0-1-1673584641.zip", "uploaded_timestamp": 1673584641, "uploaded_time": "2023-01-13T04:3...
+[2026-03-09 00:29:31]  Nexus API GET /games/skyrimspecialedition/mods/82558/files/429047/download_link → 200
+[2026-03-09 00:29:31]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/82558/Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip?md5=GEyT51AzZLKlnfPZ1IrC0w&expires=1773044971&user_id=71483453"}]
+[2026-03-09 00:29:31]  Nexus API GET /games/skyrimspecialedition/mods/82558/files/429047 → 200
+[2026-03-09 00:29:31]    Response: {"id": [429047, 1704], "uid": 7318624701431, "file_id": 429047, "name": "Skyrim Skill Uncapper for SE and AE", "version": "2.2.3", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 66, "file_name": "Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip", "uploaded_timestamp": 1695703184, "uploaded_time": "2023-09-26T04:39:44.000+00:00", "mod_version": "2.2.3", "external_virus_scan_url": "https://www.virustotal.com/gui/file/3f86436ec576e065fbcae61420b5f0dc584d7a5e56facb17813a78435f27d434/detection/f-3f86436ec576e065fbcae61420b5f0dc584d7a5e56facb17813a78435f27d434-1695703191", "description": "- Fixed an issue where GOG skyrim logged to the wrong directory.\n<br />- Fixed an issue where true/false INI fields were case sensitive.\n<br />- Potentially fixed an issue with opening the log file when the path contains unicode text.", "size_kb": 66, "size_in_bytes": 67546, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/82558/Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip.json"}
+[2026-03-09 00:29:31]  Nexus: Installing Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip...
+[2026-03-09 00:29:31]  Extracting with zipfile…
+[2026-03-09 00:29:31]  Direct install — 2 file(s) to install.
+[2026-03-09 00:29:31]  Copied 2 item(s) to staging area.
+[2026-03-09 00:29:31]  Installed 'Skyrim Skill Uncapper for SE and' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Skyrim Skill Uncapper for SE and
+[2026-03-09 00:29:31]  Added 'Skyrim Skill Uncapper for SE and' to modlist.
+[2026-03-09 00:29:32]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Skyrim Skill Uncapper for SE and/meta.ini
+[2026-03-09 00:29:32]  Nexus: Saved metadata (mod 82558, v2.2.3)
+[2026-03-09 00:29:32]  Nexus: Removed archive Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip
+[2026-03-09 00:29:32]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-09 00:29:32]  Downloaded Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip (67546 bytes) → /home/luther/Downloads/Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip
+[2026-03-09 00:29:32]  Nexus: Detected mod ID 82558 from filename.
+[2026-03-09 00:29:32]  Nexus API GET /games/skyrimspecialedition/mods/82558 → 200
+[2026-03-09 00:29:32]    Response: {"name": "Skyrim Skill Uncapper for SE and AE", "summary": "Allows for the reconfiguration of the max level and max effective level for skills. Fixes a number of bugs in the original implementation and adds new features. Compatible with both SE and AE.", "description": "This is an update to the [url=https://www.nexusmods.com/skyrimspecialedition/mods/46536]Skyrim Skill Uncapper(fixed)[/url] mod, which was itself an update to [url=https://www.nexusmods.com/skyrimspecialedition/mods/8889]Skyrim Skill Uncapper[/url].\n<br />\n<br />[b]Notable features:[/b]\n<br />[list]\n<br />[*]Configure the max level for each skill.\n<br />[*]Configure the max effective level (used in all game calculations).\n<br />[*]Configure the rate at which each skill gains experience.\n<br />[*]Configure the amount of experience necessary to level up.\n<br />[*]Configure the number of perks gained at level up.\n<br />[*]Configure the amount of health/magicka/stamina/carry weight gained at level up.\n<br />[*]Configure the amount of magicka/stamina gained at health level up, etc.\n<br />[*]Configure the scaling of the enchantment weapon charge equation.\n<br />[*]Configure which patches in this mod are applied...
+[2026-03-09 00:29:32]  Nexus API GET /games/skyrimspecialedition/mods/82558/files → 200
+[2026-03-09 00:29:32]    Response: {"file_updates": [], "files": [{"id": [348744, 1704], "uid": 7318624621128, "file_id": 348744, "name": "Skyrim Skill Uncapper AE", "version": "1.0.0", "category_id": 7, "category_name": "ARCHIVED", "is_primary": false, "size": 40, "file_name": "Skyrim Skill Uncapper AE-82558-1-0-0-1673484799.zip", "uploaded_timestamp": 1673484799, "uploaded_time": "2023-01-12T00:53:19.000+00:00", "mod_version": "1.0.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/4c330112d8caf7fe6a4ed243edb964c566355b9d8ca55a936549fa103890d6f9/detection/f-4c330112d8caf7fe6a4ed243edb964c566355b9d8ca55a936549fa103890d6f9-1673484804", "description": "", "size_kb": 40, "size_in_bytes": 40699, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/82558/Skyrim Skill Uncapper AE-82558-1-0-0-1673484799.zip.json"}, {"id": [349075, 1704], "uid": 7318624621459, "file_id": 349075, "name": "Skyrim Skill Uncapper AE", "version": "1.0.1", "category_id": 7, "category_name": "ARCHIVED", "is_primary": false, "size": 41, "file_name": "Skyrim Skill Uncapper AE-82558-1-0-1-1673584641.zip", "uploaded_timestamp": 1673584641, "uploaded_time": "2023-01-13T04:3...
+[2026-03-09 00:29:32]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Skyrim Skill Uncapper for SE and/meta.ini
+[2026-03-09 00:29:32]  Nexus: Identified as 'Skyrim Skill Uncapper for SE and AE' (mod 82558, file 429047).
+[2026-03-09 00:29:32]  Nexus: Saved metadata for 'Skyrim Skill Uncapper for SE and' (mod 82558)
+[2026-03-09 00:29:32]  Filemap updated: 21242 file(s).

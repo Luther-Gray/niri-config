@@ -1,0 +1,469 @@
+[2026-03-12 12:03:50]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-12 12:03:51]  Mod Manager ready. 1/28 games configured.
+[2026-03-12 12:03:51]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-12 12:03:51]  Nexus Mods API key loaded.
+[2026-03-12 12:03:51]  NXM protocol handler registered.
+[2026-03-12 12:03:51]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-12 12:03:51]  Nexus API GET /users/validate → 200
+[2026-03-12 12:03:51]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-12 12:03:52]  Nexus: Downloading mod 17230 file 725261 from skyrimspecialedition...
+[2026-03-12 12:03:52]  Filemap updated: 29821 file(s).
+[2026-03-12 12:03:52]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 12:03:52]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 12:03:52]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 12:03:52]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/725261/download_link → 200
+[2026-03-12 12:03:52]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/17230/Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z?md5=im-SKwvmWHQylAf7PKs_LA&expires=1773345832&user_id=71483453"}]
+[2026-03-12 12:03:52]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/725261 → 200
+[2026-03-12 12:03:52]    Response: {"id": [725261, 1704], "uid": 7318624997645, "file_id": 725261, "name": "Engine Fixes - SKSE64 Preloader", "version": "7", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 24, "file_name": "Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z", "uploaded_timestamp": 1771936758, "uploaded_time": "2026-02-24T12:39:18.000+00:00", "mod_version": "7", "external_virus_scan_url": "https://www.virustotal.com/gui/file/35633dc2904521f35861dbb582e084a10e77bec5b8f08fb08963d7578b07452f", "description": "Download this and extract it to your main Skyrim folder manually, or install it with your Mod Manager's root game functionality/plugin. This file does not go in your data folder.", "size_kb": 24, "size_in_bytes": 25080, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/17230/Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z.json"}
+[2026-03-12 12:03:52]  Nexus: Installing Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z...
+[2026-03-12 12:03:52]  Extracting with py7zr…
+[2026-03-12 12:03:52]  Direct install — 2 file(s) to install.
+[2026-03-12 12:03:52]  Mod structure unrecognised — installing as-is (no prefix applied).
+[2026-03-12 12:03:52]  Copied 2 item(s) to staging area.
+[2026-03-12 12:03:52]  Installed 'Engine Fixes - SKSE64 Preloader' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Engine Fixes - SKSE64 Preloader
+[2026-03-12 12:03:52]  Added 'Engine Fixes - SKSE64 Preloader' to modlist.
+[2026-03-12 12:03:53]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Engine Fixes - SKSE64 Preloader/meta.ini
+[2026-03-12 12:03:53]  Nexus: Saved metadata (mod 17230, v)
+[2026-03-12 12:03:53]  Nexus: Removed archive Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z
+[2026-03-12 12:03:53]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-12 12:03:53]  Downloaded Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z (25080 bytes) → /home/luther/Downloads/Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z
+[2026-03-12 12:03:53]  Nexus: Detected mod ID 17230 from filename.
+[2026-03-12 12:03:53]  Nexus API GET /games/skyrimspecialedition/mods/17230 → 200
+[2026-03-12 12:03:53]    Response: {"name": "SSE Engine Fixes (skse64 plugin)", "summary": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.", "description": "[center][b][size=6]Engine Fixes for Skyrim Special Edition[/size][/b][/center]\n<br />A WIP skse64 plugin for Skyrim Special Edition to fix bugs and patch issues.\n<br />\n<br />The majority of current work on this plugin (5.0+) is being done by Ryan, who deserves more credit than you can imagine :^)\n<br />\n<br />[size=4][b][center]Installation[/center][/b][/size]\n<br />[list]\n<br />[*]Install the Part 1 zip as you would any SKSE plugin, be that through your mod manager or directly to your data folder.\n<br />[/list]   \ufeffThe \"_preload.txt\" file is required to be in the directory if you want to use the memory manager patch, so if your Mod Manager warns you about it, make sure it gets added.[list]\n<br />[*]Install the Part 2 zip by extracting it to your Skyrim SE folder (the three dlls should be alongside SkyrimSE.exe, etc)\n<br />[/list]\n<br />\n<br />For configuration see the INI Settings below. The defaults should be stable for all users.\n<br />\n<br />[color=#ff7700][b]If you prefer SSE Fixes' version of the same fixes...
+[2026-03-12 12:03:54]  Nexus: Identified as 'SSE Engine Fixes (skse64 plugin)' (mod 17230, file 725261).
+[2026-03-12 12:03:54]  Nexus: Saved metadata for 'Engine Fixes - SKSE64 Preloader' (mod 17230)
+[2026-03-12 12:03:54]  Filemap updated: 29823 file(s).
+[2026-03-12 12:03:54]  Nexus API GET /games/skyrimspecialedition/mods/17230/files → 200
+[2026-03-12 12:03:54]    Response: {"file_updates": [{"old_file_id": 54766, "new_file_id": 54771, "old_file_name": "Engine Fixes 2.0 for SSE 1.5.39 - skse64 plugin-17230-2-0-1-5-39.7z", "new_file_name": "(Part 1) Engine Fixes 2.0 for SSE 1.5.39 - skse64 plugin-17230-2-0-1-5-39.7z", "uploaded_timestamp": 1526473389, "uploaded_time": "2018-05-16T12:23:09.000+00:00"}, {"old_file_id": 78892, "new_file_id": 147075, "old_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-1547916672.7z", "new_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-1-1592938826.7z", "uploaded_timestamp": 1592938826, "uploaded_time": "2020-06-23T19:00:26.000+00:00"}, {"old_file_id": 147075, "new_file_id": 149760, "old_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-1-1592938826.7z", "new_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-2-1594424314.7z", "uploaded_timestamp": 1594424314, "uploaded_time": "2020-07-10T23:38:34.000+00:00"}, {"old_file_id": 149760, "new_file_id": 181171, "old_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-2-1594424314.7z", "new_file_name": "(Part 2) Engine Fixes - skse64 Preloader and T...
+[2026-03-12 12:03:54]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Engine Fixes - SKSE64 Preloader/meta.ini
+[2026-03-12 12:03:56]  Nexus: Received link from browser.
+[2026-03-12 12:03:56]  Nexus: Downloading mod 17230 file 725753 from skyrimspecialedition...
+[2026-03-12 12:03:56]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/17230/files/725753?key=uP-oSUWss-xDhdgWXHMjmw&expires=1773504235&user_id=71483453
+[2026-03-12 12:03:56]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 12:03:56]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 12:03:56]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 12:03:57]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/725753/download_link → 200
+[2026-03-12 12:03:57]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/17230/Engine Fixes - Main File-17230-7-0-20-1772078239.7z?md5=wLctmxmWHyVGy3IgiEOY1Q&expires=1773345837&user_id=71483453"}]
+[2026-03-12 12:03:57]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/725753 → 200
+[2026-03-12 12:03:57]    Response: {"id": [725753, 1704], "uid": 7318624998137, "file_id": 725753, "name": "Engine Fixes - Main File", "version": "7.0.20", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 7787, "file_name": "Engine Fixes - Main File-17230-7-0-20-1772078239.7z", "uploaded_timestamp": 1772078239, "uploaded_time": "2026-02-26T03:57:19.000+00:00", "mod_version": "7.0.20", "external_virus_scan_url": "https://www.virustotal.com/gui/file/21330c95011f41859139635b43ce95ffb5fbadd3cd375d2f4358abcc3cb99407", "description": "Supports SE 1.5.97 and AE 1.6.1170+\n<br />\n<br />Please read the changelog.\n<br />\n<br />Requires the Preloader found below to be installed to load properly.\n<br />\n<br />Requires Address Library for your version.\n<br />\n<br />For support of other AE versions or EF 6.x, check Old Versions.", "size_kb": 7787, "size_in_bytes": 7973497, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/17230/Engine Fixes - Main File-17230-7-0-20-1772078239.7z.json"}
+[2026-03-12 12:04:00]  Nexus: Installing Engine Fixes - Main File-17230-7-0-20-1772078239.7z...
+[2026-03-12 12:04:00]  Extracting with py7zr…
+[2026-03-12 12:04:00]  py7zr failed ((b'\x03\x03\x01\x1b', 'BCJ2 filter is not supported by py7zr. Please consider to contribute to XZ/liblzma project and help Python core team implementing it. Or please use another tool to extract it.')), retrying with 7z…
+[2026-03-12 12:04:00]  Extracted with 7z.
+[2026-03-12 12:04:00]  FOMOD installer detected — opening wizard...
+[2026-03-12 12:04:00]  Downloaded Engine Fixes - Main File-17230-7-0-20-1772078239.7z (7973497 bytes) → /home/luther/Downloads/Engine Fixes - Main File-17230-7-0-20-1772078239.7z
+[2026-03-12 12:04:02]  FOMOD complete — 2 file(s) to install.
+[2026-03-12 12:04:02]  Copied 2 item(s) to staging area.
+[2026-03-12 12:04:02]  Installed 'EngineFixes' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/EngineFixes
+[2026-03-12 12:04:02]  Added 'EngineFixes' to modlist.
+[2026-03-12 12:04:03]  Nexus: Removed archive Engine Fixes - Main File-17230-7-0-20-1772078239.7z
+[2026-03-12 12:04:03]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-12 12:04:03]  Nexus: Detected mod ID 17230 from filename.
+[2026-03-12 12:04:03]  Nexus API GET /games/skyrimspecialedition/mods/17230 → 200
+[2026-03-12 12:04:03]    Response: {"name": "SSE Engine Fixes (skse64 plugin)", "summary": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.", "description": "[center][b][size=6]Engine Fixes for Skyrim Special Edition[/size][/b][/center]\n<br />A WIP skse64 plugin for Skyrim Special Edition to fix bugs and patch issues.\n<br />\n<br />The majority of current work on this plugin (5.0+) is being done by Ryan, who deserves more credit than you can imagine :^)\n<br />\n<br />[size=4][b][center]Installation[/center][/b][/size]\n<br />[list]\n<br />[*]Install the Part 1 zip as you would any SKSE plugin, be that through your mod manager or directly to your data folder.\n<br />[/list]   \ufeffThe \"_preload.txt\" file is required to be in the directory if you want to use the memory manager patch, so if your Mod Manager warns you about it, make sure it gets added.[list]\n<br />[*]Install the Part 2 zip by extracting it to your Skyrim SE folder (the three dlls should be alongside SkyrimSE.exe, etc)\n<br />[/list]\n<br />\n<br />For configuration see the INI Settings below. The defaults should be stable for all users.\n<br />\n<br />[color=#ff7700][b]If you prefer SSE Fixes' version of the same fixes...
+[2026-03-12 12:04:03]  Filemap updated: 29828 file(s).
+[2026-03-12 12:04:04]  Nexus API GET /games/skyrimspecialedition/mods/17230/files → 200
+[2026-03-12 12:04:04]    Response: {"file_updates": [{"old_file_id": 54766, "new_file_id": 54771, "old_file_name": "Engine Fixes 2.0 for SSE 1.5.39 - skse64 plugin-17230-2-0-1-5-39.7z", "new_file_name": "(Part 1) Engine Fixes 2.0 for SSE 1.5.39 - skse64 plugin-17230-2-0-1-5-39.7z", "uploaded_timestamp": 1526473389, "uploaded_time": "2018-05-16T12:23:09.000+00:00"}, {"old_file_id": 78892, "new_file_id": 147075, "old_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-1547916672.7z", "new_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-1-1592938826.7z", "uploaded_timestamp": 1592938826, "uploaded_time": "2020-06-23T19:00:26.000+00:00"}, {"old_file_id": 147075, "new_file_id": 149760, "old_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-1-1592938826.7z", "new_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-2-1594424314.7z", "uploaded_timestamp": 1594424314, "uploaded_time": "2020-07-10T23:38:34.000+00:00"}, {"old_file_id": 149760, "new_file_id": 181171, "old_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-2-1594424314.7z", "new_file_name": "(Part 2) Engine Fixes - skse64 Preloader and T...
+[2026-03-12 12:04:04]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/EngineFixes/meta.ini
+[2026-03-12 12:04:04]  Nexus: Identified as 'SSE Engine Fixes (skse64 plugin)' (mod 17230, file 725753).
+[2026-03-12 12:04:04]  Nexus: Saved metadata for 'EngineFixes' (mod 17230)
+[2026-03-12 12:04:12]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-12 12:04:12]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-12 12:04:12]  Restore: removing plugins.txt symlink ...
+[2026-03-12 12:04:12]    Removed plugins.txt symlink from prefix.
+[2026-03-12 12:04:12]  Restore: restoring launcher ...
+[2026-03-12 12:04:12]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-12 12:04:12]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-12 12:04:13]    Rescued 2 runtime-created file(s) → overwrite/.
+[2026-03-12 12:04:14]    Removed 29846 file(s) from Data/.
+[2026-03-12 12:04:14]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-12 12:04:14]  Restore complete.
+[2026-03-12 12:04:14]  Backup: modlist.txt
+[2026-03-12 12:04:14]  Backup: plugins.txt
+[2026-03-12 12:04:14]  Backup: plugin_locks.json
+[2026-03-12 12:04:14]  Backup: removed oldest 20260309_165051
+[2026-03-12 12:04:14]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-12 12:04:14]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-12 12:04:14]    Moved 34 file(s) to Data_Core/.
+[2026-03-12 12:04:14]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-12 12:04:16]    Transferred 29830 mod file(s).
+[2026-03-12 12:04:16]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-12 12:04:16]    Transferred 25 vanilla file(s).
+[2026-03-12 12:04:16]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-12 12:04:16]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-12 12:04:16]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-12 12:04:16]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-12 12:04:16]  Step 7: Swapping launcher for SKSE ...
+[2026-03-12 12:04:16]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-12 12:04:16]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-12 12:04:16]  Deploy complete. 29830 mod + 25 vanilla = 29855 total file(s) in Data/.
+[2026-03-12 12:04:18]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-12 12:04:18]  Updated masterlist_skyrimse.yaml.
+[2026-03-12 12:04:18]  Fetching latest masterlist_prelude.yaml...
+[2026-03-12 12:04:18]  Updated masterlist_prelude.yaml.
+[2026-03-12 12:04:18]  Initializing LOOT...
+[2026-03-12 12:04:19]  Loaded masterlist with prelude.
+[2026-03-12 12:04:19]  Loading 236 plugin headers...
+[2026-03-12 12:04:19]  Sorting 236 plugins...
+[2026-03-12 12:04:19]  Sort complete. 0 plugin(s) changed position.
+[2026-03-12 12:04:19]  Load order is already sorted.
+[2026-03-12 12:04:19]  Filemap updated: 29830 file(s).
+[2026-03-12 12:04:31]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-12 12:05:09]  Filemap updated: 29823 file(s).
+[2026-03-12 12:05:13]  Nexus: Received link from browser.
+[2026-03-12 12:05:13]  Nexus: Downloading mod 17230 file 669326 from skyrimspecialedition...
+[2026-03-12 12:05:13]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/17230/files/669326?key=WqNvsvIzLj47nHP44bkLzQ&expires=1773504312&user_id=71483453
+[2026-03-12 12:05:14]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 12:05:14]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 12:05:14]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 12:05:14]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/669326/download_link → 200
+[2026-03-12 12:05:14]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/17230/Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z?md5=vIekozlsR-goLocMdSdRlQ&expires=1773345914&user_id=71483453"}]
+[2026-03-12 12:05:14]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/669326 → 200
+[2026-03-12 12:05:14]    Response: {"id": [669326, 1704], "uid": 7318624941710, "file_id": 669326, "name": "Engine Fixes (All-In-One) for 1.6.1170 and newer", "version": "7.0.19-AIO", "category_id": 3, "category_name": "OPTIONAL", "is_primary": true, "size": 5476, "file_name": "Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z", "uploaded_timestamp": 1758815694, "uploaded_time": "2025-09-25T15:54:54.000+00:00", "mod_version": "7.0.19-AIO", "external_virus_scan_url": "https://www.virustotal.com/gui/file/dab94f4bbbb7d05cad66c1f3e161145044c1cca0f8cdcea98e829682cdb9b4a8/detection/f-dab94f4bbbb7d05cad66c1f3e161145044c1cca0f8cdcea98e829682cdb9b4a8-1758815699", "description": "For Skyrim SE 1.6.1170+\n<br />\n<br />All-In-One Package that can be extracted directly to the game folder or installed with Vortex. \n<br />\n<br />Requires Address Library (AE).", "size_kb": 5476, "size_in_bytes": 5607605, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/17230/Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z.json"}
+[2026-03-12 12:05:16]  Nexus: Installing Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z...
+[2026-03-12 12:05:16]  Extracting with py7zr…
+[2026-03-12 12:05:16]  Direct install — 8 file(s) to install.
+[2026-03-12 12:05:16]  Copied 8 item(s) to staging area.
+[2026-03-12 12:05:16]  Installed 'Engine Fixes for 1.6.1170 and newer' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Engine Fixes for 1.6.1170 and newer
+[2026-03-12 12:05:16]  Added 'Engine Fixes for 1.6.1170 and newer' to modlist.
+[2026-03-12 12:05:17]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Engine Fixes for 1.6.1170 and newer/meta.ini
+[2026-03-12 12:05:17]  Nexus: Saved metadata (mod 17230, v)
+[2026-03-12 12:05:17]  Nexus: Removed archive Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z
+[2026-03-12 12:05:17]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-12 12:05:17]  Downloaded Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z (5607605 bytes) → /home/luther/Downloads/Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z
+[2026-03-12 12:05:17]  Nexus: Detected mod ID 1758815694 from filename.
+[2026-03-12 12:05:17]  Nexus: Filename had mod ID 1758815694 but API lookup failed (Not Found). Trying MD5...
+[2026-03-12 12:05:17]  Nexus: Computing MD5 hash of Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z...
+[2026-03-12 12:05:17]  Nexus: MD5 lookup failed — [Errno 2] No such file or directory: '/home/luther/Downloads/Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z'
+[2026-03-12 12:05:17]  Nexus API GET /games/skyrimspecialedition/mods/1758815694 → 404
+[2026-03-12 12:05:17]    Response: {"error": "Mod ID 1758815694 not found for skyrimspecialedition"}
+[2026-03-12 12:05:17]  Filemap updated: 29831 file(s).
+[2026-03-12 12:05:21]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-12 12:05:21]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-12 12:05:21]  Restore: removing plugins.txt symlink ...
+[2026-03-12 12:05:21]    Removed plugins.txt symlink from prefix.
+[2026-03-12 12:05:21]  Restore: restoring launcher ...
+[2026-03-12 12:05:21]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-12 12:05:21]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-12 12:05:22]    Removed 29848 file(s) from Data/.
+[2026-03-12 12:05:22]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-12 12:05:22]  Restore complete.
+[2026-03-12 12:05:22]  Backup: modlist.txt
+[2026-03-12 12:05:22]  Backup: plugins.txt
+[2026-03-12 12:05:22]  Backup: plugin_locks.json
+[2026-03-12 12:05:22]  Backup: removed oldest 20260309_173330
+[2026-03-12 12:05:22]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-12 12:05:22]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-12 12:05:22]    Moved 34 file(s) to Data_Core/.
+[2026-03-12 12:05:22]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-12 12:05:26]    Transferred 29831 mod file(s).
+[2026-03-12 12:05:26]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-12 12:05:26]    Transferred 25 vanilla file(s).
+[2026-03-12 12:05:26]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-12 12:05:26]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-12 12:05:26]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-12 12:05:26]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-12 12:05:26]  Step 7: Swapping launcher for SKSE ...
+[2026-03-12 12:05:26]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-12 12:05:26]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-12 12:05:26]  Deploy complete. 29831 mod + 25 vanilla = 29856 total file(s) in Data/.
+[2026-03-12 12:05:27]  Filemap updated: 29831 file(s).
+[2026-03-12 12:05:30]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-12 12:05:30]  Updated masterlist_skyrimse.yaml.
+[2026-03-12 12:05:30]  Fetching latest masterlist_prelude.yaml...
+[2026-03-12 12:05:30]  Updated masterlist_prelude.yaml.
+[2026-03-12 12:05:30]  Initializing LOOT...
+[2026-03-12 12:05:30]  Loaded masterlist with prelude.
+[2026-03-12 12:05:30]  Loading 236 plugin headers...
+[2026-03-12 12:05:30]  Sorting 236 plugins...
+[2026-03-12 12:05:30]  Sort complete. 0 plugin(s) changed position.
+[2026-03-12 12:05:30]  Load order is already sorted.
+[2026-03-12 12:05:33]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-12 12:05:51]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/17230
+[2026-03-12 12:07:25]  Filemap updated: 29823 file(s).
+[2026-03-12 12:07:30]  Nexus: Received link from browser.
+[2026-03-12 12:07:30]  Nexus: Downloading mod 17230 file 725753 from skyrimspecialedition...
+[2026-03-12 12:07:30]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/17230/files/725753?key=FyJMNrBAUmYSkAZDJdOTnQ&expires=1773504449&user_id=71483453
+[2026-03-12 12:07:30]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 12:07:30]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 12:07:30]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 12:07:31]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/725753/download_link → 200
+[2026-03-12 12:07:31]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/17230/Engine Fixes - Main File-17230-7-0-20-1772078239.7z?md5=YjkuSpTMtHuoEG7qm1RiTQ&expires=1773346050&user_id=71483453"}]
+[2026-03-12 12:07:31]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/725753 → 200
+[2026-03-12 12:07:31]    Response: {"id": [725753, 1704], "uid": 7318624998137, "file_id": 725753, "name": "Engine Fixes - Main File", "version": "7.0.20", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 7787, "file_name": "Engine Fixes - Main File-17230-7-0-20-1772078239.7z", "uploaded_timestamp": 1772078239, "uploaded_time": "2026-02-26T03:57:19.000+00:00", "mod_version": "7.0.20", "external_virus_scan_url": "https://www.virustotal.com/gui/file/21330c95011f41859139635b43ce95ffb5fbadd3cd375d2f4358abcc3cb99407", "description": "Supports SE 1.5.97 and AE 1.6.1170+\n<br />\n<br />Please read the changelog.\n<br />\n<br />Requires the Preloader found below to be installed to load properly.\n<br />\n<br />Requires Address Library for your version.\n<br />\n<br />For support of other AE versions or EF 6.x, check Old Versions.", "size_kb": 7787, "size_in_bytes": 7973497, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/17230/Engine Fixes - Main File-17230-7-0-20-1772078239.7z.json"}
+[2026-03-12 12:07:31]  Nexus: Received link from browser.
+[2026-03-12 12:07:31]  Nexus: Downloading mod 17230 file 725261 from skyrimspecialedition...
+[2026-03-12 12:07:31]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/17230/files/725261?key=c_EUfsr6RQlLqfuZQ3ZWkg&expires=1773504450&user_id=71483453
+[2026-03-12 12:07:31]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 12:07:31]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 12:07:31]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 12:07:31]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/725261/download_link → 200
+[2026-03-12 12:07:31]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/17230/Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z?md5=iASinJqvV4R0zW2-TQCsxw&expires=1773346051&user_id=71483453"}]
+[2026-03-12 12:07:31]  Nexus API GET /games/skyrimspecialedition/mods/17230/files/725261 → 200
+[2026-03-12 12:07:31]    Response: {"id": [725261, 1704], "uid": 7318624997645, "file_id": 725261, "name": "Engine Fixes - SKSE64 Preloader", "version": "7", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 24, "file_name": "Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z", "uploaded_timestamp": 1771936758, "uploaded_time": "2026-02-24T12:39:18.000+00:00", "mod_version": "7", "external_virus_scan_url": "https://www.virustotal.com/gui/file/35633dc2904521f35861dbb582e084a10e77bec5b8f08fb08963d7578b07452f", "description": "Download this and extract it to your main Skyrim folder manually, or install it with your Mod Manager's root game functionality/plugin. This file does not go in your data folder.", "size_kb": 24, "size_in_bytes": 25080, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/17230/Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z.json"}
+[2026-03-12 12:07:32]  Nexus: Installing Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z...
+[2026-03-12 12:07:32]  Extracting with py7zr…
+[2026-03-12 12:07:32]  Direct install — 2 file(s) to install.
+[2026-03-12 12:07:32]  Mod structure unrecognised — installing as-is (no prefix applied).
+[2026-03-12 12:07:32]  Copied 2 item(s) to staging area.
+[2026-03-12 12:07:32]  Installed 'Engine Fixes - SKSE64 Preloader' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Engine Fixes - SKSE64 Preloader
+[2026-03-12 12:07:32]  Added 'Engine Fixes - SKSE64 Preloader' to modlist.
+[2026-03-12 12:07:32]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Engine Fixes - SKSE64 Preloader/meta.ini
+[2026-03-12 12:07:32]  Nexus: Saved metadata (mod 17230, v)
+[2026-03-12 12:07:32]  Nexus: Removed archive Engine Fixes - SKSE64 Preloader-17230-7-1771936758 (1).7z
+[2026-03-12 12:07:32]  Downloads: found 3 archive(s) in /home/luther/Downloads
+[2026-03-12 12:07:32]  Downloaded Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z (25080 bytes) → /home/luther/Downloads/Engine Fixes - SKSE64 Preloader-17230-7-1771936758 (1).7z
+[2026-03-12 12:07:32]  Nexus: Computing MD5 hash of Engine Fixes - SKSE64 Preloader-17230-7-1771936758 (1).7z...
+[2026-03-12 12:07:32]  Nexus: MD5 lookup failed — [Errno 2] No such file or directory: '/home/luther/Downloads/Engine Fixes - SKSE64 Preloader-17230-7-1771936758 (1).7z'
+[2026-03-12 12:07:33]  Filemap updated: 29825 file(s).
+[2026-03-12 12:07:33]  Nexus: Installing Engine Fixes - Main File-17230-7-0-20-1772078239.7z...
+[2026-03-12 12:07:33]  Extracting with py7zr…
+[2026-03-12 12:07:34]  py7zr failed ((b'\x03\x03\x01\x1b', 'BCJ2 filter is not supported by py7zr. Please consider to contribute to XZ/liblzma project and help Python core team implementing it. Or please use another tool to extract it.')), retrying with 7z…
+[2026-03-12 12:07:34]  Extracted with 7z.
+[2026-03-12 12:07:34]  FOMOD installer detected — opening wizard...
+[2026-03-12 12:07:34]  Restored previous FOMOD selections.
+[2026-03-12 12:07:34]  Downloaded Engine Fixes - Main File-17230-7-0-20-1772078239.7z (7973497 bytes) → /home/luther/Downloads/Engine Fixes - Main File-17230-7-0-20-1772078239.7z
+[2026-03-12 12:07:36]  FOMOD complete — 2 file(s) to install.
+[2026-03-12 12:07:36]  Copied 2 item(s) to staging area.
+[2026-03-12 12:07:36]  Installed 'EngineFixes' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/EngineFixes
+[2026-03-12 12:07:36]  Added 'EngineFixes' to modlist.
+[2026-03-12 12:07:36]  Nexus: Removed archive Engine Fixes - Main File-17230-7-0-20-1772078239.7z
+[2026-03-12 12:07:36]  Downloads: found 2 archive(s) in /home/luther/Downloads
+[2026-03-12 12:07:36]  Nexus: Detected mod ID 17230 from filename.
+[2026-03-12 12:07:37]  Nexus API GET /games/skyrimspecialedition/mods/17230 → 200
+[2026-03-12 12:07:37]    Response: {"name": "SSE Engine Fixes (skse64 plugin)", "summary": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.", "description": "[center][b][size=6]Engine Fixes for Skyrim Special Edition[/size][/b][/center]\n<br />A WIP skse64 plugin for Skyrim Special Edition to fix bugs and patch issues.\n<br />\n<br />The majority of current work on this plugin (5.0+) is being done by Ryan, who deserves more credit than you can imagine :^)\n<br />\n<br />[size=4][b][center]Installation[/center][/b][/size]\n<br />[list]\n<br />[*]Install the Part 1 zip as you would any SKSE plugin, be that through your mod manager or directly to your data folder.\n<br />[/list]   \ufeffThe \"_preload.txt\" file is required to be in the directory if you want to use the memory manager patch, so if your Mod Manager warns you about it, make sure it gets added.[list]\n<br />[*]Install the Part 2 zip by extracting it to your Skyrim SE folder (the three dlls should be alongside SkyrimSE.exe, etc)\n<br />[/list]\n<br />\n<br />For configuration see the INI Settings below. The defaults should be stable for all users.\n<br />\n<br />[color=#ff7700][b]If you prefer SSE Fixes' version of the same fixes...
+[2026-03-12 12:07:37]  Filemap updated: 29830 file(s).
+[2026-03-12 12:07:37]  Nexus API GET /games/skyrimspecialedition/mods/17230/files → 200
+[2026-03-12 12:07:37]    Response: {"file_updates": [{"old_file_id": 54766, "new_file_id": 54771, "old_file_name": "Engine Fixes 2.0 for SSE 1.5.39 - skse64 plugin-17230-2-0-1-5-39.7z", "new_file_name": "(Part 1) Engine Fixes 2.0 for SSE 1.5.39 - skse64 plugin-17230-2-0-1-5-39.7z", "uploaded_timestamp": 1526473389, "uploaded_time": "2018-05-16T12:23:09.000+00:00"}, {"old_file_id": 78892, "new_file_id": 147075, "old_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-1547916672.7z", "new_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-1-1592938826.7z", "uploaded_timestamp": 1592938826, "uploaded_time": "2020-06-23T19:00:26.000+00:00"}, {"old_file_id": 147075, "new_file_id": 149760, "old_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-1-1592938826.7z", "new_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-2-1594424314.7z", "uploaded_timestamp": 1594424314, "uploaded_time": "2020-07-10T23:38:34.000+00:00"}, {"old_file_id": 149760, "new_file_id": 181171, "old_file_name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2-0-2-1594424314.7z", "new_file_name": "(Part 2) Engine Fixes - skse64 Preloader and T...
+[2026-03-12 12:07:37]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/EngineFixes/meta.ini
+[2026-03-12 12:07:37]  Nexus: Identified as 'SSE Engine Fixes (skse64 plugin)' (mod 17230, file 725753).
+[2026-03-12 12:07:37]  Nexus: Saved metadata for 'EngineFixes' (mod 17230)
+[2026-03-12 12:07:40]  Filemap updated: 29828 file(s).
+[2026-03-12 12:07:44]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-12 12:07:44]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-12 12:07:44]  Restore: removing plugins.txt symlink ...
+[2026-03-12 12:07:44]    Removed plugins.txt symlink from prefix.
+[2026-03-12 12:07:44]  Restore: restoring launcher ...
+[2026-03-12 12:07:44]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-12 12:07:44]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-12 12:07:45]    Removed 29848 file(s) from Data/.
+[2026-03-12 12:07:45]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-12 12:07:45]  Restore complete.
+[2026-03-12 12:07:45]  Backup: modlist.txt
+[2026-03-12 12:07:45]  Backup: plugins.txt
+[2026-03-12 12:07:45]  Backup: plugin_locks.json
+[2026-03-12 12:07:45]  Backup: removed oldest 20260309_201817
+[2026-03-12 12:07:45]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-12 12:07:45]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-12 12:07:45]    Moved 34 file(s) to Data_Core/.
+[2026-03-12 12:07:45]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-12 12:07:47]    Transferred 29828 mod file(s).
+[2026-03-12 12:07:47]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-12 12:07:47]    Transferred 25 vanilla file(s).
+[2026-03-12 12:07:47]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-12 12:07:47]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-12 12:07:47]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-12 12:07:47]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-12 12:07:47]  Step 7: Swapping launcher for SKSE ...
+[2026-03-12 12:07:47]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-12 12:07:47]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-12 12:07:47]  Deploy complete. 29828 mod + 25 vanilla = 29853 total file(s) in Data/.
+[2026-03-12 12:07:48]  Filemap updated: 29828 file(s).
+[2026-03-12 12:07:49]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-12 12:07:49]  Updated masterlist_skyrimse.yaml.
+[2026-03-12 12:07:49]  Fetching latest masterlist_prelude.yaml...
+[2026-03-12 12:07:49]  Updated masterlist_prelude.yaml.
+[2026-03-12 12:07:49]  Initializing LOOT...
+[2026-03-12 12:07:50]  Loaded masterlist with prelude.
+[2026-03-12 12:07:50]  Loading 236 plugin headers...
+[2026-03-12 12:07:50]  Sorting 236 plugins...
+[2026-03-12 12:07:50]  Sort complete. 0 plugin(s) changed position.
+[2026-03-12 12:07:50]  Load order is already sorted.
+[2026-03-12 12:08:23]  Nexus: Received link from browser.
+[2026-03-12 12:08:23]  Nexus: Downloading mod 86492 file 718572 from skyrimspecialedition...
+[2026-03-12 12:08:23]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/86492/files/718572?key=IVwnG8OQiro_LtM8XjA3Ug&expires=1773504502&user_id=71483453
+[2026-03-12 12:08:23]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 12:08:23]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 12:08:23]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 12:08:23]  Nexus API GET /games/skyrimspecialedition/mods/86492/files/718572/download_link → 200
+[2026-03-12 12:08:23]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/86492/Community Shaders-86492-1-4-11-1770452683.7z?md5=kHckr1WUX_v1u8A107VOYQ&expires=1773346103&user_id=71483453"}]
+[2026-03-12 12:08:23]  Nexus API GET /games/skyrimspecialedition/mods/86492/files/718572 → 200
+[2026-03-12 12:08:23]    Response: {"id": [718572, 1704], "uid": 7318624990956, "file_id": 718572, "name": "Community Shaders", "version": "1.4.11", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 21174, "file_name": "Community Shaders-86492-1-4-11-1770452683.7z", "uploaded_timestamp": 1770452683, "uploaded_time": "2026-02-07T08:24:43.000+00:00", "mod_version": "1.4.11", "external_virus_scan_url": "https://www.virustotal.com/gui/file/ab30f60ceee2504aeaab86a1b1bb6ac82f4ff3c6553c10669288b47033b2fd56", "description": "- Fixes inability to set replace shaders", "size_kb": 21174, "size_in_bytes": 21682343, "changelog_html": "## What's Changed\n* fix: replace original shaders off and not saveable by @alandtse in https://github.com/doodlum/skyrim-community-shaders/pull/1835\n**Full Changelog**: https://github.com/doodlum/skyrim-community-shaders/compare/v1.4.10...v1.4.11", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/86492/Community Shaders-86492-1-4-11-1770452683.7z.json"}
+[2026-03-12 12:08:30]  Nexus: Installing Community Shaders-86492-1-4-11-1770452683.7z...
+[2026-03-12 12:08:30]  Extracting with py7zr…
+[2026-03-12 12:08:32]  Direct install — 233 file(s) to install.
+[2026-03-12 12:08:32]  Copied 233 item(s) to staging area.
+[2026-03-12 12:08:32]  Installed 'Community Shaders' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Community Shaders
+[2026-03-12 12:08:32]  Added 'Community Shaders' to modlist.
+[2026-03-12 12:08:33]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Community Shaders/meta.ini
+[2026-03-12 12:08:33]  Nexus: Saved metadata (mod 86492, v)
+[2026-03-12 12:08:33]  Nexus: Removed archive Community Shaders-86492-1-4-11-1770452683.7z
+[2026-03-12 12:08:33]  Downloads: found 2 archive(s) in /home/luther/Downloads
+[2026-03-12 12:08:33]  Downloaded Community Shaders-86492-1-4-11-1770452683.7z (21682343 bytes) → /home/luther/Downloads/Community Shaders-86492-1-4-11-1770452683.7z
+[2026-03-12 12:08:33]  Nexus: Detected mod ID 86492 from filename.
+[2026-03-12 12:08:33]  Nexus API GET /games/skyrimspecialedition/mods/86492 → 200
+[2026-03-12 12:08:33]    Response: {"name": "Community Shaders", "summary": "Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR.", "description": "[center][size=3][url=https://discord.gg/nkrQybAsyy][/url][/size][/center][center][size=3][url=https://discord.gg/nkrQybAsyy][/url][/size][/center][center][size=3][url=https://discord.gg/nkrQybAsyy][img]https://github.com/doodlum/nexusmods-widgets/blob/cs/discord.png?raw=true[/img][/url][/size][/center][url=https://patreon.com/CommunityShaders][img]https://github.com/doodlum/nexusmods-widgets/blob/cs/patreon.png?raw=true[/img][/url]\n<br />[size=5][font=Trebuchet MS][b][color=#a5c4f3]\n<br />OVERVIEW[/color][/b][/font][/size]\u00a0\n<br />\n<br />[list]\n<br />[*][size=3][b]Vortex Collection:[/b] Are you a vortex user? Please download our official collection, now available [url=https://www.nexusmods.com/games/skyrimspecialedition/collections/62eesj]here[/url]![/size]\n<br />[*][size=3][b]Wiki: [/b]Got some questions? Want to get more information? Have a read of our new [b][url=https://modding.wiki/en/skyrim/developers/community-shaders]wiki[/url]\ufeff[/b]![/size]\n<br />[*][size=3][b]Unified[/b] Shader Cache with fast multi...
+[2026-03-12 12:08:33]  Filemap updated: 30061 file(s).
+[2026-03-12 12:08:34]  Nexus API GET /games/skyrimspecialedition/mods/86492/files → 200
+[2026-03-12 12:08:34]    Response: {"file_updates": [{"old_file_id": 366885, "new_file_id": 366951, "old_file_name": "Community Shaders-86492-0-0-1-1678391828.zip", "new_file_name": "Community Shaders-86492-0-0-1-1678403286.zip", "uploaded_timestamp": 1678403286, "uploaded_time": "2023-03-09T23:08:06.000+00:00"}, {"old_file_id": 366951, "new_file_id": 372119, "old_file_name": "Community Shaders-86492-0-0-1-1678403286.zip", "new_file_name": "Community Shaders-86492-0-0-2-1679796411.zip", "uploaded_timestamp": 1679796411, "uploaded_time": "2023-03-26T02:06:51.000+00:00"}, {"old_file_id": 372119, "new_file_id": 372593, "old_file_name": "Community Shaders-86492-0-0-2-1679796411.zip", "new_file_name": "Community Shaders-86492-0-0-3-1679939281.zip", "uploaded_timestamp": 1679939281, "uploaded_time": "2023-03-27T17:48:01.000+00:00"}, {"old_file_id": 372593, "new_file_id": 379309, "old_file_name": "Community Shaders-86492-0-0-3-1679939281.zip", "new_file_name": "Community Shaders-86492-0-1-0-1681779700.zip", "uploaded_timestamp": 1681779700, "uploaded_time": "2023-04-18T01:01:40.000+00:00"}, {"old_file_id": 379309, "new_file_id": 388220, "old_file_name": "Community Shaders-86492-0-1-0-1681779700.zip", "new_file_name": "Comm...
+[2026-03-12 12:08:34]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Community Shaders/meta.ini
+[2026-03-12 12:08:34]  Nexus: Identified as 'Community Shaders' (mod 86492, file 718572).
+[2026-03-12 12:08:34]  Nexus: Saved metadata for 'Community Shaders' (mod 86492)
+[2026-03-12 12:08:57]  Nexus: Received link from browser.
+[2026-03-12 12:08:57]  Nexus: Downloading mod 139185 file 604012 from skyrimspecialedition...
+[2026-03-12 12:08:57]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/139185/files/604012?key=w8C_aAjdOFYfcr27aevqsg&expires=1773504536&user_id=71483453
+[2026-03-12 12:08:57]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 12:08:57]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 12:08:57]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 12:08:57]  Nexus API GET /games/skyrimspecialedition/mods/139185/files/604012/download_link → 200
+[2026-03-12 12:08:57]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/139185/Cloud Shadows-139185-1-2-0-1741616426.7z?md5=xwLKquZsdAGT9t1nyPo6lQ&expires=1773346137&user_id=71483453"}]
+[2026-03-12 12:08:57]  Nexus API GET /games/skyrimspecialedition/mods/139185/files/604012 → 200
+[2026-03-12 12:08:57]    Response: {"id": [604012, 1704], "uid": 7318624876396, "file_id": 604012, "name": "Cloud Shadows", "version": "1.2.0", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 1, "file_name": "Cloud Shadows-139185-1-2-0-1741616426.7z", "uploaded_timestamp": 1741616426, "uploaded_time": "2025-03-10T14:20:26.000+00:00", "mod_version": "1.2.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/fca1cdea46e926f43d01978a39c0916b369414c95c04bea1b0bb11f35d8f92db/detection/f-fca1cdea46e926f43d01978a39c0916b369414c95c04bea1b0bb11f35d8f92db-1741616431", "description": "Added cloud opacity slider.", "size_kb": 1, "size_in_bytes": 775, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/139185/Cloud Shadows-139185-1-2-0-1741616426.7z.json"}
+[2026-03-12 12:08:57]  Nexus: Installing Cloud Shadows-139185-1-2-0-1741616426.7z...
+[2026-03-12 12:08:57]  Extracting with py7zr…
+[2026-03-12 12:08:57]  Direct install — 2 file(s) to install.
+[2026-03-12 12:08:57]  Downloaded Cloud Shadows-139185-1-2-0-1741616426.7z (775 bytes) → /home/luther/Downloads/Cloud Shadows-139185-1-2-0-1741616426.7z
+[2026-03-12 12:09:01]  Cleared existing mod folder for clean reinstall.
+[2026-03-12 12:09:01]  Copied 2 item(s) to staging area.
+[2026-03-12 12:09:01]  Installed 'Cloud Shadows' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Cloud Shadows
+[2026-03-12 12:09:01]  Added 'Cloud Shadows' to modlist.
+[2026-03-12 12:09:01]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Cloud Shadows/meta.ini
+[2026-03-12 12:09:01]  Nexus: Saved metadata (mod 139185, v)
+[2026-03-12 12:09:01]  Nexus: Removed archive Cloud Shadows-139185-1-2-0-1741616426.7z
+[2026-03-12 12:09:01]  Downloads: found 2 archive(s) in /home/luther/Downloads
+[2026-03-12 12:09:01]  Nexus: Detected mod ID 139185 from filename.
+[2026-03-12 12:09:02]  Nexus API GET /games/skyrimspecialedition/mods/139185 → 200
+[2026-03-12 12:09:02]    Response: {"name": "Cloud Shadows - Community Shaders", "summary": "Community Shaders feature which casts shadows from clouds. Supports SE, AE, and VR.", "description": "[center][size=3][url=https://discord.gg/nkrQybAsyy][img]https://github.com/doodlum/nexusmods-widgets/blob/cs/CommunityShadersDiscordFancy.png?raw=true[/img][/url][/size]\n<br />[size=3][img]https://i.imgur.com/1FSEwwP.png[/img][/size][/center]\n<br />[size=5][font=Trebuchet MS][b][color=#a5c4f3]OVERVIEW[/color][/b][/font][/size]\n<br />\n<br />[size=3]This Community Shaders addon casts shadows from clouds. Supports SE, AE, and VR.[/size]\n<br />\n<br />[size=3]This is a custom technique developed in a collaboration between [url=https://next.nexusmods.com/profile/ProfJack]me[/url] and [url=https://next.nexusmods.com/profile/doodlum]doodlum[/url]. The cloud shadows are aligned with the sun, using the actual clouds system rather than a scrolling texture, meaning that when clouds cover it the player will be shrouded in darkness. Clouds are rendered from the perspective of the player and unprojected to cover the world, acting as an extremely fast approximation. The cloud shadows texture itself is rendered during the cubemap refle...
+[2026-03-12 12:09:02]  Nexus API GET /games/skyrimspecialedition/mods/139185/files → 200
+[2026-03-12 12:09:02]    Response: {"file_updates": [{"old_file_id": 584194, "new_file_id": 604012, "old_file_name": "Cloud Shadows-139185-1-1-1-1737068749.7z", "new_file_name": "Cloud Shadows-139185-1-2-0-1741616426.7z", "uploaded_timestamp": 1741616426, "uploaded_time": "2025-03-10T14:20:26.000+00:00"}], "files": [{"id": [584194, 1704], "uid": 7318624856578, "file_id": 584194, "name": "Cloud Shadows", "version": "1.1.1", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": false, "size": 1, "file_name": "Cloud Shadows-139185-1-1-1-1737068749.7z", "uploaded_timestamp": 1737068749, "uploaded_time": "2025-01-16T23:05:49.000+00:00", "mod_version": "1.1.1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/11ce935b4b17622b855fbbfaa18fa10b580d97f89312305b144918ed7f2d3ba2/detection/f-11ce935b4b17622b855fbbfaa18fa10b580d97f89312305b144918ed7f2d3ba2-1737068751", "description": "", "size_kb": 1, "size_in_bytes": 749, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/139185/Cloud Shadows-139185-1-1-1-1737068749.7z.json"}, {"id": [604012, 1704], "uid": 7318624876396, "file_id": 604012, "name": "Cloud Shadows", "version": "1.2.0", "catego...
+[2026-03-12 12:09:02]  Nexus: Identified as 'Cloud Shadows - Community Shaders' (mod 139185, file 604012).
+[2026-03-12 12:09:02]  Nexus: Saved metadata for 'Cloud Shadows' (mod 139185)
+[2026-03-12 12:09:02]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Cloud Shadows/meta.ini
+[2026-03-12 12:09:02]  Filemap updated: 30061 file(s).
+[2026-03-12 12:09:09]  Nexus: Received link from browser.
+[2026-03-12 12:09:09]  Nexus: Downloading mod 87816 file 718214 from skyrimspecialedition...
+[2026-03-12 12:09:09]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/87816/files/718214?key=JBd2Kk4bw0ZRqZ-2iJG90A&expires=1773504548&user_id=71483453
+[2026-03-12 12:09:09]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 12:09:09]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 12:09:09]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 12:09:09]  Nexus API GET /games/skyrimspecialedition/mods/87816/files/718214/download_link → 200
+[2026-03-12 12:09:09]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/87816/Grass Collision-87816-3-0-1-1770385573.7z?md5=OkGa0CazeFrEm-_LkV53mQ&expires=1773346149&user_id=71483453"}]
+[2026-03-12 12:09:09]  Nexus API GET /games/skyrimspecialedition/mods/87816/files/718214 → 200
+[2026-03-12 12:09:09]    Response: {"id": [718214, 1704], "uid": 7318624990598, "file_id": 718214, "name": "Grass Collision", "version": "3.0.2", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 3, "file_name": "Grass Collision-87816-3-0-1-1770385573.7z", "uploaded_timestamp": 1770385573, "uploaded_time": "2026-02-06T13:46:13.000+00:00", "mod_version": "3.0.2", "external_virus_scan_url": "https://www.virustotal.com/gui/file/471df32e830dc93f47ae0b43c514f8eb8dd9d6800de3f84e291c9e4005ca7f67", "description": "Optional update, no real changes", "size_kb": 3, "size_in_bytes": 3014, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/87816/Grass Collision-87816-3-0-1-1770385573.7z.json"}
+[2026-03-12 12:09:10]  Nexus: Installing Grass Collision-87816-3-0-1-1770385573.7z...
+[2026-03-12 12:09:10]  Extracting with py7zr…
+[2026-03-12 12:09:10]  Direct install — 3 file(s) to install.
+[2026-03-12 12:09:10]  Downloaded Grass Collision-87816-3-0-1-1770385573.7z (3014 bytes) → /home/luther/Downloads/Grass Collision-87816-3-0-1-1770385573.7z
+[2026-03-12 12:09:11]  Install cancelled — 'Grass Collision' already exists.
+[2026-03-12 12:09:11]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Grass Collision/meta.ini
+[2026-03-12 12:09:11]  Nexus: Saved metadata (mod 87816, v)
+[2026-03-12 12:09:30]  Nexus: Received link from browser.
+[2026-03-12 12:09:30]  Nexus: Downloading mod 148123 file 669310 from skyrimspecialedition...
+[2026-03-12 12:09:30]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/148123/files/669310?key=ztCcMfyGIToJ8_uAUlT41A&expires=1773504569&user_id=71483453
+[2026-03-12 12:09:30]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-12 12:09:30]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-12 12:09:30]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-12 12:09:31]  Nexus API GET /games/skyrimspecialedition/mods/148123/files/669310/download_link → 200
+[2026-03-12 12:09:31]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/148123/Terrain Variation-148123-1-0-1-1758811700.7z?md5=4XlSoNPQDwLXJnefaItlcw&expires=1773346170&user_id=71483453"}]
+[2026-03-12 12:09:31]  Nexus API GET /games/skyrimspecialedition/mods/148123/files/669310 → 200
+[2026-03-12 12:09:31]    Response: {"id": [669310, 1704], "uid": 7318624941694, "file_id": 669310, "name": "Terrain Variation", "version": "1.0.1", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 3, "file_name": "Terrain Variation-148123-1-0-1-1758811700.7z", "uploaded_timestamp": 1758811700, "uploaded_time": "2025-09-25T14:48:20.000+00:00", "mod_version": "1.0.1", "external_virus_scan_url": "https://www.virustotal.com/gui/file/ac35188038161a7b5f5bbc48a65150627c82dd8c9d2de78038977cefb30b9d3b/detection/f-ac35188038161a7b5f5bbc48a65150627c82dd8c9d2de78038977cefb30b9d3b-1758811702", "description": "- Fixes for upscaling to have correct mipmaps (texture resolution). This will fix blurry textures when using CS Upscaling.", "size_kb": 3, "size_in_bytes": 2989, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/148123/Terrain Variation-148123-1-0-1-1758811700.7z.json"}
+[2026-03-12 12:09:31]  Nexus: Installing Terrain Variation-148123-1-0-1-1758811700.7z...
+[2026-03-12 12:09:31]  Extracting with py7zr…
+[2026-03-12 12:09:31]  Direct install — 2 file(s) to install.
+[2026-03-12 12:09:31]  Copied 2 item(s) to staging area.
+[2026-03-12 12:09:31]  Installed 'Terrain Variation' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Terrain Variation
+[2026-03-12 12:09:31]  Added 'Terrain Variation' to modlist.
+[2026-03-12 12:09:31]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Terrain Variation/meta.ini
+[2026-03-12 12:09:31]  Nexus: Saved metadata (mod 148123, v)
+[2026-03-12 12:09:31]  Nexus: Removed archive Terrain Variation-148123-1-0-1-1758811700.7z
+[2026-03-12 12:09:31]  Downloads: found 3 archive(s) in /home/luther/Downloads
+[2026-03-12 12:09:31]  Downloaded Terrain Variation-148123-1-0-1-1758811700.7z (2989 bytes) → /home/luther/Downloads/Terrain Variation-148123-1-0-1-1758811700.7z
+[2026-03-12 12:09:31]  Nexus: Detected mod ID 148123 from filename.
+[2026-03-12 12:09:32]  Nexus API GET /games/skyrimspecialedition/mods/148123 → 200
+[2026-03-12 12:09:32]    Response: {"name": "Terrain Variation - Community Shaders", "summary": "A comprehensive terrain tiling fix for community shaders, that works with all landscape systems and texture types, without any reduction in quality.", "description": "[center][size=3][url=https://discord.gg/nkrQybAsyy][img]https://github.com/doodlum/nexusmods-widgets/blob/cs/CommunityShadersDiscordFancy.png?raw=true[/img][/url][/size]\n<br />[size=3][img]https://i.imgur.com/1FSEwwP.png[/img][/size][/center]\n<br />[size=5][font=Trebuchet MS][b][color=#a5c4f3]OVERVIEW\n<br />[/color][/b][/font][/size]\n<br />[size=3]Terrain Variation removes the repetitive tiling patterns that occur when the same texture is repeatedly applied across large terrain surfaces. Using advanced stochastic sampling techniques this feature creates more natural-looking terrain by adding subtle variation to texture sampling without requiring additional texture assets.\n<br />[/size]\n<br />[size=3]This feature works with [b]all terrain textures[/b], Vanilla, Complex Parallax, Complex Material and PBR systems.\n<br />No need for special textures, and is [b]compatible out of the box with any textures you have[/b].\n<br />No need to re-run DynDoLOD sui...
+[2026-03-12 12:09:32]  Nexus API GET /games/skyrimspecialedition/mods/148123/files → 200
+[2026-03-12 12:09:32]    Response: {"file_updates": [{"old_file_id": 651998, "new_file_id": 669310, "old_file_name": "Terrain Variation-148123-1-0-0-1754092483.7z", "new_file_name": "Terrain Variation-148123-1-0-1-1758811700.7z", "uploaded_timestamp": 1758811700, "uploaded_time": "2025-09-25T14:48:20.000+00:00"}], "files": [{"id": [618940, 1704], "uid": 7318624891324, "file_id": 618940, "name": "Terrain Variation", "version": "1.0.0", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": false, "size": 1, "file_name": "Terrain Variation-148123-1-0-0-1745052593.7z", "uploaded_timestamp": 1745052593, "uploaded_time": "2025-04-19T08:49:53.000+00:00", "mod_version": "1.0.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/2ac1105e47c1accb46fca5452ce0dd26c71a83427cb6eccf4d140d6389e791f2/detection/f-2ac1105e47c1accb46fca5452ce0dd26c71a83427cb6eccf4d140d6389e791f2-1745052595", "description": "Compatible with Community Shaders 1.3-&gt;1.4.", "size_kb": 1, "size_in_bytes": 1110, "changelog_html": "Initial Release Version", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/148123/Terrain Variation-148123-1-0-0-1745052593.7z.json"}, {"id": [651998, 1704], "uid"...
+[2026-03-12 12:09:32]  Nexus: Identified as 'Terrain Variation - Community Shaders' (mod 148123, file 669310).
+[2026-03-12 12:09:32]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Terrain Variation/meta.ini
+[2026-03-12 12:09:32]  Nexus: Saved metadata for 'Terrain Variation' (mod 148123)
+[2026-03-12 12:09:32]  Filemap updated: 30063 file(s).
+[2026-03-12 12:09:51]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-12 12:09:51]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-12 12:09:51]  Restore: removing plugins.txt symlink ...
+[2026-03-12 12:09:51]    Removed plugins.txt symlink from prefix.
+[2026-03-12 12:09:51]  Restore: restoring launcher ...
+[2026-03-12 12:09:51]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-12 12:09:51]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-12 12:09:52]    Removed 29853 file(s) from Data/.
+[2026-03-12 12:09:52]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-12 12:09:52]  Restore complete.
+[2026-03-12 12:09:52]  Backup: modlist.txt
+[2026-03-12 12:09:52]  Backup: plugins.txt
+[2026-03-12 12:09:52]  Backup: plugin_locks.json
+[2026-03-12 12:09:52]  Backup: removed oldest 20260309_203346
+[2026-03-12 12:09:52]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-12 12:09:52]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-12 12:09:52]    Moved 34 file(s) to Data_Core/.
+[2026-03-12 12:09:52]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-12 12:09:54]    Transferred 30063 mod file(s).
+[2026-03-12 12:09:54]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-12 12:09:54]    Transferred 25 vanilla file(s).
+[2026-03-12 12:09:54]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-12 12:09:54]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-12 12:09:54]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-12 12:09:54]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-12 12:09:54]  Step 7: Swapping launcher for SKSE ...
+[2026-03-12 12:09:54]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-12 12:09:54]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-12 12:09:54]  Deploy complete. 30063 mod + 25 vanilla = 30088 total file(s) in Data/.
+[2026-03-12 12:09:55]  Filemap updated: 30063 file(s).
+[2026-03-12 12:09:57]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-12 12:09:58]  Updated masterlist_skyrimse.yaml.
+[2026-03-12 12:09:58]  Fetching latest masterlist_prelude.yaml...
+[2026-03-12 12:09:58]  Updated masterlist_prelude.yaml.
+[2026-03-12 12:09:58]  Initializing LOOT...
+[2026-03-12 12:09:58]  Loaded masterlist with prelude.
+[2026-03-12 12:09:58]  Loading 236 plugin headers...
+[2026-03-12 12:09:58]  Sorting 236 plugins...
+[2026-03-12 12:09:58]  Sort complete. 0 plugin(s) changed position.
+[2026-03-12 12:09:58]  Load order is already sorted.
+[2026-03-12 12:10:02]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-12 12:11:43]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/86492
+[2026-03-12 12:12:15]  Nexus: Opened https://www.nexusmods.com/skyrimspecialedition/mods/17230
+[2026-03-12 12:12:38]  Opened: EngineFixes_SNCT.ini
+[2026-03-12 12:25:34]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-12 12:25:34]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-12 12:25:34]  Restore: removing plugins.txt symlink ...
+[2026-03-12 12:25:34]    Removed plugins.txt symlink from prefix.
+[2026-03-12 12:25:34]  Restore: restoring launcher ...
+[2026-03-12 12:25:34]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-12 12:25:34]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-12 12:25:35]    Rescued 5 runtime-created file(s) → overwrite/.
+[2026-03-12 12:25:35]    Removed 30088 file(s) from Data/.
+[2026-03-12 12:25:35]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-12 12:25:35]  Restore complete.
+[2026-03-12 12:25:36]  Backup: modlist.txt
+[2026-03-12 12:25:36]  Backup: plugins.txt
+[2026-03-12 12:25:36]  Backup: plugin_locks.json
+[2026-03-12 12:25:36]  Backup: removed oldest 20260310_090207
+[2026-03-12 12:25:36]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-12 12:25:36]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-12 12:25:36]    Moved 34 file(s) to Data_Core/.
+[2026-03-12 12:25:36]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-12 12:25:38]    Transferred 30068 mod file(s).
+[2026-03-12 12:25:38]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-12 12:25:38]    Transferred 25 vanilla file(s).
+[2026-03-12 12:25:38]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-12 12:25:38]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-12 12:25:38]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-12 12:25:38]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-12 12:25:38]  Step 7: Swapping launcher for SKSE ...
+[2026-03-12 12:25:38]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-12 12:25:38]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-12 12:25:38]  Deploy complete. 30068 mod + 25 vanilla = 30093 total file(s) in Data/.
+[2026-03-12 12:25:39]  Filemap updated: 30068 file(s).
+[2026-03-12 12:25:39]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-12 12:45:35]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-12 12:51:16]  Filemap updated: 30066 file(s).
+[2026-03-12 12:51:21]  Filemap updated: 30063 file(s).
+[2026-03-12 12:51:25]  Filemap updated: 30061 file(s).

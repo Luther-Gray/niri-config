@@ -1,6 +1,7 @@
 [gd_resource type="EditorSettings" format=3]
 
 [resource]
+interface/editor/display_scale = 1
 interface/editor/main_font = "/home/luther/Documents/Archives/Fonts/Kubasta/Kubasta/Kubasta.ttf"
 interface/editor/main_font_bold = "/home/luther/Documents/Archives/Fonts/Kubasta/Kubasta/Kubasta.ttf"
 interface/editor/code_font = "/home/luther/Documents/Archives/Fonts/minecraft-font/Minecraft-Regular.ttf"
@@ -60,9 +61,19 @@ _editor_settings_advanced_mode = true
 _project_settings_advanced_mode = false
 _export_template_download_directory = ""
 _default_feature_profile = ""
-_script_setup_templates_dictionary = {}
+_script_setup_templates_dictionary = {
+"CharacterBody3D": "0CharacterBody3DBasic Movement",
+"Node": "0NodeDefault",
+"Node3D": "0NodeDefault"
+}
 _use_favorites_root_selection = false
-_script_setup_use_script_templates = false
+_script_setup_use_script_templates = true
 _export_preset_advanced_mode = false
 export/android/scrcpy/screen_size = "1920x1080/120"
 export/macos/actool = ""
+terrain3d/config/alt_key_bind = 0
+terrain3d/dock/slot = 8
+terrain3d/dock/tile_size = 83.0
+terrain3d/dock/floating = false
+terrain3d/dock/always_on_top = true
+terrain3d/tool_settings/size = 200.10000000149012

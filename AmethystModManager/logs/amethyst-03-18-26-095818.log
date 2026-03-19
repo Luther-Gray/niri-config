@@ -1,0 +1,20 @@
+[2026-03-18 09:58:19]  Downloads: found 0 archive(s) in 1 location(s)
+[2026-03-18 09:58:20]  Display: 2560x1440, HiDPI detected=1.35, scale=1.0
+[2026-03-18 09:58:20]  Mod Manager ready. 1/31 games configured.
+[2026-03-18 09:58:20]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-18 09:58:20]  Nexus Mods API key loaded.
+[2026-03-18 09:58:20]  NXM protocol handler registered.
+[2026-03-18 09:58:20]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-18 09:58:20]  Nexus: Downloading mod 124634 file 727765 from skyrimspecialedition...
+[2026-03-18 09:58:21]  Nexus: logged in as DubiousPhoenix (premium=False)
+[2026-03-18 09:58:21]  Filemap updated: 35307 file(s).
+[2026-03-18 09:58:21]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-18 09:58:21]    Response: {"data": {"legacyModsByDomain": {"nodes": [{"modId": 124634, "name": "Simple Lighting Overhaul", "summary": "", "version": "2.0", "author": "Bottle", "modCategory": {"categoryId": 62, "name": "Visuals and Graphics"}, "game": {"domainName": "skyrimspecialedition"}}]}}}
+[2026-03-18 09:58:21]  Nexus API GET /games/skyrimspecialedition/mods/124634/files/727765/download_link → 200
+[2026-03-18 09:58:21]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/124634/Simple Lighting Overhaul-124634-2-0-1772588449.zip?md5=IppdALORRcMRd2tFE7fElw&expires=1773856701&user_id=71483453"}]
+[2026-03-18 09:58:22]  Nexus API GET /games/skyrimspecialedition/mods/124634/files/727765 → 200
+[2026-03-18 09:58:22]    Response: {"id": [727765, 1704], "uid": 7318625000149, "file_id": 727765, "name": "Simple Lighting Overhaul", "version": "2.0", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 86, "file_name": "Simple Lighting Overhaul-124634-2-0-1772588449.zip", "uploaded_timestamp": 1772588449, "uploaded_time": "2026-03-04T01:40:49.000+00:00", "mod_version": "2.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/9f7a67476643e7cb8e4db2a2fa4cac40ff85b33c4fcd41c8624e60d9c92afdb2", "description": "Install with Mod manager", "size_kb": 86, "size_in_bytes": 87713, "changelog_html": "Updated to ISL\nAdded LP support\nCompatibility with WSU", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/124634/Simple Lighting Overhaul-124634-2-0-1772588449.zip.json"}
+[2026-03-18 09:58:22]  Nexus: Installing Simple Lighting Overhaul-124634-2-0-1772588449.zip...
+[2026-03-18 09:58:22]  Extracting with zipfile…
+[2026-03-18 09:58:22]  Direct install — 17 file(s) to install.
+[2026-03-18 09:58:22]  Downloaded Simple Lighting Overhaul-124634-2-0-1772588449.zip (87713 bytes) → /home/luther/.config/AmethystModManager/download_cache/Simple Lighting Overhaul-124634-2-0-1772588449.zip

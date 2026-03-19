@@ -6,6 +6,12 @@ x-scheme-handler/discord=vesktop.desktop
 inode/directory=thunar.desktop
 application/x-gnome-saved-search=thunar.desktop
 x-scheme-handler/nxm=amethystmodmanager-nxm.desktop
+text/html=firefox.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/about=firefox.desktop
+x-scheme-handler/unknown=firefox.desktop
+application/x-ms-dos-executable;application/x-wine-extension-msp;application/x-msi;application/x-msdos-program;text/win-bat;=PortProton.desktop
 
 [Added Associations]
 text/x-csrc=dev.zed.Zed.desktop;
@@ -13,3 +19,10 @@ application/json=dev.zed.Zed.desktop;
 application/zip=xarchiver.desktop;
 text/x-opml+xml=dev.zed.Zed.desktop;
 font/ttf=com.github.FontManager.FontViewer.desktop;
+image/jpeg=org.xfce.ristretto.desktop;org.geeqie.Geeqie.desktop;
+image/gif=org.xfce.ristretto.desktop;krita_gif.desktop;
+image/png=org.xfce.ristretto.desktop;
+video/webm=mpv.desktop;
+application/xml=dev.zed.Zed.desktop;
+application/vnd.microsoft.portable-executable=wine.desktop;
+image/webp=firefox.desktop;

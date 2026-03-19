@@ -1,0 +1,9 @@
+[2026-03-09 20:13:29]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-09 20:13:30]  Mod Manager ready. 1/28 games configured.
+[2026-03-09 20:13:30]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-09 20:13:30]  Nexus Mods API key loaded.
+[2026-03-09 20:13:30]  NXM protocol handler registered.
+[2026-03-09 20:13:30]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-09 20:13:30]  Nexus API GET /users/validate → 200
+[2026-03-09 20:13:30]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-09 20:13:31]  Filemap updated: 27906 file(s).

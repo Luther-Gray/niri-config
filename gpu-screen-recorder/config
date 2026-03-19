@@ -3,7 +3,7 @@ main.audio_codec opus
 main.audio_input device:Default output
 main.audio_input device:Default output
 main.av1_amd_bug_warning_shown false
-main.change_video_resolution false
+main.change_video_resolution true
 main.codec auto
 main.color_range limited
 main.fps 60
@@ -13,7 +13,7 @@ main.hide_window_when_recording false
 main.installed_gsr_global_hotkeys_version 0
 main.merge_audio_tracks true
 main.overclock false
-main.quality very_high
+main.quality medium
 main.record_app_audio_inverted false
 main.record_area_height 1080
 main.record_area_option DP-3
@@ -29,7 +29,7 @@ main.use_new_ui false
 main.video_bitrate 15000
 main.video_height 1080
 main.video_width 1920
-record.container matroska
+record.container mp4
 record.pause_unpause_recording_hotkey 0 0
 record.save_directory /home/luther/Videos
 record.start_stop_recording_hotkey 0 0

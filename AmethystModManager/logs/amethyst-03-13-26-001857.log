@@ -1,0 +1,40 @@
+[2026-03-13 00:18:58]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-13 00:18:59]  Mod Manager ready. 1/28 games configured.
+[2026-03-13 00:18:59]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-13 00:18:59]  Nexus Mods API key loaded.
+[2026-03-13 00:18:59]  NXM protocol handler registered.
+[2026-03-13 00:18:59]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-13 00:18:59]  Nexus API GET /users/validate → 200
+[2026-03-13 00:18:59]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-13 00:19:00]  Nexus: Downloading mod 34654 file 133812 from skyrimspecialedition...
+[2026-03-13 00:19:00]  Filemap updated: 34720 file(s).
+[2026-03-13 00:19:00]  plugins.txt: added 1 new plugin(s).
+[2026-03-13 00:19:00]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-13 00:19:00]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-13 00:19:00]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-13 00:19:00]  Nexus API GET /games/skyrimspecialedition/mods/34654/files/133812/download_link → 200
+[2026-03-13 00:19:00]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/34654/Staves Give XP-34654-1-0-0-1586697009.rar?md5=CPlvyWmKLqCJ1EzMFXeyVg&expires=1773389940&user_id=71483453"}]
+[2026-03-13 00:19:00]  Nexus API GET /games/skyrimspecialedition/mods/34654/files/133812 → 200
+[2026-03-13 00:19:00]    Response: {"id": [133812, 1704], "uid": 7318624406196, "file_id": 133812, "name": "Staves Give XP", "version": "1.0.0", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 2, "file_name": "Staves Give XP-34654-1-0-0-1586697009.rar", "uploaded_timestamp": 1586697009, "uploaded_time": "2020-04-12T13:10:09.000+00:00", "mod_version": "1.0.0", "external_virus_scan_url": "https://www.virustotal.com/file/e7b4ba018d72991933024cad5a005806a1d4c590eaecc30dfbbef1bba01ff629/analysis/1586697016/", "description": "", "size_kb": 2, "size_in_bytes": 2499, "changelog_html": "Initial Release.", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/34654/Staves Give XP-34654-1-0-0-1586697009.rar.json"}
+[2026-03-13 00:19:01]  Downloaded Staves Give XP-34654-1-0-0-1586697009.rar (2499 bytes) → /home/luther/Downloads/Staves Give XP-34654-1-0-0-1586697009.rar
+[2026-03-13 00:19:01]  Nexus: Installing Staves Give XP-34654-1-0-0-1586697009.rar...
+[2026-03-13 00:19:01]  Extracting with unrar…
+[2026-03-13 00:19:01]  Direct install — 4 file(s) to install.
+[2026-03-13 00:19:01]  Auto-stripped top-level folder(s) so mod matches expected structure.
+[2026-03-13 00:19:01]  Copied 4 item(s) to staging area.
+[2026-03-13 00:19:01]  Installed 'Staves Give XP' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Staves Give XP
+[2026-03-13 00:19:01]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Staves Give XP'.
+[2026-03-13 00:19:01]  Added 'Staves Give XP' to modlist.
+[2026-03-13 00:19:01]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Staves Give XP/meta.ini
+[2026-03-13 00:19:01]  Nexus: Saved metadata (mod 34654, v)
+[2026-03-13 00:19:01]  Nexus: Removed archive Staves Give XP-34654-1-0-0-1586697009.rar
+[2026-03-13 00:19:01]  Downloads: found 4 archive(s) in /home/luther/Downloads
+[2026-03-13 00:19:01]  Nexus: Detected mod ID 34654 from filename.
+[2026-03-13 00:19:02]  Nexus API GET /games/skyrimspecialedition/mods/34654 → 200
+[2026-03-13 00:19:02]    Response: {"name": "Staves Give XP", "summary": "With This mod, staffs will provide a little amount of XP for the magic schools of their effects.", "description": "As of Version 15[url=https://www.nexusmods.com/skyrimspecialedition/mods/43532] Scrambled Bugs [/url] has a dll based solution to make staves give xp. I Haven't tested it myself, but it's probably less janky than this and I would recomend you use that instead of this mod.\n<br />\n<br />This feature was present in a fow other mods. But i didn't find an standalone version anywere. It also does a few diferent things to make sure that any mod added staff will be compatible and also give XP.\n<br />\n<br />This is intended for an early game source of XP and will not increase wth the power of the staff, so you can use staffs early once you run out of magicka and still get some XP for the relevant skills.\n<br />\n<br />Requirements:\n<br />SKSE\n<br />\n<br />Known issues:\n<br />\n<br />-Maintained effects only give XP during initial cast. I have no way in the scripts to detect when the casting has stoped to fix this.\n<br />-Staffs will always give XP, without taking into account the regular vanilla conitions. So destruction will lev...
+[2026-03-13 00:19:02]  Nexus: Identified as 'Staves Give XP' (mod 34654, file 133812).
+[2026-03-13 00:19:02]  Nexus: Saved metadata for 'Staves Give XP' (mod 34654)
+[2026-03-13 00:19:02]  Nexus API GET /games/skyrimspecialedition/mods/34654/files → 200
+[2026-03-13 00:19:02]    Response: {"file_updates": [], "files": [{"id": [133812, 1704], "uid": 7318624406196, "file_id": 133812, "name": "Staves Give XP", "version": "1.0.0", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 2, "file_name": "Staves Give XP-34654-1-0-0-1586697009.rar", "uploaded_timestamp": 1586697009, "uploaded_time": "2020-04-12T13:10:09.000+00:00", "mod_version": "1.0.0", "external_virus_scan_url": "https://www.virustotal.com/file/e7b4ba018d72991933024cad5a005806a1d4c590eaecc30dfbbef1bba01ff629/analysis/1586697016/", "description": "", "size_kb": 2, "size_in_bytes": 2499, "changelog_html": "Initial Release.", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/34654/Staves Give XP-34654-1-0-0-1586697009.rar.json"}]}
+[2026-03-13 00:19:02]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Staves Give XP/meta.ini
+[2026-03-13 00:19:02]  Filemap updated: 34724 file(s).

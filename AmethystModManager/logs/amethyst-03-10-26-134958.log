@@ -1,0 +1,8 @@
+[2026-03-10 13:49:59]  Downloads: found 2 archive(s) in /home/luther/Downloads
+[2026-03-10 13:50:00]  Mod Manager ready. 1/28 games configured.
+[2026-03-10 13:50:00]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-10 13:50:00]  Nexus Mods API key loaded.
+[2026-03-10 13:50:00]  NXM protocol handler registered.
+[2026-03-10 13:50:00]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-10 13:50:00]  Filemap updated: 25960 file(s).
+[2026-03-10 13:50:03]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...

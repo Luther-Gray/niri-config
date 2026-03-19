@@ -1,0 +1,112 @@
+[2026-03-11 17:26:56]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-11 17:26:57]  Mod Manager ready. 1/28 games configured.
+[2026-03-11 17:26:57]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-11 17:26:57]  Nexus Mods API key loaded.
+[2026-03-11 17:26:57]  NXM protocol handler registered.
+[2026-03-11 17:26:57]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-11 17:26:57]  Nexus API GET /users/validate → 200
+[2026-03-11 17:26:57]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-11 17:26:58]  Filemap updated: 25964 file(s).
+[2026-03-11 17:27:55]  Nexus: Received link from browser.
+[2026-03-11 17:27:55]  Nexus: Downloading mod 82770 file 488052 from skyrimspecialedition...
+[2026-03-11 17:27:56]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/82770/files/488052?key=z18_KJ7Mv4eMlPSQwYYigg&expires=1773437274&user_id=71483453
+[2026-03-11 17:27:56]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-11 17:27:56]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-11 17:27:56]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-11 17:27:56]  Nexus API GET /games/skyrimspecialedition/mods/82770/files/488052/download_link → 200
+[2026-03-11 17:27:56]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://files.nexus-cdn.com/1704/82770/Papyrus Profiler-82770-2-1-0-1712419017.zip?md5=8uN3Bp3fAHs4hqWyN46wig&expires=1773278876&user_id=71483453"}]
+[2026-03-11 17:27:56]  Nexus API GET /games/skyrimspecialedition/mods/82770/files/488052 → 200
+[2026-03-11 17:27:56]    Response: {"id": [488052, 1704], "uid": 7318624760436, "file_id": 488052, "name": "Papyrus Profiler", "version": "2.1.0", "category_id": 1, "category_name": "MAIN", "is_primary": true, "size": 357, "file_name": "Papyrus Profiler-82770-2-1-0-1712419017.zip", "uploaded_timestamp": 1712419017, "uploaded_time": "2024-04-06T15:56:57.000+00:00", "mod_version": "2.1.0", "external_virus_scan_url": "https://www.virustotal.com/gui/file/5a410e58ae275833170e010d88b945ac0a4ab45121adb2df4a189992edaedd9e/detection/f-5a410e58ae275833170e010d88b945ac0a4ab45121adb2df4a189992edaedd9e-1712419023", "description": "The included .esp file is only required if you want to start/stop profiling with console commands.\n<br /><br />NOTE: I have not personally tested this version, but it should work better with game patch 1.6.1130+ (and also still work with older versions).", "size_kb": 357, "size_in_bytes": 365975, "changelog_html": "Probably fixed logging directory for game version 1.6.1130 and later", "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/82770/Papyrus Profiler-82770-2-1-0-1712419017.zip.json"}
+[2026-03-11 17:27:57]  Nexus: Installing Papyrus Profiler-82770-2-1-0-1712419017.zip...
+[2026-03-11 17:27:57]  Extracting with zipfile…
+[2026-03-11 17:27:57]  Direct install — 13 file(s) to install.
+[2026-03-11 17:27:57]  Copied 13 item(s) to staging area.
+[2026-03-11 17:27:57]  Installed 'Papyrus Profiler' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Papyrus Profiler
+[2026-03-11 17:27:57]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'Papyrus Profiler'.
+[2026-03-11 17:27:57]  Added 'Papyrus Profiler' to modlist.
+[2026-03-11 17:27:57]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Papyrus Profiler/meta.ini
+[2026-03-11 17:27:57]  Nexus: Saved metadata (mod 82770, v)
+[2026-03-11 17:27:57]  Nexus: Removed archive Papyrus Profiler-82770-2-1-0-1712419017.zip
+[2026-03-11 17:27:57]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-11 17:27:57]  Downloaded Papyrus Profiler-82770-2-1-0-1712419017.zip (365975 bytes) → /home/luther/Downloads/Papyrus Profiler-82770-2-1-0-1712419017.zip
+[2026-03-11 17:27:57]  Nexus: Detected mod ID 82770 from filename.
+[2026-03-11 17:27:57]  Nexus API GET /games/skyrimspecialedition/mods/82770 → 200
+[2026-03-11 17:27:57]    Response: {"name": "Papyrus Profiler", "summary": "This SKSE plugin lets you collect data on all Papyrus functions (from any Papyrus script running in your entire game), and use this for profiling (i.e., to gain insight into which scripts and which functions are being called frequently in your load order).", "description": "[color=#93c47d][size=5]Papyrus Profiler\n<br />[/size][/color][color=#93c47d]\n<br />[/color][color=#e69138][color=#93c47d]Version 2.1.0\n<br />6 April 2024\n<br />Borgut1337\n<br />\n<br />[/color][center][i][color=#93c47d]This SKSE plugin lets you collect data on all Papyrus functions (from any Papyrus script running in your entire game), and use this for profiling (i.e., to gain insight into which scripts and which functions are being called frequently in your load order).[/color][/i][/center]\n<br />[img]https://i.imgur.com/2k4RwAE.png[/img]\n<br />\n<br />[/color][color=#b6d7a8][size=4][center][b][color=#ffff00][size=6]\n<br />If you are a regular user just playing the game, you probably don't want to download this!\ufeff\n<br />[/size][/color][/b][/center]\n<br />\n<br />Requirements[/size][/color]\n<br />- SKSE: [url=https://skse.silverlock.org/]https://skse.silver...
+[2026-03-11 17:27:58]  Nexus API GET /games/skyrimspecialedition/mods/82770/files → 200
+[2026-03-11 17:27:58]    Response: {"file_updates": [{"old_file_id": 349713, "new_file_id": 372268, "old_file_name": "Papyrus Profiler-82770-1-0-0-1673782880.zip", "new_file_name": "Papyrus Profiler-82770-2-0-0-1679842942.zip", "uploaded_timestamp": 1679842942, "uploaded_time": "2023-03-26T15:02:22.000+00:00"}, {"old_file_id": 372268, "new_file_id": 372310, "old_file_name": "Papyrus Profiler-82770-2-0-0-1679842942.zip", "new_file_name": "Papyrus Profiler-82770-2-0-1-1679854368.zip", "uploaded_timestamp": 1679854368, "uploaded_time": "2023-03-26T18:12:48.000+00:00"}, {"old_file_id": 372310, "new_file_id": 376007, "old_file_name": "Papyrus Profiler-82770-2-0-1-1679854368.zip", "new_file_name": "Papyrus Profiler-82770-2-0-2-1680876423.zip", "uploaded_timestamp": 1680876423, "uploaded_time": "2023-04-07T14:07:03.000+00:00"}], "files": [{"id": [349713, 1704], "uid": 7318624622097, "file_id": 349713, "name": "Papyrus Profiler", "version": "1.0.0", "category_id": 4, "category_name": "OLD_VERSION", "is_primary": false, "size": 341, "file_name": "Papyrus Profiler-82770-1-0-0-1673782880.zip", "uploaded_timestamp": 1673782880, "uploaded_time": "2023-01-15T11:41:20.000+00:00", "mod_version": "1.0.0", "external_virus_scan_url": ...
+[2026-03-11 17:27:58]  Nexus: Identified as 'Papyrus Profiler' (mod 82770, file 488052).
+[2026-03-11 17:27:58]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Papyrus Profiler/meta.ini
+[2026-03-11 17:27:58]  Nexus: Saved metadata for 'Papyrus Profiler' (mod 82770)
+[2026-03-11 17:27:58]  Filemap updated: 25977 file(s).
+[2026-03-11 17:30:48]  Nexus: Received link from browser.
+[2026-03-11 17:30:48]  Nexus: Downloading mod 62497 file 350816 from skyrimspecialedition...
+[2026-03-11 17:30:48]  Received NXM link from new instance: nxm://skyrimspecialedition/mods/62497/files/350816?key=7Tb6SBsrhOvWOLTPLKMlUg&expires=1773437447&user_id=71483453
+[2026-03-11 17:30:48]  Nexus API POST GraphQL NxmModAndFile → 200
+[2026-03-11 17:30:48]    Response: {"errors": [{"message": "Selections can't be made on scalars (field 'category' returns String but has selections [\"id\"])", "locations": [{"line": 10, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "category"], "extensions": {"code": "selectionMismatch", "nodeName": "field 'category'", "typeName": "String"}}, {"message": "Field 'files' doesn't exist on type 'Mod'", "locations": [{"line": 12, "column": 21}], "path": ["query NxmModAndFile", "legacyModsByDomain", "nodes", "files"], "extensions": {"code": "undefinedField", "typeName": "Mod", "fieldName": "files"}}]}
+[2026-03-11 17:30:48]  GraphQL NxmModAndFile errors: [{'message': 'Selections can\'t be made on scalars (field \'category\' returns String but has selections ["id"])', 'locations': [{'line': 10, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'category'], 'extensions': {'code': 'selectionMismatch', 'nodeName': "field 'category'", 'typeName': 'String'}}, {'message': "Field 'files' doesn't exist on type 'Mod'", 'locations': [{'line': 12, 'column': 21}], 'path': ['query NxmModAndFile', 'legacyModsByDomain', 'nodes', 'files'], 'extensions': {'code': 'undefinedField', 'typeName': 'Mod', 'fieldName': 'files'}}]
+[2026-03-11 17:30:48]  Nexus API GET /games/skyrimspecialedition/mods/62497/files/350816/download_link → 200
+[2026-03-11 17:30:48]    Response: [{"name": "Nexus Global Content Delivery Network", "short_name": "Nexus CDN", "URI": "https://supporter-files.nexus-cdn.com/1704/62497/NL_CMD_SSE-62497-1-03-1674071896.zip?md5=N14JJBQ3cFWOzkBiI7_f_A&expires=1773279048&user_id=71483453"}]
+[2026-03-11 17:30:49]  Nexus API GET /games/skyrimspecialedition/mods/62497/files/350816 → 200
+[2026-03-11 17:30:49]    Response: {"id": [350816, 1704], "uid": 7318624623200, "file_id": 350816, "name": "NL_CMD_SSE", "version": "1.03", "category_id": 1, "category_name": "MAIN", "is_primary": false, "size": 16, "file_name": "NL_CMD_SSE-62497-1-03-1674071896.zip", "uploaded_timestamp": 1674071896, "uploaded_time": "2023-01-18T19:58:16.000+00:00", "mod_version": "1.03", "external_virus_scan_url": "https://www.virustotal.com/gui/file/bf6ccf0a56d4d70cfd6cd57cdf72fee50b44fe0b218da7067a8e9f885833735e/detection/f-bf6ccf0a56d4d70cfd6cd57cdf72fee50b44fe0b218da7067a8e9f885833735e-1645417749", "description": "Main file", "size_kb": 16, "size_in_bytes": 16801, "changelog_html": null, "content_preview_link": "https://file-metadata.nexusmods.com/file/nexus-files-s3-meta/1704/62497/NL_CMD_SSE-62497-1-03-1674071896.zip.json"}
+[2026-03-11 17:30:49]  Nexus: Installing NL_CMD_SSE-62497-1-03-1674071896.zip...
+[2026-03-11 17:30:49]  Extracting with zipfile…
+[2026-03-11 17:30:49]  Direct install — 9 file(s) to install.
+[2026-03-11 17:30:49]  Copied 9 item(s) to staging area.
+[2026-03-11 17:30:49]  Installed 'NL CMD' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/NL CMD
+[2026-03-11 17:30:49]  plugins.txt / loadorder.txt: added 1 plugin(s) from 'NL CMD'.
+[2026-03-11 17:30:49]  Added 'NL CMD' to modlist.
+[2026-03-11 17:30:49]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/NL CMD/meta.ini
+[2026-03-11 17:30:49]  Nexus: Saved metadata (mod 62497, v)
+[2026-03-11 17:30:49]  Nexus: Removed archive NL_CMD_SSE-62497-1-03-1674071896.zip
+[2026-03-11 17:30:49]  Downloads: found 0 archive(s) in /home/luther/Downloads
+[2026-03-11 17:30:49]  Downloaded NL_CMD_SSE-62497-1-03-1674071896.zip (16801 bytes) → /home/luther/Downloads/NL_CMD_SSE-62497-1-03-1674071896.zip
+[2026-03-11 17:30:49]  Nexus: Detected mod ID 62497 from filename.
+[2026-03-11 17:30:49]  Nexus API GET /games/skyrimspecialedition/mods/62497 → 200
+[2026-03-11 17:30:49]    Response: {"name": "NL_CMD - A Console Command Framework", "summary": "NL_CMD is an advanced papyrus framework created for the purpose of supporting the addition of new console commands to Skyrim SSE.", "description": "[center]\ufeff[img]https://staticdelivery.nexusmods.com/mods/1704/images/62497/62497-1643029743-2071787734.png[/img]\ufeff[/center][center][url=https://github.com/MrOctopus/nl_cmd]Github[/url]\ufeff[/center]\n<br />[font=Sans-serif][color=#C1A57A][size=4]Description:\n<br />[/size][/color][/font]\n<br />[size=2][b][font=Sans-serif]Summary[/font]\n<br />[/b][/size]\n<br />NL_CMD is an advanced papyrus framework created for the purpose of supporting the addition of new console commands to Skyrim SSE. From day one it was designed with accessibility in mind, providing easy-to-use functions to simplify console - papyrus communication. Registering and unregistering new commands is almost as easy as registering for plain old, vanilla papyrus events, and argument parsing is built-in from the get-go.\n<br />\n<br />Notably the mod has no additional dependencies besides SKSE and should always be compatible with every game version that SKSE supports. \n<br />\n<br />[size=2][b][font=Sans...
+[2026-03-11 17:30:50]  Nexus API GET /games/skyrimspecialedition/mods/62497/files → 200
+[2026-03-11 17:30:50]    Response: {"file_updates": [{"old_file_id": 259307, "new_file_id": 259393, "old_file_name": "NL_CMD_SSE-62497-1-0-1643053415.zip", "new_file_name": "NL_CMD_SSE-62497-1-0-1-1643093365.zip", "uploaded_timestamp": 1643093365, "uploaded_time": "2022-01-25T06:49:25.000+00:00"}, {"old_file_id": 259393, "new_file_id": 264556, "old_file_name": "NL_CMD_SSE-62497-1-0-1-1643093365.zip", "new_file_name": "NL_CMD_SSE-62497-1-0-2-1644989400.zip", "uploaded_timestamp": 1644989400, "uploaded_time": "2022-02-16T05:30:00.000+00:00"}, {"old_file_id": 264556, "new_file_id": 265793, "old_file_name": "NL_CMD_SSE-62497-1-0-2-1644989400.zip", "new_file_name": "NL_MCM_SSE-62497-1-0-3-1645417700.zip", "uploaded_timestamp": 1645417700, "uploaded_time": "2022-02-21T04:28:20.000+00:00"}, {"old_file_id": 265793, "new_file_id": 350816, "old_file_name": "NL_MCM_SSE-62497-1-0-3-1645417700.zip", "new_file_name": "NL_CMD_SSE-62497-1-03-1674071896.zip", "uploaded_timestamp": 1674071896, "uploaded_time": "2023-01-18T19:58:16.000+00:00"}, {"old_file_id": 259308, "new_file_id": 259394, "old_file_name": "NL_CMD_EXAMPLES-62497-1-0-1643053444.zip", "new_file_name": "NL_CMD_EXAMPLES-62497-1-0-1-1643093388.zip", "uploaded_timestamp": ...
+[2026-03-11 17:30:50]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/NL CMD/meta.ini
+[2026-03-11 17:30:50]  Nexus: Identified as 'NL_CMD - A Console Command Framework' (mod 62497, file 350816).
+[2026-03-11 17:30:50]  Nexus: Saved metadata for 'NL CMD' (mod 62497)
+[2026-03-11 17:30:50]  Filemap updated: 25986 file(s).
+[2026-03-11 17:31:09]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-11 17:31:09]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-11 17:31:09]  Restore: removing plugins.txt symlink ...
+[2026-03-11 17:31:09]    Removed plugins.txt symlink from prefix.
+[2026-03-11 17:31:09]  Restore: restoring launcher ...
+[2026-03-11 17:31:09]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-11 17:31:09]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-11 17:31:10]    Removed 25971 file(s) from Data/.
+[2026-03-11 17:31:10]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-11 17:31:10]  Restore complete.
+[2026-03-11 17:31:10]  Backup: modlist.txt
+[2026-03-11 17:31:10]  Backup: plugins.txt
+[2026-03-11 17:31:10]  Backup: plugin_locks.json
+[2026-03-11 17:31:10]  Backup: removed oldest 20260309_163324
+[2026-03-11 17:31:10]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-11 17:31:10]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-11 17:31:10]    Moved 34 file(s) to Data_Core/.
+[2026-03-11 17:31:10]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-11 17:31:13]    Transferred 25986 mod file(s).
+[2026-03-11 17:31:13]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-11 17:31:13]    Transferred 25 vanilla file(s).
+[2026-03-11 17:31:13]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-11 17:31:13]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-11 17:31:13]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-11 17:31:13]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-11 17:31:13]  Step 7: Swapping launcher for SKSE ...
+[2026-03-11 17:31:13]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-11 17:31:13]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-11 17:31:13]  Deploy complete. 25986 mod + 25 vanilla = 26011 total file(s) in Data/.
+[2026-03-11 17:31:14]  Filemap updated: 25986 file(s).
+[2026-03-11 17:31:15]  Fetching latest masterlist_skyrimse.yaml...
+[2026-03-11 17:31:15]  Updated masterlist_skyrimse.yaml.
+[2026-03-11 17:31:15]  Fetching latest masterlist_prelude.yaml...
+[2026-03-11 17:31:15]  Updated masterlist_prelude.yaml.
+[2026-03-11 17:31:15]  Initializing LOOT...
+[2026-03-11 17:31:15]  Loaded masterlist with prelude.
+[2026-03-11 17:31:15]  Loading 232 plugin headers...
+[2026-03-11 17:31:15]  Sorting 232 plugins...
+[2026-03-11 17:31:16]  Sort complete. 212 plugin(s) changed position.
+[2026-03-11 17:31:16]  Sorted — 212 plugin(s) changed position.
+[2026-03-11 17:31:24]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...

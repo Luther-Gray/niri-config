@@ -272,9 +272,6 @@
             "logDeletes": true,
             "collapseDeleted": false
         },
-        "MessageTags": {
-            "enabled": false
-        },
         "MoreCommands": {
             "enabled": false
         },
@@ -647,6 +644,9 @@
         },
         "DisableDeepLinks": {
             "enabled": true
+        },
+        "CustomCommands": {
+            "enabled": false
         }
     },
     "notifications": {
@@ -659,7 +659,7 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1772912613786
+        "settingsSyncVersion": 1773458011747
     },
     "eagerPatches": false,
     "uiElements": {

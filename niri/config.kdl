@@ -253,11 +253,35 @@ binds {
 
     window-rule {
         match app-id=r#"^freetube$"#
+        open-fullscreen true
+        default-column-width { fixed 2471; }
+        }
+    window-rule {
         match app-id=r#"^krita$"#
-        match app-id=r#"^godot$"#
+        open-fullscreen true
+        default-column-width { fixed 2471; }
+        }
+    window-rule {
+        match app-id=r#"^godot$|^org\.godotengine\.Godot$"#
+        open-fullscreen true
+        default-column-width { fixed 2471; }
+        }
+    window-rule {
         match app-id=r#"^blockbench$"#
-        open-maximized true
-    }
+        open-fullscreen true
+        default-column-width { fixed 2471; }
+        }
+    window-rule {
+        match app-id=r#"^com\.mojang\.minecraft\.java-edition$"#
+        open-fullscreen true
+        default-column-width { fixed 2471; }
+        }
+
+
+
+
+
+
 
     window-rule {
         geometry-corner-radius 2 // Set every window radius to 20
@@ -274,6 +298,7 @@ binds {
         QT_WAYLAND_DISABLE_WINDOWDECORATION "1"
         XDG_SESSION_TYPE "wayland"
         XDG_CURRENT_DESKTOP "niri"
+        XWAYLAND_NO_GLAMOR "1"
     }
 
     hotkey-overlay {

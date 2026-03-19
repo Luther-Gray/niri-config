@@ -1,0 +1,60 @@
+[2026-03-09 11:54:52]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-09 11:54:53]  Mod Manager ready. 1/26 games configured.
+[2026-03-09 11:54:53]  Linux mode active. Using CustomTkinter UI framework.
+[2026-03-09 11:54:53]  Nexus Mods API key loaded.
+[2026-03-09 11:54:53]  NXM protocol handler registered.
+[2026-03-09 11:54:53]  NXM IPC server listening on /run/user/1000/amethyst-mod-manager.sock
+[2026-03-09 11:54:53]  Nexus API GET /users/validate → 200
+[2026-03-09 11:54:53]    Response: {"user_id": 71483453, "key": "[REDACTED]", "name": "DubiousPhoenix", "is_premium?": false, "is_supporter?": false, "email": "[REDACTED]", "profile_url": "https://avatars.nexusmods.com/71483453/100", "is_supporter": false, "is_premium": false}
+[2026-03-09 11:54:54]  Filemap updated: 31582 file(s).
+[2026-03-09 11:54:56]  Run EXE: launching skse64_loader.exe via Proton - Experimental ...
+[2026-03-09 11:56:33]  Installing Acoustic Space Improvement Fixes (Plugin Version)-78992-1-3-3-1747812411.7z …
+[2026-03-09 11:56:33]  Installing: Acoustic Space Improvement Fixes (Plugin Version)-78992-1-3-3-1747812411.7z
+[2026-03-09 11:56:33]  Extracting with py7zr…
+[2026-03-09 11:56:34]  FOMOD installer detected — opening wizard...
+[2026-03-09 11:56:40]  FOMOD complete — 4 file(s) to install.
+[2026-03-09 11:56:40]  Mod contains recognised top-level file type(s) — skipping prefix check.
+[2026-03-09 11:56:40]  Copied 4 item(s) to staging area.
+[2026-03-09 11:56:40]  Installed 'Acoustic Space Improvement Fixes' → /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Acoustic Space Improvement Fixes
+[2026-03-09 11:56:40]  plugins.txt: added 4 plugin(s) from 'Acoustic Space Improvement Fixes'.
+[2026-03-09 11:56:40]  Added 'Acoustic Space Improvement Fixes' to modlist.
+[2026-03-09 11:56:40]  Downloads: found 1 archive(s) in /home/luther/Downloads
+[2026-03-09 11:56:41]  Nexus: Detected mod ID 78992 from filename.
+[2026-03-09 11:56:41]  Nexus API GET /games/skyrimspecialedition/mods/78992 → 200
+[2026-03-09 11:56:41]    Response: {"name": "Acoustic Space Improvement Fixes (Corrected Reverb - Ambience - Interiors - SkyPatcher)", "summary": "A compatible, vanilla-friendly lookover of every interior cell to stop small homes and shops from sounding like castles and chasms.", "description": "[url=https://ko-fi.com/dylanjamesxyz][center][img]https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true[/img][/center][/url]\n<br />\n<br />[b][size=4]REQUIREMENTS[/size][/b]\n<br />[size=1]\u3164[/size]\n<br />\u29c9\u3164[url=https://www.nexusmods.com/skyrimspecialedition/mods/17230]Engine Fixes[/url] (Fixes Audio Sliders)\n<br />[size=1]\u3164[/size]\n<br />[b][size=4]RECOMMENDATIONS[/size][/b]\n<br />[size=1]\u3164[/size]\n<br />\u29c9\u3164[url=https://www.nexusmods.com/skyrimspecialedition/mods/12466/]Audio Overhaul for Skyrim SE[/url]\n<br />\u29c9\u3164[b][url=https://www.nexusmods.com/skyrimspecialedition/mods/77829]Regional Sounds Expansion[/url][/b]\n<br />\u29c9\u3164[b][url=https://www.nexusmods.com/skyrimspecialedition/mods/77947]Reverb Interior Sounds Expansion[/url][/b]\n<br />[size=1]\u3164[/size]\n<br />[size=1]\u3164[/size]\n<br />[b][size=4]DESCRIPTION[/size][/b]\n<br />[siz...
+[2026-03-09 11:56:41]  Nexus API GET /games/skyrimspecialedition/mods/78992/files → 200
+[2026-03-09 11:56:41]    Response: {"file_updates": [{"old_file_id": 332750, "new_file_id": 332781, "old_file_name": "Acoustic Template Fixes (1.0.0)-78992-1-0-0-1668783661.zip", "new_file_name": "Acoustic Template Fixes (1.0.0)-78992-1-0-0-1668790969.zip", "uploaded_timestamp": 1668790969, "uploaded_time": "2022-11-18T17:02:49.000+00:00"}, {"old_file_id": 332781, "new_file_id": 332821, "old_file_name": "Acoustic Template Fixes (1.0.0)-78992-1-0-0-1668790969.zip", "new_file_name": "Acoustic Space Improvement Fixes (1.1.0)-78992-1-1-0-1668807805.zip", "uploaded_timestamp": 1668807805, "uploaded_time": "2022-11-18T21:43:25.000+00:00"}, {"old_file_id": 332821, "new_file_id": 332863, "old_file_name": "Acoustic Space Improvement Fixes (1.1.0)-78992-1-1-0-1668807805.zip", "new_file_name": "Acoustic Space Improvement Fixes (1.1.1)-78992-1-1-1-1668822048.zip", "uploaded_timestamp": 1668822048, "uploaded_time": "2022-11-19T01:40:48.000+00:00"}, {"old_file_id": 332863, "new_file_id": 333250, "old_file_name": "Acoustic Space Improvement Fixes (1.1.1)-78992-1-1-1-1668822048.zip", "new_file_name": "Acoustic Space Improvement Fixes (1.2.0)-78992-1-2-0-1668955946.zip", "uploaded_timestamp": 1668955946, "uploaded_time": "2022-11-20...
+[2026-03-09 11:56:41]  Nexus: Identified as 'Acoustic Space Improvement Fixes (Corrected Reverb - Ambience - Interiors - SkyPatcher)' (mod 78992, file 629459).
+[2026-03-09 11:56:41]  Nexus: Saved metadata for 'Acoustic Space Improvement Fixes' (mod 78992)
+[2026-03-09 11:56:41]  Wrote meta.ini: /home/luther/.config/AmethystModManager/Profiles/Skyrim Special Edition/mods/Acoustic Space Improvement Fixes/meta.ini
+[2026-03-09 11:56:41]  Filemap updated: 31586 file(s).
+[2026-03-09 11:56:43]  Restore: saving ShaderCache to overwrite/ ...
+[2026-03-09 11:56:43]    Saved ShaderCache → overwrite/ShaderCache/
+[2026-03-09 11:56:43]  Restore: removing plugins.txt symlink ...
+[2026-03-09 11:56:43]    Removed plugins.txt symlink from prefix.
+[2026-03-09 11:56:43]  Restore: restoring launcher ...
+[2026-03-09 11:56:43]    Restored SkyrimSELauncher.exe from .bak.
+[2026-03-09 11:56:43]  Restore: clearing Data/ and moving Data_Core/ back ...
+[2026-03-09 11:56:44]    Removed 31607 file(s) from Data/.
+[2026-03-09 11:56:44]    Restored 34 file(s). Data_Core/ removed.
+[2026-03-09 11:56:44]  Restore complete.
+[2026-03-09 11:56:44]  Backup: modlist.txt
+[2026-03-09 11:56:44]  Backup: plugins.txt
+[2026-03-09 11:56:44]  Backup: plugin_locks.json
+[2026-03-09 11:56:44]  Backup: removed oldest 20260308_230441
+[2026-03-09 11:56:44]  Step 1: Saving ShaderCache to overwrite/ ...
+[2026-03-09 11:56:44]  Step 2: Moving Data/ → Data_Core/ ...
+[2026-03-09 11:56:44]    Moved 34 file(s) to Data_Core/.
+[2026-03-09 11:56:44]  Step 3: Transferring mod files into Data/ (HARDLINK) ...
+[2026-03-09 11:56:47]    Transferred 31586 mod file(s).
+[2026-03-09 11:56:47]  Step 4: Filling gaps with vanilla files from Data_Core/ ...
+[2026-03-09 11:56:47]    Transferred 25 vanilla file(s).
+[2026-03-09 11:56:47]  Step 5: Deploying ShaderCache as full copy ...
+[2026-03-09 11:56:47]    Copied ShaderCache from overwrite/ → Data/ (full copy).
+[2026-03-09 11:56:47]  Step 6: Symlinking plugins.txt into Proton prefix ...
+[2026-03-09 11:56:47]    Linked plugins.txt → /home/luther/.local/share/Steam/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/Skyrim Special Edition/plugins.txt
+[2026-03-09 11:56:47]  Step 7: Swapping launcher for SKSE ...
+[2026-03-09 11:56:47]    Renamed SkyrimSELauncher.exe → SkyrimSELauncher.bak.
+[2026-03-09 11:56:47]    Copied skse64_loader.exe → SkyrimSELauncher.exe.
+[2026-03-09 11:56:47]  Deploy complete. 31586 mod + 25 vanilla = 31611 total file(s) in Data/.
+[2026-03-09 11:56:48]  Filemap updated: 31586 file(s).
