@@ -10,7 +10,7 @@ Initialize engine version: 2022.3.35f1 (011206c7a712)
 GfxDevice: creating device client; threaded=1; jobified=0
 Renderer: NVIDIA GeForce GTX 970/PCIe/SSE2
 Vendor:   NVIDIA Corporation
-Version:  4.5.0 NVIDIA 580.126.18
+Version:  4.5.0 NVIDIA 580.142
 GLES:     0
  GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
 t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
@@ -22,34 +22,35 @@ L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_
 _coherent GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_program_multiview GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_multisa
 mple_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_uniform_buffer_std430_layout GL_NV_vdpau
 _interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
-OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 601474360
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 899997032
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.164 seconds
-- Finished resetting the current domain, in  0.001 seconds
+- Loaded All Assemblies, in  0.166 seconds
+- Finished resetting the current domain, in  0.003 seconds
 Default vsync count 1
-requesting resize 1241 x 1416
-requesting fullscreen 1241 x 1416 at 0/1 Hz
-Setting up downscaled viewport at 1241 x 1416
+requesting resize 2560 x 1440
+Using native desktop resolution 2560 x 1440
+requesting fullscreen 2560 x 1440 at 0/1 Hz
 Desktop is 2560 x 1440 @ 144 Hz
 [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
-UnloadTime: 0.578869 ms
+UnloadTime: 0.835734 ms
 Command line arguments: -disable-compute-shaders
 [S_API] SteamAPI_Init(): Loaded '/home/luther/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 294100
 SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198027039543 [API loaded no]
 RimWorld 1.6.4633 rev1273
-requesting resize 2560 x 1440
-Using native desktop resolution 2560 x 1440
-requesting fullscreen 2560 x 1440 at 0/1 Hz
-Desktop is 2560 x 1440 @ 144 Hz
-Fallback handler could not load library /home/luther/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7feeeccba190.so
-Fallback handler could not load library /home/luther/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7feeecdebb60.so
+Fallback handler could not load library /home/luther/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f33bcca00c0.so
+Fallback handler could not load library /home/luther/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f33bcd1e5f0.so
 [Loading Progress] Loading Progress initialized! Enjoy the rest of your loading experience!
 [HugsLib] version 12.0.0
-Fallback handler could not load library /home/luther/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7feeee4d0730.so
+Fallback handler could not load library /home/luther/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f33be4c3d10.so
+GenStep_Settlement.ScatterAt transpiler start (1 match todo)
+GenStep_Settlement.ScatterAt match 1 of 1
+IncidentWorker_WandererJoin.TryExecuteWorker transpiler start (1 match todo)
+IncidentWorker_WandererJoin.TryExecuteWorker match 1 of 1
+ArmorUtility.ApplyArmor transpiler start (no matches todo)
 [VanillaAchievementsExpanded] version 1.4.9334
 [RimHUD v1.17.5] Initialized
-Fantasy Biotech v 1.6.2
+Fantasy Biotech v 1.6.3.3
 <color=#00FFFFFF>The almighty power of Harmony has been initialized by the humble mod creator BlueEagle421</color>
 Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
 Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
@@ -554,9 +555,13 @@ End:callvirt virtual System.String System.Object::ToString() [Label14]
 Start: call static System.String System.String::Concat(System.String str0, System.String str1) [Label15]
 End:ldloc.0 NULL
 [XML Extensions] Initialized 2 SettingsMenuDef(s) and found 0 unused key(s) from 0 mod(s)
-[XML Extensions] 2966 total patch operations run in 9504ms, 0 failed
+[XML Extensions] 2966 total patch operations run in 10902ms, 0 failed
 [XML Extensions] Emitted 2 mod class(es)
 KCSG has Created 5776 symbolDefs for vanilla and DLCs
+PawnApparelGenerator.PossibleApparelSet.manual_CoatButNoShirt transpiler start (1 match todo)
+PawnApparelGenerator.PossibleApparelSet.manual_CoatButNoShirt match 1 of 1
+GenStep_Settlement.ScatterAt transpiler start (1 match todo)
+GenStep_Settlement.ScatterAt match 1 of 1
 [UseThisInstead]: Found 0 replacements
 [Semi Random Research] Successfully patched research completion dialog
 checking Pawn.TickRare for other harmony patches
@@ -567,8 +572,9 @@ checking WorkGiver_DoBill.StartOrResumeBillJob for other harmony patches
 could not find original method through ReflectedType or TypeByName(WorkGiver_DoBill), continuing
 TKS_PriorityTreatment: harmony conflicts detected, please report mods if things are acting up
 TKS_PriorityTreatment: Patching finished
+ArmorUtility.ApplyArmor transpiler start (no matches todo)
 [NoMissingGeneIcons]: Fixed missing gene-graphics for 0 ChemicalDefs. 
-[TrueTerrainColors v1.12.24] Loaded cached true colors for 458 terrain defs from file.
+[TrueTerrainColors v1.12.25] Loaded cached true colors for 458 terrain defs from file.
 [RelevantStatsInDescription]: Skipping dps-calculation of Mortar as it has no default projectile defined
 [RelevantStatsInDescription]: Skipping dps-calculation of Foam turret as its projectile does not cause damage to health
 [RelevantStatsInDescription]: Skipping dps-calculation of Mechhive disruptor as it has no default projectile defined
@@ -591,11 +597,11 @@ Damage Indicators initialized.
 [Rimpsyche] VRE Android gate data added
 No Skill Loss mod loaded v.1.0.0.4.
 Initializing RPG_Style_Level_Up_Mod_patches...
-Fallback handler could not load library /home/luther/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x280df760.so
+Fallback handler could not load library /home/luther/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x39c62580.so
 [WorldTechLevel v1.1.6] Filters initialized.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 7)
-Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 42666.
-Total: 379.021939 ms (FindLiveObjects: 1.856169 ms CreateObjectMapping: 1.680644 ms MarkObjects: 374.902975 ms  DeleteObjects: 0.581445 ms)
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 42676.
+Total: 430.984070 ms (FindLiveObjects: 8.946394 ms CreateObjectMapping: 2.310810 ms MarkObjects: 418.960092 ms  DeleteObjects: 0.766229 ms)
 
 MVCF successfully applied 46 patches
 OnLevelWasLoaded was found on ModInitializerComponent
@@ -603,14 +609,260 @@ This message has been deprecated and will be removed in a later version of Unity
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
 [HugsLib] initializing StackXXL
 [StackXXL] Loaded
+Unloading 3 Unused Serialized files (Serialized files now loaded: 7)
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+UnloadTime: 2.564878 ms
+QualityBuilder added property to '243' things
+requesting resize 2560 x 1440
+Using native desktop resolution 2560 x 1440
+requesting fullscreen 2560 x 1440 at 0/1 Hz
+Desktop is 2560 x 1440 @ 144 Hz
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 42920.
+Total: 370.615552 ms (FindLiveObjects: 1.836196 ms CreateObjectMapping: 2.533079 ms MarkObjects: 366.137300 ms  DeleteObjects: 0.108516 ms)
+
+Loading game from file Harsh World 0 with mods:
+  - brrainz.harmony
+  - ilyvion.LoadingProgress
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Odyssey
+  - UnlimitedHugs.HugsLib
+  - Mlie.YayosCombat3
+  - PeteTimesSix.SimpleSidearms
+  - Syrus.YayosCombatAddon
+  - Mlie.YayosCaravan
+  - com.yayo.yayoAni.continued
+  - imranfish.xmlextensions
+  - m00nl1ght.WorldTechLevel
+  - kikohi.whatsforsale
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VPsycastsE
+  - VPE.Anima.Sentinel
+  - Ogliss.TheWhiteCrayon.Quarry
+  - sirvan.quarryretexture
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEQ
+  - VanillaExpanded.VWEMS
+  - VanillaExpanded.VWEL
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VanillaTradingExpanded
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VTEXVariations
+  - VanillaExpanded.Temperature
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - Jaxe.RimHUD
+  - vanillaexpanded.skills
+  - VanillaExpanded.Recycling
+  - vanillaracesexpanded.waster
+  - vanillaracesexpanded.saurid
+  - vanillaracesexpanded.sanguophage
+  - vr.fantasy.biotech
+  - vanillaracesexpanded.phytokin
+  - vanillaracesexpanded.lycanthrope
+  - vanillaracesexpanded.hussar
+  - vanillaracesexpanded.highmate
+  - vanillaracesexpanded.genie
+  - vanillaracesexpanded.customicons
+  - vanillaracesexpanded.android
+  - VanillaExpanded.VPE.Hemosage
+  - VanillaExpanded.VPersonaWeaponsE
+  - vanillaexpanded.outposts
+  - VanillaExpanded.VExplorationE
+  - VanillaExpanded.Ideo.IconsandSymbols
+  - Neronix17.Retexture.VanillaHair
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VChemfuelE
+  - VanillaExpanded.VGeneticsE
+  - VanillaExpanded.VFESpacer
+  - OskarPotocki.VFE.Empire
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VCookE
+  - OskarPotocki.VanillaFactionsExpanded.SettlersModule
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VBrewECandT
+  - Neronix17.Retexture.VanillaBeards
+  - VanillaExpanded.BaseGeneration
+  - VanillaExpanded.VanillaBackstoriesExpanded
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VanillaAnimalsExpanded
+  - Ushanka.HackingExpansion
+  - Ushanka.GlittertechExpansion
+  - Andromeda.UsefulMarks
+  - Mlie.UseThisInstead
+  - marvinkosh.ughyougotme
+  - hobtook.tradeui
+  - GT.Sam.TilledSoil
+  - MrHydralisk.TechLevelProgression
+  - GHXX.TechAdvancing
+  - zal.sibtl
+  - Indeed.StackXXL
+  - marvinkosh.sometimesraidsgowrong
+  - weilbyte.snapout
+  - dhultgren.smarterconstruction
+  - Memegoddess.SmartMedicine
+  - Stokes.simplehoodcape
+  - SunshineyDays.SimpleBlinkingAnimation
+  - arodoid.semirandomprogression
+  - Rustys.Foliage.Hairs
+  - MemeGoddess.RunAndGun
+  - Mlie.RunAndHide
+  - tk421storm.PriorityTreatmentRessurected
+  - co.uk.epicguru.rimforgepoles
+  - gy.ppextend
+  - Arkymn.SlowerPawnTickRate
+  - turnovus.submod.backpacksarenotbelts
+  - oracle.skills.retexture
+  - arquebus.psyblasters
+  - com.bymarcin.ArchitectIcons
+  - proxyer.optionalicons4ai
+  - Nikuhaku.Objection
+  - NewsofPE.NoStartingResearch
+  - Mlie.NoMissingGeneIcons
+  - Dingo.NoForcedSlowdown
+  - Unon.NoBurnMetal
+  - Andromeda.NiceInventoryTab
+  - Andromeda.NiceHealthTab
+  - Andromeda.NiceBillTab
+  - AmCh.NeedBarOverflow
+  - Myf.VPE.Tweaks
+  - wara.motivatedcrafting
+  - hobtook.mortaraccuracy
+  - Arquebus.MorePersonaTraits
+  - pyrce.mass.graves.continued
+  - m00nl1ght.MapPreview
+  - Bart.MagmaRefinery
+  - espio.losefaith
+  - juanlopez2008.LightsOut
+  - Mlie.LessStupidRomanceAttempt
+  - MrHydralisk.LayeredAtmosphereOrbit
+  - Mlie.RelevantStatsInDescription
+  - ReBuild.COTR.DoorsAndCorners
+  - Lucifer.RealisticRooms
+  - hatti.qualitybuilder
+  - sdknm2.QualityOfBuilding
+  - mute.vpesensitivity
+  - Mlie.LiveWithThePain
+  - VaguelySexual.ModPackageId.GoesHere
+  - Jaxe.Bubbles
+  - Mlie.IncidentPersonStat
+  - HaiLuan.IWBB
+  - Telefonmast.GraphicsSettings
+  - automatic.gradienthair
+  - zeracronius.dynamictradeinterface
+  - Dubwise.DubsMintMenus
+  - telardo.DragSelect
+  - davai.sortedcategories
+  - CaesarV6.DamageIndicators
+  - Mlie.CompactWorkTab
+  - PeteTimesSix.CompactHediffs
+  - avilmask.CommonSense
+  - Mlie.CombatReadinessCheck
+  - blues.breaker
+  - KirrenCooper.circuitbreakerretexture
+  - vat.epoeforked
+  - SlimeSenpai.EndlessGrowth
+  - Maux36.Rimpsyche
+  - fluffy.researchtree
+  - Memegoddess.ReplaceStuff
+  - MRGames.NoSkillDecay
+  - Sandy.RPGStyleInventory.avilmask.Revamped
+  - aRandomKiwi.RimSaves
+  - Defi.GeneRipper
+  - FLASHPOINT55.RPGStyleLevelUpMod
+  - seekiworksmod.no18
+  - ratys.rtsolarflareshield
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - savestoragesettings.kv.rw.fishtmp
+  - Nals.DynamicPortraits
+  - Shirohane.Gene.Expand
+  - brrainz.achtung
+  - sarg.alphacrafts
+  - sarg.alphaskills
+  - Seanbeag.AnimaTree
+  - Defi.Blueprints.fork
+  - ferny.BetterArchitect
+  - RedMattis.BiggerGravship
+  - automatic.bionicicons
+  - Hol.BSC
+  - CatLover366.BootsAndGloves
+  - DarthSergeant.CentipedeRaidValue
+  - heatherathebyne.childrenlearnoncaravan
+  - EdB.PrepareCarefully
+  - theeyeofbrows.fluffybreakdowns
+  - Mlie.FoodPoisoningStackFix
+[WorldTechLevel v1.1.6] Current world tech level is Unrestricted.
+[WorldTechLevel v1.1.6] Player faction tech level from scenario is Industrial.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Duplicate WorldComponent_GlittershipChunk detected. Ignoring.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Rimpsyche] Last known version: 1.0.37 | current version: 1.0.37
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+QualityBuilder added to orders category.
+[WorldTechLevel v1.1.6] ThingDef database was modified, re-initializing tech levels.
+[Yayo's Animation] GC : animation data count [0 -> 0]
+[Tech Advancing] [Information] Detected existing world. Loading existing config...
+[Tech Advancing] [Information] Loading config...
+Unloading 1 Unused Serialized files (Serialized files now loaded: 7)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 49745.
+Total: 661.277646 ms (FindLiveObjects: 3.838444 ms CreateObjectMapping: 4.465669 ms MarkObjects: 652.843543 ms  DeleteObjects: 0.129556 ms)
+
+Failed to find any texture while constructing . Filenames have changed; if you are converting an old mod, recommend renaming textures from *_back to *_north, *_side to *_east, and *_front to *_south.
+Wrote screenshot /home/luther/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/RimSaves/Previews/Harsh World 0.dat of size 185391
+ArchitectIcons :: Ferny_Colony=>Manage
+ArchitectIcons :: Structure=>Build
+ArchitectIcons :: Production=>Make
+ArchitectIcons :: Ferny_Storage=>Store
+ArchitectIcons :: Furniture=>Furnish
+ArchitectIcons :: Ferny_Animals=>Animals
+ArchitectIcons :: Power=>Power
+ArchitectIcons :: VCHE_PipeNetworks=>Resources
+ArchitectIcons :: Security=>Fight
+ArchitectIcons :: Floors=>Floors
+ArchitectIcons :: Ferny_World=>World
+ArchitectIcons :: Temperature=>Environment
+ArchitectIcons :: Ferny_Transport=>Transport
+ArchitectIcons :: Ferny_Biotech=>Biotech
+ArchitectIcons :: Ferny_Automation=>Automate
+ArchitectIcons :: Ferny_Life=>People
+ArchitectIcons :: Ferny_Hosting=>Entertain
+ArchitectIcons :: Ferny_Space=>Space
+ArchitectIcons :: Ferny_Decorations=>Decorate
+ArchitectIcons :: Misc=>More
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref D391EE6F]
+  at VanillaExplorationExpanded.IncidentWorker_FrequentAurora.CanFireNowSub (RimWorld.IncidentParms parms) [0x00014] in <200113aa063e49a8bb8947701c6cea65>:0 
+  at RimWorld.IncidentWorker.CanFireNow (RimWorld.IncidentParms parms) [0x003f3] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at RimWorld.StorytellerComp+<>c__DisplayClass7_0.<UsableIncidentsInCategory>g__CanUseIncident|0 (RimWorld.IncidentDef incident) [0x00072] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at System.Linq.Utilities+<>c__DisplayClass1_0`1[TSource].<CombinePredicates>b__0 (TSource x) [0x00000] in <94826c4e3a844599a6c0fa362c656532>:0 
+  at System.Linq.Enumerable+WhereListIterator`1[TSource].MoveNext () [0x00037] in <94826c4e3a844599a6c0fa362c656532>:0 
+  at Verse.GenCollection.TryRandomElementByWeight[T] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] weightSelector, T& result) [0x00228] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.GenCollection.RandomElementByWeightWithFallback[T] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] weightSelector, T fallback) [0x00000] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at RimWorld.StorytellerComp.TrySelectRandomIncident (System.Collections.Generic.IEnumerable`1[T] incidents, RimWorld.IncidentDef& foundDef, RimWorld.IIncidentTarget target) [0x0008e] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at RimWorld.StorytellerComp_CategoryMTB+<MakeIntervalIncidents>d__2.MoveNext () [0x0008f] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at RimWorld.Storyteller+<MakeIncidentsForInterval>d__49.MoveNext () [0x001aa] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at RimWorld.Storyteller+<MakeIncidentsForInterval>d__48.MoveNext () [0x000a1] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at RimWorld.Storyteller.StorytellerTick () [0x00043] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.TickManager.DoSingleTick () [0x001a5] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Void VEF.Maps.VanillaExpandedFramework_DoSingleTick_Patch:Prefix(Stopwatch& __state)
+    - PREFIX LightsOut: Void LightsOut.Patches.Power.PerformPendingShutoff:Prefix()
+    - PREFIX net.pardeike.rimworld.mods.achtung: Void AchtungMod.TickManager_DoSingleTick_Patch:Prefix()
+    - POSTFIX OskarPotocki.VEF: Void VEF.Maps.VanillaExpandedFramework_DoSingleTick_Patch:Postfix(Stopwatch __state)
+    - POSTFIX vanillaexpanded.achievements: Void AchievementsExpanded.AchievementHarmony:SingleLongTickTracker()
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 7077 frames, [1.0 KB-2.0 KB]: 26 frames, [2.0 KB-4.0 KB]: 85 frames, [4.0 KB-8.0 KB]: 492 frames, [8.0 KB-16.0 KB]: 272 frames, [16.0 KB-32.0 KB]: 4 frames, [32.0 KB-64.0 KB]: 3 frames, [64.0 KB-128.0 KB]: 5 frames, [128.0 KB-256.0 KB]: 5 frames, [256.0 KB-0.5 MB]: 13 frames, [0.5 MB-1.0 MB]: 5 frames, [1.0 MB-2.0 MB]: 12 frames, [2.0 MB-4.0 MB]: 9 frames, [4.0 MB-8.0 MB]: 16 frames
+      Peak usage frame count: [0-1.0 KB]: 1717 frames, [1.0 KB-2.0 KB]: 20 frames, [2.0 KB-4.0 KB]: 9315 frames, [4.0 KB-8.0 KB]: 353 frames, [8.0 KB-16.0 KB]: 376 frames, [16.0 KB-32.0 KB]: 6 frames, [32.0 KB-64.0 KB]: 2 frames, [64.0 KB-128.0 KB]: 7 frames, [128.0 KB-256.0 KB]: 6 frames, [256.0 KB-0.5 MB]: 13 frames, [0.5 MB-1.0 MB]: 6 frames, [1.0 MB-2.0 MB]: 11 frames, [2.0 MB-4.0 MB]: 10 frames, [4.0 MB-8.0 MB]: 17 frames
       Initial Block Size 4.0 MB
-      Current Block Size 5.3 MB
-      Peak Allocated Bytes 5.3 MB
+      Current Block Size 5.8 MB
+      Peak Allocated Bytes 5.8 MB
       Overflow Count 28
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
@@ -620,8 +872,8 @@ Memory Statistics:
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 3.7 KB
-      Overflow Count 4
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 8
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -711,7 +963,7 @@ Memory Statistics:
       Initial Block Size 256.0 KB
       Current Block Size 484.0 KB
       Peak Allocated Bytes 480.0 KB
-      Overflow Count 1590
+      Overflow Count 1598
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 7
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
@@ -730,12 +982,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 0.6 KB
+      Peak Allocated Bytes 0.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 328 B
+      Peak Allocated Bytes 0.6 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
@@ -763,31 +1015,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 13647
+  Peak main deferred allocation count 13607
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 113580
-        32B: 30 Subsections = 15360 buckets. Failed count: 64640
-        48B: 34 Subsections = 11605 buckets. Failed count: 110626
-        64B: 89 Subsections = 22784 buckets. Failed count: 109019
-        80B: 82 Subsections = 16793 buckets. Failed count: 70482
-        96B: 6 Subsections = 1024 buckets. Failed count: 33491
-        112B: 7 Subsections = 1024 buckets. Failed count: 13038
-        128B: 4 Subsections = 512 buckets. Failed count: 7898
+        16B: 4 Subsections = 4096 buckets. Failed count: 194182
+        32B: 30 Subsections = 15360 buckets. Failed count: 82402
+        48B: 34 Subsections = 11605 buckets. Failed count: 160395
+        64B: 89 Subsections = 22784 buckets. Failed count: 126981
+        80B: 82 Subsections = 16793 buckets. Failed count: 97738
+        96B: 6 Subsections = 1024 buckets. Failed count: 37075
+        112B: 7 Subsections = 1024 buckets. Failed count: 15233
+        128B: 4 Subsections = 512 buckets. Failed count: 9232
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 4075 frames, [64.0 MB-128.0 MB]: 17 frames, [128.0 MB-256.0 MB]: 137 frames, [256.0 MB-0.50 GB]: 3795 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 279 frames, [64.0 MB-128.0 MB]: 17 frames, [128.0 MB-256.0 MB]: 111 frames, [256.0 MB-0.50 GB]: 11452 frames
       Requested Block Size 16.0 MB
-      Peak Block count 19
-      Peak Allocated memory 343.0 MB
+      Peak Block count 21
+      Peak Allocated memory 342.9 MB
       Peak Large allocation bytes 72.0 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 4075 frames, [8.0 MB-16.0 MB]: 28 frames, [16.0 MB-32.0 MB]: 3920 frames, [64.0 MB-128.0 MB]: 1 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 279 frames, [8.0 MB-16.0 MB]: 28 frames, [16.0 MB-32.0 MB]: 1004 frames, [32.0 MB-64.0 MB]: 32 frames, [64.0 MB-128.0 MB]: 10516 frames
       Requested Block Size 16.0 MB
-      Peak Block count 2
-      Peak Allocated memory 88.1 MB
+      Peak Block count 7
+      Peak Allocated memory 126.4 MB
       Peak Large allocation bytes 64.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -810,31 +1062,31 @@ Memory Statistics:
   Overflow Count (too large) 13
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 2464
+  Peak main deferred allocation count 1238
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 113580
-        32B: 30 Subsections = 15360 buckets. Failed count: 64640
-        48B: 34 Subsections = 11605 buckets. Failed count: 110626
-        64B: 89 Subsections = 22784 buckets. Failed count: 109019
-        80B: 82 Subsections = 16793 buckets. Failed count: 70482
-        96B: 6 Subsections = 1024 buckets. Failed count: 33491
-        112B: 7 Subsections = 1024 buckets. Failed count: 13038
-        128B: 4 Subsections = 512 buckets. Failed count: 7898
+        16B: 4 Subsections = 4096 buckets. Failed count: 194182
+        32B: 30 Subsections = 15360 buckets. Failed count: 82402
+        48B: 34 Subsections = 11605 buckets. Failed count: 160395
+        64B: 89 Subsections = 22784 buckets. Failed count: 126981
+        80B: 82 Subsections = 16793 buckets. Failed count: 97738
+        96B: 6 Subsections = 1024 buckets. Failed count: 37075
+        112B: 7 Subsections = 1024 buckets. Failed count: 15233
+        128B: 4 Subsections = 512 buckets. Failed count: 9232
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 4176 frames, [4.0 MB-8.0 MB]: 3792 frames, [8.0 MB-16.0 MB]: 13 frames, [16.0 MB-32.0 MB]: 14 frames, [32.0 MB-64.0 MB]: 9 frames, [64.0 MB-128.0 MB]: 4 frames, [128.0 MB-256.0 MB]: 14 frames, [0.50 GB-1.00 GB]: 1 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 357 frames, [4.0 MB-8.0 MB]: 380 frames, [8.0 MB-16.0 MB]: 1173 frames, [16.0 MB-32.0 MB]: 13 frames, [32.0 MB-64.0 MB]: 9 frames, [64.0 MB-128.0 MB]: 9911 frames, [128.0 MB-256.0 MB]: 14 frames, [0.50 GB-1.00 GB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 15
+      Peak Block count 17
       Peak Allocated memory 0.75 GB
       Peak Large allocation bytes 0.75 GB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 4292 frames, [2.0 KB-4.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 3731 frames
+      Peak usage frame count: [0-1.0 KB]: 489 frames, [1.0 KB-2.0 KB]: 107 frames, [2.0 KB-4.0 KB]: 240 frames, [4.0 KB-8.0 KB]: 5 frames, [8.0 KB-16.0 KB]: 1115 frames, [64.0 KB-128.0 KB]: 654 frames, [128.0 KB-256.0 KB]: 9249 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 9.5 KB
+      Peak Allocated memory 177.9 KB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
   Peak main deferred allocation count 110
@@ -843,22 +1095,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 113580
-        32B: 30 Subsections = 15360 buckets. Failed count: 64640
-        48B: 34 Subsections = 11605 buckets. Failed count: 110626
-        64B: 89 Subsections = 22784 buckets. Failed count: 109019
-        80B: 82 Subsections = 16793 buckets. Failed count: 70482
-        96B: 6 Subsections = 1024 buckets. Failed count: 33491
-        112B: 7 Subsections = 1024 buckets. Failed count: 13038
-        128B: 4 Subsections = 512 buckets. Failed count: 7898
+        16B: 4 Subsections = 4096 buckets. Failed count: 194182
+        32B: 30 Subsections = 15360 buckets. Failed count: 82402
+        48B: 34 Subsections = 11605 buckets. Failed count: 160395
+        64B: 89 Subsections = 22784 buckets. Failed count: 126981
+        80B: 82 Subsections = 16793 buckets. Failed count: 97738
+        96B: 6 Subsections = 1024 buckets. Failed count: 37075
+        112B: 7 Subsections = 1024 buckets. Failed count: 15233
+        128B: 4 Subsections = 512 buckets. Failed count: 9232
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 4122 frames, [32.0 MB-64.0 MB]: 3901 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 326 frames, [32.0 MB-64.0 MB]: 11532 frames
       Requested Block Size 4.0 MB
-      Peak Block count 10
-      Peak Allocated memory 38.7 MB
+      Peak Block count 11
+      Peak Allocated memory 39.1 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 4137 frames, [32.0 KB-64.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 3812 frames, [128.0 KB-256.0 KB]: 13 frames, [256.0 KB-0.5 MB]: 60 frames, [0.5 MB-1.0 MB]: 1 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 342 frames, [32.0 KB-64.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 649 frames, [128.0 KB-256.0 KB]: 10826 frames, [256.0 KB-0.5 MB]: 40 frames, [0.5 MB-1.0 MB]: 1 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
       Peak Allocated memory 0.5 MB
@@ -870,33 +1122,23 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 113580
-        32B: 30 Subsections = 15360 buckets. Failed count: 64640
-        48B: 34 Subsections = 11605 buckets. Failed count: 110626
-        64B: 89 Subsections = 22784 buckets. Failed count: 109019
-        80B: 82 Subsections = 16793 buckets. Failed count: 70482
-        96B: 6 Subsections = 1024 buckets. Failed count: 33491
-        112B: 7 Subsections = 1024 buckets. Failed count: 13038
-        128B: 4 Subsections = 512 buckets. Failed count: 7898
+        16B: 4 Subsections = 4096 buckets. Failed count: 194182
+        32B: 30 Subsections = 15360 buckets. Failed count: 82402
+        48B: 34 Subsections = 11605 buckets. Failed count: 160395
+        64B: 89 Subsections = 22784 buckets. Failed count: 126981
+        80B: 82 Subsections = 16793 buckets. Failed count: 97738
+        96B: 6 Subsections = 1024 buckets. Failed count: 37075
+        112B: 7 Subsections = 1024 buckets. Failed count: 15233
+        128B: 4 Subsections = 512 buckets. Failed count: 9232
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 4071 frames, [16.0 KB-32.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 64 frames, [256.0 KB-0.5 MB]: 3887 frames
+      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 275 frames, [32.0 KB-64.0 KB]: 66 frames, [256.0 KB-0.5 MB]: 11517 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 314.2 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 8024 frames
+      Peak usage frame count: [0-1.0 KB]: 11859 frames
       Requested Block Size 2.0 MB
       Peak Block count 0
       Peak Allocated memory 0 B
       Peak Large allocation bytes 0 B
-src/steamnetworkingsockets/clientlib/steamnetworkingsockets_lowlevel.cpp (4126) : Trying to close low level socket support, but we still have sockets open!
-03/11 09:07:33 minidumps folder is set to /tmp/dumps
-03/11 09:07:33 Init: Installing breakpad exception handler for appid(rimworldlinux)/version(1.0)/tid(26240)
-assert_20260311090733_3.dmp[28175]: Uploading dump (out-of-process)
-/tmp/dumps/assert_20260311090733_3.dmp
-src/steamnetworkingsockets/clientlib/steamnetworkingsockets_lowlevel.cpp (4126) : Trying to close low level socket support, but we still have sockets open!
-assert_20260311090733_3.dmp[28175]: Finished uploading minidump (out-of-process): success = yes
-assert_20260311090733_3.dmp[28175]: response: Discarded=1
-assert_20260311090733_3.dmp[28175]: file ''/tmp/dumps/assert_20260311090733_3.dmp'', upload yes: ''Discarded=1''
-pid 28175 != 28174, skipping destruction (fork without exec?)

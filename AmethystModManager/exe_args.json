@@ -1,3 +1,6 @@
 {
-  "Pandora Behaviour Engine+.exe": "--tesv:\"Z:\\home\\luther\\.local\\share\\Steam\\steamapps\\common\\Skyrim Special Edition\" --output:\"Z:\\home\\luther\\.config\\AmethystModManager\\Profiles\\Skyrim Special Edition\\overwrite\""
+  "Pandora Behaviour Engine+.exe": "--tesv:\"Z:\\home\\luther\\.local\\share\\Steam\\steamapps\\common\\Skyrim Special Edition\" --output:\"Z:\\home\\luther\\.config\\AmethystModManager\\Profiles\\Skyrim Special Edition\\overwrite\"",
+  "TexGenx64.exe": "-d:\"Z:\\home\\luther\\.local\\share\\Steam\\steamapps\\common\\Skyrim Special Edition\\Data\" -o:\"Z:\\home\\luther\\.config\\AmethystModManager\\Profiles\\Skyrim Special Edition\\overwrite\"",
+  "DynDOLODx64.exe": "-d:\"Z:\\home\\luther\\.local\\share\\Steam\\steamapps\\common\\Skyrim Special Edition\\Data\" -o:\"Z:\\home\\luther\\.config\\AmethystModManager\\Profiles\\Skyrim Special Edition\\overwrite\"",
+  "SSEEditQuickAutoClean.exe": "-d:\"Z:\\home\\luther\\.local\\share\\Steam\\steamapps\\common\\Skyrim Special Edition\\Data\" -o:\"Z:\\home\\luther\\.config\\AmethystModManager\\Profiles\\Skyrim Special Edition\\overwrite\""
 }

@@ -21,8 +21,6 @@
   },
   "article_view": {
     "font_style": "SansSerif",
-    "font_serif": null,
-    "font_sans_serif": null,
     "font_size": 11,
     "content_width": 850,
     "line_height": 1.8
@@ -79,6 +77,7 @@
     "ping_url": [
       "http://example.com/",
       "https://google.com/"
-    ]
+    ],
+    "timeout_seconds": null
   }
 }

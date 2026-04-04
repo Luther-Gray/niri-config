@@ -1,4 +1,5 @@
-2026/03/16-09:41:29.895 aab Reusing MANIFEST /home/luther/.config/FreeTube/Session Storage/MANIFEST-000001
-2026/03/16-09:41:29.895 aab Recovering log #3
-2026/03/16-09:41:29.896 aab (ignoring error) /home/luther/.config/FreeTube/Session Storage/000003.log: dropping 30932 bytes; Corruption: checksum mismatch
-2026/03/16-09:41:29.896 aab Reusing old log /home/luther/.config/FreeTube/Session Storage/000003.log 
+2026/04/04-13:51:13.444 3827 Reusing MANIFEST /home/luther/.config/FreeTube/Session Storage/MANIFEST-000001
+2026/04/04-13:51:13.444 3827 Recovering log #3
+2026/04/04-13:51:13.445 3827 (ignoring error) /home/luther/.config/FreeTube/Session Storage/000003.log: dropping 31922 bytes; Corruption: checksum mismatch
+2026/04/04-13:51:13.445 3827 (ignoring error) /home/luther/.config/FreeTube/Session Storage/000003.log: dropping 15 bytes; Corruption: missing start of fragmented record(2)
+2026/04/04-13:51:13.446 3827 Reusing old log /home/luther/.config/FreeTube/Session Storage/000003.log 

@@ -1,13 +1,18 @@
 {
   "etags": {
-    "https://www.pewresearch.org/publications/feed/": "W/\"82049bb147e2ef4140dc726cf859b2f1\"",
-    "https://www.bellingcat.com/feed/": "W/\"bd082a19524019430704de1a5c394d20\"",
-    "https://www.eff.org/rss/updates.xml": "\"1773779003-1\"",
-    "https://hackaday.com/blog/feed/": "W/\"f4a1bf7f6da3bf3121e552302daf3411\"",
-    "https://www.propublica.org/feeds/propublica/main": "W/\"3589e0a12e17f4875cad10cc283f1afc\"",
-    "https://thehill.com/homenews/feed/": "W/\"abbe004a69c78316d862d9623056716e\"",
+    "https://hackaday.com/blog/feed/": "W/\"33680841409748fb95302e6f93e9796a\"",
+    "https://thehill.com/homenews/feed/": "W/\"8ffc1dc858ab32cb183daadc122cfa54\"",
+    "https://www.propublica.org/feeds/propublica/main": "W/\"613244bb41f2e04317927e204ebf9c91\"",
+    "https://www.pewresearch.org/publications/feed/": "W/\"e00907315edb0039f7313e33f56baf73\"",
+    "https://www.nature.com/nature.rss?error=cookies_not_supported&code=13b05683-2ed0-4aef-9fec-cd8d99e435c3": "\"22493c4d278919e4fdeb9a899ef3e47e\"",
     "https://ascii.textfiles.com/feed": "\"a9446b108253d542b01b33d403cdc2bc\"",
-    "https://www.yankodesign.com/feed/": "\"3e388f57e71368c0e077a196f2c7d70b\""
+    "https://wolfstreet.com/feed/": "\"16c48985372cc9d26ae1dae9a9855deb\"",
+    "https://www.yankodesign.com/feed/": "\"595494bacfd55b668ed3e0a2fa36c94e\"",
+    "https://warontherocks.com/feed/": "W/\"e597b1483539cab0d038a2b1b517a3b9\"",
+    "https://www.bellingcat.com/feed/": "W/\"08c993f08f7ee38d9755840c36374302\"",
+    "https://www.scotusblog.com/feed/": "W/\"c64e8ef8828abbd462391160af8a289f\"",
+    "https://www.eff.org/rss/updates.xml": "\"1774987218-1\"",
+    "https://www.statnews.com/feed/": "W/\"21c04e73263fdca4bb1380c46d5fef00\""
   },
   "cache_control": {}
 }
